@@ -1,0 +1,364 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.04.14",
+  "release_date": "2023-04-14T19:27:55.549111834Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2023.04.14",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "64a7ccb",
+              "Subject": "Update api for postgres manifest backup (#4)"
+            },
+            {
+              "SHA": "b1e0b5e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d1b2bd0",
+              "Subject": "Fix fuzz testing (#3)"
+            },
+            {
+              "SHA": "3a35447",
+              "Subject": "Add restic pkg (#2)"
+            },
+            {
+              "SHA": "390d645",
+              "Subject": "Add crd labels"
+            },
+            {
+              "SHA": "466cb7d",
+              "Subject": "Fix code structure (#1)"
+            },
+            {
+              "SHA": "4ea467e",
+              "Subject": "Support restoring particular manifest components. (#67)"
+            },
+            {
+              "SHA": "916b38f",
+              "Subject": "Fix storage cleanup (#78)"
+            },
+            {
+              "SHA": "8223391",
+              "Subject": "Make resticStats and volumeSnapshotterStats fields pointer (#74)"
+            },
+            {
+              "SHA": "795a95a",
+              "Subject": "Move Snapshot components from Status to Spec (#73)"
+            },
+            {
+              "SHA": "cd983b2",
+              "Subject": "Refactor Codebase + Fix Bugs  (#68)"
+            },
+            {
+              "SHA": "a8bfc22",
+              "Subject": "Use ghcr.io/appscode/gengo (#69)"
+            },
+            {
+              "SHA": "7022330",
+              "Subject": "Fix formatting"
+            },
+            {
+              "SHA": "a184e62",
+              "Subject": "Fix Restore job creation bugs. (#60)"
+            },
+            {
+              "SHA": "290cdaa",
+              "Subject": "Use ghcr.io (#64)"
+            },
+            {
+              "SHA": "e5a2904",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#62)"
+            },
+            {
+              "SHA": "2bd40c9",
+              "Subject": "Update go module to kubestash.dev/kubestash (#59)"
+            },
+            {
+              "SHA": "7f2cc37",
+              "Subject": "Implement Cleanup for Snapshot components (#58)"
+            },
+            {
+              "SHA": "bd4d450",
+              "Subject": "Add Restic package. (#54)"
+            },
+            {
+              "SHA": "26c2bec",
+              "Subject": "Implement object existence checker (#55)"
+            },
+            {
+              "SHA": "fdde479",
+              "Subject": "Add encryptionSecret ref to RestoreSession. (#52)"
+            },
+            {
+              "SHA": "b64bd7f",
+              "Subject": "Remove crd-installer (#57)"
+            },
+            {
+              "SHA": "3bead7e",
+              "Subject": "Fix Makefile"
+            },
+            {
+              "SHA": "597d76b",
+              "Subject": "Move charts to installer repo (#56)"
+            },
+            {
+              "SHA": "4fb3bd0",
+              "Subject": "Add Validation Webhook for BackupConfiguration (#51)"
+            },
+            {
+              "SHA": "64c9ee2",
+              "Subject": "Update Backup Executor (#50)"
+            },
+            {
+              "SHA": "411e641",
+              "Subject": "Implement Snapshot pkg + Fix bugs (#49)"
+            },
+            {
+              "SHA": "f28194f",
+              "Subject": "Add unit tests for Retention Policy (#47)"
+            },
+            {
+              "SHA": "5d583e0",
+              "Subject": "Implement addon-task resolver. (#44)"
+            },
+            {
+              "SHA": "5fba517",
+              "Subject": "Add WalG driver specific information to Snapshot API (#45)"
+            },
+            {
+              "SHA": "8d0723b",
+              "Subject": "Implement Retention Policy (#46)"
+            },
+            {
+              "SHA": "1c44e6c",
+              "Subject": "Use constants to improve code readability (#42)"
+            },
+            {
+              "SHA": "85b2051",
+              "Subject": "Implement Backend Repository (#40)"
+            },
+            {
+              "SHA": "b696376",
+              "Subject": "Implement `trigger-backup` command. (#37)"
+            },
+            {
+              "SHA": "35b3c49",
+              "Subject": "Use `CreateOrPatch` instead of `CreateOrUpdate`. (#38)"
+            },
+            {
+              "SHA": "c9806ec",
+              "Subject": "Run GH actions on ubuntu-20.04 (#41)"
+            },
+            {
+              "SHA": "9cc0e44",
+              "Subject": "Implement Backend package (#36)"
+            },
+            {
+              "SHA": "34f61cc",
+              "Subject": "Implement Scheduler package. (#35)"
+            },
+            {
+              "SHA": "8b2aef0",
+              "Subject": "Add BackupSession controller. (#25)"
+            },
+            {
+              "SHA": "da5ee12",
+              "Subject": "Fix order of expected and actual value in unit tests (#34)"
+            },
+            {
+              "SHA": "cf1233a",
+              "Subject": "Add RestoreSession controller (#26)"
+            },
+            {
+              "SHA": "58268ef",
+              "Subject": "Update Snapshot conditions (#30)"
+            },
+            {
+              "SHA": "8716c64",
+              "Subject": "Use common method for getting object key (#29)"
+            },
+            {
+              "SHA": "5bc5045",
+              "Subject": "Use k8s 1.25 client libs (#28)"
+            },
+            {
+              "SHA": "13d6d2c",
+              "Subject": "Move RetentionPolicy under Backends in BackupConfiguration api. (#24)"
+            },
+            {
+              "SHA": "e876acf",
+              "Subject": "Add snapshot controller (#23)"
+            },
+            {
+              "SHA": "df275b9",
+              "Subject": "Add BackupConfiguration controller. (#19)"
+            },
+            {
+              "SHA": "2453e35",
+              "Subject": "Add Repository controller (#21)"
+            },
+            {
+              "SHA": "ad2a78d",
+              "Subject": "Add BackupStorage controller (#18)"
+            },
+            {
+              "SHA": "8b77b88",
+              "Subject": "Add subjects field in BackupBlueprint (#16)"
+            },
+            {
+              "SHA": "f3e0190",
+              "Subject": "Update to k8s 1.24 toolchain (#15)"
+            },
+            {
+              "SHA": "c4bfbf6",
+              "Subject": "Allow cross-namespaced target reference + add timeout (#14)"
+            },
+            {
+              "SHA": "5983453",
+              "Subject": "Use Go 1.18 (#13)"
+            },
+            {
+              "SHA": "cdfba44",
+              "Subject": "Use Go 1.18 (#12)"
+            },
+            {
+              "SHA": "1b5ee5d",
+              "Subject": "make fmt (#6)"
+            },
+            {
+              "SHA": "0648812",
+              "Subject": "Make KubeStash deployable (#11)"
+            },
+            {
+              "SHA": "30b4896",
+              "Subject": "Add validation and defaulting webhooks for new APIs (#10)"
+            },
+            {
+              "SHA": "6d063dc",
+              "Subject": "Fix code generation + Update Makefile (#9)"
+            },
+            {
+              "SHA": "667bb60",
+              "Subject": "Fix CI (#8)"
+            },
+            {
+              "SHA": "0fcdf19",
+              "Subject": "Add API types"
+            },
+            {
+              "SHA": "046297a",
+              "Subject": "Add missing licenses"
+            },
+            {
+              "SHA": "a2cd573",
+              "Subject": "Generate deepcopy methods for shared api types"
+            },
+            {
+              "SHA": "f5899e3",
+              "Subject": "code gen"
+            },
+            {
+              "SHA": "2aadb4e",
+              "Subject": "Add kubebuilder markers"
+            },
+            {
+              "SHA": "709d6a4",
+              "Subject": "Fix gramatical errors"
+            },
+            {
+              "SHA": "ff43370",
+              "Subject": "Add comments in Snapshot API"
+            },
+            {
+              "SHA": "bc9c4b7",
+              "Subject": "Add comment in RetentionPolicy API"
+            },
+            {
+              "SHA": "3f3bd49",
+              "Subject": "Add comment in Repository API"
+            },
+            {
+              "SHA": "787e9ea",
+              "Subject": "Add comment in BackupStorage API"
+            },
+            {
+              "SHA": "34b1d8d",
+              "Subject": "Add comments in RestoreSession API type"
+            },
+            {
+              "SHA": "63d559d",
+              "Subject": "Add comment to the HookTemplate API type"
+            },
+            {
+              "SHA": "4c90d9a",
+              "Subject": "Add comments to the BackupSession API type definition"
+            },
+            {
+              "SHA": "f647345",
+              "Subject": "Add comments for BackupConfiguration and BackupBatch APIs"
+            },
+            {
+              "SHA": "cb2a8a6",
+              "Subject": "Add comments explanation for type definition of BackupBatch"
+            },
+            {
+              "SHA": "e848340",
+              "Subject": "Add field specification for Addon API"
+            },
+            {
+              "SHA": "4751b12",
+              "Subject": "Refactor API types"
+            },
+            {
+              "SHA": "6874ef7",
+              "Subject": "Add BackupBlueprint, BackupBatch, and RestoreSession types"
+            },
+            {
+              "SHA": "824af2e",
+              "Subject": "WIP: Add core APIs"
+            },
+            {
+              "SHA": "7ec382a",
+              "Subject": "Add addon APIs"
+            },
+            {
+              "SHA": "3b14ead",
+              "Subject": "Add API types"
+            },
+            {
+              "SHA": "ba38eb5",
+              "Subject": "Rename `backup`,`restore`, and `template` API groups into `core`"
+            },
+            {
+              "SHA": "61beb6f",
+              "Subject": "Replace Apache License with AppsCode License"
+            },
+            {
+              "SHA": "ffd1575",
+              "Subject": "Add BackupBlueprint and HookTemplate in core API group"
+            },
+            {
+              "SHA": "97563a4",
+              "Subject": "Rename `backup`,`restore` API groups into `core`"
+            },
+            {
+              "SHA": "a50b1d4",
+              "Subject": "Groups similar API resources into different groups"
+            },
+            {
+              "SHA": "e61a350",
+              "Subject": "Bootstrap initial APIs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
