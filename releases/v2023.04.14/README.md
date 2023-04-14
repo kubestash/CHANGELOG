@@ -94,6 +94,52 @@
 
 
 
+## [kubestash/kubedb-manifest](https://github.com/kubestash/kubedb-manifest)
+
+### [v0.1.0](https://github.com/kubestash/kubedb-manifest/releases/tag/v0.1.0)
+
+- [b1a69b5](https://github.com/kubestash/kubedb-manifest/commit/b1a69b5) Prepare for release v0.1.0 (#5)
+- [5344e9f](https://github.com/kubestash/kubedb-manifest/commit/5344e9f) Update modules (#4)
+- [14b2797](https://github.com/kubestash/kubedb-manifest/commit/14b2797) Add CI badge
+- [969eeda](https://github.com/kubestash/kubedb-manifest/commit/969eeda) Organize code structure (#3)
+- [9fc3cbe](https://github.com/kubestash/kubedb-manifest/commit/9fc3cbe) Postgres manifest (#2)
+- [8e2a56f](https://github.com/kubestash/kubedb-manifest/commit/8e2a56f) Merge pull request #1 from kubestash/mongodb-manifest
+- [e80c1d0](https://github.com/kubestash/kubedb-manifest/commit/e80c1d0) update flag names.
+- [80d3908](https://github.com/kubestash/kubedb-manifest/commit/80d3908) Add options for changing name in the restored files.
+- [e7da42d](https://github.com/kubestash/kubedb-manifest/commit/e7da42d) Fix error.
+- [70a0267](https://github.com/kubestash/kubedb-manifest/commit/70a0267) Sync with updated snapshot api
+- [9d747d8](https://github.com/kubestash/kubedb-manifest/commit/9d747d8) Merge branch 'mongodb-manifest' of github.com:stashed/kubedb-manifest into mongodb-manifest
+- [90e00e3](https://github.com/kubestash/kubedb-manifest/commit/90e00e3) Fix bugs.
+- [9c3fc1e](https://github.com/kubestash/kubedb-manifest/commit/9c3fc1e) Sync with updated snapshot api
+- [c321013](https://github.com/kubestash/kubedb-manifest/commit/c321013) update component path.
+- [7f4bd17](https://github.com/kubestash/kubedb-manifest/commit/7f4bd17) Refactor.
+- [2b61ff0](https://github.com/kubestash/kubedb-manifest/commit/2b61ff0) Specify component directory
+- [6264cdf](https://github.com/kubestash/kubedb-manifest/commit/6264cdf) Support restoring particular mongo component.
+- [0008570](https://github.com/kubestash/kubedb-manifest/commit/0008570) Fix restore component phase updating.
+- [8bd4c95](https://github.com/kubestash/kubedb-manifest/commit/8bd4c95) Fix restore manifests.
+- [7eda9f9](https://github.com/kubestash/kubedb-manifest/commit/7eda9f9) Update Snapshot phase calculation.
+- [a2b52d2](https://github.com/kubestash/kubedb-manifest/commit/a2b52d2) Add core to runtime scheme.
+- [9bd6bd5](https://github.com/kubestash/kubedb-manifest/commit/9bd6bd5) Fix bugs.
+- [9e08774](https://github.com/kubestash/kubedb-manifest/commit/9e08774) Fix build
+- [01225c6](https://github.com/kubestash/kubedb-manifest/commit/01225c6) Update module path
+- [45d0e45](https://github.com/kubestash/kubedb-manifest/commit/45d0e45) updated flags.
+- [fb0282f](https://github.com/kubestash/kubedb-manifest/commit/fb0282f) update docker file.
+- [ad4c004](https://github.com/kubestash/kubedb-manifest/commit/ad4c004) refactor.
+- [8f71d3a](https://github.com/kubestash/kubedb-manifest/commit/8f71d3a) Fix build
+- [115ef23](https://github.com/kubestash/kubedb-manifest/commit/115ef23) update makefile.
+- [a274690](https://github.com/kubestash/kubedb-manifest/commit/a274690) update backup and restore.
+- [cff449f](https://github.com/kubestash/kubedb-manifest/commit/cff449f) Use yaml pkg from k8s.io.
+- [dcbb399](https://github.com/kubestash/kubedb-manifest/commit/dcbb399) Use restic package from KubeStash.
+- [596a498](https://github.com/kubestash/kubedb-manifest/commit/596a498) fix restore implementation.
+- [6ebc19b](https://github.com/kubestash/kubedb-manifest/commit/6ebc19b) Implement restore.
+- [3e8a869](https://github.com/kubestash/kubedb-manifest/commit/3e8a869) Start implementing restore.
+- [e841113](https://github.com/kubestash/kubedb-manifest/commit/e841113) Add backup methods for mongodb.
+- [b5961f7](https://github.com/kubestash/kubedb-manifest/commit/b5961f7) Continue implementing backup.
+- [d943f6a](https://github.com/kubestash/kubedb-manifest/commit/d943f6a) Implement manifest backup for MongoDB.
+- [e644c67](https://github.com/kubestash/kubedb-manifest/commit/e644c67) Implement kubedb-manifest plugin to MongoDB manifests.
+
+
+
 ## [kubestash/kubestash](https://github.com/kubestash/kubestash)
 
 ### [v0.1.0](https://github.com/kubestash/kubestash/releases/tag/v0.1.0)
