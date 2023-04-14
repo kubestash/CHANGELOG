@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.04.14",
-  "release_date": "2023-04-14T19:41:01.452167767Z",
+  "release_date": "2023-04-14T19:56:31.828533945Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.04.14",
   "kubernetes_version": "1.19+",
@@ -355,6 +355,64 @@
             {
               "SHA": "e61a350",
               "Subject": "Bootstrap initial APIs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.04.14",
+          "commits": [
+            {
+              "SHA": "a253c01",
+              "Subject": "Prepare for release v2023.04.14 (#7)"
+            },
+            {
+              "SHA": "56ec6ba",
+              "Subject": "Add update-chart-dependencies.sh script"
+            },
+            {
+              "SHA": "b83ff35",
+              "Subject": "Import crds"
+            },
+            {
+              "SHA": "33b1e06",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "0fee2ea",
+              "Subject": "Use uid 65534 and test against K8s 1.27.0 (#6)"
+            },
+            {
+              "SHA": "1ec4082",
+              "Subject": "Use ghcr.io/appscode/gengo (#5)"
+            },
+            {
+              "SHA": "254dd7a",
+              "Subject": "Stop publishing charts to docker hub"
+            },
+            {
+              "SHA": "b82c1ba",
+              "Subject": "Test against k8s 1.26"
+            },
+            {
+              "SHA": "71654d0",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#4)"
+            },
+            {
+              "SHA": "da406db",
+              "Subject": "Add platform values"
+            },
+            {
+              "SHA": "ebe68b6",
+              "Subject": "Remove CRD installer (#3)"
+            },
+            {
+              "SHA": "6d90d09",
+              "Subject": "Move charts from kubestash repo"
             }
           ]
         }

@@ -94,6 +94,25 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2023.04.14](https://github.com/kubestash/installer/releases/tag/v2023.04.14)
+
+- [a253c01](https://github.com/kubestash/installer/commit/a253c01) Prepare for release v2023.04.14 (#7)
+- [56ec6ba](https://github.com/kubestash/installer/commit/56ec6ba) Add update-chart-dependencies.sh script
+- [b83ff35](https://github.com/kubestash/installer/commit/b83ff35) Import crds
+- [33b1e06](https://github.com/kubestash/installer/commit/33b1e06) Update deps
+- [0fee2ea](https://github.com/kubestash/installer/commit/0fee2ea) Use uid 65534 and test against K8s 1.27.0 (#6)
+- [1ec4082](https://github.com/kubestash/installer/commit/1ec4082) Use ghcr.io/appscode/gengo (#5)
+- [254dd7a](https://github.com/kubestash/installer/commit/254dd7a) Stop publishing charts to docker hub
+- [b82c1ba](https://github.com/kubestash/installer/commit/b82c1ba) Test against k8s 1.26
+- [71654d0](https://github.com/kubestash/installer/commit/71654d0) Use ghcr.io for appscode/golang-dev (#4)
+- [da406db](https://github.com/kubestash/installer/commit/da406db) Add platform values
+- [ebe68b6](https://github.com/kubestash/installer/commit/ebe68b6) Remove CRD installer (#3)
+- [6d90d09](https://github.com/kubestash/installer/commit/6d90d09) Move charts from kubestash repo
+
+
+
 ## [kubestash/kubedb-manifest](https://github.com/kubestash/kubedb-manifest)
 
 ### [v0.1.0](https://github.com/kubestash/kubedb-manifest/releases/tag/v0.1.0)
