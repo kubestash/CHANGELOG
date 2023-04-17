@@ -1,0 +1,46 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.04.14",
+  "docs_url_template": "https://kubestash.com/docs/%s",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "github.com/kubestash/apimachinery": {
+        "tag": "v0.1.0"
+      }
+    },
+    {
+      "github.com/kubestash/kubedb-manifest": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubestash/kubestash": {
+        "tag": "v0.1.0"
+      }
+    },
+    {
+      "github.com/kubestash/installer": {
+        "key": "voyager-installer",
+        "tag": "v2023.04.14",
+        "chartNames": [
+          "kubestash",
+          "kubestash-operator"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubestash-operator CHART_VERSION=${KUBESTASH_KUBESTASH_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubestash/installer"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ]
+}
