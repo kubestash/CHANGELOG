@@ -70,6 +70,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.1.0-rc.0)
+
+- [72bd51d](https://github.com/kubestash/kubedump/commit/72bd51d) Prepare for release v0.1.0-rc.0 (#3)
+- [986715c](https://github.com/kubestash/kubedump/commit/986715c) Use Go 1.21 and firecraker runner
+
+
+
 ## [kubestash/mysql](https://github.com/kubestash/mysql)
 
 ### [v0.1.0-rc.0](https://github.com/kubestash/mysql/releases/tag/v0.1.0-rc.0)
