@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T21:58:35.155614139Z",
+  "release_date": "2023-10-29T22:24:34.971682007Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -250,6 +250,92 @@
             {
               "SHA": "b9686b7",
               "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedb-manifest",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "35c6b95",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#22)"
+            },
+            {
+              "SHA": "da97d9a",
+              "Subject": "Use gh runner token to publish image"
+            },
+            {
+              "SHA": "592c51f",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "008042d",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "985bcab",
+              "Subject": "Set snapshot time after snapshot completed (#21)"
+            },
+            {
+              "SHA": "6a8c682",
+              "Subject": "Refactor code (#20)"
+            },
+            {
+              "SHA": "bcb944d",
+              "Subject": "Remove manifest option flags (#19)"
+            },
+            {
+              "SHA": "5a47722",
+              "Subject": "Fix secret restore issue (#18)"
+            },
+            {
+              "SHA": "3ced8b7",
+              "Subject": "Update `kmodules.xyz/client-go` version to `v0.25.27` (#17)"
+            },
+            {
+              "SHA": "2ee1314",
+              "Subject": "Update Readme (#16)"
+            },
+            {
+              "SHA": "42d0e52",
+              "Subject": "Set initial component status prior to backup and restore (#15)"
+            },
+            {
+              "SHA": "31a64d6",
+              "Subject": "Remove redundant flags (#14)"
+            },
+            {
+              "SHA": "a804ba8",
+              "Subject": "Pass Snapshot name for restore"
+            },
+            {
+              "SHA": "99ca49f",
+              "Subject": "Set snapshot time, integrity and size (#12)"
+            },
+            {
+              "SHA": "384bbb6",
+              "Subject": "Set backup error in component status + Refactor codebase (#11)"
+            },
+            {
+              "SHA": "513eef5",
+              "Subject": "Update for snapshot and restoresession API changes (#10)"
+            },
+            {
+              "SHA": "4fb8f52",
+              "Subject": "Add options for issuerref (#9)"
+            },
+            {
+              "SHA": "2931d9e",
+              "Subject": "Update restic modules (#7)"
+            },
+            {
+              "SHA": "3422ddf",
+              "Subject": "Fix bugs + Sync with updated snapshot api (#6)"
             }
           ]
         }

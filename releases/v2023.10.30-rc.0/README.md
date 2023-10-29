@@ -77,6 +77,32 @@
 
 
 
+## [kubestash/kubedb-manifest](https://github.com/kubestash/kubedb-manifest)
+
+### [v0.2.0-rc.0](https://github.com/kubestash/kubedb-manifest/releases/tag/v0.2.0-rc.0)
+
+- [35c6b95](https://github.com/kubestash/kubedb-manifest/commit/35c6b95) Prepare for release v0.2.0-rc.0 (#22)
+- [da97d9a](https://github.com/kubestash/kubedb-manifest/commit/da97d9a) Use gh runner token to publish image
+- [592c51f](https://github.com/kubestash/kubedb-manifest/commit/592c51f) Use firecracker runner
+- [008042d](https://github.com/kubestash/kubedb-manifest/commit/008042d) Use Go 1.21
+- [985bcab](https://github.com/kubestash/kubedb-manifest/commit/985bcab) Set snapshot time after snapshot completed (#21)
+- [6a8c682](https://github.com/kubestash/kubedb-manifest/commit/6a8c682) Refactor code (#20)
+- [bcb944d](https://github.com/kubestash/kubedb-manifest/commit/bcb944d) Remove manifest option flags (#19)
+- [5a47722](https://github.com/kubestash/kubedb-manifest/commit/5a47722) Fix secret restore issue (#18)
+- [3ced8b7](https://github.com/kubestash/kubedb-manifest/commit/3ced8b7) Update `kmodules.xyz/client-go` version to `v0.25.27` (#17)
+- [2ee1314](https://github.com/kubestash/kubedb-manifest/commit/2ee1314) Update Readme (#16)
+- [42d0e52](https://github.com/kubestash/kubedb-manifest/commit/42d0e52) Set initial component status prior to backup and restore (#15)
+- [31a64d6](https://github.com/kubestash/kubedb-manifest/commit/31a64d6) Remove redundant flags (#14)
+- [a804ba8](https://github.com/kubestash/kubedb-manifest/commit/a804ba8) Pass Snapshot name for restore
+- [99ca49f](https://github.com/kubestash/kubedb-manifest/commit/99ca49f) Set snapshot time, integrity and size (#12)
+- [384bbb6](https://github.com/kubestash/kubedb-manifest/commit/384bbb6) Set backup error in component status + Refactor codebase (#11)
+- [513eef5](https://github.com/kubestash/kubedb-manifest/commit/513eef5) Update for snapshot and restoresession API changes (#10)
+- [4fb8f52](https://github.com/kubestash/kubedb-manifest/commit/4fb8f52) Add options for issuerref (#9)
+- [2931d9e](https://github.com/kubestash/kubedb-manifest/commit/2931d9e) Update restic modules (#7)
+- [3422ddf](https://github.com/kubestash/kubedb-manifest/commit/3422ddf) Fix bugs + Sync with updated snapshot api (#6)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.1.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.1.0-rc.0)
