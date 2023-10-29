@@ -94,3 +94,19 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.1.0-rc.0)
+
+- [b7ce8a7](https://github.com/kubestash/pvc/commit/b7ce8a7) Prepare for release v0.1.0-rc.0 (#8)
+- [ac48a5d](https://github.com/kubestash/pvc/commit/ac48a5d) Update Dockerfile (#7)
+- [650046e](https://github.com/kubestash/pvc/commit/650046e) Refactor with update addon changes (#6)
+- [57c53cb](https://github.com/kubestash/pvc/commit/57c53cb) Use gh runner token to publish image
+- [47ba57d](https://github.com/kubestash/pvc/commit/47ba57d) Use firecracker runner
+- [4025d8f](https://github.com/kubestash/pvc/commit/4025d8f) Use Go 1.21
+- [cd5dfcc](https://github.com/kubestash/pvc/commit/cd5dfcc) Set snapshot time after snapshot completed (#3)
+- [4f7ec84](https://github.com/kubestash/pvc/commit/4f7ec84) Add support for PVC backup and restore (#2)
+- [8fef9ea](https://github.com/kubestash/pvc/commit/8fef9ea) Update readme
+
+
+

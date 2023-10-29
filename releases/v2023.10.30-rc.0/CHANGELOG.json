@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T21:56:57.185633343Z",
+  "release_date": "2023-10-29T21:57:02.574317441Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -282,6 +282,52 @@
             {
               "SHA": "f0abd94",
               "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b7ce8a7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#8)"
+            },
+            {
+              "SHA": "ac48a5d",
+              "Subject": "Update Dockerfile (#7)"
+            },
+            {
+              "SHA": "650046e",
+              "Subject": "Refactor with update addon changes (#6)"
+            },
+            {
+              "SHA": "57c53cb",
+              "Subject": "Use gh runner token to publish image"
+            },
+            {
+              "SHA": "47ba57d",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "4025d8f",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "cd5dfcc",
+              "Subject": "Set snapshot time after snapshot completed (#3)"
+            },
+            {
+              "SHA": "4f7ec84",
+              "Subject": "Add support for PVC backup and restore (#2)"
+            },
+            {
+              "SHA": "8fef9ea",
+              "Subject": "Update readme"
             }
           ]
         }
