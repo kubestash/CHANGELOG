@@ -1,0 +1,236 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.10.30-rc.0",
+  "release_date": "2023-10-29T21:26:44.402591359Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "340561a",
+              "Subject": "Update storage reference type (#63)"
+            },
+            {
+              "SHA": "bfdb816",
+              "Subject": "Add constant for db version env (#65)"
+            },
+            {
+              "SHA": "67092cd",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "410b43b",
+              "Subject": "Return error from dump (#62)"
+            },
+            {
+              "SHA": "083046e",
+              "Subject": "Add HostPath on volumeSnapshotter stats (#61)"
+            },
+            {
+              "SHA": "1a047b4",
+              "Subject": "Add snapshot helper method to get component path (#59)"
+            },
+            {
+              "SHA": "4ae6a0b",
+              "Subject": "Add temp empty dir const (#58)"
+            },
+            {
+              "SHA": "be155ed",
+              "Subject": "Add local network volume (#54)"
+            },
+            {
+              "SHA": "76aa9a9",
+              "Subject": "Add support for credential-less backup and restore (#49)"
+            },
+            {
+              "SHA": "15eae58",
+              "Subject": "Update VolumeSnapshotterStats field (#47)"
+            },
+            {
+              "SHA": "8571043",
+              "Subject": "Add runtimeSettings for initializer and cleaner jobs (#52)"
+            },
+            {
+              "SHA": "b502297",
+              "Subject": "Export MaxConnections field of SetupOptions (#53)"
+            },
+            {
+              "SHA": "dbb3201",
+              "Subject": "Add interim volume constant (#51)"
+            },
+            {
+              "SHA": "8970e83",
+              "Subject": "Remove unused flag variables (#48)"
+            },
+            {
+              "SHA": "55275ca",
+              "Subject": "Add PVC constant (#45)"
+            },
+            {
+              "SHA": "c710c2f",
+              "Subject": "Add selector validation for pod type hook executor (#46)"
+            },
+            {
+              "SHA": "2da68a2",
+              "Subject": "Add HookTemplate webhook (#40)"
+            },
+            {
+              "SHA": "794814d",
+              "Subject": "Update offshoot labels + Fix Snapshot phase calculation"
+            },
+            {
+              "SHA": "9af4139",
+              "Subject": "Replace `map[string]*runtime.RawExtension` with `*runtime.RawExtension` (#43)"
+            },
+            {
+              "SHA": "6c579f7",
+              "Subject": "Add singleton field in Addon (#42)"
+            },
+            {
+              "SHA": "58603fa",
+              "Subject": "Add constant for trigger prefix (#41)"
+            },
+            {
+              "SHA": "30eabd2",
+              "Subject": "Remove unused const (#39)"
+            },
+            {
+              "SHA": "5b69bc7",
+              "Subject": "Set total components for Backup and Restore (#34)"
+            },
+            {
+              "SHA": "08f2608",
+              "Subject": "Fix Addon volume information (#35)"
+            },
+            {
+              "SHA": "8e6c441",
+              "Subject": "Add task name variable (#38)"
+            },
+            {
+              "SHA": "00bd87d",
+              "Subject": "Aadd helper method to check local provider (#33)"
+            },
+            {
+              "SHA": "b051da5",
+              "Subject": "Add constants for backend offshoot labels (#31)"
+            },
+            {
+              "SHA": "594f389",
+              "Subject": "Add backupConfigurationTemplate in backupBlueprint (#30)"
+            },
+            {
+              "SHA": "68fcb72",
+              "Subject": "Add offshoot labels for BackupStorage (#29)"
+            },
+            {
+              "SHA": "9afd31b",
+              "Subject": "Update offshoot labels (#27)"
+            },
+            {
+              "SHA": "77222ca",
+              "Subject": "Add helper method for BackupSession (#28)"
+            },
+            {
+              "SHA": "121eb73",
+              "Subject": "Updated phase calculation for backupsession (#26)"
+            },
+            {
+              "SHA": "e43043f",
+              "Subject": "Update restic repository for local storage (#22)"
+            },
+            {
+              "SHA": "05caf64",
+              "Subject": "Updated snapshot conditions (#25)"
+            },
+            {
+              "SHA": "9fd0cc1",
+              "Subject": "Cleanup restic package (#20)"
+            },
+            {
+              "SHA": "9bcf7b3",
+              "Subject": "Add usage policy methods in blueprint (#24)"
+            },
+            {
+              "SHA": "be4972e",
+              "Subject": "Fix constant for blueprint (#23)"
+            },
+            {
+              "SHA": "288953c",
+              "Subject": "Add backupBlueprint webhook (#21)"
+            },
+            {
+              "SHA": "6c6a4fe",
+              "Subject": "Shorten snapshot name (#19)"
+            },
+            {
+              "SHA": "4b39372",
+              "Subject": "Add validator webhook for restoresession (#18)"
+            },
+            {
+              "SHA": "d4fe687",
+              "Subject": "Add repository in data source of restoresession (#17)"
+            },
+            {
+              "SHA": "e355ac5",
+              "Subject": "Add volumeClaimTemplates in target volumes (#16)"
+            },
+            {
+              "SHA": "61facde",
+              "Subject": "Add repository size and integrity in snapshot component (#15)"
+            },
+            {
+              "SHA": "b24dbad",
+              "Subject": "Fix resource found pointer issue (#14)"
+            },
+            {
+              "SHA": "9be10a3",
+              "Subject": "Add condition for backend secret existence (#11)"
+            },
+            {
+              "SHA": "c3c22f1",
+              "Subject": "Remove snapshot condition (#13)"
+            },
+            {
+              "SHA": "f11d519",
+              "Subject": "Update snapshot helper (#12)"
+            },
+            {
+              "SHA": "466be61",
+              "Subject": "Update snapshot condition (#10)"
+            },
+            {
+              "SHA": "3352303",
+              "Subject": "Add components to snapshot status (#9)"
+            },
+            {
+              "SHA": "dbea414",
+              "Subject": "Add merge strategy markers (#8)"
+            },
+            {
+              "SHA": "51ec9b4",
+              "Subject": "Add option for issuerRef in RestoreSession (#7)"
+            },
+            {
+              "SHA": "02f0030",
+              "Subject": "Join the component directory with the restic repository path (#6)"
+            },
+            {
+              "SHA": "8c620a0",
+              "Subject": "Updated snapshot API (#5)"
+            },
+            {
+              "SHA": "9eb28ca",
+              "Subject": "Remove release.yml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
