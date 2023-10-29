@@ -110,3 +110,27 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.1.0-rc.0)
+
+- [07dc2770](https://github.com/kubestash/volume-snapshotter/commit/07dc2770) Prepare for release v0.1.0-rc.0 (#6)
+- [d6639382](https://github.com/kubestash/volume-snapshotter/commit/d6639382) Use Go 1.21 and firecracker runner
+- [f69f61ab](https://github.com/kubestash/volume-snapshotter/commit/f69f61ab) Add HostPath on volumeSnapshotter stats (#4)
+- [7f07a810](https://github.com/kubestash/volume-snapshotter/commit/7f07a810)  Add concurrency to verify PVC readiness (#3)
+- [9fcca853](https://github.com/kubestash/volume-snapshotter/commit/9fcca853) Merge pull request #1 from kubestash/volume-snapshotter
+- [5bd6157e](https://github.com/kubestash/volume-snapshotter/commit/5bd6157e) Cleanup Signed-off-by: hmsayem <hmsayem@appscode.com>
+- [7f0811fd](https://github.com/kubestash/volume-snapshotter/commit/7f0811fd) refactor code and resolve review changes Signed-off-by: Anisur Rahman <anisur@appscode.com>
+- [94078d23](https://github.com/kubestash/volume-snapshotter/commit/94078d23) refactor components status Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [6bd2da11](https://github.com/kubestash/volume-snapshotter/commit/6bd2da11) seperate component-status Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [4abb3d74](https://github.com/kubestash/volume-snapshotter/commit/4abb3d74) remove restic info from dockerfile and makefile Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [8ab78c29](https://github.com/kubestash/volume-snapshotter/commit/8ab78c29) add restoretask in flag Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [fb4d2121](https://github.com/kubestash/volume-snapshotter/commit/fb4d2121) Refactor code Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [d58832bf](https://github.com/kubestash/volume-snapshotter/commit/d58832bf) remove kmapi vs_client Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [15791f43](https://github.com/kubestash/volume-snapshotter/commit/15791f43) add git-ignore Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [45c3b206](https://github.com/kubestash/volume-snapshotter/commit/45c3b206) refactor Code Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+- [0fbba02f](https://github.com/kubestash/volume-snapshotter/commit/0fbba02f) implement restore
+- [3e1ef1bc](https://github.com/kubestash/volume-snapshotter/commit/3e1ef1bc) implement backup Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>
+
+
+
