@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T22:24:34.971682007Z",
+  "release_date": "2023-10-29T22:32:04.361180374Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -354,6 +354,228 @@
             {
               "SHA": "986715c",
               "Subject": "Use Go 1.21 and firecraker runner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "50f06ffb",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#152)"
+            },
+            {
+              "SHA": "41cce3d9",
+              "Subject": "Update storage reference type + Set repo storage reference to current BackupStorage (#150)"
+            },
+            {
+              "SHA": "354b3b8c",
+              "Subject": "Use firecracker runner and Go 1.21"
+            },
+            {
+              "SHA": "633ab4cf",
+              "Subject": "Add support for credential-less backup and restore (#143)"
+            },
+            {
+              "SHA": "60b06f0a",
+              "Subject": "Add support for volume-snapshots (#136)"
+            },
+            {
+              "SHA": "f2639ce7",
+              "Subject": "Fix empty restic data snapshot deletion (#148)"
+            },
+            {
+              "SHA": "9d60189c",
+              "Subject": "Fix addon interim volume data dir (#146)"
+            },
+            {
+              "SHA": "6de5b73b",
+              "Subject": "Fix backupstorage reconcile issue for watching resources (#144)"
+            },
+            {
+              "SHA": "7c8771bf",
+              "Subject": "Fix pause BackupConfig after applying RestoreSession (#142)"
+            },
+            {
+              "SHA": "7637680e",
+              "Subject": "Fix excessive requeue logs for backupstorage (#139)"
+            },
+            {
+              "SHA": "b4aad66d",
+              "Subject": "Update addon flags var (#140)"
+            },
+            {
+              "SHA": "a8c3a1f0",
+              "Subject": "Add support for PVC auto backup (#138)"
+            },
+            {
+              "SHA": "a5f3d7a9",
+              "Subject": "Fix recent snapshot list not updating accurately issue (#137)"
+            },
+            {
+              "SHA": "0711a13a",
+              "Subject": "Add version cmd (#135)"
+            },
+            {
+              "SHA": "02bd9477",
+              "Subject": "Fix repoinfo in backupstorage (#134)"
+            },
+            {
+              "SHA": "3670a2e8",
+              "Subject": "Fix restore job cleanup issue (#133)"
+            },
+            {
+              "SHA": "68885c99",
+              "Subject": "Add appbinding `get` permission in restore role (#132)"
+            },
+            {
+              "SHA": "4ee56ed6",
+              "Subject": "Trigger the next retention policy in case of failure (#131)"
+            },
+            {
+              "SHA": "afcf1251",
+              "Subject": "Always update retention policy status (#130)"
+            },
+            {
+              "SHA": "b9840a08",
+              "Subject": "Add support for PVC backup and restore (#128)"
+            },
+            {
+              "SHA": "ccdc8741",
+              "Subject": "Add support for hook template (#115)"
+            },
+            {
+              "SHA": "61c2c19a",
+              "Subject": "Remove manifest options flag variables (#126)"
+            },
+            {
+              "SHA": "bc25d891",
+              "Subject": "Apply retention-policy from backup Job (#121)"
+            },
+            {
+              "SHA": "ec993c59",
+              "Subject": "Implement backend resource cleanup executor (#122)"
+            },
+            {
+              "SHA": "1960587f",
+              "Subject": "Resolve function args for addon parameters (#125)"
+            },
+            {
+              "SHA": "f68e6d50",
+              "Subject": "Fix latest snapshot calculation (#124)"
+            },
+            {
+              "SHA": "54a546c9",
+              "Subject": "Resolve addon params (#123)"
+            },
+            {
+              "SHA": "c4a20ea1",
+              "Subject": "Set total components using singleton specifier (#118)"
+            },
+            {
+              "SHA": "61590286",
+              "Subject": "Skip applying retention policy if not found. (#117)"
+            },
+            {
+              "SHA": "5d4e01f9",
+              "Subject": "Fix Cronjob name generation (#116)"
+            },
+            {
+              "SHA": "4ea589b9",
+              "Subject": "Set total components for Backup and Restore (#109)"
+            },
+            {
+              "SHA": "cfc78936",
+              "Subject": "Add support for addon volumes (#113)"
+            },
+            {
+              "SHA": "6ac04f25",
+              "Subject": "Resolve task name variable (#114)"
+            },
+            {
+              "SHA": "3317fdf0",
+              "Subject": "Update README (#110)"
+            },
+            {
+              "SHA": "693e4b65",
+              "Subject": "Add support for local backend"
+            },
+            {
+              "SHA": "a2353eb9",
+              "Subject": "Implement auto-backup (#104)"
+            },
+            {
+              "SHA": "d07d522e",
+              "Subject": "Refactor backend initialization (#108)"
+            },
+            {
+              "SHA": "ca3085a7",
+              "Subject": "Add support for cross-namespace backup and restore (#107)"
+            },
+            {
+              "SHA": "a5c2163a",
+              "Subject": "Fix session skipping and cleanup (#106)"
+            },
+            {
+              "SHA": "bfc7c8eb",
+              "Subject": "Refactor resolver package + Initialize backend once (#101)"
+            },
+            {
+              "SHA": "30185cf3",
+              "Subject": "Pass backupstorages to backup and restore executor (#102)"
+            },
+            {
+              "SHA": "2e2ec9fc",
+              "Subject": "Fix backup job name (#99)"
+            },
+            {
+              "SHA": "42c6f79d",
+              "Subject": "Add support for latest snapshot restore (#98)"
+            },
+            {
+              "SHA": "8dfd3f98",
+              "Subject": "Add volume claim template (#97)"
+            },
+            {
+              "SHA": "18db497a",
+              "Subject": "Use `blob` for backend (#90)"
+            },
+            {
+              "SHA": "36ea681c",
+              "Subject": "Set snapshot time (#96)"
+            },
+            {
+              "SHA": "7e16185e",
+              "Subject": "Add backup and restore logic for workload (#70)"
+            },
+            {
+              "SHA": "b91517c5",
+              "Subject": "Add backend secret condition (#93)"
+            },
+            {
+              "SHA": "5b2439ea",
+              "Subject": "Add option for issuerRef in RestoreSession (#92)"
+            },
+            {
+              "SHA": "ab353888",
+              "Subject": "Update restic modules (#91)"
+            },
+            {
+              "SHA": "458d182e",
+              "Subject": "Delete all Restic snapshots for each component instead of one. (#89)"
+            },
+            {
+              "SHA": "27d5d7ec",
+              "Subject": "Fix S3 directory cleanup (#88)"
+            },
+            {
+              "SHA": "9213be05",
+              "Subject": "Fix storage cleanup (#87)"
             }
           ]
         }
