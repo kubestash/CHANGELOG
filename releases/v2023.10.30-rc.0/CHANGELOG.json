@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T21:57:49.26110508Z",
+  "release_date": "2023-10-29T21:57:53.22359705Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -358,6 +358,20 @@
             {
               "SHA": "8fef9ea",
               "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/redis",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "44ac2c7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
             }
           ]
         }

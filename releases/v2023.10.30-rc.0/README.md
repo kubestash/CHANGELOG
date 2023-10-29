@@ -122,6 +122,14 @@
 
 
 
+## [kubestash/redis](https://github.com/kubestash/redis)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/redis/releases/tag/v0.1.0-rc.0)
+
+- [44ac2c7](https://github.com/kubestash/redis/commit/44ac2c7) Prepare for release v0.1.0-rc.0 (#4)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.1.0-rc.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.1.0-rc.0)
