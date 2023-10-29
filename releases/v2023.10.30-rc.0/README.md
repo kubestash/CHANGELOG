@@ -62,3 +62,11 @@
 
 
 
+## [kubestash/mysql](https://github.com/kubestash/mysql)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/mysql/releases/tag/v0.1.0-rc.0)
+
+- [f0abd94](https://github.com/kubestash/mysql/commit/f0abd94) Prepare for release v0.1.0-rc.0 (#7)
+
+
+

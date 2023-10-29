@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T21:26:44.402591359Z",
+  "release_date": "2023-10-29T21:56:41.543863769Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -227,6 +227,20 @@
             {
               "SHA": "9eb28ca",
               "Subject": "Remove release.yml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/mysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f0abd94",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
             }
           ]
         }
