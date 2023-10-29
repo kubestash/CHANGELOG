@@ -62,6 +62,14 @@
 
 
 
+## [kubestash/elasticsearch](https://github.com/kubestash/elasticsearch)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/elasticsearch/releases/tag/v0.1.0-rc.0)
+
+- [b9686b7](https://github.com/kubestash/elasticsearch/commit/b9686b7) Prepare for release v0.1.0-rc.0 (#3)
+
+
+
 ## [kubestash/mysql](https://github.com/kubestash/mysql)
 
 ### [v0.1.0-rc.0](https://github.com/kubestash/mysql/releases/tag/v0.1.0-rc.0)
