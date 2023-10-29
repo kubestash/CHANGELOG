@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T21:57:45.775478149Z",
+  "release_date": "2023-10-29T21:57:49.26110508Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -282,6 +282,36 @@
             {
               "SHA": "f0abd94",
               "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/postgres",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7c55105",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#1)"
+            },
+            {
+              "SHA": "19eff67",
+              "Subject": "Use gh runner token to publish docker image"
+            },
+            {
+              "SHA": "6a71410",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "e278d71",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "4899879",
+              "Subject": "Update readme + cleanup"
             }
           ]
         }

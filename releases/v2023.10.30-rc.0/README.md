@@ -94,6 +94,18 @@
 
 
 
+## [kubestash/postgres](https://github.com/kubestash/postgres)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/postgres/releases/tag/v0.1.0-rc.0)
+
+- [7c55105](https://github.com/kubestash/postgres/commit/7c55105) Prepare for release v0.1.0-rc.0 (#1)
+- [19eff67](https://github.com/kubestash/postgres/commit/19eff67) Use gh runner token to publish docker image
+- [6a71410](https://github.com/kubestash/postgres/commit/6a71410) Use firecracker runner
+- [e278d71](https://github.com/kubestash/postgres/commit/e278d71) Use Go 1.21
+- [4899879](https://github.com/kubestash/postgres/commit/4899879) Update readme + cleanup
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.1.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.1.0-rc.0)
