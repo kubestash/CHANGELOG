@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T21:57:53.22359705Z",
+  "release_date": "2023-10-29T21:58:08.275967363Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -268,6 +268,20 @@
             {
               "SHA": "986715c",
               "Subject": "Use Go 1.21 and firecraker runner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/mongodb",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d3e752d",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
             }
           ]
         }

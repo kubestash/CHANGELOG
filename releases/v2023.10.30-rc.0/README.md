@@ -86,6 +86,14 @@
 
 
 
+## [kubestash/mongodb](https://github.com/kubestash/mongodb)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/mongodb/releases/tag/v0.1.0-rc.0)
+
+- [d3e752d](https://github.com/kubestash/mongodb/commit/d3e752d) Prepare for release v0.1.0-rc.0 (#7)
+
+
+
 ## [kubestash/mysql](https://github.com/kubestash/mysql)
 
 ### [v0.1.0-rc.0](https://github.com/kubestash/mysql/releases/tag/v0.1.0-rc.0)
