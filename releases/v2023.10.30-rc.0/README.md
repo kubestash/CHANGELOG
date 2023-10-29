@@ -62,6 +62,13 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.1.0-rc.0](https://github.com/kubestash/cli/releases/tag/v0.1.0-rc.0)
+
+
+
+
 ## [kubestash/elasticsearch](https://github.com/kubestash/elasticsearch)
 
 ### [v0.1.0-rc.0](https://github.com/kubestash/elasticsearch/releases/tag/v0.1.0-rc.0)
