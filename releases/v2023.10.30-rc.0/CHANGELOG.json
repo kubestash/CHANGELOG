@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.10.30-rc.0",
-  "release_date": "2023-10-29T22:32:04.361180374Z",
+  "release_date": "2023-10-31T16:31:10.448892569Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
   "kubernetes_version": "1.20+",
@@ -250,6 +250,44 @@
             {
               "SHA": "b9686b7",
               "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.10.30-rc.0",
+          "commits": [
+            {
+              "SHA": "0fead13",
+              "Subject": "Prepare for release v2023.10.30-rc.0 (#14)"
+            },
+            {
+              "SHA": "db149d7",
+              "Subject": "Import crds without description"
+            },
+            {
+              "SHA": "36291d8",
+              "Subject": "Import crds"
+            },
+            {
+              "SHA": "be1e6be",
+              "Subject": "Add permissions for storageclasses (#13)"
+            },
+            {
+              "SHA": "764ce03",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "49b943b",
+              "Subject": "Give volume snapshotter necessary rbac (#12)"
+            },
+            {
+              "SHA": "c498b57",
+              "Subject": "Add support for local network volume (#10)"
             }
           ]
         }

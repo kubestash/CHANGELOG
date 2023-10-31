@@ -1,4 +1,4 @@
-# KubeStash v2023.10.30-rc.0 (2023-10-29)
+# KubeStash v2023.10.30-rc.0 (2023-10-31)
 
 
 ## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
@@ -74,6 +74,20 @@
 ### [v0.1.0-rc.0](https://github.com/kubestash/elasticsearch/releases/tag/v0.1.0-rc.0)
 
 - [b9686b7](https://github.com/kubestash/elasticsearch/commit/b9686b7) Prepare for release v0.1.0-rc.0 (#3)
+
+
+
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2023.10.30-rc.0](https://github.com/kubestash/installer/releases/tag/v2023.10.30-rc.0)
+
+- [0fead13](https://github.com/kubestash/installer/commit/0fead13) Prepare for release v2023.10.30-rc.0 (#14)
+- [db149d7](https://github.com/kubestash/installer/commit/db149d7) Import crds without description
+- [36291d8](https://github.com/kubestash/installer/commit/36291d8) Import crds
+- [be1e6be](https://github.com/kubestash/installer/commit/be1e6be) Add permissions for storageclasses (#13)
+- [764ce03](https://github.com/kubestash/installer/commit/764ce03) Update deps
+- [49b943b](https://github.com/kubestash/installer/commit/49b943b) Give volume snapshotter necessary rbac (#12)
+- [c498b57](https://github.com/kubestash/installer/commit/c498b57) Add support for local network volume (#10)
 
 
 
