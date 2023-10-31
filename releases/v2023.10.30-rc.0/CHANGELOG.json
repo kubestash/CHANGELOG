@@ -1,0 +1,1041 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.10.30-rc.0",
+  "release_date": "2023-10-31T16:31:10.448892569Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2023.10.30-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "340561a",
+              "Subject": "Update storage reference type (#63)"
+            },
+            {
+              "SHA": "bfdb816",
+              "Subject": "Add constant for db version env (#65)"
+            },
+            {
+              "SHA": "67092cd",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "410b43b",
+              "Subject": "Return error from dump (#62)"
+            },
+            {
+              "SHA": "083046e",
+              "Subject": "Add HostPath on volumeSnapshotter stats (#61)"
+            },
+            {
+              "SHA": "1a047b4",
+              "Subject": "Add snapshot helper method to get component path (#59)"
+            },
+            {
+              "SHA": "4ae6a0b",
+              "Subject": "Add temp empty dir const (#58)"
+            },
+            {
+              "SHA": "be155ed",
+              "Subject": "Add local network volume (#54)"
+            },
+            {
+              "SHA": "76aa9a9",
+              "Subject": "Add support for credential-less backup and restore (#49)"
+            },
+            {
+              "SHA": "15eae58",
+              "Subject": "Update VolumeSnapshotterStats field (#47)"
+            },
+            {
+              "SHA": "8571043",
+              "Subject": "Add runtimeSettings for initializer and cleaner jobs (#52)"
+            },
+            {
+              "SHA": "b502297",
+              "Subject": "Export MaxConnections field of SetupOptions (#53)"
+            },
+            {
+              "SHA": "dbb3201",
+              "Subject": "Add interim volume constant (#51)"
+            },
+            {
+              "SHA": "8970e83",
+              "Subject": "Remove unused flag variables (#48)"
+            },
+            {
+              "SHA": "55275ca",
+              "Subject": "Add PVC constant (#45)"
+            },
+            {
+              "SHA": "c710c2f",
+              "Subject": "Add selector validation for pod type hook executor (#46)"
+            },
+            {
+              "SHA": "2da68a2",
+              "Subject": "Add HookTemplate webhook (#40)"
+            },
+            {
+              "SHA": "794814d",
+              "Subject": "Update offshoot labels + Fix Snapshot phase calculation"
+            },
+            {
+              "SHA": "9af4139",
+              "Subject": "Replace `map[string]*runtime.RawExtension` with `*runtime.RawExtension` (#43)"
+            },
+            {
+              "SHA": "6c579f7",
+              "Subject": "Add singleton field in Addon (#42)"
+            },
+            {
+              "SHA": "58603fa",
+              "Subject": "Add constant for trigger prefix (#41)"
+            },
+            {
+              "SHA": "30eabd2",
+              "Subject": "Remove unused const (#39)"
+            },
+            {
+              "SHA": "5b69bc7",
+              "Subject": "Set total components for Backup and Restore (#34)"
+            },
+            {
+              "SHA": "08f2608",
+              "Subject": "Fix Addon volume information (#35)"
+            },
+            {
+              "SHA": "8e6c441",
+              "Subject": "Add task name variable (#38)"
+            },
+            {
+              "SHA": "00bd87d",
+              "Subject": "Aadd helper method to check local provider (#33)"
+            },
+            {
+              "SHA": "b051da5",
+              "Subject": "Add constants for backend offshoot labels (#31)"
+            },
+            {
+              "SHA": "594f389",
+              "Subject": "Add backupConfigurationTemplate in backupBlueprint (#30)"
+            },
+            {
+              "SHA": "68fcb72",
+              "Subject": "Add offshoot labels for BackupStorage (#29)"
+            },
+            {
+              "SHA": "9afd31b",
+              "Subject": "Update offshoot labels (#27)"
+            },
+            {
+              "SHA": "77222ca",
+              "Subject": "Add helper method for BackupSession (#28)"
+            },
+            {
+              "SHA": "121eb73",
+              "Subject": "Updated phase calculation for backupsession (#26)"
+            },
+            {
+              "SHA": "e43043f",
+              "Subject": "Update restic repository for local storage (#22)"
+            },
+            {
+              "SHA": "05caf64",
+              "Subject": "Updated snapshot conditions (#25)"
+            },
+            {
+              "SHA": "9fd0cc1",
+              "Subject": "Cleanup restic package (#20)"
+            },
+            {
+              "SHA": "9bcf7b3",
+              "Subject": "Add usage policy methods in blueprint (#24)"
+            },
+            {
+              "SHA": "be4972e",
+              "Subject": "Fix constant for blueprint (#23)"
+            },
+            {
+              "SHA": "288953c",
+              "Subject": "Add backupBlueprint webhook (#21)"
+            },
+            {
+              "SHA": "6c6a4fe",
+              "Subject": "Shorten snapshot name (#19)"
+            },
+            {
+              "SHA": "4b39372",
+              "Subject": "Add validator webhook for restoresession (#18)"
+            },
+            {
+              "SHA": "d4fe687",
+              "Subject": "Add repository in data source of restoresession (#17)"
+            },
+            {
+              "SHA": "e355ac5",
+              "Subject": "Add volumeClaimTemplates in target volumes (#16)"
+            },
+            {
+              "SHA": "61facde",
+              "Subject": "Add repository size and integrity in snapshot component (#15)"
+            },
+            {
+              "SHA": "b24dbad",
+              "Subject": "Fix resource found pointer issue (#14)"
+            },
+            {
+              "SHA": "9be10a3",
+              "Subject": "Add condition for backend secret existence (#11)"
+            },
+            {
+              "SHA": "c3c22f1",
+              "Subject": "Remove snapshot condition (#13)"
+            },
+            {
+              "SHA": "f11d519",
+              "Subject": "Update snapshot helper (#12)"
+            },
+            {
+              "SHA": "466be61",
+              "Subject": "Update snapshot condition (#10)"
+            },
+            {
+              "SHA": "3352303",
+              "Subject": "Add components to snapshot status (#9)"
+            },
+            {
+              "SHA": "dbea414",
+              "Subject": "Add merge strategy markers (#8)"
+            },
+            {
+              "SHA": "51ec9b4",
+              "Subject": "Add option for issuerRef in RestoreSession (#7)"
+            },
+            {
+              "SHA": "02f0030",
+              "Subject": "Join the component directory with the restic repository path (#6)"
+            },
+            {
+              "SHA": "8c620a0",
+              "Subject": "Updated snapshot API (#5)"
+            },
+            {
+              "SHA": "9eb28ca",
+              "Subject": "Remove release.yml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b9686b7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.10.30-rc.0",
+          "commits": [
+            {
+              "SHA": "0fead13",
+              "Subject": "Prepare for release v2023.10.30-rc.0 (#14)"
+            },
+            {
+              "SHA": "db149d7",
+              "Subject": "Import crds without description"
+            },
+            {
+              "SHA": "36291d8",
+              "Subject": "Import crds"
+            },
+            {
+              "SHA": "be1e6be",
+              "Subject": "Add permissions for storageclasses (#13)"
+            },
+            {
+              "SHA": "764ce03",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "49b943b",
+              "Subject": "Give volume snapshotter necessary rbac (#12)"
+            },
+            {
+              "SHA": "c498b57",
+              "Subject": "Add support for local network volume (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedb-manifest",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "35c6b95",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#22)"
+            },
+            {
+              "SHA": "da97d9a",
+              "Subject": "Use gh runner token to publish image"
+            },
+            {
+              "SHA": "592c51f",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "008042d",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "985bcab",
+              "Subject": "Set snapshot time after snapshot completed (#21)"
+            },
+            {
+              "SHA": "6a8c682",
+              "Subject": "Refactor code (#20)"
+            },
+            {
+              "SHA": "bcb944d",
+              "Subject": "Remove manifest option flags (#19)"
+            },
+            {
+              "SHA": "5a47722",
+              "Subject": "Fix secret restore issue (#18)"
+            },
+            {
+              "SHA": "3ced8b7",
+              "Subject": "Update `kmodules.xyz/client-go` version to `v0.25.27` (#17)"
+            },
+            {
+              "SHA": "2ee1314",
+              "Subject": "Update Readme (#16)"
+            },
+            {
+              "SHA": "42d0e52",
+              "Subject": "Set initial component status prior to backup and restore (#15)"
+            },
+            {
+              "SHA": "31a64d6",
+              "Subject": "Remove redundant flags (#14)"
+            },
+            {
+              "SHA": "a804ba8",
+              "Subject": "Pass Snapshot name for restore"
+            },
+            {
+              "SHA": "99ca49f",
+              "Subject": "Set snapshot time, integrity and size (#12)"
+            },
+            {
+              "SHA": "384bbb6",
+              "Subject": "Set backup error in component status + Refactor codebase (#11)"
+            },
+            {
+              "SHA": "513eef5",
+              "Subject": "Update for snapshot and restoresession API changes (#10)"
+            },
+            {
+              "SHA": "4fb8f52",
+              "Subject": "Add options for issuerref (#9)"
+            },
+            {
+              "SHA": "2931d9e",
+              "Subject": "Update restic modules (#7)"
+            },
+            {
+              "SHA": "3422ddf",
+              "Subject": "Fix bugs + Sync with updated snapshot api (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "72bd51d",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            },
+            {
+              "SHA": "986715c",
+              "Subject": "Use Go 1.21 and firecraker runner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "50f06ffb",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#152)"
+            },
+            {
+              "SHA": "41cce3d9",
+              "Subject": "Update storage reference type + Set repo storage reference to current BackupStorage (#150)"
+            },
+            {
+              "SHA": "354b3b8c",
+              "Subject": "Use firecracker runner and Go 1.21"
+            },
+            {
+              "SHA": "633ab4cf",
+              "Subject": "Add support for credential-less backup and restore (#143)"
+            },
+            {
+              "SHA": "60b06f0a",
+              "Subject": "Add support for volume-snapshots (#136)"
+            },
+            {
+              "SHA": "f2639ce7",
+              "Subject": "Fix empty restic data snapshot deletion (#148)"
+            },
+            {
+              "SHA": "9d60189c",
+              "Subject": "Fix addon interim volume data dir (#146)"
+            },
+            {
+              "SHA": "6de5b73b",
+              "Subject": "Fix backupstorage reconcile issue for watching resources (#144)"
+            },
+            {
+              "SHA": "7c8771bf",
+              "Subject": "Fix pause BackupConfig after applying RestoreSession (#142)"
+            },
+            {
+              "SHA": "7637680e",
+              "Subject": "Fix excessive requeue logs for backupstorage (#139)"
+            },
+            {
+              "SHA": "b4aad66d",
+              "Subject": "Update addon flags var (#140)"
+            },
+            {
+              "SHA": "a8c3a1f0",
+              "Subject": "Add support for PVC auto backup (#138)"
+            },
+            {
+              "SHA": "a5f3d7a9",
+              "Subject": "Fix recent snapshot list not updating accurately issue (#137)"
+            },
+            {
+              "SHA": "0711a13a",
+              "Subject": "Add version cmd (#135)"
+            },
+            {
+              "SHA": "02bd9477",
+              "Subject": "Fix repoinfo in backupstorage (#134)"
+            },
+            {
+              "SHA": "3670a2e8",
+              "Subject": "Fix restore job cleanup issue (#133)"
+            },
+            {
+              "SHA": "68885c99",
+              "Subject": "Add appbinding `get` permission in restore role (#132)"
+            },
+            {
+              "SHA": "4ee56ed6",
+              "Subject": "Trigger the next retention policy in case of failure (#131)"
+            },
+            {
+              "SHA": "afcf1251",
+              "Subject": "Always update retention policy status (#130)"
+            },
+            {
+              "SHA": "b9840a08",
+              "Subject": "Add support for PVC backup and restore (#128)"
+            },
+            {
+              "SHA": "ccdc8741",
+              "Subject": "Add support for hook template (#115)"
+            },
+            {
+              "SHA": "61c2c19a",
+              "Subject": "Remove manifest options flag variables (#126)"
+            },
+            {
+              "SHA": "bc25d891",
+              "Subject": "Apply retention-policy from backup Job (#121)"
+            },
+            {
+              "SHA": "ec993c59",
+              "Subject": "Implement backend resource cleanup executor (#122)"
+            },
+            {
+              "SHA": "1960587f",
+              "Subject": "Resolve function args for addon parameters (#125)"
+            },
+            {
+              "SHA": "f68e6d50",
+              "Subject": "Fix latest snapshot calculation (#124)"
+            },
+            {
+              "SHA": "54a546c9",
+              "Subject": "Resolve addon params (#123)"
+            },
+            {
+              "SHA": "c4a20ea1",
+              "Subject": "Set total components using singleton specifier (#118)"
+            },
+            {
+              "SHA": "61590286",
+              "Subject": "Skip applying retention policy if not found. (#117)"
+            },
+            {
+              "SHA": "5d4e01f9",
+              "Subject": "Fix Cronjob name generation (#116)"
+            },
+            {
+              "SHA": "4ea589b9",
+              "Subject": "Set total components for Backup and Restore (#109)"
+            },
+            {
+              "SHA": "cfc78936",
+              "Subject": "Add support for addon volumes (#113)"
+            },
+            {
+              "SHA": "6ac04f25",
+              "Subject": "Resolve task name variable (#114)"
+            },
+            {
+              "SHA": "3317fdf0",
+              "Subject": "Update README (#110)"
+            },
+            {
+              "SHA": "693e4b65",
+              "Subject": "Add support for local backend"
+            },
+            {
+              "SHA": "a2353eb9",
+              "Subject": "Implement auto-backup (#104)"
+            },
+            {
+              "SHA": "d07d522e",
+              "Subject": "Refactor backend initialization (#108)"
+            },
+            {
+              "SHA": "ca3085a7",
+              "Subject": "Add support for cross-namespace backup and restore (#107)"
+            },
+            {
+              "SHA": "a5c2163a",
+              "Subject": "Fix session skipping and cleanup (#106)"
+            },
+            {
+              "SHA": "bfc7c8eb",
+              "Subject": "Refactor resolver package + Initialize backend once (#101)"
+            },
+            {
+              "SHA": "30185cf3",
+              "Subject": "Pass backupstorages to backup and restore executor (#102)"
+            },
+            {
+              "SHA": "2e2ec9fc",
+              "Subject": "Fix backup job name (#99)"
+            },
+            {
+              "SHA": "42c6f79d",
+              "Subject": "Add support for latest snapshot restore (#98)"
+            },
+            {
+              "SHA": "8dfd3f98",
+              "Subject": "Add volume claim template (#97)"
+            },
+            {
+              "SHA": "18db497a",
+              "Subject": "Use `blob` for backend (#90)"
+            },
+            {
+              "SHA": "36ea681c",
+              "Subject": "Set snapshot time (#96)"
+            },
+            {
+              "SHA": "7e16185e",
+              "Subject": "Add backup and restore logic for workload (#70)"
+            },
+            {
+              "SHA": "b91517c5",
+              "Subject": "Add backend secret condition (#93)"
+            },
+            {
+              "SHA": "5b2439ea",
+              "Subject": "Add option for issuerRef in RestoreSession (#92)"
+            },
+            {
+              "SHA": "ab353888",
+              "Subject": "Update restic modules (#91)"
+            },
+            {
+              "SHA": "458d182e",
+              "Subject": "Delete all Restic snapshots for each component instead of one. (#89)"
+            },
+            {
+              "SHA": "27d5d7ec",
+              "Subject": "Fix S3 directory cleanup (#88)"
+            },
+            {
+              "SHA": "9213be05",
+              "Subject": "Fix storage cleanup (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/mongodb",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d3e752d",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/mysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f0abd94",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/postgres",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7c55105",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#1)"
+            },
+            {
+              "SHA": "19eff67",
+              "Subject": "Use gh runner token to publish docker image"
+            },
+            {
+              "SHA": "6a71410",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "e278d71",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "4899879",
+              "Subject": "Update readme + cleanup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b7ce8a7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#8)"
+            },
+            {
+              "SHA": "ac48a5d",
+              "Subject": "Update Dockerfile (#7)"
+            },
+            {
+              "SHA": "650046e",
+              "Subject": "Refactor with update addon changes (#6)"
+            },
+            {
+              "SHA": "57c53cb",
+              "Subject": "Use gh runner token to publish image"
+            },
+            {
+              "SHA": "47ba57d",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "4025d8f",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "cd5dfcc",
+              "Subject": "Set snapshot time after snapshot completed (#3)"
+            },
+            {
+              "SHA": "4f7ec84",
+              "Subject": "Add support for PVC backup and restore (#2)"
+            },
+            {
+              "SHA": "8fef9ea",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/redis",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "44ac2c7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "07dc2770",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "d6639382",
+              "Subject": "Use Go 1.21 and firecracker runner"
+            },
+            {
+              "SHA": "f69f61ab",
+              "Subject": "Add HostPath on volumeSnapshotter stats (#4)"
+            },
+            {
+              "SHA": "7f07a810",
+              "Subject": " Add concurrency to verify PVC readiness (#3)"
+            },
+            {
+              "SHA": "9fcca853",
+              "Subject": "Merge pull request #1 from kubestash/volume-snapshotter"
+            },
+            {
+              "SHA": "5bd6157e",
+              "Subject": "Cleanup Signed-off-by: hmsayem <hmsayem@appscode.com>"
+            },
+            {
+              "SHA": "7f0811fd",
+              "Subject": "refactor code and resolve review changes Signed-off-by: Anisur Rahman <anisur@appscode.com>"
+            },
+            {
+              "SHA": "94078d23",
+              "Subject": "refactor components status Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "6bd2da11",
+              "Subject": "seperate component-status Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "4abb3d74",
+              "Subject": "remove restic info from dockerfile and makefile Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "8ab78c29",
+              "Subject": "add restoretask in flag Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "fb4d2121",
+              "Subject": "Refactor code Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "d58832bf",
+              "Subject": "remove kmapi vs_client Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "15791f43",
+              "Subject": "add git-ignore Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "45c3b206",
+              "Subject": "refactor Code Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "0fbba02f",
+              "Subject": "implement restore"
+            },
+            {
+              "SHA": "3e1ef1bc",
+              "Subject": "implement backup Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f33596e",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "028c967",
+              "Subject": "Add missing flags (#20)"
+            },
+            {
+              "SHA": "e7bf1b3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "43d82cc",
+              "Subject": "Refactor"
+            },
+            {
+              "SHA": "429e16a",
+              "Subject": "Remove get component path func"
+            },
+            {
+              "SHA": "76bb516",
+              "Subject": "Use GitHub runner token for publishing images"
+            },
+            {
+              "SHA": "7866112",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "a895b83",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "f69e980",
+              "Subject": "Add support for credential-less backup and restore (#16)"
+            },
+            {
+              "SHA": "0c1dc11",
+              "Subject": "Set snapshot time after snapshot completed (#15)"
+            },
+            {
+              "SHA": "082ef12",
+              "Subject": "Remove taskName flag (#14)"
+            },
+            {
+              "SHA": "faa0072",
+              "Subject": "Pass parameters through flags (#13)"
+            },
+            {
+              "SHA": "c4076e9",
+              "Subject": "Resolve addon params (#12)"
+            },
+            {
+              "SHA": "0edba4d",
+              "Subject": "Add flag for task name + Refactor (#11)"
+            },
+            {
+              "SHA": "ab41893",
+              "Subject": "Update Readme (#10)"
+            },
+            {
+              "SHA": "87a5a2b",
+              "Subject": "Add task flag (#9)"
+            },
+            {
+              "SHA": "6e31c77",
+              "Subject": "Set initial component status prior to backup (#8)"
+            },
+            {
+              "SHA": "6f71e6e",
+              "Subject": "Remove redundant flags (#7)"
+            },
+            {
+              "SHA": "89049e5",
+              "Subject": "Add snapshotName for restore (#6)"
+            },
+            {
+              "SHA": "b7ba2d5",
+              "Subject": "Set snapshot time, integrity and size (#5)"
+            },
+            {
+              "SHA": "75a9261",
+              "Subject": "Merge pull request #2 from kubestash/workload-backup"
+            },
+            {
+              "SHA": "7d1b0ae",
+              "Subject": "Run fmt"
+            },
+            {
+              "SHA": "f441856",
+              "Subject": "Remove comment from constant"
+            },
+            {
+              "SHA": "5fb15a9",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "6e435a3",
+              "Subject": "Initiate backup"
+            },
+            {
+              "SHA": "0024b96",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "50256bf",
+              "Subject": "Fixed snapshot condition sync issue"
+            },
+            {
+              "SHA": "2654383",
+              "Subject": "Fix restore duration with respect to restic"
+            },
+            {
+              "SHA": "4820508",
+              "Subject": "Fix ci yaml"
+            },
+            {
+              "SHA": "7190934",
+              "Subject": "Fix release yaml"
+            },
+            {
+              "SHA": "9d92e64",
+              "Subject": "Fix duration for restore"
+            },
+            {
+              "SHA": "94d1ad9",
+              "Subject": "Update components for new API"
+            },
+            {
+              "SHA": "723f73a",
+              "Subject": "Print patch"
+            },
+            {
+              "SHA": "262c26a",
+              "Subject": "Update snapshot status"
+            },
+            {
+              "SHA": "2870906",
+              "Subject": "Update for daemonset executor job"
+            },
+            {
+              "SHA": "7a21b97",
+              "Subject": "Fixed daemon restart issue + conflict error"
+            },
+            {
+              "SHA": "f728b6e",
+              "Subject": "Fixed pathInfo pointer issue"
+            },
+            {
+              "SHA": "5502e6a",
+              "Subject": "Refactored code"
+            },
+            {
+              "SHA": "fe5d2e1",
+              "Subject": "Fixed scratchDir name + trim paths"
+            },
+            {
+              "SHA": "ac8c538",
+              "Subject": "Added HostPath in ResticStats"
+            },
+            {
+              "SHA": "eb834fe",
+              "Subject": "Fixed components status update"
+            },
+            {
+              "SHA": "b6b8530",
+              "Subject": "Update for resticStats array field"
+            },
+            {
+              "SHA": "eed5549",
+              "Subject": "Fixed snapshot pointer issue"
+            },
+            {
+              "SHA": "ffb7ec9",
+              "Subject": "Fixed snapshot components issue"
+            },
+            {
+              "SHA": "ba68169",
+              "Subject": "Added restore logic"
+            },
+            {
+              "SHA": "8537ed4",
+              "Subject": "Refactor backup and restore path method"
+            },
+            {
+              "SHA": "6de2585",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "559c97e",
+              "Subject": "Implemented workload addon"
+            },
+            {
+              "SHA": "2ccb7db",
+              "Subject": "Use uid 65534 and test against K8s 1.27.0 (#4)"
+            },
+            {
+              "SHA": "09d9b65",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#3)"
+            },
+            {
+              "SHA": "cb05914",
+              "Subject": "Merge pull request #1 from kubestash/clone"
+            },
+            {
+              "SHA": "615f53f",
+              "Subject": "Update Readme"
+            },
+            {
+              "SHA": "46ba516",
+              "Subject": "Clone data from kubedb-manifest"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
