@@ -43,6 +43,29 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.2.0-rc.1](https://github.com/kubestash/kubestash/releases/tag/v0.2.0-rc.1)
+
+- [7b6bce51](https://github.com/kubestash/kubestash/commit/7b6bce51) Prepare for release v0.2.0-rc.1 (#166)
+- [a3f36cff](https://github.com/kubestash/kubestash/commit/a3f36cff) Check target kind before resolving image version
+- [aaa8766a](https://github.com/kubestash/kubestash/commit/aaa8766a) Use AppBinding version to resolve function image version (#165)
+- [a057a486](https://github.com/kubestash/kubestash/commit/a057a486) Add snapshot labels for listing snapshots with label selector (#162)
+- [ba899bed](https://github.com/kubestash/kubestash/commit/ba899bed) Resolve function image version for database addons (#159)
+- [50e190a9](https://github.com/kubestash/kubestash/commit/50e190a9) Fix snapshot ID + Set snapshot version (#163)
+- [6d1c181a](https://github.com/kubestash/kubestash/commit/6d1c181a) Calculate storage request for interim volume of elasticsearch (#156)
+- [de07e948](https://github.com/kubestash/kubestash/commit/de07e948) Cleanup pending snapshots when BackupSession is deleted (#160)
+- [1df4bec6](https://github.com/kubestash/kubestash/commit/1df4bec6) Update deps (#158)
+- [61303ffc](https://github.com/kubestash/kubestash/commit/61303ffc) Fix make install cmd (#157)
+- [d584ed67](https://github.com/kubestash/kubestash/commit/d584ed67) Ensure AppBinding CRD (#154)
+- [3d74c43c](https://github.com/kubestash/kubestash/commit/3d74c43c) Fix backup blueprint deletion action (#155)
+- [a1e2cce2](https://github.com/kubestash/kubestash/commit/a1e2cce2) Add support for Point-In-Time Recovery (PITR) (#151)
+- [c36e50a6](https://github.com/kubestash/kubestash/commit/c36e50a6) Add local network volume accessor (#147)
+- [b511fde6](https://github.com/kubestash/kubestash/commit/b511fde6) Add Support for PVC Volume populator (#149)
+- [c3ed7822](https://github.com/kubestash/kubestash/commit/c3ed7822) Add support for kubernetes resources backup and restore (#145)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.1.0-rc.1](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.1.0-rc.1)

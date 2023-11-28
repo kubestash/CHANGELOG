@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.11.28-rc.1",
-  "release_date": "2023-11-28T12:33:12.54643472Z",
+  "release_date": "2023-11-28T12:33:51.552754293Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.11.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -115,6 +115,80 @@
             {
               "SHA": "efff060",
               "Subject": "Update snapshot time (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7b6bce51",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#166)"
+            },
+            {
+              "SHA": "a3f36cff",
+              "Subject": "Check target kind before resolving image version"
+            },
+            {
+              "SHA": "aaa8766a",
+              "Subject": "Use AppBinding version to resolve function image version (#165)"
+            },
+            {
+              "SHA": "a057a486",
+              "Subject": "Add snapshot labels for listing snapshots with label selector (#162)"
+            },
+            {
+              "SHA": "ba899bed",
+              "Subject": "Resolve function image version for database addons (#159)"
+            },
+            {
+              "SHA": "50e190a9",
+              "Subject": "Fix snapshot ID + Set snapshot version (#163)"
+            },
+            {
+              "SHA": "6d1c181a",
+              "Subject": "Calculate storage request for interim volume of elasticsearch (#156)"
+            },
+            {
+              "SHA": "de07e948",
+              "Subject": "Cleanup pending snapshots when BackupSession is deleted (#160)"
+            },
+            {
+              "SHA": "1df4bec6",
+              "Subject": "Update deps (#158)"
+            },
+            {
+              "SHA": "61303ffc",
+              "Subject": "Fix make install cmd (#157)"
+            },
+            {
+              "SHA": "d584ed67",
+              "Subject": "Ensure AppBinding CRD (#154)"
+            },
+            {
+              "SHA": "3d74c43c",
+              "Subject": "Fix backup blueprint deletion action (#155)"
+            },
+            {
+              "SHA": "a1e2cce2",
+              "Subject": "Add support for Point-In-Time Recovery (PITR) (#151)"
+            },
+            {
+              "SHA": "c36e50a6",
+              "Subject": "Add local network volume accessor (#147)"
+            },
+            {
+              "SHA": "b511fde6",
+              "Subject": "Add Support for PVC Volume populator (#149)"
+            },
+            {
+              "SHA": "c3ed7822",
+              "Subject": "Add support for kubernetes resources backup and restore (#145)"
             }
           ]
         }
