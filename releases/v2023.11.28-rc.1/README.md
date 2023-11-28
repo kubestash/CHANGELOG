@@ -34,6 +34,17 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.1.0-rc.1](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.1.0-rc.1)
+
+- [ec0eb085](https://github.com/kubestash/volume-snapshotter/commit/ec0eb085) Prepare for release v0.1.0-rc.1 (#10)
+- [3c092abc](https://github.com/kubestash/volume-snapshotter/commit/3c092abc) Update snapshot time (#9)
+- [b6dfca6f](https://github.com/kubestash/volume-snapshotter/commit/b6dfca6f) Update deps (#8)
+- [ab8f8eae](https://github.com/kubestash/volume-snapshotter/commit/ab8f8eae) Use default VolumeSnapshotClass if it is empty (#7)
+
+
+
 ## [kubestash/workload](https://github.com/kubestash/workload)
 
 ### [v0.1.0-rc.1](https://github.com/kubestash/workload/releases/tag/v0.1.0-rc.1)
