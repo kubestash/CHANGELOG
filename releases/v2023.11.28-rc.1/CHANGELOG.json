@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.11.28-rc.1",
-  "release_date": "2023-11-28T12:03:56.243920739Z",
+  "release_date": "2023-11-28T12:32:20.616371073Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.11.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -71,6 +71,32 @@
             {
               "SHA": "407f425",
               "Subject": "Add session name to BackupSession offshoot labels (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e9c82ca",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#6)"
+            },
+            {
+              "SHA": "d7f30d0",
+              "Subject": "Update deps (#5)"
+            },
+            {
+              "SHA": "bff2dff",
+              "Subject": "Refactor + Revendor (#4)"
+            },
+            {
+              "SHA": "ace4173",
+              "Subject": "Implement kubestash CLI (#1)"
             }
           ]
         }
