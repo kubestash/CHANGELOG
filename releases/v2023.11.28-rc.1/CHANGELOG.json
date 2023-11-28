@@ -1,0 +1,366 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.11.28-rc.1",
+  "release_date": "2023-11-28T13:07:42.828557343Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2023.11.28-rc.1",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f782c9a",
+              "Subject": "Add snapshot labels for listing snapshots with label selector (#78)"
+            },
+            {
+              "SHA": "9ac07ef",
+              "Subject": "Add constant for snapshot version (#79)"
+            },
+            {
+              "SHA": "1593f57",
+              "Subject": "Add helper method for calculating backup data size (#77)"
+            },
+            {
+              "SHA": "0b99d5c",
+              "Subject": "Update webhooks (#72)"
+            },
+            {
+              "SHA": "329d29d",
+              "Subject": "Update RestoreSession webhook for PITR (#64)"
+            },
+            {
+              "SHA": "1f77f29",
+              "Subject": "Add missing volume populator const (#76)"
+            },
+            {
+              "SHA": "ec33cf6",
+              "Subject": "Update temp volume consts (#73)"
+            },
+            {
+              "SHA": "690b178",
+              "Subject": "Add const for volume populator (#55)"
+            },
+            {
+              "SHA": "5907022",
+              "Subject": "Use reflector for comparing BackupStorage (#71)"
+            },
+            {
+              "SHA": "f213641",
+              "Subject": "Add update-crds workflow"
+            },
+            {
+              "SHA": "0e446d8",
+              "Subject": "Revise empty check for restic host (#69)"
+            },
+            {
+              "SHA": "086480c",
+              "Subject": "Add restic methods for managing restic keys (#60)"
+            },
+            {
+              "SHA": "629491e",
+              "Subject": "Add backupstorage webhook (#66)"
+            },
+            {
+              "SHA": "967f313",
+              "Subject": "Add constants for kubedump (#50)"
+            },
+            {
+              "SHA": "407f425",
+              "Subject": "Add session name to BackupSession offshoot labels (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e9c82ca",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#6)"
+            },
+            {
+              "SHA": "d7f30d0",
+              "Subject": "Update deps (#5)"
+            },
+            {
+              "SHA": "bff2dff",
+              "Subject": "Refactor + Revendor (#4)"
+            },
+            {
+              "SHA": "ace4173",
+              "Subject": "Implement kubestash CLI (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.11.28-rc.1",
+          "commits": [
+            {
+              "SHA": "5e15f5d",
+              "Subject": "Prepare for release v2023.11.28-rc.1 (#37)"
+            },
+            {
+              "SHA": "791d11f",
+              "Subject": "Removed unnecessary permissions (#35)"
+            },
+            {
+              "SHA": "cc88b7f",
+              "Subject": "Rename volumeSnapshotClassName flag and function name (#36)"
+            },
+            {
+              "SHA": "08fc0aa",
+              "Subject": "Add necessary RBAC permission for mongodb and mysql (#31)"
+            },
+            {
+              "SHA": "160d8ce",
+              "Subject": "Check for image existence (#33)"
+            },
+            {
+              "SHA": "bdbaba5",
+              "Subject": "Move db addons to kubedb project (#32)"
+            },
+            {
+              "SHA": "4a4f5f2",
+              "Subject": "Add RBAC permission for elasticsearch (#29)"
+            },
+            {
+              "SHA": "55bf292",
+              "Subject": "Add mutating webhook for BackupConfiguration (#30)"
+            },
+            {
+              "SHA": "64a99a8",
+              "Subject": "Fix operator configuration for registry (#28)"
+            },
+            {
+              "SHA": "6672093",
+              "Subject": "Fix permissions for ensuring AppBinding crd (#27)"
+            },
+            {
+              "SHA": "6a31709",
+              "Subject": "Add permissions for ensuring AppBinding crd (#26)"
+            },
+            {
+              "SHA": "42d9c19",
+              "Subject": "Update PVC addon + operator RBAC permission (#24)"
+            },
+            {
+              "SHA": "c2e33ea",
+              "Subject": "Move VolumeSnapshot and manifest addon tasks to their respective addon (#25)"
+            },
+            {
+              "SHA": "e9c78da",
+              "Subject": "Add PVC addon (#23)"
+            },
+            {
+              "SHA": "8ad56e9",
+              "Subject": "Update temp volume name and mount path (#22)"
+            },
+            {
+              "SHA": "901a9fa",
+              "Subject": "Update tmp volume name (#21)"
+            },
+            {
+              "SHA": "1c01b42",
+              "Subject": "Update scratchDir on catalog addons (#20)"
+            },
+            {
+              "SHA": "d228c29",
+              "Subject": "Remove stash function and task crds (#19)"
+            },
+            {
+              "SHA": "4009561",
+              "Subject": "Add catalog chart (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7761f2c",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#6)"
+            },
+            {
+              "SHA": "efff060",
+              "Subject": "Update snapshot time (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7b6bce51",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#166)"
+            },
+            {
+              "SHA": "a3f36cff",
+              "Subject": "Check target kind before resolving image version"
+            },
+            {
+              "SHA": "aaa8766a",
+              "Subject": "Use AppBinding version to resolve function image version (#165)"
+            },
+            {
+              "SHA": "a057a486",
+              "Subject": "Add snapshot labels for listing snapshots with label selector (#162)"
+            },
+            {
+              "SHA": "ba899bed",
+              "Subject": "Resolve function image version for database addons (#159)"
+            },
+            {
+              "SHA": "50e190a9",
+              "Subject": "Fix snapshot ID + Set snapshot version (#163)"
+            },
+            {
+              "SHA": "6d1c181a",
+              "Subject": "Calculate storage request for interim volume of elasticsearch (#156)"
+            },
+            {
+              "SHA": "de07e948",
+              "Subject": "Cleanup pending snapshots when BackupSession is deleted (#160)"
+            },
+            {
+              "SHA": "1df4bec6",
+              "Subject": "Update deps (#158)"
+            },
+            {
+              "SHA": "61303ffc",
+              "Subject": "Fix make install cmd (#157)"
+            },
+            {
+              "SHA": "d584ed67",
+              "Subject": "Ensure AppBinding CRD (#154)"
+            },
+            {
+              "SHA": "3d74c43c",
+              "Subject": "Fix backup blueprint deletion action (#155)"
+            },
+            {
+              "SHA": "a1e2cce2",
+              "Subject": "Add support for Point-In-Time Recovery (PITR) (#151)"
+            },
+            {
+              "SHA": "c36e50a6",
+              "Subject": "Add local network volume accessor (#147)"
+            },
+            {
+              "SHA": "b511fde6",
+              "Subject": "Add Support for PVC Volume populator (#149)"
+            },
+            {
+              "SHA": "c3ed7822",
+              "Subject": "Add support for kubernetes resources backup and restore (#145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a86ddab",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#13)"
+            },
+            {
+              "SHA": "d11f9e4",
+              "Subject": "Update snapshot time (#12)"
+            },
+            {
+              "SHA": "7a84bed",
+              "Subject": "Add exclude flag for backup (#11)"
+            },
+            {
+              "SHA": "f163d02",
+              "Subject": "Update deps (#10)"
+            },
+            {
+              "SHA": "0db3f68",
+              "Subject": "Switch to function from method for updating snapshot component status (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ec0eb085",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#10)"
+            },
+            {
+              "SHA": "3c092abc",
+              "Subject": "Update snapshot time (#9)"
+            },
+            {
+              "SHA": "b6dfca6f",
+              "Subject": "Update deps (#8)"
+            },
+            {
+              "SHA": "ab8f8eae",
+              "Subject": "Use default VolumeSnapshotClass if it is empty (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4c6c945",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#25)"
+            },
+            {
+              "SHA": "9318bb5",
+              "Subject": "Remove unnecessary method receiver (#24)"
+            },
+            {
+              "SHA": "58eb7cf",
+              "Subject": "Fix snapshot time (#23)"
+            },
+            {
+              "SHA": "c76d6a8",
+              "Subject": "Update deps (#22)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
