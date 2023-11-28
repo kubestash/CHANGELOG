@@ -1,0 +1,80 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.11.28-rc.1",
+  "release_date": "2023-11-28T12:03:56.243920739Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2023.11.28-rc.1",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f782c9a",
+              "Subject": "Add snapshot labels for listing snapshots with label selector (#78)"
+            },
+            {
+              "SHA": "9ac07ef",
+              "Subject": "Add constant for snapshot version (#79)"
+            },
+            {
+              "SHA": "1593f57",
+              "Subject": "Add helper method for calculating backup data size (#77)"
+            },
+            {
+              "SHA": "0b99d5c",
+              "Subject": "Update webhooks (#72)"
+            },
+            {
+              "SHA": "329d29d",
+              "Subject": "Update RestoreSession webhook for PITR (#64)"
+            },
+            {
+              "SHA": "1f77f29",
+              "Subject": "Add missing volume populator const (#76)"
+            },
+            {
+              "SHA": "ec33cf6",
+              "Subject": "Update temp volume consts (#73)"
+            },
+            {
+              "SHA": "690b178",
+              "Subject": "Add const for volume populator (#55)"
+            },
+            {
+              "SHA": "5907022",
+              "Subject": "Use reflector for comparing BackupStorage (#71)"
+            },
+            {
+              "SHA": "f213641",
+              "Subject": "Add update-crds workflow"
+            },
+            {
+              "SHA": "0e446d8",
+              "Subject": "Revise empty check for restic host (#69)"
+            },
+            {
+              "SHA": "086480c",
+              "Subject": "Add restic methods for managing restic keys (#60)"
+            },
+            {
+              "SHA": "629491e",
+              "Subject": "Add backupstorage webhook (#66)"
+            },
+            {
+              "SHA": "967f313",
+              "Subject": "Add constants for kubedump (#50)"
+            },
+            {
+              "SHA": "407f425",
+              "Subject": "Add session name to BackupSession offshoot labels (#67)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
