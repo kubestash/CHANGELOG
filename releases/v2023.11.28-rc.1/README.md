@@ -34,3 +34,14 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.1.0-rc.1](https://github.com/kubestash/workload/releases/tag/v0.1.0-rc.1)
+
+- [4c6c945](https://github.com/kubestash/workload/commit/4c6c945) Prepare for release v0.1.0-rc.1 (#25)
+- [9318bb5](https://github.com/kubestash/workload/commit/9318bb5) Remove unnecessary method receiver (#24)
+- [58eb7cf](https://github.com/kubestash/workload/commit/58eb7cf) Fix snapshot time (#23)
+- [c76d6a8](https://github.com/kubestash/workload/commit/c76d6a8) Update deps (#22)
+
+
+
