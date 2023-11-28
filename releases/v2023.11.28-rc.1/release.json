@@ -1,0 +1,58 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.11.28-rc.1",
+  "docs_url_template": "https://kubestash.com/docs/%s",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "github.com/kubestash/apimachinery": {
+        "tag": "v0.2.0-rc.1"
+      }
+    },
+    {
+      "github.com/kubestash/cli": {
+        "tag": "v0.1.0-rc.1"
+      },
+      "github.com/kubestash/kubedump": {
+        "tag": "v0.1.0-rc.1"
+      },
+      "github.com/kubestash/kubestash": {
+        "tag": "v0.2.0-rc.1"
+      },
+      "github.com/kubestash/pvc": {
+        "tag": "v0.1.0-rc.1"
+      },
+      "github.com/kubestash/volume-snapshotter": {
+        "tag": "v0.1.0-rc.1"
+      },
+      "github.com/kubestash/workload": {
+        "tag": "v0.1.0-rc.1"
+      }
+    },
+    {
+      "github.com/kubestash/installer": {
+        "key": "kubestash-installer",
+        "tag": "v2023.11.28-rc.1",
+        "chartNames": [
+          "kubestash",
+          "kubestash-operator"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubestash-operator CHART_VERSION=${KUBESTASH_KUBESTASH_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubestash/installer"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ]
+}
