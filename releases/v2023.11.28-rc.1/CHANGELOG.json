@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.11.28-rc.1",
-  "release_date": "2023-11-28T12:33:51.552754293Z",
+  "release_date": "2023-11-28T12:33:56.198829042Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.11.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -189,6 +189,36 @@
             {
               "SHA": "c3ed7822",
               "Subject": "Add support for kubernetes resources backup and restore (#145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a86ddab",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#13)"
+            },
+            {
+              "SHA": "d11f9e4",
+              "Subject": "Update snapshot time (#12)"
+            },
+            {
+              "SHA": "7a84bed",
+              "Subject": "Add exclude flag for backup (#11)"
+            },
+            {
+              "SHA": "f163d02",
+              "Subject": "Update deps (#10)"
+            },
+            {
+              "SHA": "0db3f68",
+              "Subject": "Switch to function from method for updating snapshot component status (#9)"
             }
           ]
         }

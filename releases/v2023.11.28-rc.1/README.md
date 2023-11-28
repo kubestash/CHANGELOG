@@ -66,6 +66,18 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.1.0-rc.1](https://github.com/kubestash/pvc/releases/tag/v0.1.0-rc.1)
+
+- [a86ddab](https://github.com/kubestash/pvc/commit/a86ddab) Prepare for release v0.1.0-rc.1 (#13)
+- [d11f9e4](https://github.com/kubestash/pvc/commit/d11f9e4) Update snapshot time (#12)
+- [7a84bed](https://github.com/kubestash/pvc/commit/7a84bed) Add exclude flag for backup (#11)
+- [f163d02](https://github.com/kubestash/pvc/commit/f163d02) Update deps (#10)
+- [0db3f68](https://github.com/kubestash/pvc/commit/0db3f68) Switch to function from method for updating snapshot component status (#9)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.1.0-rc.1](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.1.0-rc.1)
