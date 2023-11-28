@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.11.28-rc.1",
-  "release_date": "2023-11-28T12:33:56.198829042Z",
+  "release_date": "2023-11-28T13:07:42.828557343Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.11.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -97,6 +97,92 @@
             {
               "SHA": "ace4173",
               "Subject": "Implement kubestash CLI (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.11.28-rc.1",
+          "commits": [
+            {
+              "SHA": "5e15f5d",
+              "Subject": "Prepare for release v2023.11.28-rc.1 (#37)"
+            },
+            {
+              "SHA": "791d11f",
+              "Subject": "Removed unnecessary permissions (#35)"
+            },
+            {
+              "SHA": "cc88b7f",
+              "Subject": "Rename volumeSnapshotClassName flag and function name (#36)"
+            },
+            {
+              "SHA": "08fc0aa",
+              "Subject": "Add necessary RBAC permission for mongodb and mysql (#31)"
+            },
+            {
+              "SHA": "160d8ce",
+              "Subject": "Check for image existence (#33)"
+            },
+            {
+              "SHA": "bdbaba5",
+              "Subject": "Move db addons to kubedb project (#32)"
+            },
+            {
+              "SHA": "4a4f5f2",
+              "Subject": "Add RBAC permission for elasticsearch (#29)"
+            },
+            {
+              "SHA": "55bf292",
+              "Subject": "Add mutating webhook for BackupConfiguration (#30)"
+            },
+            {
+              "SHA": "64a99a8",
+              "Subject": "Fix operator configuration for registry (#28)"
+            },
+            {
+              "SHA": "6672093",
+              "Subject": "Fix permissions for ensuring AppBinding crd (#27)"
+            },
+            {
+              "SHA": "6a31709",
+              "Subject": "Add permissions for ensuring AppBinding crd (#26)"
+            },
+            {
+              "SHA": "42d9c19",
+              "Subject": "Update PVC addon + operator RBAC permission (#24)"
+            },
+            {
+              "SHA": "c2e33ea",
+              "Subject": "Move VolumeSnapshot and manifest addon tasks to their respective addon (#25)"
+            },
+            {
+              "SHA": "e9c78da",
+              "Subject": "Add PVC addon (#23)"
+            },
+            {
+              "SHA": "8ad56e9",
+              "Subject": "Update temp volume name and mount path (#22)"
+            },
+            {
+              "SHA": "901a9fa",
+              "Subject": "Update tmp volume name (#21)"
+            },
+            {
+              "SHA": "1c01b42",
+              "Subject": "Update scratchDir on catalog addons (#20)"
+            },
+            {
+              "SHA": "d228c29",
+              "Subject": "Remove stash function and task crds (#19)"
+            },
+            {
+              "SHA": "4009561",
+              "Subject": "Add catalog chart (#16)"
             }
           ]
         }

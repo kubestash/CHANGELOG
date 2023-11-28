@@ -34,6 +34,32 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2023.11.28-rc.1](https://github.com/kubestash/installer/releases/tag/v2023.11.28-rc.1)
+
+- [5e15f5d](https://github.com/kubestash/installer/commit/5e15f5d) Prepare for release v2023.11.28-rc.1 (#37)
+- [791d11f](https://github.com/kubestash/installer/commit/791d11f) Removed unnecessary permissions (#35)
+- [cc88b7f](https://github.com/kubestash/installer/commit/cc88b7f) Rename volumeSnapshotClassName flag and function name (#36)
+- [08fc0aa](https://github.com/kubestash/installer/commit/08fc0aa) Add necessary RBAC permission for mongodb and mysql (#31)
+- [160d8ce](https://github.com/kubestash/installer/commit/160d8ce) Check for image existence (#33)
+- [bdbaba5](https://github.com/kubestash/installer/commit/bdbaba5) Move db addons to kubedb project (#32)
+- [4a4f5f2](https://github.com/kubestash/installer/commit/4a4f5f2) Add RBAC permission for elasticsearch (#29)
+- [55bf292](https://github.com/kubestash/installer/commit/55bf292) Add mutating webhook for BackupConfiguration (#30)
+- [64a99a8](https://github.com/kubestash/installer/commit/64a99a8) Fix operator configuration for registry (#28)
+- [6672093](https://github.com/kubestash/installer/commit/6672093) Fix permissions for ensuring AppBinding crd (#27)
+- [6a31709](https://github.com/kubestash/installer/commit/6a31709) Add permissions for ensuring AppBinding crd (#26)
+- [42d9c19](https://github.com/kubestash/installer/commit/42d9c19) Update PVC addon + operator RBAC permission (#24)
+- [c2e33ea](https://github.com/kubestash/installer/commit/c2e33ea) Move VolumeSnapshot and manifest addon tasks to their respective addon (#25)
+- [e9c78da](https://github.com/kubestash/installer/commit/e9c78da) Add PVC addon (#23)
+- [8ad56e9](https://github.com/kubestash/installer/commit/8ad56e9) Update temp volume name and mount path (#22)
+- [901a9fa](https://github.com/kubestash/installer/commit/901a9fa) Update tmp volume name (#21)
+- [1c01b42](https://github.com/kubestash/installer/commit/1c01b42) Update scratchDir on catalog addons (#20)
+- [d228c29](https://github.com/kubestash/installer/commit/d228c29) Remove stash function and task crds (#19)
+- [4009561](https://github.com/kubestash/installer/commit/4009561) Add catalog chart (#16)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.1.0-rc.1](https://github.com/kubestash/kubedump/releases/tag/v0.1.0-rc.1)
