@@ -34,6 +34,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.1.0-rc.1](https://github.com/kubestash/kubedump/releases/tag/v0.1.0-rc.1)
+
+- [7761f2c](https://github.com/kubestash/kubedump/commit/7761f2c) Prepare for release v0.1.0-rc.1 (#6)
+- [efff060](https://github.com/kubestash/kubedump/commit/efff060) Update snapshot time (#5)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.1.0-rc.1](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.1.0-rc.1)

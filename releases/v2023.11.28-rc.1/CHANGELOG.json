@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.11.28-rc.1",
-  "release_date": "2023-11-28T12:33:07.251119683Z",
+  "release_date": "2023-11-28T12:33:12.54643472Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.11.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -97,6 +97,24 @@
             {
               "SHA": "ace4173",
               "Subject": "Implement kubestash CLI (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7761f2c",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#6)"
+            },
+            {
+              "SHA": "efff060",
+              "Subject": "Update snapshot time (#5)"
             }
           ]
         }
