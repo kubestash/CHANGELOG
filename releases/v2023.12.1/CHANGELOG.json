@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.1",
-  "release_date": "2023-12-01T10:22:39.606159063Z",
+  "release_date": "2023-12-01T10:23:11.432075582Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.1",
   "kubernetes_version": "1.20+",
@@ -315,6 +315,104 @@
             {
               "SHA": "9eb28ca",
               "Subject": "Remove release.yml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "29728486",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "ec0eb085",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#10)"
+            },
+            {
+              "SHA": "3c092abc",
+              "Subject": "Update snapshot time (#9)"
+            },
+            {
+              "SHA": "b6dfca6f",
+              "Subject": "Update deps (#8)"
+            },
+            {
+              "SHA": "ab8f8eae",
+              "Subject": "Use default VolumeSnapshotClass if it is empty (#7)"
+            },
+            {
+              "SHA": "07dc2770",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "d6639382",
+              "Subject": "Use Go 1.21 and firecracker runner"
+            },
+            {
+              "SHA": "f69f61ab",
+              "Subject": "Add HostPath on volumeSnapshotter stats (#4)"
+            },
+            {
+              "SHA": "7f07a810",
+              "Subject": " Add concurrency to verify PVC readiness (#3)"
+            },
+            {
+              "SHA": "9fcca853",
+              "Subject": "Merge pull request #1 from kubestash/volume-snapshotter"
+            },
+            {
+              "SHA": "5bd6157e",
+              "Subject": "Cleanup Signed-off-by: hmsayem <hmsayem@appscode.com>"
+            },
+            {
+              "SHA": "7f0811fd",
+              "Subject": "refactor code and resolve review changes Signed-off-by: Anisur Rahman <anisur@appscode.com>"
+            },
+            {
+              "SHA": "94078d23",
+              "Subject": "refactor components status Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "6bd2da11",
+              "Subject": "seperate component-status Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "4abb3d74",
+              "Subject": "remove restic info from dockerfile and makefile Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "8ab78c29",
+              "Subject": "add restoretask in flag Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "fb4d2121",
+              "Subject": "Refactor code Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "d58832bf",
+              "Subject": "remove kmapi vs_client Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "15791f43",
+              "Subject": "add git-ignore Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "45c3b206",
+              "Subject": "refactor Code Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
+            },
+            {
+              "SHA": "0fbba02f",
+              "Subject": "implement restore"
+            },
+            {
+              "SHA": "3e1ef1bc",
+              "Subject": "implement backup Signed-off-by: anisurrahman75 <sunny.cse7575@gmail.com>"
             }
           ]
         }
