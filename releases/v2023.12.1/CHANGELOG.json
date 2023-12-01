@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.1",
-  "release_date": "2023-12-01T10:23:37.075290263Z",
+  "release_date": "2023-12-01T10:24:13.804325629Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.1",
   "kubernetes_version": "1.20+",
@@ -315,6 +315,52 @@
             {
               "SHA": "9eb28ca",
               "Subject": "Remove release.yml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "8e408e8",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "9121725",
+              "Subject": "Update constants (#7)"
+            },
+            {
+              "SHA": "7761f2c",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#6)"
+            },
+            {
+              "SHA": "efff060",
+              "Subject": "Update snapshot time (#5)"
+            },
+            {
+              "SHA": "2455c67",
+              "Subject": "Update deps (#4)"
+            },
+            {
+              "SHA": "322d958",
+              "Subject": "Add support for kubernetes resources backup (#1)"
+            },
+            {
+              "SHA": "819d3f1",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "72bd51d",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            },
+            {
+              "SHA": "986715c",
+              "Subject": "Use Go 1.21 and firecraker runner"
             }
           ]
         }

@@ -84,6 +84,22 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.1.0](https://github.com/kubestash/kubedump/releases/tag/v0.1.0)
+
+- [8e408e8](https://github.com/kubestash/kubedump/commit/8e408e8) Prepare for release v0.1.0 (#8)
+- [9121725](https://github.com/kubestash/kubedump/commit/9121725) Update constants (#7)
+- [7761f2c](https://github.com/kubestash/kubedump/commit/7761f2c) Prepare for release v0.1.0-rc.1 (#6)
+- [efff060](https://github.com/kubestash/kubedump/commit/efff060) Update snapshot time (#5)
+- [2455c67](https://github.com/kubestash/kubedump/commit/2455c67) Update deps (#4)
+- [322d958](https://github.com/kubestash/kubedump/commit/322d958) Add support for kubernetes resources backup (#1)
+- [819d3f1](https://github.com/kubestash/kubedump/commit/819d3f1) Fix build
+- [72bd51d](https://github.com/kubestash/kubedump/commit/72bd51d) Prepare for release v0.1.0-rc.0 (#3)
+- [986715c](https://github.com/kubestash/kubedump/commit/986715c) Use Go 1.21 and firecraker runner
+
+
+
 ## [kubestash/kubestash](https://github.com/kubestash/kubestash)
 
 ### [v0.2.0](https://github.com/kubestash/kubestash/releases/tag/v0.2.0)
