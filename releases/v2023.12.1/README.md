@@ -183,6 +183,28 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.1.0](https://github.com/kubestash/pvc/releases/tag/v0.1.0)
+
+- [8edcf4e](https://github.com/kubestash/pvc/commit/8edcf4e) Prepare for release v0.1.0 (#14)
+- [a86ddab](https://github.com/kubestash/pvc/commit/a86ddab) Prepare for release v0.1.0-rc.1 (#13)
+- [d11f9e4](https://github.com/kubestash/pvc/commit/d11f9e4) Update snapshot time (#12)
+- [7a84bed](https://github.com/kubestash/pvc/commit/7a84bed) Add exclude flag for backup (#11)
+- [f163d02](https://github.com/kubestash/pvc/commit/f163d02) Update deps (#10)
+- [0db3f68](https://github.com/kubestash/pvc/commit/0db3f68) Switch to function from method for updating snapshot component status (#9)
+- [b7ce8a7](https://github.com/kubestash/pvc/commit/b7ce8a7) Prepare for release v0.1.0-rc.0 (#8)
+- [ac48a5d](https://github.com/kubestash/pvc/commit/ac48a5d) Update Dockerfile (#7)
+- [650046e](https://github.com/kubestash/pvc/commit/650046e) Refactor with update addon changes (#6)
+- [57c53cb](https://github.com/kubestash/pvc/commit/57c53cb) Use gh runner token to publish image
+- [47ba57d](https://github.com/kubestash/pvc/commit/47ba57d) Use firecracker runner
+- [4025d8f](https://github.com/kubestash/pvc/commit/4025d8f) Use Go 1.21
+- [cd5dfcc](https://github.com/kubestash/pvc/commit/cd5dfcc) Set snapshot time after snapshot completed (#3)
+- [4f7ec84](https://github.com/kubestash/pvc/commit/4f7ec84) Add support for PVC backup and restore (#2)
+- [8fef9ea](https://github.com/kubestash/pvc/commit/8fef9ea) Update readme
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.1.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.1.0)
