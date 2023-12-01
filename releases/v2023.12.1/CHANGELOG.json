@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.1",
-  "release_date": "2023-12-01T10:52:14.619624775Z",
+  "release_date": "2023-12-01T11:01:19.962382474Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.1",
   "kubernetes_version": "1.20+",
@@ -345,6 +345,140 @@
             {
               "SHA": "ace4173",
               "Subject": "Implement kubestash CLI (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.12.1",
+          "commits": [
+            {
+              "SHA": "fcfc791",
+              "Subject": "Prepare for release v2023.12.1 (#41)"
+            },
+            {
+              "SHA": "22ae82b",
+              "Subject": "Add license reader/checker rbac (#40)"
+            },
+            {
+              "SHA": "0c13ecb",
+              "Subject": "Add image pull secret config (#34)"
+            },
+            {
+              "SHA": "903be8d",
+              "Subject": "Remove db addons from catalog apis (#38)"
+            },
+            {
+              "SHA": "3c94bbd",
+              "Subject": "Update function image tags (#39)"
+            },
+            {
+              "SHA": "5e15f5d",
+              "Subject": "Prepare for release v2023.11.28-rc.1 (#37)"
+            },
+            {
+              "SHA": "791d11f",
+              "Subject": "Removed unnecessary permissions (#35)"
+            },
+            {
+              "SHA": "cc88b7f",
+              "Subject": "Rename volumeSnapshotClassName flag and function name (#36)"
+            },
+            {
+              "SHA": "08fc0aa",
+              "Subject": "Add necessary RBAC permission for mongodb and mysql (#31)"
+            },
+            {
+              "SHA": "160d8ce",
+              "Subject": "Check for image existence (#33)"
+            },
+            {
+              "SHA": "bdbaba5",
+              "Subject": "Move db addons to kubedb project (#32)"
+            },
+            {
+              "SHA": "4a4f5f2",
+              "Subject": "Add RBAC permission for elasticsearch (#29)"
+            },
+            {
+              "SHA": "55bf292",
+              "Subject": "Add mutating webhook for BackupConfiguration (#30)"
+            },
+            {
+              "SHA": "64a99a8",
+              "Subject": "Fix operator configuration for registry (#28)"
+            },
+            {
+              "SHA": "6672093",
+              "Subject": "Fix permissions for ensuring AppBinding crd (#27)"
+            },
+            {
+              "SHA": "6a31709",
+              "Subject": "Add permissions for ensuring AppBinding crd (#26)"
+            },
+            {
+              "SHA": "42d9c19",
+              "Subject": "Update PVC addon + operator RBAC permission (#24)"
+            },
+            {
+              "SHA": "c2e33ea",
+              "Subject": "Move VolumeSnapshot and manifest addon tasks to their respective addon (#25)"
+            },
+            {
+              "SHA": "e9c78da",
+              "Subject": "Add PVC addon (#23)"
+            },
+            {
+              "SHA": "8ad56e9",
+              "Subject": "Update temp volume name and mount path (#22)"
+            },
+            {
+              "SHA": "901a9fa",
+              "Subject": "Update tmp volume name (#21)"
+            },
+            {
+              "SHA": "1c01b42",
+              "Subject": "Update scratchDir on catalog addons (#20)"
+            },
+            {
+              "SHA": "d228c29",
+              "Subject": "Remove stash function and task crds (#19)"
+            },
+            {
+              "SHA": "4009561",
+              "Subject": "Add catalog chart (#16)"
+            },
+            {
+              "SHA": "0fead13",
+              "Subject": "Prepare for release v2023.10.30-rc.0 (#14)"
+            },
+            {
+              "SHA": "db149d7",
+              "Subject": "Import crds without description"
+            },
+            {
+              "SHA": "36291d8",
+              "Subject": "Import crds"
+            },
+            {
+              "SHA": "be1e6be",
+              "Subject": "Add permissions for storageclasses (#13)"
+            },
+            {
+              "SHA": "764ce03",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "49b943b",
+              "Subject": "Give volume snapshotter necessary rbac (#12)"
+            },
+            {
+              "SHA": "c498b57",
+              "Subject": "Add support for local network volume (#10)"
             }
           ]
         }

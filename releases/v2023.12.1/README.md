@@ -96,6 +96,44 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2023.12.1](https://github.com/kubestash/installer/releases/tag/v2023.12.1)
+
+- [fcfc791](https://github.com/kubestash/installer/commit/fcfc791) Prepare for release v2023.12.1 (#41)
+- [22ae82b](https://github.com/kubestash/installer/commit/22ae82b) Add license reader/checker rbac (#40)
+- [0c13ecb](https://github.com/kubestash/installer/commit/0c13ecb) Add image pull secret config (#34)
+- [903be8d](https://github.com/kubestash/installer/commit/903be8d) Remove db addons from catalog apis (#38)
+- [3c94bbd](https://github.com/kubestash/installer/commit/3c94bbd) Update function image tags (#39)
+- [5e15f5d](https://github.com/kubestash/installer/commit/5e15f5d) Prepare for release v2023.11.28-rc.1 (#37)
+- [791d11f](https://github.com/kubestash/installer/commit/791d11f) Removed unnecessary permissions (#35)
+- [cc88b7f](https://github.com/kubestash/installer/commit/cc88b7f) Rename volumeSnapshotClassName flag and function name (#36)
+- [08fc0aa](https://github.com/kubestash/installer/commit/08fc0aa) Add necessary RBAC permission for mongodb and mysql (#31)
+- [160d8ce](https://github.com/kubestash/installer/commit/160d8ce) Check for image existence (#33)
+- [bdbaba5](https://github.com/kubestash/installer/commit/bdbaba5) Move db addons to kubedb project (#32)
+- [4a4f5f2](https://github.com/kubestash/installer/commit/4a4f5f2) Add RBAC permission for elasticsearch (#29)
+- [55bf292](https://github.com/kubestash/installer/commit/55bf292) Add mutating webhook for BackupConfiguration (#30)
+- [64a99a8](https://github.com/kubestash/installer/commit/64a99a8) Fix operator configuration for registry (#28)
+- [6672093](https://github.com/kubestash/installer/commit/6672093) Fix permissions for ensuring AppBinding crd (#27)
+- [6a31709](https://github.com/kubestash/installer/commit/6a31709) Add permissions for ensuring AppBinding crd (#26)
+- [42d9c19](https://github.com/kubestash/installer/commit/42d9c19) Update PVC addon + operator RBAC permission (#24)
+- [c2e33ea](https://github.com/kubestash/installer/commit/c2e33ea) Move VolumeSnapshot and manifest addon tasks to their respective addon (#25)
+- [e9c78da](https://github.com/kubestash/installer/commit/e9c78da) Add PVC addon (#23)
+- [8ad56e9](https://github.com/kubestash/installer/commit/8ad56e9) Update temp volume name and mount path (#22)
+- [901a9fa](https://github.com/kubestash/installer/commit/901a9fa) Update tmp volume name (#21)
+- [1c01b42](https://github.com/kubestash/installer/commit/1c01b42) Update scratchDir on catalog addons (#20)
+- [d228c29](https://github.com/kubestash/installer/commit/d228c29) Remove stash function and task crds (#19)
+- [4009561](https://github.com/kubestash/installer/commit/4009561) Add catalog chart (#16)
+- [0fead13](https://github.com/kubestash/installer/commit/0fead13) Prepare for release v2023.10.30-rc.0 (#14)
+- [db149d7](https://github.com/kubestash/installer/commit/db149d7) Import crds without description
+- [36291d8](https://github.com/kubestash/installer/commit/36291d8) Import crds
+- [be1e6be](https://github.com/kubestash/installer/commit/be1e6be) Add permissions for storageclasses (#13)
+- [764ce03](https://github.com/kubestash/installer/commit/764ce03) Update deps
+- [49b943b](https://github.com/kubestash/installer/commit/49b943b) Give volume snapshotter necessary rbac (#12)
+- [c498b57](https://github.com/kubestash/installer/commit/c498b57) Add support for local network volume (#10)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.1.0](https://github.com/kubestash/kubedump/releases/tag/v0.1.0)
