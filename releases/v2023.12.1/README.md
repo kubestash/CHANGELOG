@@ -84,6 +84,18 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.1.0](https://github.com/kubestash/cli/releases/tag/v0.1.0)
+
+- [5c83a8b](https://github.com/kubestash/cli/commit/5c83a8b) Prepare for release v0.1.0 (#7)
+- [e9c82ca](https://github.com/kubestash/cli/commit/e9c82ca) Prepare for release v0.1.0-rc.1 (#6)
+- [d7f30d0](https://github.com/kubestash/cli/commit/d7f30d0) Update deps (#5)
+- [bff2dff](https://github.com/kubestash/cli/commit/bff2dff) Refactor + Revendor (#4)
+- [ace4173](https://github.com/kubestash/cli/commit/ace4173) Implement kubestash CLI (#1)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.1.0](https://github.com/kubestash/kubedump/releases/tag/v0.1.0)
