@@ -84,3 +84,68 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.1.0](https://github.com/kubestash/workload/releases/tag/v0.1.0)
+
+- [4e280f6](https://github.com/kubestash/workload/commit/4e280f6) Prepare for release v0.1.0 (#26)
+- [4c6c945](https://github.com/kubestash/workload/commit/4c6c945) Prepare for release v0.1.0-rc.1 (#25)
+- [9318bb5](https://github.com/kubestash/workload/commit/9318bb5) Remove unnecessary method receiver (#24)
+- [58eb7cf](https://github.com/kubestash/workload/commit/58eb7cf) Fix snapshot time (#23)
+- [c76d6a8](https://github.com/kubestash/workload/commit/c76d6a8) Update deps (#22)
+- [f33596e](https://github.com/kubestash/workload/commit/f33596e) Prepare for release v0.1.0-rc.0 (#21)
+- [028c967](https://github.com/kubestash/workload/commit/028c967) Add missing flags (#20)
+- [e7bf1b3](https://github.com/kubestash/workload/commit/e7bf1b3) Update deps
+- [43d82cc](https://github.com/kubestash/workload/commit/43d82cc) Refactor
+- [429e16a](https://github.com/kubestash/workload/commit/429e16a) Remove get component path func
+- [76bb516](https://github.com/kubestash/workload/commit/76bb516) Use GitHub runner token for publishing images
+- [7866112](https://github.com/kubestash/workload/commit/7866112) Use firecracker runner
+- [a895b83](https://github.com/kubestash/workload/commit/a895b83) Use Go 1.21
+- [f69e980](https://github.com/kubestash/workload/commit/f69e980) Add support for credential-less backup and restore (#16)
+- [0c1dc11](https://github.com/kubestash/workload/commit/0c1dc11) Set snapshot time after snapshot completed (#15)
+- [082ef12](https://github.com/kubestash/workload/commit/082ef12) Remove taskName flag (#14)
+- [faa0072](https://github.com/kubestash/workload/commit/faa0072) Pass parameters through flags (#13)
+- [c4076e9](https://github.com/kubestash/workload/commit/c4076e9) Resolve addon params (#12)
+- [0edba4d](https://github.com/kubestash/workload/commit/0edba4d) Add flag for task name + Refactor (#11)
+- [ab41893](https://github.com/kubestash/workload/commit/ab41893) Update Readme (#10)
+- [87a5a2b](https://github.com/kubestash/workload/commit/87a5a2b) Add task flag (#9)
+- [6e31c77](https://github.com/kubestash/workload/commit/6e31c77) Set initial component status prior to backup (#8)
+- [6f71e6e](https://github.com/kubestash/workload/commit/6f71e6e) Remove redundant flags (#7)
+- [89049e5](https://github.com/kubestash/workload/commit/89049e5) Add snapshotName for restore (#6)
+- [b7ba2d5](https://github.com/kubestash/workload/commit/b7ba2d5) Set snapshot time, integrity and size (#5)
+- [75a9261](https://github.com/kubestash/workload/commit/75a9261) Merge pull request #2 from kubestash/workload-backup
+- [7d1b0ae](https://github.com/kubestash/workload/commit/7d1b0ae) Run fmt
+- [f441856](https://github.com/kubestash/workload/commit/f441856) Remove comment from constant
+- [5fb15a9](https://github.com/kubestash/workload/commit/5fb15a9) Refactor code
+- [6e435a3](https://github.com/kubestash/workload/commit/6e435a3) Initiate backup
+- [0024b96](https://github.com/kubestash/workload/commit/0024b96) Refactor code
+- [50256bf](https://github.com/kubestash/workload/commit/50256bf) Fixed snapshot condition sync issue
+- [2654383](https://github.com/kubestash/workload/commit/2654383) Fix restore duration with respect to restic
+- [4820508](https://github.com/kubestash/workload/commit/4820508) Fix ci yaml
+- [7190934](https://github.com/kubestash/workload/commit/7190934) Fix release yaml
+- [9d92e64](https://github.com/kubestash/workload/commit/9d92e64) Fix duration for restore
+- [94d1ad9](https://github.com/kubestash/workload/commit/94d1ad9) Update components for new API
+- [723f73a](https://github.com/kubestash/workload/commit/723f73a) Print patch
+- [262c26a](https://github.com/kubestash/workload/commit/262c26a) Update snapshot status
+- [2870906](https://github.com/kubestash/workload/commit/2870906) Update for daemonset executor job
+- [7a21b97](https://github.com/kubestash/workload/commit/7a21b97) Fixed daemon restart issue + conflict error
+- [f728b6e](https://github.com/kubestash/workload/commit/f728b6e) Fixed pathInfo pointer issue
+- [5502e6a](https://github.com/kubestash/workload/commit/5502e6a) Refactored code
+- [fe5d2e1](https://github.com/kubestash/workload/commit/fe5d2e1) Fixed scratchDir name + trim paths
+- [ac8c538](https://github.com/kubestash/workload/commit/ac8c538) Added HostPath in ResticStats
+- [eb834fe](https://github.com/kubestash/workload/commit/eb834fe) Fixed components status update
+- [b6b8530](https://github.com/kubestash/workload/commit/b6b8530) Update for resticStats array field
+- [eed5549](https://github.com/kubestash/workload/commit/eed5549) Fixed snapshot pointer issue
+- [ffb7ec9](https://github.com/kubestash/workload/commit/ffb7ec9) Fixed snapshot components issue
+- [ba68169](https://github.com/kubestash/workload/commit/ba68169) Added restore logic
+- [8537ed4](https://github.com/kubestash/workload/commit/8537ed4) Refactor backup and restore path method
+- [6de2585](https://github.com/kubestash/workload/commit/6de2585) Refactor code
+- [559c97e](https://github.com/kubestash/workload/commit/559c97e) Implemented workload addon
+- [2ccb7db](https://github.com/kubestash/workload/commit/2ccb7db) Use uid 65534 and test against K8s 1.27.0 (#4)
+- [09d9b65](https://github.com/kubestash/workload/commit/09d9b65) Use ghcr.io for appscode/golang-dev (#3)
+- [cb05914](https://github.com/kubestash/workload/commit/cb05914) Merge pull request #1 from kubestash/clone
+- [615f53f](https://github.com/kubestash/workload/commit/615f53f) Update Readme
+- [46ba516](https://github.com/kubestash/workload/commit/46ba516) Clone data from kubedb-manifest
+
+
+

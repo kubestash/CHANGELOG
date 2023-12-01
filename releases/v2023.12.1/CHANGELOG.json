@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.1",
-  "release_date": "2023-12-01T09:54:33.093447195Z",
+  "release_date": "2023-12-01T10:22:39.606159063Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.1",
   "kubernetes_version": "1.20+",
@@ -315,6 +315,248 @@
             {
               "SHA": "9eb28ca",
               "Subject": "Remove release.yml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "4e280f6",
+              "Subject": "Prepare for release v0.1.0 (#26)"
+            },
+            {
+              "SHA": "4c6c945",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#25)"
+            },
+            {
+              "SHA": "9318bb5",
+              "Subject": "Remove unnecessary method receiver (#24)"
+            },
+            {
+              "SHA": "58eb7cf",
+              "Subject": "Fix snapshot time (#23)"
+            },
+            {
+              "SHA": "c76d6a8",
+              "Subject": "Update deps (#22)"
+            },
+            {
+              "SHA": "f33596e",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "028c967",
+              "Subject": "Add missing flags (#20)"
+            },
+            {
+              "SHA": "e7bf1b3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "43d82cc",
+              "Subject": "Refactor"
+            },
+            {
+              "SHA": "429e16a",
+              "Subject": "Remove get component path func"
+            },
+            {
+              "SHA": "76bb516",
+              "Subject": "Use GitHub runner token for publishing images"
+            },
+            {
+              "SHA": "7866112",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "a895b83",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "f69e980",
+              "Subject": "Add support for credential-less backup and restore (#16)"
+            },
+            {
+              "SHA": "0c1dc11",
+              "Subject": "Set snapshot time after snapshot completed (#15)"
+            },
+            {
+              "SHA": "082ef12",
+              "Subject": "Remove taskName flag (#14)"
+            },
+            {
+              "SHA": "faa0072",
+              "Subject": "Pass parameters through flags (#13)"
+            },
+            {
+              "SHA": "c4076e9",
+              "Subject": "Resolve addon params (#12)"
+            },
+            {
+              "SHA": "0edba4d",
+              "Subject": "Add flag for task name + Refactor (#11)"
+            },
+            {
+              "SHA": "ab41893",
+              "Subject": "Update Readme (#10)"
+            },
+            {
+              "SHA": "87a5a2b",
+              "Subject": "Add task flag (#9)"
+            },
+            {
+              "SHA": "6e31c77",
+              "Subject": "Set initial component status prior to backup (#8)"
+            },
+            {
+              "SHA": "6f71e6e",
+              "Subject": "Remove redundant flags (#7)"
+            },
+            {
+              "SHA": "89049e5",
+              "Subject": "Add snapshotName for restore (#6)"
+            },
+            {
+              "SHA": "b7ba2d5",
+              "Subject": "Set snapshot time, integrity and size (#5)"
+            },
+            {
+              "SHA": "75a9261",
+              "Subject": "Merge pull request #2 from kubestash/workload-backup"
+            },
+            {
+              "SHA": "7d1b0ae",
+              "Subject": "Run fmt"
+            },
+            {
+              "SHA": "f441856",
+              "Subject": "Remove comment from constant"
+            },
+            {
+              "SHA": "5fb15a9",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "6e435a3",
+              "Subject": "Initiate backup"
+            },
+            {
+              "SHA": "0024b96",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "50256bf",
+              "Subject": "Fixed snapshot condition sync issue"
+            },
+            {
+              "SHA": "2654383",
+              "Subject": "Fix restore duration with respect to restic"
+            },
+            {
+              "SHA": "4820508",
+              "Subject": "Fix ci yaml"
+            },
+            {
+              "SHA": "7190934",
+              "Subject": "Fix release yaml"
+            },
+            {
+              "SHA": "9d92e64",
+              "Subject": "Fix duration for restore"
+            },
+            {
+              "SHA": "94d1ad9",
+              "Subject": "Update components for new API"
+            },
+            {
+              "SHA": "723f73a",
+              "Subject": "Print patch"
+            },
+            {
+              "SHA": "262c26a",
+              "Subject": "Update snapshot status"
+            },
+            {
+              "SHA": "2870906",
+              "Subject": "Update for daemonset executor job"
+            },
+            {
+              "SHA": "7a21b97",
+              "Subject": "Fixed daemon restart issue + conflict error"
+            },
+            {
+              "SHA": "f728b6e",
+              "Subject": "Fixed pathInfo pointer issue"
+            },
+            {
+              "SHA": "5502e6a",
+              "Subject": "Refactored code"
+            },
+            {
+              "SHA": "fe5d2e1",
+              "Subject": "Fixed scratchDir name + trim paths"
+            },
+            {
+              "SHA": "ac8c538",
+              "Subject": "Added HostPath in ResticStats"
+            },
+            {
+              "SHA": "eb834fe",
+              "Subject": "Fixed components status update"
+            },
+            {
+              "SHA": "b6b8530",
+              "Subject": "Update for resticStats array field"
+            },
+            {
+              "SHA": "eed5549",
+              "Subject": "Fixed snapshot pointer issue"
+            },
+            {
+              "SHA": "ffb7ec9",
+              "Subject": "Fixed snapshot components issue"
+            },
+            {
+              "SHA": "ba68169",
+              "Subject": "Added restore logic"
+            },
+            {
+              "SHA": "8537ed4",
+              "Subject": "Refactor backup and restore path method"
+            },
+            {
+              "SHA": "6de2585",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "559c97e",
+              "Subject": "Implemented workload addon"
+            },
+            {
+              "SHA": "2ccb7db",
+              "Subject": "Use uid 65534 and test against K8s 1.27.0 (#4)"
+            },
+            {
+              "SHA": "09d9b65",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#3)"
+            },
+            {
+              "SHA": "cb05914",
+              "Subject": "Merge pull request #1 from kubestash/clone"
+            },
+            {
+              "SHA": "615f53f",
+              "Subject": "Update Readme"
+            },
+            {
+              "SHA": "46ba516",
+              "Subject": "Clone data from kubedb-manifest"
             }
           ]
         }
