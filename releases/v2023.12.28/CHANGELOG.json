@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T15:29:26.448707512Z",
+  "release_date": "2023-12-27T16:56:21.156652198Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -47,6 +47,20 @@
             {
               "SHA": "12fa2ba4",
               "Subject": "Initialize runtime client once for webhooks (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "040547d",
+              "Subject": "Prepare for release v0.2.0 (#10)"
             }
           ]
         }

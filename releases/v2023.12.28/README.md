@@ -17,3 +17,11 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.2.0](https://github.com/kubestash/kubedump/releases/tag/v0.2.0)
+
+- [040547d](https://github.com/kubestash/kubedump/commit/040547d) Prepare for release v0.2.0 (#10)
+
+
+
