@@ -1,0 +1,186 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.12.28",
+  "release_date": "2023-12-27T17:38:17.856350248Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2023.12.28",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "f2eac648",
+              "Subject": "Fix retention policy defaulting issue (#92)"
+            },
+            {
+              "SHA": "17b1436f",
+              "Subject": "Don't generate webhooks"
+            },
+            {
+              "SHA": "8f61f223",
+              "Subject": "Remove webhook config"
+            },
+            {
+              "SHA": "fd807008",
+              "Subject": "Add mysql and mariadb manifest options (#89)"
+            },
+            {
+              "SHA": "87df5b34",
+              "Subject": "Add helper function: `GetTmpVolumeAndMount()` (#88)"
+            },
+            {
+              "SHA": "f2eabced",
+              "Subject": "Validate selector type usage policy (#87)"
+            },
+            {
+              "SHA": "604cc7b3",
+              "Subject": "NewRuntimeClient -> NewUncachedClient"
+            },
+            {
+              "SHA": "4d744314",
+              "Subject": "Update NewRuntimeClient"
+            },
+            {
+              "SHA": "12fa2ba4",
+              "Subject": "Initialize runtime client once for webhooks (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "ce90156",
+              "Subject": "Prepare for release v0.2.0 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.12.28",
+          "commits": [
+            {
+              "SHA": "98b5a1b",
+              "Subject": "Prepare for release v2023.12.28 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "040547d",
+              "Subject": "Prepare for release v0.2.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "e36a48dc",
+              "Subject": "Prepare for release v0.3.0 (#185)"
+            },
+            {
+              "SHA": "f47b9d47",
+              "Subject": "Fix repository list in BackupConfiguration status (#184)"
+            },
+            {
+              "SHA": "20e71960",
+              "Subject": "Resolve only `AddonVolumes` in `AddonInfo` (#182)"
+            },
+            {
+              "SHA": "c9a81784",
+              "Subject": "Resolve addon version for mysql 8.1.0 and 8.2.0 (#183)"
+            },
+            {
+              "SHA": "291972fc",
+              "Subject": "Publish audit events for kubestash crds (#181)"
+            },
+            {
+              "SHA": "8da9fb6c",
+              "Subject": "Remove secret existance check for S3 storage (#179)"
+            },
+            {
+              "SHA": "757097ef",
+              "Subject": "Add strategy for pod hook executor (#180)"
+            },
+            {
+              "SHA": "8019258e",
+              "Subject": "Add KubeDB Labels on restoreSession (#178)"
+            },
+            {
+              "SHA": "05a825bd",
+              "Subject": "Mount tmp volume in retention policy container (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "388fbe7",
+              "Subject": "Prepare for release v0.2.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "938c4a4f",
+              "Subject": "Prepare for release v0.2.0 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "24eb455",
+              "Subject": "Prepare for release v0.2.0 (#29)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
