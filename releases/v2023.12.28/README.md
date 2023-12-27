@@ -57,6 +57,14 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.2.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.2.0)
+
+- [938c4a4f](https://github.com/kubestash/volume-snapshotter/commit/938c4a4f) Prepare for release v0.2.0 (#12)
+
+
+
 ## [kubestash/workload](https://github.com/kubestash/workload)
 
 ### [v0.2.0](https://github.com/kubestash/workload/releases/tag/v0.2.0)

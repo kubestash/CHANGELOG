@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T17:07:46.04965374Z",
+  "release_date": "2023-12-27T17:11:14.155008375Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -135,6 +135,20 @@
             {
               "SHA": "388fbe7",
               "Subject": "Prepare for release v0.2.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "938c4a4f",
+              "Subject": "Prepare for release v0.2.0 (#12)"
             }
           ]
         }
