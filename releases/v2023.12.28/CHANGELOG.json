@@ -1,0 +1,56 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2023.12.28",
+  "release_date": "2023-12-27T15:29:26.448707512Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2023.12.28",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "f2eac648",
+              "Subject": "Fix retention policy defaulting issue (#92)"
+            },
+            {
+              "SHA": "17b1436f",
+              "Subject": "Don't generate webhooks"
+            },
+            {
+              "SHA": "8f61f223",
+              "Subject": "Remove webhook config"
+            },
+            {
+              "SHA": "fd807008",
+              "Subject": "Add mysql and mariadb manifest options (#89)"
+            },
+            {
+              "SHA": "87df5b34",
+              "Subject": "Add helper function: `GetTmpVolumeAndMount()` (#88)"
+            },
+            {
+              "SHA": "f2eabced",
+              "Subject": "Validate selector type usage policy (#87)"
+            },
+            {
+              "SHA": "604cc7b3",
+              "Subject": "NewRuntimeClient -> NewUncachedClient"
+            },
+            {
+              "SHA": "4d744314",
+              "Subject": "Update NewRuntimeClient"
+            },
+            {
+              "SHA": "12fa2ba4",
+              "Subject": "Initialize runtime client once for webhooks (#86)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
