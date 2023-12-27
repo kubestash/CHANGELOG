@@ -17,6 +17,14 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.2.0](https://github.com/kubestash/cli/releases/tag/v0.2.0)
+
+- [ce90156](https://github.com/kubestash/cli/commit/ce90156) Prepare for release v0.2.0 (#11)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.2.0](https://github.com/kubestash/kubedump/releases/tag/v0.2.0)
