@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T16:56:36.155175461Z",
+  "release_date": "2023-12-27T16:58:18.798763078Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -107,6 +107,20 @@
             {
               "SHA": "05a825bd",
               "Subject": "Mount tmp volume in retention policy container (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "388fbe7",
+              "Subject": "Prepare for release v0.2.0 (#17)"
             }
           ]
         }
