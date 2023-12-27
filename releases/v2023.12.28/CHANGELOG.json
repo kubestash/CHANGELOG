@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T17:11:14.155008375Z",
+  "release_date": "2023-12-27T17:38:17.856350248Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -61,6 +61,20 @@
             {
               "SHA": "ce90156",
               "Subject": "Prepare for release v0.2.0 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2023.12.28",
+          "commits": [
+            {
+              "SHA": "98b5a1b",
+              "Subject": "Prepare for release v2023.12.28 (#46)"
             }
           ]
         }
