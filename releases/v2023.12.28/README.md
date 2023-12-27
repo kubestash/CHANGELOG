@@ -25,3 +25,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.3.0](https://github.com/kubestash/kubestash/releases/tag/v0.3.0)
+
+- [e36a48dc](https://github.com/kubestash/kubestash/commit/e36a48dc) Prepare for release v0.3.0 (#185)
+- [f47b9d47](https://github.com/kubestash/kubestash/commit/f47b9d47) Fix repository list in BackupConfiguration status (#184)
+- [20e71960](https://github.com/kubestash/kubestash/commit/20e71960) Resolve only `AddonVolumes` in `AddonInfo` (#182)
+- [c9a81784](https://github.com/kubestash/kubestash/commit/c9a81784) Resolve addon version for mysql 8.1.0 and 8.2.0 (#183)
+- [291972fc](https://github.com/kubestash/kubestash/commit/291972fc) Publish audit events for kubestash crds (#181)
+- [8da9fb6c](https://github.com/kubestash/kubestash/commit/8da9fb6c) Remove secret existance check for S3 storage (#179)
+- [757097ef](https://github.com/kubestash/kubestash/commit/757097ef) Add strategy for pod hook executor (#180)
+- [8019258e](https://github.com/kubestash/kubestash/commit/8019258e) Add KubeDB Labels on restoreSession (#178)
+- [05a825bd](https://github.com/kubestash/kubestash/commit/05a825bd) Mount tmp volume in retention policy container (#177)
+
+
+

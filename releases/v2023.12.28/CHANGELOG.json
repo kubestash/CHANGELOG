@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T16:56:21.156652198Z",
+  "release_date": "2023-12-27T16:56:36.155175461Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -61,6 +61,52 @@
             {
               "SHA": "040547d",
               "Subject": "Prepare for release v0.2.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "e36a48dc",
+              "Subject": "Prepare for release v0.3.0 (#185)"
+            },
+            {
+              "SHA": "f47b9d47",
+              "Subject": "Fix repository list in BackupConfiguration status (#184)"
+            },
+            {
+              "SHA": "20e71960",
+              "Subject": "Resolve only `AddonVolumes` in `AddonInfo` (#182)"
+            },
+            {
+              "SHA": "c9a81784",
+              "Subject": "Resolve addon version for mysql 8.1.0 and 8.2.0 (#183)"
+            },
+            {
+              "SHA": "291972fc",
+              "Subject": "Publish audit events for kubestash crds (#181)"
+            },
+            {
+              "SHA": "8da9fb6c",
+              "Subject": "Remove secret existance check for S3 storage (#179)"
+            },
+            {
+              "SHA": "757097ef",
+              "Subject": "Add strategy for pod hook executor (#180)"
+            },
+            {
+              "SHA": "8019258e",
+              "Subject": "Add KubeDB Labels on restoreSession (#178)"
+            },
+            {
+              "SHA": "05a825bd",
+              "Subject": "Mount tmp volume in retention policy container (#177)"
             }
           ]
         }
