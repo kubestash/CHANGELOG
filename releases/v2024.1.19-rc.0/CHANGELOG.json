@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.19-rc.0",
-  "release_date": "2024-01-20T01:57:48.078011765Z",
+  "release_date": "2024-01-20T01:58:18.169064808Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.19-rc.0",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,28 @@
             {
               "SHA": "cc46ddfd",
               "Subject": "Use k8s 1.29 client libs (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "456532b",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "da41d9d",
+              "Subject": "Update pvc backup restore task name (#13)"
+            },
+            {
+              "SHA": "bb6f607",
+              "Subject": "Cleanup BackupStorage api (#14)"
             }
           ]
         }

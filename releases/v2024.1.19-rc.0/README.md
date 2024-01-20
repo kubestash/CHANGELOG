@@ -13,6 +13,16 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.3.0-rc.0](https://github.com/kubestash/cli/releases/tag/v0.3.0-rc.0)
+
+- [456532b](https://github.com/kubestash/cli/commit/456532b) Prepare for release v0.3.0-rc.0 (#15)
+- [da41d9d](https://github.com/kubestash/cli/commit/da41d9d) Update pvc backup restore task name (#13)
+- [bb6f607](https://github.com/kubestash/cli/commit/bb6f607) Cleanup BackupStorage api (#14)
+
+
+
 ## [kubestash/kubestash](https://github.com/kubestash/kubestash)
 
 ### [v0.4.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.4.0-rc.0)
