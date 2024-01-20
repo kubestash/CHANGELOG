@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.19-rc.0",
-  "release_date": "2024-01-20T01:58:34.129219314Z",
+  "release_date": "2024-01-20T01:58:56.833503281Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.19-rc.0",
   "kubernetes_version": "1.20+",
@@ -73,6 +73,28 @@
         {
           "tag": "v0.3.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7a8e2d18",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "fccd32ce",
+              "Subject": "Update component name (#14)"
+            },
+            {
+              "SHA": "812c8a2f",
+              "Subject": "Use k8s 1.29 client libs (#13)"
+            }
+          ]
         }
       ]
     },
