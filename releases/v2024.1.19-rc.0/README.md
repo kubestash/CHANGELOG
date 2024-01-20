@@ -1,0 +1,15 @@
+# KubeStash v2024.1.19-rc.0 (2024-01-20)
+
+
+## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
+
+### [v0.4.0-rc.0](https://github.com/kubestash/apimachinery/releases/tag/v0.4.0-rc.0)
+
+- [70eeee2d](https://github.com/kubestash/apimachinery/commit/70eeee2d) Allow using same repo from multiple sessions (#94)
+- [3f4dfb97](https://github.com/kubestash/apimachinery/commit/3f4dfb97) Remove pvc and deployment component (#96)
+- [4163880a](https://github.com/kubestash/apimachinery/commit/4163880a) Cleanup BackupStorage api (#95)
+- [093f8a24](https://github.com/kubestash/apimachinery/commit/093f8a24) Update component names (#93)
+- [cc46ddfd](https://github.com/kubestash/apimachinery/commit/cc46ddfd) Use k8s 1.29 client libs (#91)
+
+
+

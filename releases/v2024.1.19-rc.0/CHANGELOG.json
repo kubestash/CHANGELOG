@@ -1,0 +1,40 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.1.19-rc.0",
+  "release_date": "2024-01-20T00:55:59.533861213Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.1.19-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "70eeee2d",
+              "Subject": "Allow using same repo from multiple sessions (#94)"
+            },
+            {
+              "SHA": "3f4dfb97",
+              "Subject": "Remove pvc and deployment component (#96)"
+            },
+            {
+              "SHA": "4163880a",
+              "Subject": "Cleanup BackupStorage api (#95)"
+            },
+            {
+              "SHA": "093f8a24",
+              "Subject": "Update component names (#93)"
+            },
+            {
+              "SHA": "cc46ddfd",
+              "Subject": "Use k8s 1.29 client libs (#91)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
