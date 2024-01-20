@@ -23,6 +23,17 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.1.19-rc.0](https://github.com/kubestash/installer/releases/tag/v2024.1.19-rc.0)
+
+- [7d5eefe](https://github.com/kubestash/installer/commit/7d5eefe) Prepare for release v2024.1.19-rc.0 (#51)
+- [7e1f0e2](https://github.com/kubestash/installer/commit/7e1f0e2) Update CRDs (#50)
+- [93823e2](https://github.com/kubestash/installer/commit/93823e2) Update addon task names (#48)
+- [55707c0](https://github.com/kubestash/installer/commit/55707c0) Use k8s 1.29 client libs (#47)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.3.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.3.0-rc.0)

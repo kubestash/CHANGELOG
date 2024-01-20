@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.19-rc.0",
-  "release_date": "2024-01-20T01:59:02.042418365Z",
+  "release_date": "2024-01-20T03:19:27.62709353Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.19-rc.0",
   "kubernetes_version": "1.20+",
@@ -53,6 +53,32 @@
             {
               "SHA": "bb6f607",
               "Subject": "Cleanup BackupStorage api (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.19-rc.0",
+          "commits": [
+            {
+              "SHA": "7d5eefe",
+              "Subject": "Prepare for release v2024.1.19-rc.0 (#51)"
+            },
+            {
+              "SHA": "7e1f0e2",
+              "Subject": "Update CRDs (#50)"
+            },
+            {
+              "SHA": "93823e2",
+              "Subject": "Update addon task names (#48)"
+            },
+            {
+              "SHA": "55707c0",
+              "Subject": "Use k8s 1.29 client libs (#47)"
             }
           ]
         }
