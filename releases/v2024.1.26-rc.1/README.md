@@ -17,6 +17,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.3.0-rc.1](https://github.com/kubestash/kubedump/releases/tag/v0.3.0-rc.1)
+
+- [c3b9c04](https://github.com/kubestash/kubedump/commit/c3b9c04) Prepare for release v0.3.0-rc.1 (#14)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.3.0-rc.1](https://github.com/kubestash/pvc/releases/tag/v0.3.0-rc.1)
