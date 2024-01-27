@@ -1,0 +1,130 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.1.26-rc.1",
+  "release_date": "2024-01-27T02:33:27.967275131Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.1.26-rc.1",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "dfea43c6",
+              "Subject": "Remove `verificationStatus` column from Snapshot (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "478716a",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.26-rc.1",
+          "commits": [
+            {
+              "SHA": "d594f88",
+              "Subject": "Prepare for release v2024.1.26-rc.1 (#52)"
+            },
+            {
+              "SHA": "f20793d",
+              "Subject": "Pass `podLabels` to operator pod(s) (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c3b9c04",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "2c964465",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#196)"
+            },
+            {
+              "SHA": "499c672a",
+              "Subject": "Update gocloud version (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1bba1ee",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4f062c60",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f4bc2a4",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#33)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
