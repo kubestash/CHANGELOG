@@ -25,6 +25,15 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.4.0-rc.1](https://github.com/kubestash/kubestash/releases/tag/v0.4.0-rc.1)
+
+- [2c964465](https://github.com/kubestash/kubestash/commit/2c964465) Prepare for release v0.4.0-rc.1 (#196)
+- [499c672a](https://github.com/kubestash/kubestash/commit/499c672a) Update gocloud version (#194)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.3.0-rc.1](https://github.com/kubestash/pvc/releases/tag/v0.3.0-rc.1)
