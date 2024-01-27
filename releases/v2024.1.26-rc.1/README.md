@@ -17,6 +17,15 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.1.26-rc.1](https://github.com/kubestash/installer/releases/tag/v2024.1.26-rc.1)
+
+- [d594f88](https://github.com/kubestash/installer/commit/d594f88) Prepare for release v2024.1.26-rc.1 (#52)
+- [f20793d](https://github.com/kubestash/installer/commit/f20793d) Pass `podLabels` to operator pod(s) (#49)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.3.0-rc.1](https://github.com/kubestash/kubedump/releases/tag/v0.3.0-rc.1)

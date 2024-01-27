@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.26-rc.1",
-  "release_date": "2024-01-27T01:58:20.245896818Z",
+  "release_date": "2024-01-27T02:33:27.967275131Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.26-rc.1",
   "kubernetes_version": "1.20+",
@@ -29,6 +29,24 @@
             {
               "SHA": "478716a",
               "Subject": "Prepare for release v0.3.0-rc.1 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.26-rc.1",
+          "commits": [
+            {
+              "SHA": "d594f88",
+              "Subject": "Prepare for release v2024.1.26-rc.1 (#52)"
+            },
+            {
+              "SHA": "f20793d",
+              "Subject": "Pass `podLabels` to operator pod(s) (#49)"
             }
           ]
         }
