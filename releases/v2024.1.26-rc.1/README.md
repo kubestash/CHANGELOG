@@ -25,3 +25,11 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.3.0-rc.1](https://github.com/kubestash/workload/releases/tag/v0.3.0-rc.1)
+
+- [f4bc2a4](https://github.com/kubestash/workload/commit/f4bc2a4) Prepare for release v0.3.0-rc.1 (#33)
+
+
+
