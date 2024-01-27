@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.26-rc.1",
-  "release_date": "2024-01-27T01:56:18.14494485Z",
+  "release_date": "2024-01-27T01:56:44.919396484Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.26-rc.1",
   "kubernetes_version": "1.20+",
@@ -15,6 +15,20 @@
             {
               "SHA": "dfea43c6",
               "Subject": "Remove `verificationStatus` column from Snapshot (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "478716a",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#17)"
             }
           ]
         }
