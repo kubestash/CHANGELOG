@@ -36,6 +36,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.3.0-rc.2](https://github.com/kubestash/pvc/releases/tag/v0.3.0-rc.2)
+
+- [0d4f3dc](https://github.com/kubestash/pvc/commit/0d4f3dc) Prepare for release v0.3.0-rc.2 (#24)
+- [adfe1c1](https://github.com/kubestash/pvc/commit/adfe1c1) Use deps (#23)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.3.0-rc.2](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.3.0-rc.2)
