@@ -27,3 +27,11 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.3.0-rc.2](https://github.com/kubestash/workload/releases/tag/v0.3.0-rc.2)
+
+- [4dc3439](https://github.com/kubestash/workload/commit/4dc3439) Prepare for release v0.3.0-rc.2 (#34)
+
+
+
