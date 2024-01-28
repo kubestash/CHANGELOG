@@ -9,6 +9,15 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.3.0-rc.2](https://github.com/kubestash/cli/releases/tag/v0.3.0-rc.2)
+
+- [7476b24](https://github.com/kubestash/cli/commit/7476b24) Prepare for release v0.3.0-rc.2 (#19)
+- [127d0ab](https://github.com/kubestash/cli/commit/127d0ab) Use deps (#18)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.3.0-rc.2](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.3.0-rc.2)
