@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.28-rc.2",
-  "release_date": "2024-01-28T11:11:22.780215007Z",
+  "release_date": "2024-01-28T11:58:13.073505147Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.28-rc.2",
   "kubernetes_version": "1.20+",
@@ -15,6 +15,24 @@
             {
               "SHA": "91fea71b",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.2",
+          "commits": [
+            {
+              "SHA": "d203832f",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#18)"
+            },
+            {
+              "SHA": "ad12fc27",
+              "Subject": "Use deps (#17)"
             }
           ]
         }

@@ -9,3 +9,12 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.3.0-rc.2](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.3.0-rc.2)
+
+- [d203832f](https://github.com/kubestash/volume-snapshotter/commit/d203832f) Prepare for release v0.3.0-rc.2 (#18)
+- [ad12fc27](https://github.com/kubestash/volume-snapshotter/commit/ad12fc27) Use deps (#17)
+
+
+
