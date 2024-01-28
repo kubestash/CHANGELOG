@@ -18,6 +18,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.3.0-rc.2](https://github.com/kubestash/kubedump/releases/tag/v0.3.0-rc.2)
+
+- [cac433b](https://github.com/kubestash/kubedump/commit/cac433b) Prepare for release v0.3.0-rc.2 (#16)
+- [44ded4a](https://github.com/kubestash/kubedump/commit/44ded4a) Use deps (#15)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.3.0-rc.2](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.3.0-rc.2)
