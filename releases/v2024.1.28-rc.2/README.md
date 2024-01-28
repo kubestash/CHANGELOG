@@ -18,6 +18,15 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.1.28-rc.2](https://github.com/kubestash/installer/releases/tag/v2024.1.28-rc.2)
+
+- [cef1053](https://github.com/kubestash/installer/commit/cef1053) Prepare for release v2024.1.28-rc.2 (#54)
+- [59e304e](https://github.com/kubestash/installer/commit/59e304e) Use deps (#53)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.3.0-rc.2](https://github.com/kubestash/kubedump/releases/tag/v0.3.0-rc.2)
