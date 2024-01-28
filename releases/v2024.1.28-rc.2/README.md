@@ -27,6 +27,15 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.4.0-rc.2](https://github.com/kubestash/kubestash/releases/tag/v0.4.0-rc.2)
+
+- [452c639a](https://github.com/kubestash/kubestash/commit/452c639a) Prepare for release v0.4.0-rc.2 (#198)
+- [eb31a170](https://github.com/kubestash/kubestash/commit/eb31a170) Use deps (#197)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.3.0-rc.2](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.3.0-rc.2)
