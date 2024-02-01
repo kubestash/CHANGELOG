@@ -1,0 +1,272 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.1.31",
+  "release_date": "2024-02-01T17:01:37.809659185Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.1.31",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "d15f7487",
+              "Subject": "Add constant for storage initializer clusterrole (#99)"
+            },
+            {
+              "SHA": "95bb8bc4",
+              "Subject": "Add `InsecureTLS` field for `S3` backend storage (#100)"
+            },
+            {
+              "SHA": "91fea71b",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dfea43c6",
+              "Subject": "Remove `verificationStatus` column from Snapshot (#98)"
+            },
+            {
+              "SHA": "70eeee2d",
+              "Subject": "Allow using same repo from multiple sessions (#94)"
+            },
+            {
+              "SHA": "3f4dfb97",
+              "Subject": "Remove pvc and deployment component (#96)"
+            },
+            {
+              "SHA": "4163880a",
+              "Subject": "Cleanup BackupStorage api (#95)"
+            },
+            {
+              "SHA": "093f8a24",
+              "Subject": "Update component names (#93)"
+            },
+            {
+              "SHA": "cc46ddfd",
+              "Subject": "Use k8s 1.29 client libs (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "03ae836",
+              "Subject": "Prepare for release v0.3.0 (#20)"
+            },
+            {
+              "SHA": "b647435",
+              "Subject": "Change temporary directory from `/tmp` to `/kubestash-tmp` (#16)"
+            },
+            {
+              "SHA": "7476b24",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#19)"
+            },
+            {
+              "SHA": "127d0ab",
+              "Subject": "Use deps (#18)"
+            },
+            {
+              "SHA": "478716a",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#17)"
+            },
+            {
+              "SHA": "456532b",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "da41d9d",
+              "Subject": "Update pvc backup restore task name (#13)"
+            },
+            {
+              "SHA": "bb6f607",
+              "Subject": "Cleanup BackupStorage api (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "c8fea38",
+              "Subject": "Prepare for release v2024.1.31 (#55)"
+            },
+            {
+              "SHA": "cef1053",
+              "Subject": "Prepare for release v2024.1.28-rc.2 (#54)"
+            },
+            {
+              "SHA": "59e304e",
+              "Subject": "Use deps (#53)"
+            },
+            {
+              "SHA": "d594f88",
+              "Subject": "Prepare for release v2024.1.26-rc.1 (#52)"
+            },
+            {
+              "SHA": "f20793d",
+              "Subject": "Pass `podLabels` to operator pod(s) (#49)"
+            },
+            {
+              "SHA": "7d5eefe",
+              "Subject": "Prepare for release v2024.1.19-rc.0 (#51)"
+            },
+            {
+              "SHA": "7e1f0e2",
+              "Subject": "Update CRDs (#50)"
+            },
+            {
+              "SHA": "93823e2",
+              "Subject": "Update addon task names (#48)"
+            },
+            {
+              "SHA": "55707c0",
+              "Subject": "Use k8s 1.29 client libs (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "716609a",
+              "Subject": "Prepare for release v0.3.0 (#17)"
+            },
+            {
+              "SHA": "cac433b",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#16)"
+            },
+            {
+              "SHA": "44ded4a",
+              "Subject": "Use deps (#15)"
+            },
+            {
+              "SHA": "c3b9c04",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#14)"
+            },
+            {
+              "SHA": "56d0596",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "8fd684d",
+              "Subject": "Update component name (#12)"
+            },
+            {
+              "SHA": "4988a26",
+              "Subject": "Use k8s 1.29 client libs (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "3bc9bf2c",
+              "Subject": "Prepare for release v0.3.0 (#19)"
+            },
+            {
+              "SHA": "d203832f",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#18)"
+            },
+            {
+              "SHA": "ad12fc27",
+              "Subject": "Use deps (#17)"
+            },
+            {
+              "SHA": "4f062c60",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#16)"
+            },
+            {
+              "SHA": "7a8e2d18",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "fccd32ce",
+              "Subject": "Update component name (#14)"
+            },
+            {
+              "SHA": "812c8a2f",
+              "Subject": "Use k8s 1.29 client libs (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "a969105",
+              "Subject": "Prepare for release v0.3.0 (#35)"
+            },
+            {
+              "SHA": "4dc3439",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#34)"
+            },
+            {
+              "SHA": "f4bc2a4",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#33)"
+            },
+            {
+              "SHA": "052116b",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "3548fc1",
+              "Subject": "Update deps (#31)"
+            },
+            {
+              "SHA": "30341e0",
+              "Subject": "Use k8s 1.29 client libs (#30)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
