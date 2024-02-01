@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:29:34.983986396Z",
+  "release_date": "2024-02-01T16:30:11.353278977Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -89,6 +89,44 @@
             {
               "SHA": "bb6f607",
               "Subject": "Cleanup BackupStorage api (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "716609a",
+              "Subject": "Prepare for release v0.3.0 (#17)"
+            },
+            {
+              "SHA": "cac433b",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#16)"
+            },
+            {
+              "SHA": "44ded4a",
+              "Subject": "Use deps (#15)"
+            },
+            {
+              "SHA": "c3b9c04",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#14)"
+            },
+            {
+              "SHA": "56d0596",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "8fd684d",
+              "Subject": "Update component name (#12)"
+            },
+            {
+              "SHA": "4988a26",
+              "Subject": "Use k8s 1.29 client libs (#11)"
             }
           ]
         }

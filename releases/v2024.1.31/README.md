@@ -32,3 +32,17 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.3.0](https://github.com/kubestash/kubedump/releases/tag/v0.3.0)
+
+- [716609a](https://github.com/kubestash/kubedump/commit/716609a) Prepare for release v0.3.0 (#17)
+- [cac433b](https://github.com/kubestash/kubedump/commit/cac433b) Prepare for release v0.3.0-rc.2 (#16)
+- [44ded4a](https://github.com/kubestash/kubedump/commit/44ded4a) Use deps (#15)
+- [c3b9c04](https://github.com/kubestash/kubedump/commit/c3b9c04) Prepare for release v0.3.0-rc.1 (#14)
+- [56d0596](https://github.com/kubestash/kubedump/commit/56d0596) Prepare for release v0.3.0-rc.0 (#13)
+- [8fd684d](https://github.com/kubestash/kubedump/commit/8fd684d) Update component name (#12)
+- [4988a26](https://github.com/kubestash/kubedump/commit/4988a26) Use k8s 1.29 client libs (#11)
+
+
+
