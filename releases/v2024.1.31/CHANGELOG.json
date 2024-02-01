@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:30:51.426121833Z",
+  "release_date": "2024-02-01T16:31:13.43289039Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -147,6 +147,40 @@
         {
           "tag": "v0.3.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "a969105",
+              "Subject": "Prepare for release v0.3.0 (#35)"
+            },
+            {
+              "SHA": "4dc3439",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#34)"
+            },
+            {
+              "SHA": "f4bc2a4",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#33)"
+            },
+            {
+              "SHA": "052116b",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "3548fc1",
+              "Subject": "Update deps (#31)"
+            },
+            {
+              "SHA": "30341e0",
+              "Subject": "Use k8s 1.29 client libs (#30)"
+            }
+          ]
         }
       ]
     }

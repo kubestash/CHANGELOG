@@ -60,3 +60,16 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.3.0](https://github.com/kubestash/workload/releases/tag/v0.3.0)
+
+- [a969105](https://github.com/kubestash/workload/commit/a969105) Prepare for release v0.3.0 (#35)
+- [4dc3439](https://github.com/kubestash/workload/commit/4dc3439) Prepare for release v0.3.0-rc.2 (#34)
+- [f4bc2a4](https://github.com/kubestash/workload/commit/f4bc2a4) Prepare for release v0.3.0-rc.1 (#33)
+- [052116b](https://github.com/kubestash/workload/commit/052116b) Prepare for release v0.3.0-rc.0 (#32)
+- [3548fc1](https://github.com/kubestash/workload/commit/3548fc1) Update deps (#31)
+- [30341e0](https://github.com/kubestash/workload/commit/30341e0) Use k8s 1.29 client libs (#30)
+
+
+
