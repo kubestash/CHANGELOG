@@ -17,3 +17,18 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.3.0](https://github.com/kubestash/cli/releases/tag/v0.3.0)
+
+- [03ae836](https://github.com/kubestash/cli/commit/03ae836) Prepare for release v0.3.0 (#20)
+- [b647435](https://github.com/kubestash/cli/commit/b647435) Change temporary directory from `/tmp` to `/kubestash-tmp` (#16)
+- [7476b24](https://github.com/kubestash/cli/commit/7476b24) Prepare for release v0.3.0-rc.2 (#19)
+- [127d0ab](https://github.com/kubestash/cli/commit/127d0ab) Use deps (#18)
+- [478716a](https://github.com/kubestash/cli/commit/478716a) Prepare for release v0.3.0-rc.1 (#17)
+- [456532b](https://github.com/kubestash/cli/commit/456532b) Prepare for release v0.3.0-rc.0 (#15)
+- [da41d9d](https://github.com/kubestash/cli/commit/da41d9d) Update pvc backup restore task name (#13)
+- [bb6f607](https://github.com/kubestash/cli/commit/bb6f607) Cleanup BackupStorage api (#14)
+
+
+

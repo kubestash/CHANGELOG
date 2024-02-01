@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T15:39:16.101854864Z",
+  "release_date": "2024-02-01T16:29:34.983986396Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -47,6 +47,48 @@
             {
               "SHA": "cc46ddfd",
               "Subject": "Use k8s 1.29 client libs (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "03ae836",
+              "Subject": "Prepare for release v0.3.0 (#20)"
+            },
+            {
+              "SHA": "b647435",
+              "Subject": "Change temporary directory from `/tmp` to `/kubestash-tmp` (#16)"
+            },
+            {
+              "SHA": "7476b24",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#19)"
+            },
+            {
+              "SHA": "127d0ab",
+              "Subject": "Use deps (#18)"
+            },
+            {
+              "SHA": "478716a",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#17)"
+            },
+            {
+              "SHA": "456532b",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "da41d9d",
+              "Subject": "Update pvc backup restore task name (#13)"
+            },
+            {
+              "SHA": "bb6f607",
+              "Subject": "Cleanup BackupStorage api (#14)"
             }
           ]
         }
