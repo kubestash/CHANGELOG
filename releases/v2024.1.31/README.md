@@ -32,6 +32,22 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.1.31](https://github.com/kubestash/installer/releases/tag/v2024.1.31)
+
+- [c8fea38](https://github.com/kubestash/installer/commit/c8fea38) Prepare for release v2024.1.31 (#55)
+- [cef1053](https://github.com/kubestash/installer/commit/cef1053) Prepare for release v2024.1.28-rc.2 (#54)
+- [59e304e](https://github.com/kubestash/installer/commit/59e304e) Use deps (#53)
+- [d594f88](https://github.com/kubestash/installer/commit/d594f88) Prepare for release v2024.1.26-rc.1 (#52)
+- [f20793d](https://github.com/kubestash/installer/commit/f20793d) Pass `podLabels` to operator pod(s) (#49)
+- [7d5eefe](https://github.com/kubestash/installer/commit/7d5eefe) Prepare for release v2024.1.19-rc.0 (#51)
+- [7e1f0e2](https://github.com/kubestash/installer/commit/7e1f0e2) Update CRDs (#50)
+- [93823e2](https://github.com/kubestash/installer/commit/93823e2) Update addon task names (#48)
+- [55707c0](https://github.com/kubestash/installer/commit/55707c0) Use k8s 1.29 client libs (#47)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.3.0](https://github.com/kubestash/kubedump/releases/tag/v0.3.0)
