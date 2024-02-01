@@ -60,6 +60,20 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.3.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.3.0)
+
+- [3bc9bf2c](https://github.com/kubestash/volume-snapshotter/commit/3bc9bf2c) Prepare for release v0.3.0 (#19)
+- [d203832f](https://github.com/kubestash/volume-snapshotter/commit/d203832f) Prepare for release v0.3.0-rc.2 (#18)
+- [ad12fc27](https://github.com/kubestash/volume-snapshotter/commit/ad12fc27) Use deps (#17)
+- [4f062c60](https://github.com/kubestash/volume-snapshotter/commit/4f062c60) Prepare for release v0.3.0-rc.1 (#16)
+- [7a8e2d18](https://github.com/kubestash/volume-snapshotter/commit/7a8e2d18) Prepare for release v0.3.0-rc.0 (#15)
+- [fccd32ce](https://github.com/kubestash/volume-snapshotter/commit/fccd32ce) Update component name (#14)
+- [812c8a2f](https://github.com/kubestash/volume-snapshotter/commit/812c8a2f) Use k8s 1.29 client libs (#13)
+
+
+
 ## [kubestash/workload](https://github.com/kubestash/workload)
 
 ### [v0.3.0](https://github.com/kubestash/workload/releases/tag/v0.3.0)
