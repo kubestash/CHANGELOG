@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:30:11.353278977Z",
+  "release_date": "2024-02-01T16:30:25.846010102Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -129,6 +129,15 @@
               "Subject": "Use k8s 1.29 client libs (#11)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": null
         }
       ]
     }

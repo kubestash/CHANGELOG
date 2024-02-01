@@ -46,3 +46,10 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.4.0](https://github.com/kubestash/kubestash/releases/tag/v0.4.0)
+
+
+
+
