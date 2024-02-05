@@ -38,6 +38,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.4.0](https://github.com/kubestash/pvc/releases/tag/v0.4.0)
+
+- [3022a01](https://github.com/kubestash/pvc/commit/3022a01) Prepare for release v0.4.0 (#27)
+- [e3b15bf](https://github.com/kubestash/pvc/commit/e3b15bf) Remove set snapshot time method (#26)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.4.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.4.0)
