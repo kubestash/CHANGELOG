@@ -1,0 +1,32 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.2.5",
+  "release_date": "2024-02-05T19:19:59.498149864Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.2.5",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "e1b866cf",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8998ce2b",
+              "Subject": "Update external snapshotter deps v4 to v7 (#102)"
+            },
+            {
+              "SHA": "c12d812e",
+              "Subject": "Add VolumeSnapshot time to Snapshot API (#101)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
