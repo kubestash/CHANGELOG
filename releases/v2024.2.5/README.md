@@ -11,3 +11,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.4.0](https://github.com/kubestash/workload/releases/tag/v0.4.0)
+
+- [b673ea8](https://github.com/kubestash/workload/commit/b673ea8) Prepare for release v0.4.0 (#37)
+- [105d2b4](https://github.com/kubestash/workload/commit/105d2b4) Remove set snapshot time method (#36)
+
+
+
