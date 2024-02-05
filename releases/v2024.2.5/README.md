@@ -11,6 +11,15 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.4.0](https://github.com/kubestash/cli/releases/tag/v0.4.0)
+
+- [ec31974](https://github.com/kubestash/cli/commit/ec31974) Prepare for release v0.4.0 (#22)
+- [c9da6cf](https://github.com/kubestash/cli/commit/c9da6cf) Update external snapshotter deps v4 to v7 (#21)
+
+
+
 ## [kubestash/workload](https://github.com/kubestash/workload)
 
 ### [v0.4.0](https://github.com/kubestash/workload/releases/tag/v0.4.0)
