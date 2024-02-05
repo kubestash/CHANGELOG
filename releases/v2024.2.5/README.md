@@ -29,6 +29,15 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.5.0](https://github.com/kubestash/kubestash/releases/tag/v0.5.0)
+
+- [f2ddb113](https://github.com/kubestash/kubestash/commit/f2ddb113) Prepare for release v0.5.0 (#203)
+- [2c43b146](https://github.com/kubestash/kubestash/commit/2c43b146) Update external snapshotter deps v4 to v7 (#202)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.4.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.4.0)

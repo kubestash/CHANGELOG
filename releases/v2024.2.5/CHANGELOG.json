@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.2.5",
-  "release_date": "2024-02-05T19:42:03.056850959Z",
+  "release_date": "2024-02-05T19:42:10.974850882Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.2.5",
   "kubernetes_version": "1.20+",
@@ -59,6 +59,24 @@
             {
               "SHA": "37cdd29",
               "Subject": "Remove set snapshot time method (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "f2ddb113",
+              "Subject": "Prepare for release v0.5.0 (#203)"
+            },
+            {
+              "SHA": "2c43b146",
+              "Subject": "Update external snapshotter deps v4 to v7 (#202)"
             }
           ]
         }
