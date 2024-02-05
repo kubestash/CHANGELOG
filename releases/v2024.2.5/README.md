@@ -20,6 +20,15 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.4.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.4.0)
+
+- [69addef5](https://github.com/kubestash/volume-snapshotter/commit/69addef5) Prepare for release v0.4.0 (#21)
+- [1a1a14b0](https://github.com/kubestash/volume-snapshotter/commit/1a1a14b0) Remove set snapshot time method (#20)
+
+
+
 ## [kubestash/workload](https://github.com/kubestash/workload)
 
 ### [v0.4.0](https://github.com/kubestash/workload/releases/tag/v0.4.0)
