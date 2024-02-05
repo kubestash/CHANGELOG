@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.2.5",
-  "release_date": "2024-02-05T19:42:15.682656149Z",
+  "release_date": "2024-02-05T20:55:38.253562511Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.2.5",
   "kubernetes_version": "1.20+",
@@ -41,6 +41,20 @@
             {
               "SHA": "c9da6cf",
               "Subject": "Update external snapshotter deps v4 to v7 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.2.5",
+          "commits": [
+            {
+              "SHA": "c110999",
+              "Subject": "Prepare for release v2024.2.5 (#56)"
             }
           ]
         }
