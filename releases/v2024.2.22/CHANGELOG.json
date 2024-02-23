@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.2.22",
-  "release_date": "2024-02-23T05:50:48.886729367Z",
+  "release_date": "2024-02-23T05:58:42.866825709Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.2.22",
   "kubernetes_version": "1.20+",
@@ -51,6 +51,40 @@
             {
               "SHA": "cfffaf3",
               "Subject": "Prepare for release v0.5.0 (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "01d1f67b",
+              "Subject": "Prepare for release v0.6.0 (#209)"
+            },
+            {
+              "SHA": "5da96d4b",
+              "Subject": "Fix size and integrity for repository (#208)"
+            },
+            {
+              "SHA": "b15ccc8e",
+              "Subject": "Allow deletion of BackupStorage in NotReady phase (#207)"
+            },
+            {
+              "SHA": "88ef10ec",
+              "Subject": "Add permission to list elasticsearchdashboards (#204)"
+            },
+            {
+              "SHA": "58bad8fd",
+              "Subject": "Eliminate redundant namespaces for rolebindings (#206)"
+            },
+            {
+              "SHA": "5c8a108f",
+              "Subject": "Fix repository sanitizing and snapshot upload file name (#205)"
             }
           ]
         }

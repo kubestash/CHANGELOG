@@ -27,6 +27,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.6.0](https://github.com/kubestash/kubestash/releases/tag/v0.6.0)
+
+- [01d1f67b](https://github.com/kubestash/kubestash/commit/01d1f67b) Prepare for release v0.6.0 (#209)
+- [5da96d4b](https://github.com/kubestash/kubestash/commit/5da96d4b) Fix size and integrity for repository (#208)
+- [b15ccc8e](https://github.com/kubestash/kubestash/commit/b15ccc8e) Allow deletion of BackupStorage in NotReady phase (#207)
+- [88ef10ec](https://github.com/kubestash/kubestash/commit/88ef10ec) Add permission to list elasticsearchdashboards (#204)
+- [58bad8fd](https://github.com/kubestash/kubestash/commit/58bad8fd) Eliminate redundant namespaces for rolebindings (#206)
+- [5c8a108f](https://github.com/kubestash/kubestash/commit/5c8a108f) Fix repository sanitizing and snapshot upload file name (#205)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.5.0](https://github.com/kubestash/pvc/releases/tag/v0.5.0)
