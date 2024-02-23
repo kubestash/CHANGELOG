@@ -10,3 +10,12 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.5.0](https://github.com/kubestash/cli/releases/tag/v0.5.0)
+
+- [577ae62](https://github.com/kubestash/cli/commit/577ae62) Prepare for release v0.5.0 (#24)
+- [977bff7](https://github.com/kubestash/cli/commit/977bff7) Fix tmp dir (#23)
+
+
+

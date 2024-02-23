@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.2.22",
-  "release_date": "2024-02-23T05:41:24.129418213Z",
+  "release_date": "2024-02-23T05:46:53.359683347Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.2.22",
   "kubernetes_version": "1.20+",
@@ -19,6 +19,24 @@
             {
               "SHA": "5a4909b7",
               "Subject": "Add dashboard component name (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "577ae62",
+              "Subject": "Prepare for release v0.5.0 (#24)"
+            },
+            {
+              "SHA": "977bff7",
+              "Subject": "Fix tmp dir (#23)"
             }
           ]
         }
