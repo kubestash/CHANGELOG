@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.2.22",
-  "release_date": "2024-02-23T05:47:57.333651899Z",
+  "release_date": "2024-02-23T05:49:02.1409142Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.2.22",
   "kubernetes_version": "1.20+",
@@ -37,6 +37,20 @@
             {
               "SHA": "977bff7",
               "Subject": "Fix tmp dir (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "cfffaf3",
+              "Subject": "Prepare for release v0.5.0 (#20)"
             }
           ]
         }

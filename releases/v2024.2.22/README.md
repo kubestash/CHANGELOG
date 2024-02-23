@@ -19,6 +19,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.5.0](https://github.com/kubestash/kubedump/releases/tag/v0.5.0)
+
+- [cfffaf3](https://github.com/kubestash/kubedump/commit/cfffaf3) Prepare for release v0.5.0 (#20)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.5.0](https://github.com/kubestash/pvc/releases/tag/v0.5.0)
