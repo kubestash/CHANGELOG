@@ -1,0 +1,28 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.2.22",
+  "release_date": "2024-02-23T05:41:24.129418213Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.2.22",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "cebd2361",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "5a4909b7",
+              "Subject": "Add dashboard component name (#103)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
