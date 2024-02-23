@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.2.22",
-  "release_date": "2024-02-23T05:58:42.866825709Z",
+  "release_date": "2024-02-23T06:47:47.110104203Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.2.22",
   "kubernetes_version": "1.20+",
@@ -113,6 +113,20 @@
             {
               "SHA": "e356444c",
               "Subject": "Prepare for release v0.5.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "dda6056",
+              "Subject": "Prepare for release v0.5.0 (#38)"
             }
           ]
         }

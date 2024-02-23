@@ -56,3 +56,11 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.5.0](https://github.com/kubestash/workload/releases/tag/v0.5.0)
+
+- [dda6056](https://github.com/kubestash/workload/commit/dda6056) Prepare for release v0.5.0 (#38)
+
+
+
