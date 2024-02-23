@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.2.22",
-  "release_date": "2024-02-23T06:47:47.110104203Z",
+  "release_date": "2024-02-23T06:55:06.977692612Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.2.22",
   "kubernetes_version": "1.20+",
@@ -37,6 +37,24 @@
             {
               "SHA": "977bff7",
               "Subject": "Fix tmp dir (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.2.22",
+          "commits": [
+            {
+              "SHA": "1680651",
+              "Subject": "Prepare for release v2024.2.22 (#59)"
+            },
+            {
+              "SHA": "d7c5882",
+              "Subject": "Add permission to list elasticsearchdashboards (#58)"
             }
           ]
         }

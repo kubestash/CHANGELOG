@@ -19,6 +19,15 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.2.22](https://github.com/kubestash/installer/releases/tag/v2024.2.22)
+
+- [1680651](https://github.com/kubestash/installer/commit/1680651) Prepare for release v2024.2.22 (#59)
+- [d7c5882](https://github.com/kubestash/installer/commit/d7c5882) Add permission to list elasticsearchdashboards (#58)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.5.0](https://github.com/kubestash/kubedump/releases/tag/v0.5.0)
