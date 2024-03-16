@@ -10,6 +10,14 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.6.0](https://github.com/kubestash/cli/releases/tag/v0.6.0)
+
+- [b391477](https://github.com/kubestash/cli/commit/b391477) Prepare for release v0.6.0 (#26)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.6.0](https://github.com/kubestash/pvc/releases/tag/v0.6.0)
