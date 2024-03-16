@@ -26,6 +26,15 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.7.0](https://github.com/kubestash/kubestash/releases/tag/v0.7.0)
+
+- [471c14b9](https://github.com/kubestash/kubestash/commit/471c14b9) Prepare for release v0.7.0 (#214)
+- [e8ec7f82](https://github.com/kubestash/kubestash/commit/e8ec7f82) Add support for cross namespace restore (#212)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.6.0](https://github.com/kubestash/pvc/releases/tag/v0.6.0)

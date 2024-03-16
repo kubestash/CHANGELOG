@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T14:51:07.617240914Z",
+  "release_date": "2024-03-16T15:01:08.546586396Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -47,6 +47,24 @@
             {
               "SHA": "f7370e2",
               "Subject": "Prepare for release v0.6.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "471c14b9",
+              "Subject": "Prepare for release v0.7.0 (#214)"
+            },
+            {
+              "SHA": "e8ec7f82",
+              "Subject": "Add support for cross namespace restore (#212)"
             }
           ]
         }
