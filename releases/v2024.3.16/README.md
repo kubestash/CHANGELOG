@@ -53,3 +53,13 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.6.0](https://github.com/kubestash/workload/releases/tag/v0.6.0)
+
+- [00aca18](https://github.com/kubestash/workload/commit/00aca18) Prepare for release v0.6.0 (#42)
+- [1da8078](https://github.com/kubestash/workload/commit/1da8078) Add re-usable method for getting `RestoreSession` namespace (#40)
+- [82bdf0f](https://github.com/kubestash/workload/commit/82bdf0f) Add support for cross namespace restore (#39)
+
+
+

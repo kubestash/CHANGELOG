@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T15:01:08.546586396Z",
+  "release_date": "2024-03-16T15:26:24.493665099Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -101,6 +101,28 @@
             {
               "SHA": "d30c0782",
               "Subject": "Remove PVC readiness check after restore completion. (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "00aca18",
+              "Subject": "Prepare for release v0.6.0 (#42)"
+            },
+            {
+              "SHA": "1da8078",
+              "Subject": "Add re-usable method for getting `RestoreSession` namespace (#40)"
+            },
+            {
+              "SHA": "82bdf0f",
+              "Subject": "Add support for cross namespace restore (#39)"
             }
           ]
         }
