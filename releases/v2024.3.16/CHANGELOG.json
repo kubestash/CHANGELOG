@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T14:42:42.104314053Z",
+  "release_date": "2024-03-16T14:49:38.751897361Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -19,6 +19,20 @@
             {
               "SHA": "68e5fe22",
               "Subject": "Add `Namespace` option for restore dataSource (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "95ac99c",
+              "Subject": "Prepare for release v0.6.0 (#30)"
             }
           ]
         }
