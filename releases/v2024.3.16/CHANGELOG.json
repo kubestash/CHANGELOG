@@ -1,0 +1,146 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.3.16",
+  "release_date": "2024-03-16T15:33:43.789285248Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.3.16",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "ef0ca68b",
+              "Subject": "Add helper method for getting DataSource namespace"
+            },
+            {
+              "SHA": "68e5fe22",
+              "Subject": "Add `Namespace` option for restore dataSource (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "b391477",
+              "Subject": "Prepare for release v0.6.0 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.3.16",
+          "commits": [
+            {
+              "SHA": "3d0bce8",
+              "Subject": "Prepare for release v2024.3.16 (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "f7370e2",
+              "Subject": "Prepare for release v0.6.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "471c14b9",
+              "Subject": "Prepare for release v0.7.0 (#214)"
+            },
+            {
+              "SHA": "e8ec7f82",
+              "Subject": "Add support for cross namespace restore (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "95ac99c",
+              "Subject": "Prepare for release v0.6.0 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "e936c7c9",
+              "Subject": "Prepare for release v0.6.0 (#25)"
+            },
+            {
+              "SHA": "3555987c",
+              "Subject": "Add support for cross namespace restore (#24)"
+            },
+            {
+              "SHA": "d30c0782",
+              "Subject": "Remove PVC readiness check after restore completion. (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "00aca18",
+              "Subject": "Prepare for release v0.6.0 (#42)"
+            },
+            {
+              "SHA": "1da8078",
+              "Subject": "Add re-usable method for getting `RestoreSession` namespace (#40)"
+            },
+            {
+              "SHA": "82bdf0f",
+              "Subject": "Add support for cross namespace restore (#39)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
