@@ -18,6 +18,14 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.3.16](https://github.com/kubestash/installer/releases/tag/v2024.3.16)
+
+- [3d0bce8](https://github.com/kubestash/installer/commit/3d0bce8) Prepare for release v2024.3.16 (#62)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.6.0](https://github.com/kubestash/kubedump/releases/tag/v0.6.0)
