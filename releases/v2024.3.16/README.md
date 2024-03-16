@@ -1,0 +1,12 @@
+# KubeStash v2024.3.16 (2024-03-16)
+
+
+## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
+
+### [v0.7.0](https://github.com/kubestash/apimachinery/releases/tag/v0.7.0)
+
+- [ef0ca68b](https://github.com/kubestash/apimachinery/commit/ef0ca68b) Add helper method for getting DataSource namespace
+- [68e5fe22](https://github.com/kubestash/apimachinery/commit/68e5fe22) Add `Namespace` option for restore dataSource (#104)
+
+
+
