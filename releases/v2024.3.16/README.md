@@ -18,6 +18,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.6.0](https://github.com/kubestash/kubedump/releases/tag/v0.6.0)
+
+- [f7370e2](https://github.com/kubestash/kubedump/commit/f7370e2) Prepare for release v0.6.0 (#21)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.6.0](https://github.com/kubestash/pvc/releases/tag/v0.6.0)
