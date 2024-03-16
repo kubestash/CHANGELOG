@@ -34,3 +34,13 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.6.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.6.0)
+
+- [e936c7c9](https://github.com/kubestash/volume-snapshotter/commit/e936c7c9) Prepare for release v0.6.0 (#25)
+- [3555987c](https://github.com/kubestash/volume-snapshotter/commit/3555987c) Add support for cross namespace restore (#24)
+- [d30c0782](https://github.com/kubestash/volume-snapshotter/commit/d30c0782) Remove PVC readiness check after restore completion. (#23)
+
+
+

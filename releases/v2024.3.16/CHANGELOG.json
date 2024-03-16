@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T14:50:22.371226604Z",
+  "release_date": "2024-03-16T14:51:07.617240914Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -61,6 +61,28 @@
             {
               "SHA": "95ac99c",
               "Subject": "Prepare for release v0.6.0 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "e936c7c9",
+              "Subject": "Prepare for release v0.6.0 (#25)"
+            },
+            {
+              "SHA": "3555987c",
+              "Subject": "Add support for cross namespace restore (#24)"
+            },
+            {
+              "SHA": "d30c0782",
+              "Subject": "Remove PVC readiness check after restore completion. (#23)"
             }
           ]
         }
