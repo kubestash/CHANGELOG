@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T09:10:21.692598505Z",
+  "release_date": "2024-04-27T09:11:02.873659158Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -75,6 +75,36 @@
             {
               "SHA": "13a66ea",
               "Subject": "Use Go 1.22 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "d4b2db6b",
+              "Subject": "Prepare for release v0.8.0 (#221)"
+            },
+            {
+              "SHA": "f641973f",
+              "Subject": "Fix: incremental snapshot status update in cloud (#220)"
+            },
+            {
+              "SHA": "a5fd8f41",
+              "Subject": "Resolve addon version dynamically (#219)"
+            },
+            {
+              "SHA": "8372ca19",
+              "Subject": "Use Go 1.22 (#218)"
+            },
+            {
+              "SHA": "bc2be9c6",
+              "Subject": "Separate commands for operator and webhook server (#217)"
             }
           ]
         }

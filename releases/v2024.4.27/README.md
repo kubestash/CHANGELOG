@@ -33,6 +33,18 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.8.0](https://github.com/kubestash/kubestash/releases/tag/v0.8.0)
+
+- [d4b2db6b](https://github.com/kubestash/kubestash/commit/d4b2db6b) Prepare for release v0.8.0 (#221)
+- [f641973f](https://github.com/kubestash/kubestash/commit/f641973f) Fix: incremental snapshot status update in cloud (#220)
+- [a5fd8f41](https://github.com/kubestash/kubestash/commit/a5fd8f41) Resolve addon version dynamically (#219)
+- [8372ca19](https://github.com/kubestash/kubestash/commit/8372ca19) Use Go 1.22 (#218)
+- [bc2be9c6](https://github.com/kubestash/kubestash/commit/bc2be9c6) Separate commands for operator and webhook server (#217)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.7.0](https://github.com/kubestash/pvc/releases/tag/v0.7.0)
