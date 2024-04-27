@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.4.27",
+  "release_date": "2024-04-27T08:53:08.995608587Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.4.27",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "051f42a5",
+              "Subject": "Add `availableVersions` field in Function; Resolve addon dynamically (#110)"
+            },
+            {
+              "SHA": "e18e3629",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "935c3e53",
+              "Subject": "Use Go 1.22 (#109)"
+            },
+            {
+              "SHA": "eee3fcb1",
+              "Subject": "Fix wrong CRD generation (#108)"
+            },
+            {
+              "SHA": "1d425806",
+              "Subject": "Update autobackup annotation and cleanup (#107)"
+            },
+            {
+              "SHA": "67bc6437",
+              "Subject": "Remove cves"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
