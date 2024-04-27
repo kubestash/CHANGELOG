@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T09:00:11.58084295Z",
+  "release_date": "2024-04-27T09:01:26.945058137Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -97,6 +97,24 @@
             {
               "SHA": "98985a8",
               "Subject": "Add support for cross namespace restore (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "73c6272a",
+              "Subject": "Prepare for release v0.7.0 (#27)"
+            },
+            {
+              "SHA": "e36447c6",
+              "Subject": "Use Go 1.22 (#26)"
             }
           ]
         }
