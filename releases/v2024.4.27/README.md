@@ -14,3 +14,13 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.7.0](https://github.com/kubestash/cli/releases/tag/v0.7.0)
+
+- [4a9d80a](https://github.com/kubestash/cli/commit/4a9d80a) Prepare for release v0.7.0 (#29)
+- [21112b8](https://github.com/kubestash/cli/commit/21112b8) Use Go 1.22 (#28)
+- [f2faab5](https://github.com/kubestash/cli/commit/f2faab5) Update kubestash info url (#27)
+
+
+
