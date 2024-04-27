@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T09:11:02.873659158Z",
+  "release_date": "2024-04-27T09:35:07.686638872Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -57,6 +57,36 @@
             {
               "SHA": "f2faab5",
               "Subject": "Update kubestash info url (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.4.27",
+          "commits": [
+            {
+              "SHA": "a1b9037",
+              "Subject": "Prepare for release v2024.4.27 (#67)"
+            },
+            {
+              "SHA": "fb1aee2",
+              "Subject": "Add metrics chart (#64)"
+            },
+            {
+              "SHA": "db0e2b4",
+              "Subject": "Use Go 1.22 (#66)"
+            },
+            {
+              "SHA": "d610528",
+              "Subject": "Separate commands for operator and webhook server (#65)"
+            },
+            {
+              "SHA": "989cb8e",
+              "Subject": "Use Go 1.22"
             }
           ]
         }

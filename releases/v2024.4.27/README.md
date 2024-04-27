@@ -24,6 +24,18 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.4.27](https://github.com/kubestash/installer/releases/tag/v2024.4.27)
+
+- [a1b9037](https://github.com/kubestash/installer/commit/a1b9037) Prepare for release v2024.4.27 (#67)
+- [fb1aee2](https://github.com/kubestash/installer/commit/fb1aee2) Add metrics chart (#64)
+- [db0e2b4](https://github.com/kubestash/installer/commit/db0e2b4) Use Go 1.22 (#66)
+- [d610528](https://github.com/kubestash/installer/commit/d610528) Separate commands for operator and webhook server (#65)
+- [989cb8e](https://github.com/kubestash/installer/commit/989cb8e) Use Go 1.22
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.7.0](https://github.com/kubestash/kubedump/releases/tag/v0.7.0)
