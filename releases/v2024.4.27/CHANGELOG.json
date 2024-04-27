@@ -1,0 +1,198 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.4.27",
+  "release_date": "2024-04-27T09:35:07.686638872Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.4.27",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "051f42a5",
+              "Subject": "Add `availableVersions` field in Function; Resolve addon dynamically (#110)"
+            },
+            {
+              "SHA": "e18e3629",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "935c3e53",
+              "Subject": "Use Go 1.22 (#109)"
+            },
+            {
+              "SHA": "eee3fcb1",
+              "Subject": "Fix wrong CRD generation (#108)"
+            },
+            {
+              "SHA": "1d425806",
+              "Subject": "Update autobackup annotation and cleanup (#107)"
+            },
+            {
+              "SHA": "67bc6437",
+              "Subject": "Remove cves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "4a9d80a",
+              "Subject": "Prepare for release v0.7.0 (#29)"
+            },
+            {
+              "SHA": "21112b8",
+              "Subject": "Use Go 1.22 (#28)"
+            },
+            {
+              "SHA": "f2faab5",
+              "Subject": "Update kubestash info url (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.4.27",
+          "commits": [
+            {
+              "SHA": "a1b9037",
+              "Subject": "Prepare for release v2024.4.27 (#67)"
+            },
+            {
+              "SHA": "fb1aee2",
+              "Subject": "Add metrics chart (#64)"
+            },
+            {
+              "SHA": "db0e2b4",
+              "Subject": "Use Go 1.22 (#66)"
+            },
+            {
+              "SHA": "d610528",
+              "Subject": "Separate commands for operator and webhook server (#65)"
+            },
+            {
+              "SHA": "989cb8e",
+              "Subject": "Use Go 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "bb0445e",
+              "Subject": "Prepare for release v0.7.0 (#23)"
+            },
+            {
+              "SHA": "13a66ea",
+              "Subject": "Use Go 1.22 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "d4b2db6b",
+              "Subject": "Prepare for release v0.8.0 (#221)"
+            },
+            {
+              "SHA": "f641973f",
+              "Subject": "Fix: incremental snapshot status update in cloud (#220)"
+            },
+            {
+              "SHA": "a5fd8f41",
+              "Subject": "Resolve addon version dynamically (#219)"
+            },
+            {
+              "SHA": "8372ca19",
+              "Subject": "Use Go 1.22 (#218)"
+            },
+            {
+              "SHA": "bc2be9c6",
+              "Subject": "Separate commands for operator and webhook server (#217)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "757ed2a",
+              "Subject": "Prepare for release v0.7.0 (#32)"
+            },
+            {
+              "SHA": "7816e6a",
+              "Subject": "Use Go 1.22 (#31)"
+            },
+            {
+              "SHA": "98985a8",
+              "Subject": "Add support for cross namespace restore (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "73c6272a",
+              "Subject": "Prepare for release v0.7.0 (#27)"
+            },
+            {
+              "SHA": "e36447c6",
+              "Subject": "Use Go 1.22 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "e412bb4",
+              "Subject": "Prepare for release v0.7.0 (#44)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
