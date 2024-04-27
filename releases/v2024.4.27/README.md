@@ -33,3 +33,13 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.7.0](https://github.com/kubestash/pvc/releases/tag/v0.7.0)
+
+- [757ed2a](https://github.com/kubestash/pvc/commit/757ed2a) Prepare for release v0.7.0 (#32)
+- [7816e6a](https://github.com/kubestash/pvc/commit/7816e6a) Use Go 1.22 (#31)
+- [98985a8](https://github.com/kubestash/pvc/commit/98985a8) Add support for cross namespace restore (#29)
+
+
+
