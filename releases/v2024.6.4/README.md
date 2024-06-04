@@ -36,3 +36,12 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.8.0](https://github.com/kubestash/pvc/releases/tag/v0.8.0)
+
+- [79890f3](https://github.com/kubestash/pvc/commit/79890f3) Prepare for release v0.8.0 (#34)
+- [f77b8dc](https://github.com/kubestash/pvc/commit/f77b8dc) Use k8s 1.30 client libs (#33)
+
+
+

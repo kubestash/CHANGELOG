@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.6.4",
-  "release_date": "2024-06-04T19:45:16.96290296Z",
+  "release_date": "2024-06-04T19:45:35.531931734Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -87,6 +87,24 @@
             {
               "SHA": "d56cd12",
               "Subject": "Use k8s 1.29 client libs (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "79890f3",
+              "Subject": "Prepare for release v0.8.0 (#34)"
+            },
+            {
+              "SHA": "f77b8dc",
+              "Subject": "Use k8s 1.30 client libs (#33)"
             }
           ]
         }
