@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.6.4",
-  "release_date": "2024-06-04T19:44:54.738852393Z",
+  "release_date": "2024-06-04T19:45:16.96290296Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -53,6 +53,40 @@
             {
               "SHA": "e56554f3",
               "Subject": "Create RoleBinding in the manifest namespace (#227)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "4b71671",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "9fb9f49",
+              "Subject": "Use k8s 1.30 client libs (#7)"
+            },
+            {
+              "SHA": "addbde9",
+              "Subject": "Implement manifest addon (#6)"
+            },
+            {
+              "SHA": "caa1add",
+              "Subject": "Use Go 1.22 (#5)"
+            },
+            {
+              "SHA": "e814e7b",
+              "Subject": "Use deps (#3)"
+            },
+            {
+              "SHA": "d56cd12",
+              "Subject": "Use k8s 1.29 client libs (#2)"
             }
           ]
         }

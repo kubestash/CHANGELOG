@@ -23,3 +23,16 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.1.0](https://github.com/kubestash/manifest/releases/tag/v0.1.0)
+
+- [4b71671](https://github.com/kubestash/manifest/commit/4b71671) Prepare for release v0.1.0 (#8)
+- [9fb9f49](https://github.com/kubestash/manifest/commit/9fb9f49) Use k8s 1.30 client libs (#7)
+- [addbde9](https://github.com/kubestash/manifest/commit/addbde9) Implement manifest addon (#6)
+- [caa1add](https://github.com/kubestash/manifest/commit/caa1add) Use Go 1.22 (#5)
+- [e814e7b](https://github.com/kubestash/manifest/commit/e814e7b) Use deps (#3)
+- [d56cd12](https://github.com/kubestash/manifest/commit/d56cd12) Use k8s 1.29 client libs (#2)
+
+
+
