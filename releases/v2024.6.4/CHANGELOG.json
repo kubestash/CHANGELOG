@@ -1,0 +1,218 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.6.4",
+  "release_date": "2024-06-04T20:34:41.421510152Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.6.4",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "ec8b5051",
+              "Subject": "Remove deprecated markers"
+            },
+            {
+              "SHA": "126c3590",
+              "Subject": "Fork ControllerManagerConfigurationSpec (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "9617d0a",
+              "Subject": "Prepare for release v0.8.0 (#31)"
+            },
+            {
+              "SHA": "c74e71f",
+              "Subject": "Use k8s 1.30 client libs (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2024.6.4",
+          "commits": [
+            {
+              "SHA": "60348a0",
+              "Subject": "Prepare for release v2024.6.4 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.6.4",
+          "commits": [
+            {
+              "SHA": "ecf4de4",
+              "Subject": "Prepare for release v2024.6.4 (#70)"
+            },
+            {
+              "SHA": "b42254a",
+              "Subject": "Use k8s 1.30 client libs (#69)"
+            },
+            {
+              "SHA": "12f1da6",
+              "Subject": "Add manifest functions (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "f7ed5c1",
+              "Subject": "Prepare for release v0.8.0 (#25)"
+            },
+            {
+              "SHA": "2eccceb",
+              "Subject": "Use k8s 1.30 client libs (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "9619cf74",
+              "Subject": "Prepare for release v0.9.0 (#232)"
+            },
+            {
+              "SHA": "4f3854f8",
+              "Subject": "Use k8s 1.30 client libs (#231)"
+            },
+            {
+              "SHA": "f04a4fa2",
+              "Subject": "Add support for workload manifest backup and restore (#229)"
+            },
+            {
+              "SHA": "1b876c7e",
+              "Subject": "Rearrange addon tasks according to task name (#228)"
+            },
+            {
+              "SHA": "c8e91e1a",
+              "Subject": "Add validation for datasource components (#225)"
+            },
+            {
+              "SHA": "e56554f3",
+              "Subject": "Create RoleBinding in the manifest namespace (#227)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "4b71671",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "9fb9f49",
+              "Subject": "Use k8s 1.30 client libs (#7)"
+            },
+            {
+              "SHA": "addbde9",
+              "Subject": "Implement manifest addon (#6)"
+            },
+            {
+              "SHA": "caa1add",
+              "Subject": "Use Go 1.22 (#5)"
+            },
+            {
+              "SHA": "e814e7b",
+              "Subject": "Use deps (#3)"
+            },
+            {
+              "SHA": "d56cd12",
+              "Subject": "Use k8s 1.29 client libs (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "79890f3",
+              "Subject": "Prepare for release v0.8.0 (#34)"
+            },
+            {
+              "SHA": "f77b8dc",
+              "Subject": "Use k8s 1.30 client libs (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "d5299da7",
+              "Subject": "Prepare for release v0.8.0 (#29)"
+            },
+            {
+              "SHA": "efb4229a",
+              "Subject": "Use k8s 1.30 client libs (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "358f2c5",
+              "Subject": "Prepare for release v0.8.0 (#45)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
