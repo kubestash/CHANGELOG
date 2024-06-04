@@ -19,6 +19,16 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.6.4](https://github.com/kubestash/installer/releases/tag/v2024.6.4)
+
+- [ecf4de4](https://github.com/kubestash/installer/commit/ecf4de4) Prepare for release v2024.6.4 (#70)
+- [b42254a](https://github.com/kubestash/installer/commit/b42254a) Use k8s 1.30 client libs (#69)
+- [12f1da6](https://github.com/kubestash/installer/commit/12f1da6) Add manifest functions (#68)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.8.0](https://github.com/kubestash/kubedump/releases/tag/v0.8.0)
