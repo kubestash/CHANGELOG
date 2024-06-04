@@ -10,6 +10,15 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.8.0](https://github.com/kubestash/cli/releases/tag/v0.8.0)
+
+- [9617d0a](https://github.com/kubestash/cli/commit/9617d0a) Prepare for release v0.8.0 (#31)
+- [c74e71f](https://github.com/kubestash/cli/commit/c74e71f) Use k8s 1.30 client libs (#30)
+
+
+
 ## [kubestash/kubestash](https://github.com/kubestash/kubestash)
 
 ### [v0.9.0](https://github.com/kubestash/kubestash/releases/tag/v0.9.0)

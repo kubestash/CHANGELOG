@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.6.4",
-  "release_date": "2024-06-04T19:45:35.531931734Z",
+  "release_date": "2024-06-04T19:45:41.313688061Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -19,6 +19,24 @@
             {
               "SHA": "126c3590",
               "Subject": "Fork ControllerManagerConfigurationSpec (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "9617d0a",
+              "Subject": "Prepare for release v0.8.0 (#31)"
+            },
+            {
+              "SHA": "c74e71f",
+              "Subject": "Use k8s 1.30 client libs (#30)"
             }
           ]
         }
