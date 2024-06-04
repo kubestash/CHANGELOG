@@ -63,3 +63,12 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.8.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.8.0)
+
+- [d5299da7](https://github.com/kubestash/volume-snapshotter/commit/d5299da7) Prepare for release v0.8.0 (#29)
+- [efb4229a](https://github.com/kubestash/volume-snapshotter/commit/efb4229a) Use k8s 1.30 client libs (#28)
+
+
+
