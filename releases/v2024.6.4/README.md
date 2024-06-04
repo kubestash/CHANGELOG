@@ -19,6 +19,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.8.0](https://github.com/kubestash/kubedump/releases/tag/v0.8.0)
+
+- [f7ed5c1](https://github.com/kubestash/kubedump/commit/f7ed5c1) Prepare for release v0.8.0 (#25)
+- [2eccceb](https://github.com/kubestash/kubedump/commit/2eccceb) Use k8s 1.30 client libs (#24)
+
+
+
 ## [kubestash/kubestash](https://github.com/kubestash/kubestash)
 
 ### [v0.9.0](https://github.com/kubestash/kubestash/releases/tag/v0.9.0)
