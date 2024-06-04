@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.6.4",
-  "release_date": "2024-06-04T19:24:13.055297365Z",
+  "release_date": "2024-06-04T19:44:54.738852393Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -19,6 +19,40 @@
             {
               "SHA": "126c3590",
               "Subject": "Fork ControllerManagerConfigurationSpec (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "9619cf74",
+              "Subject": "Prepare for release v0.9.0 (#232)"
+            },
+            {
+              "SHA": "4f3854f8",
+              "Subject": "Use k8s 1.30 client libs (#231)"
+            },
+            {
+              "SHA": "f04a4fa2",
+              "Subject": "Add support for workload manifest backup and restore (#229)"
+            },
+            {
+              "SHA": "1b876c7e",
+              "Subject": "Rearrange addon tasks according to task name (#228)"
+            },
+            {
+              "SHA": "c8e91e1a",
+              "Subject": "Add validation for datasource components (#225)"
+            },
+            {
+              "SHA": "e56554f3",
+              "Subject": "Create RoleBinding in the manifest namespace (#227)"
             }
           ]
         }
