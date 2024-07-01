@@ -20,6 +20,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2024.7.1](https://github.com/kubestash/docs/releases/tag/v2024.7.1)
+
+- [2fb9153](https://github.com/kubestash/docs/commit/2fb9153) Prepare for release v2024.7.1 (#11)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2024.7.1](https://github.com/kubestash/installer/releases/tag/v2024.7.1)
