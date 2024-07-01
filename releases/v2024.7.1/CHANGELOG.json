@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.7.1",
-  "release_date": "2024-07-01T11:07:12.818600657Z",
+  "release_date": "2024-07-01T11:33:16.365148137Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.7.1",
   "kubernetes_version": "1.25+",
@@ -55,6 +55,36 @@
             {
               "SHA": "26a75f9",
               "Subject": "Prepare for release v0.9.0 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "50c37b1f",
+              "Subject": "Prepare for release v0.10.0 (#236)"
+            },
+            {
+              "SHA": "2b62f295",
+              "Subject": "Fix to ignore `ContentType` for s3-proxy and driverFunctionMap nil pointer (#235)"
+            },
+            {
+              "SHA": "4b02e8cc",
+              "Subject": "Rework retention-policy execution (#230)"
+            },
+            {
+              "SHA": "298d7817",
+              "Subject": "Allow `BackupStorage` deletion if backend secret not found (#226)"
+            },
+            {
+              "SHA": "232afedb",
+              "Subject": "Move cloud blob package to api-machinery for global usages (#233)"
             }
           ]
         }

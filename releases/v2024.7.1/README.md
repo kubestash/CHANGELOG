@@ -28,6 +28,18 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.10.0](https://github.com/kubestash/kubestash/releases/tag/v0.10.0)
+
+- [50c37b1f](https://github.com/kubestash/kubestash/commit/50c37b1f) Prepare for release v0.10.0 (#236)
+- [2b62f295](https://github.com/kubestash/kubestash/commit/2b62f295) Fix to ignore `ContentType` for s3-proxy and driverFunctionMap nil pointer (#235)
+- [4b02e8cc](https://github.com/kubestash/kubestash/commit/4b02e8cc) Rework retention-policy execution (#230)
+- [298d7817](https://github.com/kubestash/kubestash/commit/298d7817) Allow `BackupStorage` deletion if backend secret not found (#226)
+- [232afedb](https://github.com/kubestash/kubestash/commit/232afedb) Move cloud blob package to api-machinery for global usages (#233)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.2.0](https://github.com/kubestash/manifest/releases/tag/v0.2.0)
