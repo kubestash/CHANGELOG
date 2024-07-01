@@ -20,6 +20,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.9.0](https://github.com/kubestash/kubedump/releases/tag/v0.9.0)
+
+- [26a75f9](https://github.com/kubestash/kubedump/commit/26a75f9) Prepare for release v0.9.0 (#26)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.2.0](https://github.com/kubestash/manifest/releases/tag/v0.2.0)
