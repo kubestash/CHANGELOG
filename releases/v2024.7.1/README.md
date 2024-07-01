@@ -12,3 +12,11 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.2.0](https://github.com/kubestash/manifest/releases/tag/v0.2.0)
+
+- [9a7d25c](https://github.com/kubestash/manifest/commit/9a7d25c) Prepare for release v0.2.0 (#9)
+
+
+
