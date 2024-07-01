@@ -20,6 +20,14 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.7.1](https://github.com/kubestash/installer/releases/tag/v2024.7.1)
+
+- [52560a3](https://github.com/kubestash/installer/commit/52560a3) Prepare for release v2024.7.1 (#72)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.9.0](https://github.com/kubestash/kubedump/releases/tag/v0.9.0)
