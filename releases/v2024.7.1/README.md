@@ -28,3 +28,11 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.9.0](https://github.com/kubestash/pvc/releases/tag/v0.9.0)
+
+- [1d3d587](https://github.com/kubestash/pvc/commit/1d3d587) Prepare for release v0.9.0 (#35)
+
+
+
