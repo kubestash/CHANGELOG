@@ -20,6 +20,16 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.8.14](https://github.com/kubestash/installer/releases/tag/v2024.8.14)
+
+- [5ddcde9](https://github.com/kubestash/installer/commit/5ddcde9) Prepare for release v2024.8.14 (#79)
+- [d5bbc0b](https://github.com/kubestash/installer/commit/d5bbc0b) Test against k8s 1.31 (#77)
+- [279541d](https://github.com/kubestash/installer/commit/279541d) Add rbac permissions for MSSQL manifest backup, restore (#75)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.10.0](https://github.com/kubestash/kubedump/releases/tag/v0.10.0)
