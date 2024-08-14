@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.8.14",
+  "release_date": "2024-08-14T17:22:16.451090581Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.8.14",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "26444347",
+              "Subject": "Use Go 1.23 (#125)"
+            },
+            {
+              "SHA": "9214357f",
+              "Subject": "Fix resolving Addon version (#121)"
+            },
+            {
+              "SHA": "058da7c8",
+              "Subject": "Fix kubedb-crds import by removing kubedb apimachinery dependency (#123)"
+            },
+            {
+              "SHA": "fc473bf8",
+              "Subject": "Add MSSQLServer manifest restore options to restoresession (#120)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
