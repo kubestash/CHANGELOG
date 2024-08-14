@@ -63,3 +63,11 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.10.0](https://github.com/kubestash/workload/releases/tag/v0.10.0)
+
+- [1e66749](https://github.com/kubestash/workload/commit/1e66749) Prepare for release v0.10.0 (#48)
+
+
+
