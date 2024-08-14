@@ -1,0 +1,186 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.8.14",
+  "release_date": "2024-08-14T20:56:21.63876664Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.8.14",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "26444347",
+              "Subject": "Use Go 1.23 (#125)"
+            },
+            {
+              "SHA": "9214357f",
+              "Subject": "Fix resolving Addon version (#121)"
+            },
+            {
+              "SHA": "058da7c8",
+              "Subject": "Fix kubedb-crds import by removing kubedb apimachinery dependency (#123)"
+            },
+            {
+              "SHA": "fc473bf8",
+              "Subject": "Add MSSQLServer manifest restore options to restoresession (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "950ae09",
+              "Subject": "Prepare for release v0.10.0 (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2024.8.14",
+          "commits": [
+            {
+              "SHA": "8fedb1a",
+              "Subject": "Prepare for release v2024.8.14 (#13)"
+            },
+            {
+              "SHA": "000b1c7",
+              "Subject": "Fix preview"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.8.14",
+          "commits": [
+            {
+              "SHA": "5ddcde9",
+              "Subject": "Prepare for release v2024.8.14 (#79)"
+            },
+            {
+              "SHA": "d5bbc0b",
+              "Subject": "Test against k8s 1.31 (#77)"
+            },
+            {
+              "SHA": "279541d",
+              "Subject": "Add rbac permissions for MSSQL manifest backup, restore (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "3140b0a",
+              "Subject": "Prepare for release v0.10.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "cbb2e18b",
+              "Subject": "Prepare for release v0.11.0 (#244)"
+            },
+            {
+              "SHA": "a59d5312",
+              "Subject": "Fix preferred resource version for target (#242)"
+            },
+            {
+              "SHA": "9ed4889b",
+              "Subject": "Add necessary rbac permissions backup/restore job for MSSQLServer (#240)"
+            },
+            {
+              "SHA": "8af2c3de",
+              "Subject": "Report control plane and worker node stats"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "b9c2b22",
+              "Subject": "Prepare for release v0.3.0 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "fca0e1b",
+              "Subject": "Prepare for release v0.10.0 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "ae38ec66",
+              "Subject": "Prepare for release v0.10.0 (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "1e66749",
+              "Subject": "Prepare for release v0.10.0 (#48)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
