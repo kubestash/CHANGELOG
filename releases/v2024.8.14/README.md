@@ -20,6 +20,15 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2024.8.14](https://github.com/kubestash/docs/releases/tag/v2024.8.14)
+
+- [8fedb1a](https://github.com/kubestash/docs/commit/8fedb1a) Prepare for release v2024.8.14 (#13)
+- [000b1c7](https://github.com/kubestash/docs/commit/000b1c7) Fix preview
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2024.8.14](https://github.com/kubestash/installer/releases/tag/v2024.8.14)
