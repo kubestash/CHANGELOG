@@ -28,6 +28,17 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.11.0](https://github.com/kubestash/kubestash/releases/tag/v0.11.0)
+
+- [cbb2e18b](https://github.com/kubestash/kubestash/commit/cbb2e18b) Prepare for release v0.11.0 (#244)
+- [a59d5312](https://github.com/kubestash/kubestash/commit/a59d5312) Fix preferred resource version for target (#242)
+- [9ed4889b](https://github.com/kubestash/kubestash/commit/9ed4889b) Add necessary rbac permissions backup/restore job for MSSQLServer (#240)
+- [8af2c3de](https://github.com/kubestash/kubestash/commit/8af2c3de) Report control plane and worker node stats
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.3.0](https://github.com/kubestash/manifest/releases/tag/v0.3.0)
