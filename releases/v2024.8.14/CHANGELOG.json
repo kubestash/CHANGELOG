@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.8.14",
-  "release_date": "2024-08-14T17:28:58.515175574Z",
+  "release_date": "2024-08-14T17:29:36.455017892Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.8.14",
   "kubernetes_version": "1.25+",
@@ -27,6 +27,20 @@
             {
               "SHA": "fc473bf8",
               "Subject": "Add MSSQLServer manifest restore options to restoresession (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "950ae09",
+              "Subject": "Prepare for release v0.10.0 (#34)"
             }
           ]
         }
