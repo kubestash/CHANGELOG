@@ -47,3 +47,12 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.11.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.11.0)
+
+- [bab1f809](https://github.com/kubestash/volume-snapshotter/commit/bab1f809) Prepare for release v0.11.0 (#33)
+- [0cbb4f32](https://github.com/kubestash/volume-snapshotter/commit/0cbb4f32) Use Go 1.23 (#31)
+
+
+
