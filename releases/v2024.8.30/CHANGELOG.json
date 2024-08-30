@@ -1,0 +1,32 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.8.30",
+  "release_date": "2024-08-30T07:44:52.561081678Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.8.30",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "5b2bd98f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "56fa8e6a",
+              "Subject": "Add constants for initial backup trigger (#127)"
+            },
+            {
+              "SHA": "1295e35b",
+              "Subject": "Use Go 1.23 (#126)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
