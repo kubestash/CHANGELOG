@@ -38,3 +38,12 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.11.0](https://github.com/kubestash/pvc/releases/tag/v0.11.0)
+
+- [6a3ed4d](https://github.com/kubestash/pvc/commit/6a3ed4d) Prepare for release v0.11.0 (#38)
+- [585053c](https://github.com/kubestash/pvc/commit/585053c) Use Go 1.23 (#36)
+
+
+
