@@ -11,3 +11,12 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.11.0](https://github.com/kubestash/cli/releases/tag/v0.11.0)
+
+- [7b8760e](https://github.com/kubestash/cli/commit/7b8760e) Prepare for release v0.11.0 (#35)
+- [e25615d](https://github.com/kubestash/cli/commit/e25615d) Use Go 1.23 (#33)
+
+
+
