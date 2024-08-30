@@ -29,3 +29,12 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.4.0](https://github.com/kubestash/manifest/releases/tag/v0.4.0)
+
+- [eeac8b6](https://github.com/kubestash/manifest/commit/eeac8b6) Prepare for release v0.4.0 (#12)
+- [d26c6c1](https://github.com/kubestash/manifest/commit/d26c6c1) Use Go 1.23 (#10)
+
+
+
