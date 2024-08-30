@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.8.30",
-  "release_date": "2024-08-30T08:05:14.085969478Z",
+  "release_date": "2024-08-30T08:33:27.012189593Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.8.30",
   "kubernetes_version": "1.25+",
@@ -135,6 +135,24 @@
             {
               "SHA": "0cbb4f32",
               "Subject": "Use Go 1.23 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "769d7b5",
+              "Subject": "Prepare for release v0.11.0 (#49)"
+            },
+            {
+              "SHA": "3721e80",
+              "Subject": "Use Go 1.23 (#47)"
             }
           ]
         }
