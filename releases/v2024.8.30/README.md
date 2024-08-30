@@ -20,6 +20,15 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2024.8.30](https://github.com/kubestash/docs/releases/tag/v2024.8.30)
+
+- [be7faf9](https://github.com/kubestash/docs/commit/be7faf9) Prepare for release v2024.8.30 (#14)
+- [ef82113](https://github.com/kubestash/docs/commit/ef82113) Use Go 1.23 (#12)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2024.8.30](https://github.com/kubestash/installer/releases/tag/v2024.8.30)
