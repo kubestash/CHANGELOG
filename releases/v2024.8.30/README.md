@@ -20,3 +20,12 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.11.0](https://github.com/kubestash/kubedump/releases/tag/v0.11.0)
+
+- [4d6c846](https://github.com/kubestash/kubedump/commit/4d6c846) Prepare for release v0.11.0 (#29)
+- [b755b27](https://github.com/kubestash/kubedump/commit/b755b27) Use Go 1.23 (#27)
+
+
+
