@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.8.30",
-  "release_date": "2024-08-30T07:53:55.844727276Z",
+  "release_date": "2024-08-30T08:05:14.085969478Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.8.30",
   "kubernetes_version": "1.25+",
@@ -59,6 +59,28 @@
             {
               "SHA": "b755b27",
               "Subject": "Use Go 1.23 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "4ef5a4e0",
+              "Subject": "Prepare for release v0.12.0 (#246)"
+            },
+            {
+              "SHA": "b5e5a908",
+              "Subject": "Add support for trigger initial backup (#245)"
+            },
+            {
+              "SHA": "7fd8a1dd",
+              "Subject": "Use Go 1.23 (#243)"
             }
           ]
         }

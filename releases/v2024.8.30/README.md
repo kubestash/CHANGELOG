@@ -29,6 +29,16 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.12.0](https://github.com/kubestash/kubestash/releases/tag/v0.12.0)
+
+- [4ef5a4e0](https://github.com/kubestash/kubestash/commit/4ef5a4e0) Prepare for release v0.12.0 (#246)
+- [b5e5a908](https://github.com/kubestash/kubestash/commit/b5e5a908) Add support for trigger initial backup (#245)
+- [7fd8a1dd](https://github.com/kubestash/kubestash/commit/7fd8a1dd) Use Go 1.23 (#243)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.4.0](https://github.com/kubestash/manifest/releases/tag/v0.4.0)
