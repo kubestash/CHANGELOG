@@ -20,6 +20,15 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.8.30](https://github.com/kubestash/installer/releases/tag/v2024.8.30)
+
+- [e3b3047](https://github.com/kubestash/installer/commit/e3b3047) Prepare for release v2024.8.30 (#80)
+- [a77a8d3](https://github.com/kubestash/installer/commit/a77a8d3) Use Go 1.23 (#78)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.11.0](https://github.com/kubestash/kubedump/releases/tag/v0.11.0)
