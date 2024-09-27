@@ -19,6 +19,15 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.12.0](https://github.com/kubestash/cli/releases/tag/v0.12.0)
+
+- [01e39a8](https://github.com/kubestash/cli/commit/01e39a8) Prepare for release v0.12.0 (#39)
+- [d72b630](https://github.com/kubestash/cli/commit/d72b630) Add support for timeout for restic backup and restore (#37)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.12.0](https://github.com/kubestash/kubedump/releases/tag/v0.12.0)
