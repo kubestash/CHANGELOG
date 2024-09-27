@@ -1,0 +1,277 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.9.30",
+  "release_date": "2024-09-27T04:50:22.547964349Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.9.30",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "84569fe2",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b0787ab7",
+              "Subject": "Add support for NetworkPolicy (#136)"
+            },
+            {
+              "SHA": "ef35d264",
+              "Subject": "Add conditions for unexpected failures (#134)"
+            },
+            {
+              "SHA": "86c61246",
+              "Subject": "Add supportive function for kubedb `restoring` phase (#133)"
+            },
+            {
+              "SHA": "6f40843d",
+              "Subject": "Update manifest restore APIs (#132)"
+            },
+            {
+              "SHA": "f5d4345b",
+              "Subject": "Add support for timeout for restic backup and restore (#130)"
+            },
+            {
+              "SHA": "6ec04e5b",
+              "Subject": "Add druid manifest backup (#124)"
+            },
+            {
+              "SHA": "e2698888",
+              "Subject": "fix build"
+            },
+            {
+              "SHA": "414e3512",
+              "Subject": "Add the `Content-Type` header when uploading a file to the backend (#131)"
+            },
+            {
+              "SHA": "662b18f0",
+              "Subject": "Cleanup s3 connection opener (#129)"
+            },
+            {
+              "SHA": "9fa19655",
+              "Subject": "Add db version label (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "01e39a8",
+              "Subject": "Prepare for release v0.12.0 (#39)"
+            },
+            {
+              "SHA": "d72b630",
+              "Subject": "Add support for timeout for restic backup and restore (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "cc80206",
+              "Subject": "Prepare for release v2024.9.30 (#19)"
+            },
+            {
+              "SHA": "cbd1c0d",
+              "Subject": "Update docs for kubestash/cli@01e39a8c (#18)"
+            },
+            {
+              "SHA": "89be9ec",
+              "Subject": "Use KIND v0.24.0 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "935dc37",
+              "Subject": "Prepare for release v2024.9.30 (#86)"
+            },
+            {
+              "SHA": "06f2300",
+              "Subject": "Add support for NetworkPolicy (#85)"
+            },
+            {
+              "SHA": "ecb6e3d",
+              "Subject": "Use seccompProfile RuntimeDefault"
+            },
+            {
+              "SHA": "ec46913",
+              "Subject": "Add flag to enable subcharts (#84)"
+            },
+            {
+              "SHA": "e1119ac",
+              "Subject": "Update crd for kubedb doc ci pass  (#83)"
+            },
+            {
+              "SHA": "d267e2c",
+              "Subject": "Add imagelist.yaml"
+            },
+            {
+              "SHA": "f4438bd",
+              "Subject": "Add metrics config user role"
+            },
+            {
+              "SHA": "345e9b6",
+              "Subject": "Revise appcatalog user roles"
+            },
+            {
+              "SHA": "783e8dc",
+              "Subject": "Review user roles (#82)"
+            },
+            {
+              "SHA": "f2d1228",
+              "Subject": "Use KIND v0.24.0 (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "698df5e0",
+              "Subject": "Prepare for release v0.13.0 (#256)"
+            },
+            {
+              "SHA": "a103a91c",
+              "Subject": "Set 'managed-by' labels to backup pods (#255)"
+            },
+            {
+              "SHA": "741858f3",
+              "Subject": "Fix OOMkill issue (#253)"
+            },
+            {
+              "SHA": "c53c63c3",
+              "Subject": "Change `kubedbDBintegration` method for application-level restore (#252)"
+            },
+            {
+              "SHA": "d1cde855",
+              "Subject": "Update rbac for manifest options (#254)"
+            },
+            {
+              "SHA": "a4f2aeaa",
+              "Subject": "Fix restoresession phase update (#249)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "91c3898",
+              "Subject": "Prepare for release v0.5.0 (#16)"
+            },
+            {
+              "SHA": "4ae6ed4",
+              "Subject": "Update manifest restore namespace (#15)"
+            },
+            {
+              "SHA": "75e00a1",
+              "Subject": "Add timeout for backup and restore (#14)"
+            },
+            {
+              "SHA": "915df3a",
+              "Subject": "Use restic 0.17.1 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "41e1967",
+              "Subject": "Prepare for release v0.12.0 (#41)"
+            },
+            {
+              "SHA": "2b2a89f",
+              "Subject": "Add support for timeout for restic backup and restore (#40)"
+            },
+            {
+              "SHA": "ebc03a1",
+              "Subject": "Use restic 0.17.1 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "96a0761a",
+              "Subject": "Prepare for release v0.12.0 (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "fb9febf",
+              "Subject": "Prepare for release v0.12.0 (#51)"
+            },
+            {
+              "SHA": "5515c6d",
+              "Subject": "Add support for timeout for restic backup and restore (#50)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
