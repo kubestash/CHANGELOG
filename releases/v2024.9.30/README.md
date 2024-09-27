@@ -46,3 +46,13 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.12.0](https://github.com/kubestash/pvc/releases/tag/v0.12.0)
+
+- [41e1967](https://github.com/kubestash/pvc/commit/41e1967) Prepare for release v0.12.0 (#41)
+- [2b2a89f](https://github.com/kubestash/pvc/commit/2b2a89f) Add support for timeout for restic backup and restore (#40)
+- [ebc03a1](https://github.com/kubestash/pvc/commit/ebc03a1) Use restic 0.17.1 (#39)
+
+
+
