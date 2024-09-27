@@ -19,3 +19,10 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.12.0](https://github.com/kubestash/kubedump/releases/tag/v0.12.0)
+
+
+
+

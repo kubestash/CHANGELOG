@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:04:02.456391519Z",
+  "release_date": "2024-09-27T01:11:40.200125934Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.9.30",
   "kubernetes_version": "1.25+",
@@ -57,6 +57,15 @@
               "Subject": "Add db version label (#128)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": null
         }
       ]
     }
