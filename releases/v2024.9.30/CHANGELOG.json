@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:13:42.531947859Z",
+  "release_date": "2024-09-27T01:24:19.061629292Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.9.30",
   "kubernetes_version": "1.25+",
@@ -84,6 +84,40 @@
         {
           "tag": "v0.12.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "698df5e0",
+              "Subject": "Prepare for release v0.13.0 (#256)"
+            },
+            {
+              "SHA": "a103a91c",
+              "Subject": "Set 'managed-by' labels to backup pods (#255)"
+            },
+            {
+              "SHA": "741858f3",
+              "Subject": "Fix OOMkill issue (#253)"
+            },
+            {
+              "SHA": "c53c63c3",
+              "Subject": "Change `kubedbDBintegration` method for application-level restore (#252)"
+            },
+            {
+              "SHA": "d1cde855",
+              "Subject": "Update rbac for manifest options (#254)"
+            },
+            {
+              "SHA": "a4f2aeaa",
+              "Subject": "Fix restoresession phase update (#249)"
+            }
+          ]
         }
       ]
     },

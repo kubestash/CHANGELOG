@@ -35,6 +35,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.13.0](https://github.com/kubestash/kubestash/releases/tag/v0.13.0)
+
+- [698df5e0](https://github.com/kubestash/kubestash/commit/698df5e0) Prepare for release v0.13.0 (#256)
+- [a103a91c](https://github.com/kubestash/kubestash/commit/a103a91c) Set 'managed-by' labels to backup pods (#255)
+- [741858f3](https://github.com/kubestash/kubestash/commit/741858f3) Fix OOMkill issue (#253)
+- [c53c63c3](https://github.com/kubestash/kubestash/commit/c53c63c3) Change `kubedbDBintegration` method for application-level restore (#252)
+- [d1cde855](https://github.com/kubestash/kubestash/commit/d1cde855) Update rbac for manifest options (#254)
+- [a4f2aeaa](https://github.com/kubestash/kubestash/commit/a4f2aeaa) Fix restoresession phase update (#249)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.5.0](https://github.com/kubestash/manifest/releases/tag/v0.5.0)
