@@ -28,6 +28,23 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.9.30](https://github.com/kubestash/installer/releases/tag/v2024.9.30)
+
+- [935dc37](https://github.com/kubestash/installer/commit/935dc37) Prepare for release v2024.9.30 (#86)
+- [06f2300](https://github.com/kubestash/installer/commit/06f2300) Add support for NetworkPolicy (#85)
+- [ecb6e3d](https://github.com/kubestash/installer/commit/ecb6e3d) Use seccompProfile RuntimeDefault
+- [ec46913](https://github.com/kubestash/installer/commit/ec46913) Add flag to enable subcharts (#84)
+- [e1119ac](https://github.com/kubestash/installer/commit/e1119ac) Update crd for kubedb doc ci pass  (#83)
+- [d267e2c](https://github.com/kubestash/installer/commit/d267e2c) Add imagelist.yaml
+- [f4438bd](https://github.com/kubestash/installer/commit/f4438bd) Add metrics config user role
+- [345e9b6](https://github.com/kubestash/installer/commit/345e9b6) Revise appcatalog user roles
+- [783e8dc](https://github.com/kubestash/installer/commit/783e8dc) Review user roles (#82)
+- [f2d1228](https://github.com/kubestash/installer/commit/f2d1228) Use KIND v0.24.0 (#81)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.12.0](https://github.com/kubestash/kubedump/releases/tag/v0.12.0)

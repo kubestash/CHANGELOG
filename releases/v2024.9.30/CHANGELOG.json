@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:46:08.011158211Z",
+  "release_date": "2024-09-27T04:37:58.82715036Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.9.30",
   "kubernetes_version": "1.25+",
@@ -73,6 +73,56 @@
             {
               "SHA": "d72b630",
               "Subject": "Add support for timeout for restic backup and restore (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "935dc37",
+              "Subject": "Prepare for release v2024.9.30 (#86)"
+            },
+            {
+              "SHA": "06f2300",
+              "Subject": "Add support for NetworkPolicy (#85)"
+            },
+            {
+              "SHA": "ecb6e3d",
+              "Subject": "Use seccompProfile RuntimeDefault"
+            },
+            {
+              "SHA": "ec46913",
+              "Subject": "Add flag to enable subcharts (#84)"
+            },
+            {
+              "SHA": "e1119ac",
+              "Subject": "Update crd for kubedb doc ci pass  (#83)"
+            },
+            {
+              "SHA": "d267e2c",
+              "Subject": "Add imagelist.yaml"
+            },
+            {
+              "SHA": "f4438bd",
+              "Subject": "Add metrics config user role"
+            },
+            {
+              "SHA": "345e9b6",
+              "Subject": "Revise appcatalog user roles"
+            },
+            {
+              "SHA": "783e8dc",
+              "Subject": "Review user roles (#82)"
+            },
+            {
+              "SHA": "f2d1228",
+              "Subject": "Use KIND v0.24.0 (#81)"
             }
           ]
         }
