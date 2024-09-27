@@ -28,6 +28,16 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2024.9.30](https://github.com/kubestash/docs/releases/tag/v2024.9.30)
+
+- [cc80206](https://github.com/kubestash/docs/commit/cc80206) Prepare for release v2024.9.30 (#19)
+- [cbd1c0d](https://github.com/kubestash/docs/commit/cbd1c0d) Update docs for kubestash/cli@01e39a8c (#18)
+- [89be9ec](https://github.com/kubestash/docs/commit/89be9ec) Use KIND v0.24.0 (#16)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2024.9.30](https://github.com/kubestash/installer/releases/tag/v2024.9.30)
