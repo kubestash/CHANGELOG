@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:24:19.061629292Z",
+  "release_date": "2024-09-27T01:46:08.011158211Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.9.30",
   "kubernetes_version": "1.25+",
@@ -178,6 +178,24 @@
             {
               "SHA": "96a0761a",
               "Subject": "Prepare for release v0.12.0 (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "fb9febf",
+              "Subject": "Prepare for release v0.12.0 (#51)"
+            },
+            {
+              "SHA": "5515c6d",
+              "Subject": "Add support for timeout for restic backup and restore (#50)"
             }
           ]
         }

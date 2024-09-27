@@ -77,3 +77,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.12.0](https://github.com/kubestash/workload/releases/tag/v0.12.0)
+
+- [fb9febf](https://github.com/kubestash/workload/commit/fb9febf) Prepare for release v0.12.0 (#51)
+- [5515c6d](https://github.com/kubestash/workload/commit/5515c6d) Add support for timeout for restic backup and restore (#50)
+
+
+
