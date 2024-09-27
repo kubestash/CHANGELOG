@@ -35,3 +35,14 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.5.0](https://github.com/kubestash/manifest/releases/tag/v0.5.0)
+
+- [91c3898](https://github.com/kubestash/manifest/commit/91c3898) Prepare for release v0.5.0 (#16)
+- [4ae6ed4](https://github.com/kubestash/manifest/commit/4ae6ed4) Update manifest restore namespace (#15)
+- [75e00a1](https://github.com/kubestash/manifest/commit/75e00a1) Add timeout for backup and restore (#14)
+- [915df3a](https://github.com/kubestash/manifest/commit/915df3a) Use restic 0.17.1 (#13)
+
+
+

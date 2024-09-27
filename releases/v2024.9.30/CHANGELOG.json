@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:11:47.420715664Z",
+  "release_date": "2024-09-27T01:12:29.62414473Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.9.30",
   "kubernetes_version": "1.25+",
@@ -84,6 +84,32 @@
         {
           "tag": "v0.12.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "91c3898",
+              "Subject": "Prepare for release v0.5.0 (#16)"
+            },
+            {
+              "SHA": "4ae6ed4",
+              "Subject": "Update manifest restore namespace (#15)"
+            },
+            {
+              "SHA": "75e00a1",
+              "Subject": "Add timeout for backup and restore (#14)"
+            },
+            {
+              "SHA": "915df3a",
+              "Subject": "Use restic 0.17.1 (#13)"
+            }
+          ]
         }
       ]
     }
