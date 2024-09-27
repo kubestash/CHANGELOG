@@ -1,0 +1,64 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.9.30",
+  "release_date": "2024-09-27T01:04:02.456391519Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.9.30",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "84569fe2",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b0787ab7",
+              "Subject": "Add support for NetworkPolicy (#136)"
+            },
+            {
+              "SHA": "ef35d264",
+              "Subject": "Add conditions for unexpected failures (#134)"
+            },
+            {
+              "SHA": "86c61246",
+              "Subject": "Add supportive function for kubedb `restoring` phase (#133)"
+            },
+            {
+              "SHA": "6f40843d",
+              "Subject": "Update manifest restore APIs (#132)"
+            },
+            {
+              "SHA": "f5d4345b",
+              "Subject": "Add support for timeout for restic backup and restore (#130)"
+            },
+            {
+              "SHA": "6ec04e5b",
+              "Subject": "Add druid manifest backup (#124)"
+            },
+            {
+              "SHA": "e2698888",
+              "Subject": "fix build"
+            },
+            {
+              "SHA": "414e3512",
+              "Subject": "Add the `Content-Type` header when uploading a file to the backend (#131)"
+            },
+            {
+              "SHA": "662b18f0",
+              "Subject": "Cleanup s3 connection opener (#129)"
+            },
+            {
+              "SHA": "9fa19655",
+              "Subject": "Add db version label (#128)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
