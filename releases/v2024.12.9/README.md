@@ -22,6 +22,16 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.13.0](https://github.com/kubestash/kubedump/releases/tag/v0.13.0)
+
+- [f303dce](https://github.com/kubestash/kubedump/commit/f303dce) Prepare for release v0.13.0 (#35)
+- [ab8c584](https://github.com/kubestash/kubedump/commit/ab8c584) Use debian:12 base image (#34)
+- [6f6ad4d](https://github.com/kubestash/kubedump/commit/6f6ad4d) Use debian:12 base image (#33)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.13.0](https://github.com/kubestash/pvc/releases/tag/v0.13.0)
