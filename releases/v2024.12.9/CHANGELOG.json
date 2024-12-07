@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.12.9",
-  "release_date": "2024-12-07T13:51:59.987456861Z",
+  "release_date": "2024-12-07T14:03:32.350595399Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.12.9",
   "kubernetes_version": "1.25+",
@@ -71,6 +71,40 @@
             {
               "SHA": "6f6ad4d",
               "Subject": "Use debian:12 base image (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "f3f9694f",
+              "Subject": "Prepare for release v0.14.0 (#266)"
+            },
+            {
+              "SHA": "ae5f187e",
+              "Subject": "Add support for templating for exec hook command (#264)"
+            },
+            {
+              "SHA": "5587805a",
+              "Subject": "Resolve DBversion for External Databases (#263)"
+            },
+            {
+              "SHA": "aae7247a",
+              "Subject": "Add support for backup verification (#234)"
+            },
+            {
+              "SHA": "e74509bd",
+              "Subject": "Fix upsertPodSpec for ensuring jobs (#261)"
+            },
+            {
+              "SHA": "7ed0d6b9",
+              "Subject": "Use debian:12 base image (#262)"
             }
           ]
         }

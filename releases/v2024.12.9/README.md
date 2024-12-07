@@ -32,6 +32,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.14.0](https://github.com/kubestash/kubestash/releases/tag/v0.14.0)
+
+- [f3f9694f](https://github.com/kubestash/kubestash/commit/f3f9694f) Prepare for release v0.14.0 (#266)
+- [ae5f187e](https://github.com/kubestash/kubestash/commit/ae5f187e) Add support for templating for exec hook command (#264)
+- [5587805a](https://github.com/kubestash/kubestash/commit/5587805a) Resolve DBversion for External Databases (#263)
+- [aae7247a](https://github.com/kubestash/kubestash/commit/aae7247a) Add support for backup verification (#234)
+- [e74509bd](https://github.com/kubestash/kubestash/commit/e74509bd) Fix upsertPodSpec for ensuring jobs (#261)
+- [7ed0d6b9](https://github.com/kubestash/kubestash/commit/7ed0d6b9) Use debian:12 base image (#262)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.13.0](https://github.com/kubestash/pvc/releases/tag/v0.13.0)
