@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.12.9",
+  "release_date": "2024-12-07T13:42:57.770957343Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.12.9",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "3af40bbe",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "cb4e834f",
+              "Subject": "Removed InternalAuthIssuerRef from MSSQLServer Manifest Option (#141)"
+            },
+            {
+              "SHA": "212f57bd",
+              "Subject": "Add backup verification apis (#116)"
+            },
+            {
+              "SHA": "35b1ce3f",
+              "Subject": "Add redisSentinel options for manifest backup/restore (#139)"
+            },
+            {
+              "SHA": "50d8c6b6",
+              "Subject": "Add start and end time for restic stats (#138)"
+            },
+            {
+              "SHA": "54ddea4f",
+              "Subject": "Replace manifest bool values to bool pointer (#137)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
