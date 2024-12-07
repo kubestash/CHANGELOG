@@ -1,0 +1,328 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2024.12.9",
+  "release_date": "2024-12-07T20:01:52.918253918Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2024.12.9",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "3af40bbe",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "cb4e834f",
+              "Subject": "Removed InternalAuthIssuerRef from MSSQLServer Manifest Option (#141)"
+            },
+            {
+              "SHA": "212f57bd",
+              "Subject": "Add backup verification apis (#116)"
+            },
+            {
+              "SHA": "35b1ce3f",
+              "Subject": "Add redisSentinel options for manifest backup/restore (#139)"
+            },
+            {
+              "SHA": "50d8c6b6",
+              "Subject": "Add start and end time for restic stats (#138)"
+            },
+            {
+              "SHA": "54ddea4f",
+              "Subject": "Replace manifest bool values to bool pointer (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "0adfa1b",
+              "Subject": "Prepare for release v0.13.0 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2024.12.9",
+          "commits": [
+            {
+              "SHA": "a8e3b5c",
+              "Subject": "Prepare for release v2024.12.9 (#23)"
+            },
+            {
+              "SHA": "10d5444",
+              "Subject": "Use kind v0.25.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.12.9",
+          "commits": [
+            {
+              "SHA": "851b024",
+              "Subject": "Prepare for release v2024.12.9 (#120)"
+            },
+            {
+              "SHA": "bddf9f9",
+              "Subject": "Check for image architecture (#119)"
+            },
+            {
+              "SHA": "f05d290",
+              "Subject": "Update cve report (#118)"
+            },
+            {
+              "SHA": "f34bde9",
+              "Subject": "Update cve report (#117)"
+            },
+            {
+              "SHA": "00c179a",
+              "Subject": "Update cve report (#116)"
+            },
+            {
+              "SHA": "967b667",
+              "Subject": "Update cve report (#115)"
+            },
+            {
+              "SHA": "5e47b4d",
+              "Subject": "Update cve report (#114)"
+            },
+            {
+              "SHA": "ba3a88e",
+              "Subject": "Update cve report (#113)"
+            },
+            {
+              "SHA": "2e78681",
+              "Subject": "Update cve report (#112)"
+            },
+            {
+              "SHA": "2d8e32c",
+              "Subject": "Use kind v0.25.0 (#111)"
+            },
+            {
+              "SHA": "d561f53",
+              "Subject": "Update cve report (#110)"
+            },
+            {
+              "SHA": "c6433ec",
+              "Subject": "Update cve report (#109)"
+            },
+            {
+              "SHA": "b4547b0",
+              "Subject": "Update cve report (#108)"
+            },
+            {
+              "SHA": "72ed728",
+              "Subject": "Update cve report (#107)"
+            },
+            {
+              "SHA": "5661159",
+              "Subject": "Update cve report (#106)"
+            },
+            {
+              "SHA": "64355b1",
+              "Subject": "Update cve report (#105)"
+            },
+            {
+              "SHA": "ab4dcc3",
+              "Subject": "Update cve report (#104)"
+            },
+            {
+              "SHA": "db5165b",
+              "Subject": "Update cve report (#103)"
+            },
+            {
+              "SHA": "2122619",
+              "Subject": "Update cve report (#102)"
+            },
+            {
+              "SHA": "cd4994f",
+              "Subject": "Update cve report (#101)"
+            },
+            {
+              "SHA": "c7a1d6d",
+              "Subject": "Update cve report (#100)"
+            },
+            {
+              "SHA": "c2646da",
+              "Subject": "Update cve report (#99)"
+            },
+            {
+              "SHA": "a0aef87",
+              "Subject": "Update cve report (#98)"
+            },
+            {
+              "SHA": "ffd01eb",
+              "Subject": "Update cve report (#97)"
+            },
+            {
+              "SHA": "2d17996",
+              "Subject": "Update cve report (#96)"
+            },
+            {
+              "SHA": "6194319",
+              "Subject": "Update cve report (#95)"
+            },
+            {
+              "SHA": "573db73",
+              "Subject": "Update cve report (#94)"
+            },
+            {
+              "SHA": "46b766c",
+              "Subject": "Update cve report (#93)"
+            },
+            {
+              "SHA": "3fead1b",
+              "Subject": "Update cve report (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "f303dce",
+              "Subject": "Prepare for release v0.13.0 (#35)"
+            },
+            {
+              "SHA": "ab8c584",
+              "Subject": "Use debian:12 base image (#34)"
+            },
+            {
+              "SHA": "6f6ad4d",
+              "Subject": "Use debian:12 base image (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "f3f9694f",
+              "Subject": "Prepare for release v0.14.0 (#266)"
+            },
+            {
+              "SHA": "ae5f187e",
+              "Subject": "Add support for templating for exec hook command (#264)"
+            },
+            {
+              "SHA": "5587805a",
+              "Subject": "Resolve DBversion for External Databases (#263)"
+            },
+            {
+              "SHA": "aae7247a",
+              "Subject": "Add support for backup verification (#234)"
+            },
+            {
+              "SHA": "e74509bd",
+              "Subject": "Fix upsertPodSpec for ensuring jobs (#261)"
+            },
+            {
+              "SHA": "7ed0d6b9",
+              "Subject": "Use debian:12 base image (#262)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "d95ca55",
+              "Subject": "Prepare for release v0.13.0 (#44)"
+            },
+            {
+              "SHA": "705ca8f",
+              "Subject": "Use debian:12 base image (#43)"
+            },
+            {
+              "SHA": "818c691",
+              "Subject": "Use debian:12 base image (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "3de21473",
+              "Subject": "Prepare for release v0.13.0 (#37)"
+            },
+            {
+              "SHA": "f1ae4e80",
+              "Subject": "Use debian:12 base image (#36)"
+            },
+            {
+              "SHA": "c6fe9854",
+              "Subject": "Use debian:12 base image (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "eedd660",
+              "Subject": "Prepare for release v0.13.0 (#54)"
+            },
+            {
+              "SHA": "7112586",
+              "Subject": "Build image for arm64"
+            },
+            {
+              "SHA": "7b67513",
+              "Subject": "Use debian:12 base image (#53)"
+            },
+            {
+              "SHA": "d232d23",
+              "Subject": "Use debian:12 base image (#52)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
