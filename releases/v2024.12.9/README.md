@@ -14,6 +14,14 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.13.0](https://github.com/kubestash/cli/releases/tag/v0.13.0)
+
+- [0adfa1b](https://github.com/kubestash/cli/commit/0adfa1b) Prepare for release v0.13.0 (#40)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.13.0](https://github.com/kubestash/pvc/releases/tag/v0.13.0)
