@@ -24,3 +24,13 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.13.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.13.0)
+
+- [3de21473](https://github.com/kubestash/volume-snapshotter/commit/3de21473) Prepare for release v0.13.0 (#37)
+- [f1ae4e80](https://github.com/kubestash/volume-snapshotter/commit/f1ae4e80) Use debian:12 base image (#36)
+- [c6fe9854](https://github.com/kubestash/volume-snapshotter/commit/c6fe9854) Use debian:12 base image (#35)
+
+
+
