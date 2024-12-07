@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.12.9",
-  "release_date": "2024-12-07T13:42:57.770957343Z",
+  "release_date": "2024-12-07T13:50:11.6321423Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.12.9",
   "kubernetes_version": "1.25+",
@@ -35,6 +35,28 @@
             {
               "SHA": "54ddea4f",
               "Subject": "Replace manifest bool values to bool pointer (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "d95ca55",
+              "Subject": "Prepare for release v0.13.0 (#44)"
+            },
+            {
+              "SHA": "705ca8f",
+              "Subject": "Use debian:12 base image (#43)"
+            },
+            {
+              "SHA": "818c691",
+              "Subject": "Use debian:12 base image (#42)"
             }
           ]
         }
