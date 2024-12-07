@@ -65,3 +65,14 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.13.0](https://github.com/kubestash/workload/releases/tag/v0.13.0)
+
+- [eedd660](https://github.com/kubestash/workload/commit/eedd660) Prepare for release v0.13.0 (#54)
+- [7112586](https://github.com/kubestash/workload/commit/7112586) Build image for arm64
+- [7b67513](https://github.com/kubestash/workload/commit/7b67513) Use debian:12 base image (#53)
+- [d232d23](https://github.com/kubestash/workload/commit/d232d23) Use debian:12 base image (#52)
+
+
+

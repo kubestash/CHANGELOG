@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.12.9",
-  "release_date": "2024-12-07T14:03:32.350595399Z",
+  "release_date": "2024-12-07T19:30:04.853676474Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.12.9",
   "kubernetes_version": "1.25+",
@@ -149,6 +149,32 @@
             {
               "SHA": "c6fe9854",
               "Subject": "Use debian:12 base image (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "eedd660",
+              "Subject": "Prepare for release v0.13.0 (#54)"
+            },
+            {
+              "SHA": "7112586",
+              "Subject": "Build image for arm64"
+            },
+            {
+              "SHA": "7b67513",
+              "Subject": "Use debian:12 base image (#53)"
+            },
+            {
+              "SHA": "d232d23",
+              "Subject": "Use debian:12 base image (#52)"
             }
           ]
         }
