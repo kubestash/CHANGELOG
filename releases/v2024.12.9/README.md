@@ -22,6 +22,15 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2024.12.9](https://github.com/kubestash/docs/releases/tag/v2024.12.9)
+
+- [a8e3b5c](https://github.com/kubestash/docs/commit/a8e3b5c) Prepare for release v2024.12.9 (#23)
+- [10d5444](https://github.com/kubestash/docs/commit/10d5444) Use kind v0.25.0 (#22)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2024.12.9](https://github.com/kubestash/installer/releases/tag/v2024.12.9)
