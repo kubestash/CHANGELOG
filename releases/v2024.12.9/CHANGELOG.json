@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2024.12.9",
-  "release_date": "2024-12-07T19:30:04.853676474Z",
+  "release_date": "2024-12-07T19:49:09.657065273Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2024.12.9",
   "kubernetes_version": "1.25+",
@@ -49,6 +49,132 @@
             {
               "SHA": "0adfa1b",
               "Subject": "Prepare for release v0.13.0 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2024.12.9",
+          "commits": [
+            {
+              "SHA": "851b024",
+              "Subject": "Prepare for release v2024.12.9 (#120)"
+            },
+            {
+              "SHA": "bddf9f9",
+              "Subject": "Check for image architecture (#119)"
+            },
+            {
+              "SHA": "f05d290",
+              "Subject": "Update cve report (#118)"
+            },
+            {
+              "SHA": "f34bde9",
+              "Subject": "Update cve report (#117)"
+            },
+            {
+              "SHA": "00c179a",
+              "Subject": "Update cve report (#116)"
+            },
+            {
+              "SHA": "967b667",
+              "Subject": "Update cve report (#115)"
+            },
+            {
+              "SHA": "5e47b4d",
+              "Subject": "Update cve report (#114)"
+            },
+            {
+              "SHA": "ba3a88e",
+              "Subject": "Update cve report (#113)"
+            },
+            {
+              "SHA": "2e78681",
+              "Subject": "Update cve report (#112)"
+            },
+            {
+              "SHA": "2d8e32c",
+              "Subject": "Use kind v0.25.0 (#111)"
+            },
+            {
+              "SHA": "d561f53",
+              "Subject": "Update cve report (#110)"
+            },
+            {
+              "SHA": "c6433ec",
+              "Subject": "Update cve report (#109)"
+            },
+            {
+              "SHA": "b4547b0",
+              "Subject": "Update cve report (#108)"
+            },
+            {
+              "SHA": "72ed728",
+              "Subject": "Update cve report (#107)"
+            },
+            {
+              "SHA": "5661159",
+              "Subject": "Update cve report (#106)"
+            },
+            {
+              "SHA": "64355b1",
+              "Subject": "Update cve report (#105)"
+            },
+            {
+              "SHA": "ab4dcc3",
+              "Subject": "Update cve report (#104)"
+            },
+            {
+              "SHA": "db5165b",
+              "Subject": "Update cve report (#103)"
+            },
+            {
+              "SHA": "2122619",
+              "Subject": "Update cve report (#102)"
+            },
+            {
+              "SHA": "cd4994f",
+              "Subject": "Update cve report (#101)"
+            },
+            {
+              "SHA": "c7a1d6d",
+              "Subject": "Update cve report (#100)"
+            },
+            {
+              "SHA": "c2646da",
+              "Subject": "Update cve report (#99)"
+            },
+            {
+              "SHA": "a0aef87",
+              "Subject": "Update cve report (#98)"
+            },
+            {
+              "SHA": "ffd01eb",
+              "Subject": "Update cve report (#97)"
+            },
+            {
+              "SHA": "2d17996",
+              "Subject": "Update cve report (#96)"
+            },
+            {
+              "SHA": "6194319",
+              "Subject": "Update cve report (#95)"
+            },
+            {
+              "SHA": "573db73",
+              "Subject": "Update cve report (#94)"
+            },
+            {
+              "SHA": "46b766c",
+              "Subject": "Update cve report (#93)"
+            },
+            {
+              "SHA": "3fead1b",
+              "Subject": "Update cve report (#92)"
             }
           ]
         }

@@ -22,6 +22,42 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2024.12.9](https://github.com/kubestash/installer/releases/tag/v2024.12.9)
+
+- [851b024](https://github.com/kubestash/installer/commit/851b024) Prepare for release v2024.12.9 (#120)
+- [bddf9f9](https://github.com/kubestash/installer/commit/bddf9f9) Check for image architecture (#119)
+- [f05d290](https://github.com/kubestash/installer/commit/f05d290) Update cve report (#118)
+- [f34bde9](https://github.com/kubestash/installer/commit/f34bde9) Update cve report (#117)
+- [00c179a](https://github.com/kubestash/installer/commit/00c179a) Update cve report (#116)
+- [967b667](https://github.com/kubestash/installer/commit/967b667) Update cve report (#115)
+- [5e47b4d](https://github.com/kubestash/installer/commit/5e47b4d) Update cve report (#114)
+- [ba3a88e](https://github.com/kubestash/installer/commit/ba3a88e) Update cve report (#113)
+- [2e78681](https://github.com/kubestash/installer/commit/2e78681) Update cve report (#112)
+- [2d8e32c](https://github.com/kubestash/installer/commit/2d8e32c) Use kind v0.25.0 (#111)
+- [d561f53](https://github.com/kubestash/installer/commit/d561f53) Update cve report (#110)
+- [c6433ec](https://github.com/kubestash/installer/commit/c6433ec) Update cve report (#109)
+- [b4547b0](https://github.com/kubestash/installer/commit/b4547b0) Update cve report (#108)
+- [72ed728](https://github.com/kubestash/installer/commit/72ed728) Update cve report (#107)
+- [5661159](https://github.com/kubestash/installer/commit/5661159) Update cve report (#106)
+- [64355b1](https://github.com/kubestash/installer/commit/64355b1) Update cve report (#105)
+- [ab4dcc3](https://github.com/kubestash/installer/commit/ab4dcc3) Update cve report (#104)
+- [db5165b](https://github.com/kubestash/installer/commit/db5165b) Update cve report (#103)
+- [2122619](https://github.com/kubestash/installer/commit/2122619) Update cve report (#102)
+- [cd4994f](https://github.com/kubestash/installer/commit/cd4994f) Update cve report (#101)
+- [c7a1d6d](https://github.com/kubestash/installer/commit/c7a1d6d) Update cve report (#100)
+- [c2646da](https://github.com/kubestash/installer/commit/c2646da) Update cve report (#99)
+- [a0aef87](https://github.com/kubestash/installer/commit/a0aef87) Update cve report (#98)
+- [ffd01eb](https://github.com/kubestash/installer/commit/ffd01eb) Update cve report (#97)
+- [2d17996](https://github.com/kubestash/installer/commit/2d17996) Update cve report (#96)
+- [6194319](https://github.com/kubestash/installer/commit/6194319) Update cve report (#95)
+- [573db73](https://github.com/kubestash/installer/commit/573db73) Update cve report (#94)
+- [46b766c](https://github.com/kubestash/installer/commit/46b766c) Update cve report (#93)
+- [3fead1b](https://github.com/kubestash/installer/commit/3fead1b) Update cve report (#92)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.13.0](https://github.com/kubestash/kubedump/releases/tag/v0.13.0)
