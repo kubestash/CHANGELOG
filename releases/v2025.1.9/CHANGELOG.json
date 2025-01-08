@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T14:43:56.938473055Z",
+  "release_date": "2025-01-08T14:59:31.319855065Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.1.9",
   "kubernetes_version": "1.25+",
@@ -45,6 +45,20 @@
             {
               "SHA": "0f5f799",
               "Subject": "Update github action modules (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.1.9",
+          "commits": [
+            {
+              "SHA": "bcd580e",
+              "Subject": "Prepare for release v2025.1.9 (#26)"
             }
           ]
         }

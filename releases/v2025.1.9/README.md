@@ -21,6 +21,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2025.1.9](https://github.com/kubestash/docs/releases/tag/v2025.1.9)
+
+- [bcd580e](https://github.com/kubestash/docs/commit/bcd580e) Prepare for release v2025.1.9 (#26)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2025.1.9](https://github.com/kubestash/installer/releases/tag/v2025.1.9)
