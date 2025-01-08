@@ -1,0 +1,105 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.1.9",
+  "docs_url_template": "https://kubestash.com/docs/%s",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "github.com/kubestash/apimachinery": {
+        "tag": "v0.15.0"
+      }
+    },
+    {
+      "github.com/kubestash/cli": {
+        "key": "kubestash-cli",
+        "tag": "v0.14.0"
+      },
+      "github.com/kubestash/kubedump": {
+        "tag": "v0.14.0"
+      },
+      "github.com/kubestash/kubestash": {
+        "tag": "v0.15.0"
+      },
+      "github.com/kubestash/manifest": {
+        "tag": "v0.7.0"
+      },
+      "github.com/kubestash/pvc": {
+        "tag": "v0.14.0"
+      },
+      "github.com/kubestash/volume-snapshotter": {
+        "tag": "v0.14.0"
+      },
+      "github.com/kubestash/workload": {
+        "tag": "v0.14.0"
+      }
+    },
+    {
+      "github.com/kubestash/installer": {
+        "key": "kubestash-installer",
+        "tag": "v2025.1.9",
+        "chartNames": [
+          "kubestash",
+          "kubestash-operator"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "go run ./hack/fmt/main.go --kind=Function --name=kubedump-backup --update-spec=spec.image=ghcr.io/kubestash/kubedump:${KUBESTASH_KUBEDUMP_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=manifest-backup --update-spec=spec.image=ghcr.io/kubestash/manifest:${KUBESTASH_MANIFEST_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=manifest-restore --update-spec=spec.image=ghcr.io/kubestash/manifest:${KUBESTASH_MANIFEST_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=pvc-backup --update-spec=spec.image=ghcr.io/kubestash/pvc:${KUBESTASH_PVC_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=pvc-restore --update-spec=spec.image=ghcr.io/kubestash/pvc:${KUBESTASH_PVC_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=volumesnapshot-backup --update-spec=spec.image=ghcr.io/kubestash/volume-snapshotter:${KUBESTASH_VOLUME_SNAPSHOTTER_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=volumesnapshot-restore --update-spec=spec.image=ghcr.io/kubestash/volume-snapshotter:${KUBESTASH_VOLUME_SNAPSHOTTER_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=workload-backup --update-spec=spec.image=ghcr.io/kubestash/workload:${KUBESTASH_WORKLOAD_TAG}",
+          "go run ./hack/fmt/main.go --kind=Function --name=workload-restore --update-spec=spec.image=ghcr.io/kubestash/workload:${KUBESTASH_WORKLOAD_TAG}",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubestash-operator CHART_VERSION=${KUBESTASH_KUBESTASH_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh",
+          "./hack/scripts/update-catalog.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubestash/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/kubestash/docs": {
+        "key": "kubestash",
+        "tag": "v2025.1.9",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/kubestash/website": {
+        "tag": "v2025.1.9",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    }
+  ],
+  "external_projects": {
+    "github.com/kubedb/apimachinery": {}
+  }
+}
