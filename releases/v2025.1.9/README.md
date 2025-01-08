@@ -12,3 +12,12 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.14.0](https://github.com/kubestash/kubedump/releases/tag/v0.14.0)
+
+- [5c5b91a](https://github.com/kubestash/kubedump/commit/5c5b91a) Prepare for release v0.14.0 (#37)
+- [047a7b2](https://github.com/kubestash/kubedump/commit/047a7b2) Update github action modules (#36)
+
+
+

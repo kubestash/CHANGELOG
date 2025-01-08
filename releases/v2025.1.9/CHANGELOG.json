@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T12:51:41.551878721Z",
+  "release_date": "2025-01-08T12:59:16.239115415Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.1.9",
   "kubernetes_version": "1.25+",
@@ -27,6 +27,24 @@
             {
               "SHA": "8f481a8c",
               "Subject": "Re-design WalStats field; Remove WalSegment (#142)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "5c5b91a",
+              "Subject": "Prepare for release v0.14.0 (#37)"
+            },
+            {
+              "SHA": "047a7b2",
+              "Subject": "Update github action modules (#36)"
             }
           ]
         }
