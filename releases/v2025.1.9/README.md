@@ -21,3 +21,12 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.7.0](https://github.com/kubestash/manifest/releases/tag/v0.7.0)
+
+- [2ca622d](https://github.com/kubestash/manifest/commit/2ca622d) Prepare for release v0.7.0 (#21)
+- [033b237](https://github.com/kubestash/manifest/commit/033b237) Update github action modules (#20)
+
+
+
