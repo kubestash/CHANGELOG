@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T12:59:31.599712381Z",
+  "release_date": "2025-01-08T12:59:43.90872917Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.1.9",
   "kubernetes_version": "1.25+",
@@ -63,6 +63,24 @@
             {
               "SHA": "033b237",
               "Subject": "Update github action modules (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "8fe163f",
+              "Subject": "Prepare for release v0.14.0 (#46)"
+            },
+            {
+              "SHA": "237b789",
+              "Subject": "Update github action modules (#45)"
             }
           ]
         }

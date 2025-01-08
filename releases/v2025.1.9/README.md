@@ -30,3 +30,12 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.14.0](https://github.com/kubestash/pvc/releases/tag/v0.14.0)
+
+- [8fe163f](https://github.com/kubestash/pvc/commit/8fe163f) Prepare for release v0.14.0 (#46)
+- [237b789](https://github.com/kubestash/pvc/commit/237b789) Update github action modules (#45)
+
+
+
