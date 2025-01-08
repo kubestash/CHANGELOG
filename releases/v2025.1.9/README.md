@@ -39,3 +39,12 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.14.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.14.0)
+
+- [9c48535c](https://github.com/kubestash/volume-snapshotter/commit/9c48535c) Prepare for release v0.14.0 (#39)
+- [39fdce8b](https://github.com/kubestash/volume-snapshotter/commit/39fdce8b) Update github action modules (#38)
+
+
+
