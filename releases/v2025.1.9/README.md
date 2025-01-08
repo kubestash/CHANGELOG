@@ -12,6 +12,15 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.14.0](https://github.com/kubestash/cli/releases/tag/v0.14.0)
+
+- [6730892](https://github.com/kubestash/cli/commit/6730892) Prepare for release v0.14.0 (#43)
+- [0f5f799](https://github.com/kubestash/cli/commit/0f5f799) Update github action modules (#41)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.14.0](https://github.com/kubestash/kubedump/releases/tag/v0.14.0)
