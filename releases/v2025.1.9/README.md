@@ -21,6 +21,18 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.1.9](https://github.com/kubestash/installer/releases/tag/v2025.1.9)
+
+- [df01150](https://github.com/kubestash/installer/commit/df01150) Prepare for release v2025.1.9 (#130)
+- [c909e8a](https://github.com/kubestash/installer/commit/c909e8a) Update github action modules (#129)
+- [8d2c4af](https://github.com/kubestash/installer/commit/8d2c4af) Update github action modules (#127)
+- [3ed4b9a](https://github.com/kubestash/installer/commit/3ed4b9a) Update cve report (#126)
+- [9cbabc8](https://github.com/kubestash/installer/commit/9cbabc8) Update cve report (#125)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.14.0](https://github.com/kubestash/kubedump/releases/tag/v0.14.0)
