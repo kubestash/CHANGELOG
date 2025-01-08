@@ -1,0 +1,214 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.1.9",
+  "release_date": "2025-01-08T14:59:31.319855065Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.1.9",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "c6512dfa",
+              "Subject": "Use import hack for license-verifier pkg"
+            },
+            {
+              "SHA": "1e7268c3",
+              "Subject": "Fix patching"
+            },
+            {
+              "SHA": "a2fd1f02",
+              "Subject": "Update github action modules (#146)"
+            },
+            {
+              "SHA": "8f481a8c",
+              "Subject": "Re-design WalStats field; Remove WalSegment (#142)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "6730892",
+              "Subject": "Prepare for release v0.14.0 (#43)"
+            },
+            {
+              "SHA": "0f5f799",
+              "Subject": "Update github action modules (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.1.9",
+          "commits": [
+            {
+              "SHA": "bcd580e",
+              "Subject": "Prepare for release v2025.1.9 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.1.9",
+          "commits": [
+            {
+              "SHA": "df01150",
+              "Subject": "Prepare for release v2025.1.9 (#130)"
+            },
+            {
+              "SHA": "c909e8a",
+              "Subject": "Update github action modules (#129)"
+            },
+            {
+              "SHA": "8d2c4af",
+              "Subject": "Update github action modules (#127)"
+            },
+            {
+              "SHA": "3ed4b9a",
+              "Subject": "Update cve report (#126)"
+            },
+            {
+              "SHA": "9cbabc8",
+              "Subject": "Update cve report (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "5c5b91a",
+              "Subject": "Prepare for release v0.14.0 (#37)"
+            },
+            {
+              "SHA": "047a7b2",
+              "Subject": "Update github action modules (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "3fd04d9e",
+              "Subject": "Prepare for release v0.15.0 (#270)"
+            },
+            {
+              "SHA": "673266f1",
+              "Subject": "Update github action modules (#269)"
+            },
+            {
+              "SHA": "82f656a5",
+              "Subject": "Unset repo last snapshot time for incremental snapshot (#268)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "2ca622d",
+              "Subject": "Prepare for release v0.7.0 (#21)"
+            },
+            {
+              "SHA": "033b237",
+              "Subject": "Update github action modules (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "8fe163f",
+              "Subject": "Prepare for release v0.14.0 (#46)"
+            },
+            {
+              "SHA": "237b789",
+              "Subject": "Update github action modules (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "9c48535c",
+              "Subject": "Prepare for release v0.14.0 (#39)"
+            },
+            {
+              "SHA": "39fdce8b",
+              "Subject": "Update github action modules (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "8a455d5",
+              "Subject": "Prepare for release v0.14.0 (#57)"
+            },
+            {
+              "SHA": "89cecd1",
+              "Subject": "Delete .github/workflows/cherry-pick.yml"
+            },
+            {
+              "SHA": "fd2c5ca",
+              "Subject": "Update github action modules (#55)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
