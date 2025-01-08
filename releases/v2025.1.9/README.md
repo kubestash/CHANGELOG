@@ -30,6 +30,16 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.15.0](https://github.com/kubestash/kubestash/releases/tag/v0.15.0)
+
+- [3fd04d9e](https://github.com/kubestash/kubestash/commit/3fd04d9e) Prepare for release v0.15.0 (#270)
+- [673266f1](https://github.com/kubestash/kubestash/commit/673266f1) Update github action modules (#269)
+- [82f656a5](https://github.com/kubestash/kubestash/commit/82f656a5) Unset repo last snapshot time for incremental snapshot (#268)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.7.0](https://github.com/kubestash/manifest/releases/tag/v0.7.0)
