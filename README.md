@@ -2,6 +2,7 @@
 
 |  Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2025.1.9](https:/github.com/kubestash/CHANGELOG/releases/tag/v2025.1.9) | 2025-01-08 | [User Guide](https://kubestash.com/docs/v2025.1.9) | [CHANGELOG](/releases/v2025.1.9/README.md) | 1.25+ |
 | [v2024.12.9](https:/github.com/kubestash/CHANGELOG/releases/tag/v2024.12.9) | 2024-12-07 | [User Guide](https://kubestash.com/docs/v2024.12.9) | [CHANGELOG](/releases/v2024.12.9/README.md) | 1.25+ |
 | [v2024.9.30](https:/github.com/kubestash/CHANGELOG/releases/tag/v2024.9.30) | 2024-09-27 | [User Guide](https://kubestash.com/docs/v2024.9.30) | [CHANGELOG](/releases/v2024.9.30/README.md) | 1.25+ |
 | [v2024.8.30](https:/github.com/kubestash/CHANGELOG/releases/tag/v2024.8.30) | 2024-08-30 | [User Guide](https://kubestash.com/docs/v2024.8.30) | [CHANGELOG](/releases/v2024.8.30/README.md) | 1.25+ |
