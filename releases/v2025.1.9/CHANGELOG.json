@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T13:11:29.2868293Z",
+  "release_date": "2025-01-08T14:10:38.610976484Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.1.9",
   "kubernetes_version": "1.25+",
@@ -139,6 +139,28 @@
             {
               "SHA": "39fdce8b",
               "Subject": "Update github action modules (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "8a455d5",
+              "Subject": "Prepare for release v0.14.0 (#57)"
+            },
+            {
+              "SHA": "89cecd1",
+              "Subject": "Delete .github/workflows/cherry-pick.yml"
+            },
+            {
+              "SHA": "fd2c5ca",
+              "Subject": "Update github action modules (#55)"
             }
           ]
         }

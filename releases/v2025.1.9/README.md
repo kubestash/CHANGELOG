@@ -67,3 +67,13 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.14.0](https://github.com/kubestash/workload/releases/tag/v0.14.0)
+
+- [8a455d5](https://github.com/kubestash/workload/commit/8a455d5) Prepare for release v0.14.0 (#57)
+- [89cecd1](https://github.com/kubestash/workload/commit/89cecd1) Delete .github/workflows/cherry-pick.yml
+- [fd2c5ca](https://github.com/kubestash/workload/commit/fd2c5ca) Update github action modules (#55)
+
+
+
