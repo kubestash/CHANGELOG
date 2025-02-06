@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T21:20:14.506510645Z",
+  "release_date": "2025-02-06T21:20:32.860687899Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.25+",
@@ -121,6 +121,24 @@
             {
               "SHA": "ce23273",
               "Subject": "Incorporate with `go-sh` leaf command execution (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "91f8469",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "7804c01",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#47)"
             }
           ]
         }
