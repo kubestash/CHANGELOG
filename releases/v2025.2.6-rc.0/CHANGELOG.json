@@ -1,0 +1,60 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.2.6-rc.0",
+  "release_date": "2025-02-06T20:03:44.793916517Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "610cd73c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "125449b4",
+              "Subject": "add `GetCaPath` method to restic package (#153)"
+            },
+            {
+              "SHA": "89b4aa59",
+              "Subject": "Fixed each backend envs separately for restic (#152)"
+            },
+            {
+              "SHA": "add71a4c",
+              "Subject": "Remove trailing slashes on backupStorage (#151)"
+            },
+            {
+              "SHA": "4fcba883",
+              "Subject": "Add seperate DeletionPolicy struct for backupConfig (#150)"
+            },
+            {
+              "SHA": "20ea92f4",
+              "Subject": "Added archiver restore field into kubedbManifest options  (#143)"
+            },
+            {
+              "SHA": "ba0f7c7d",
+              "Subject": "Add Stdin Backup Leaf Command support (#140)"
+            },
+            {
+              "SHA": "9169b0b2",
+              "Subject": "Convert `aws-sdk-v1` to `aws-sdk-v2` (#148)"
+            },
+            {
+              "SHA": "bb8c168f",
+              "Subject": "Add proxyEnvs functionfor internet-security (#149)"
+            },
+            {
+              "SHA": "60e237cb",
+              "Subject": "Hard code the function images that dont abide by rules  (#147)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
