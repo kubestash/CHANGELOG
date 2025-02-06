@@ -75,3 +75,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.15.0-rc.0](https://github.com/kubestash/workload/releases/tag/v0.15.0-rc.0)
+
+- [80d5a2a](https://github.com/kubestash/workload/commit/80d5a2a) Prepare for release v0.15.0-rc.0 (#59)
+- [8f5ef5b](https://github.com/kubestash/workload/commit/8f5ef5b) Add Stdin Backup Leaf Command support (#58)
+
+
+
