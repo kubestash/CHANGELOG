@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T21:20:09.584033343Z",
+  "release_date": "2025-02-06T21:20:14.506510645Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.25+",
@@ -103,6 +103,24 @@
             {
               "SHA": "af6db7bd",
               "Subject": "Set proxy env variables to containers (#272)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f5591b5",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "ce23273",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#22)"
             }
           ]
         }

@@ -40,3 +40,12 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.8.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.8.0-rc.0)
+
+- [f5591b5](https://github.com/kubestash/manifest/commit/f5591b5) Prepare for release v0.8.0-rc.0 (#23)
+- [ce23273](https://github.com/kubestash/manifest/commit/ce23273) Incorporate with `go-sh` leaf command execution (#22)
+
+
+
