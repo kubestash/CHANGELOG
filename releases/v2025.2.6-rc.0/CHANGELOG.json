@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T21:19:33.206542751Z",
+  "release_date": "2025-02-06T21:20:09.584033343Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.25+",
@@ -69,6 +69,40 @@
             {
               "SHA": "06e15fb",
               "Subject": "Incorporate with go-sh leaf command execution (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c62da9e8",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#276)"
+            },
+            {
+              "SHA": "4e96fbbd",
+              "Subject": "Fix job controller for retention policy jobs (#275)"
+            },
+            {
+              "SHA": "d436001b",
+              "Subject": "Set rbac permissions for archiver backup & restore  (#265)"
+            },
+            {
+              "SHA": "37e903e0",
+              "Subject": "Update deps with new restic package changes (#273)"
+            },
+            {
+              "SHA": "beca6fbf",
+              "Subject": "Delete repositories based on the backupConfig deletionPolicy (#274)"
+            },
+            {
+              "SHA": "af6db7bd",
+              "Subject": "Set proxy env variables to containers (#272)"
             }
           ]
         }

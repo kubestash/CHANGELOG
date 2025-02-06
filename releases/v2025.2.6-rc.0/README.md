@@ -27,3 +27,16 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.16.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.16.0-rc.0)
+
+- [c62da9e8](https://github.com/kubestash/kubestash/commit/c62da9e8) Prepare for release v0.16.0-rc.0 (#276)
+- [4e96fbbd](https://github.com/kubestash/kubestash/commit/4e96fbbd) Fix job controller for retention policy jobs (#275)
+- [d436001b](https://github.com/kubestash/kubestash/commit/d436001b) Set rbac permissions for archiver backup & restore  (#265)
+- [37e903e0](https://github.com/kubestash/kubestash/commit/37e903e0) Update deps with new restic package changes (#273)
+- [beca6fbf](https://github.com/kubestash/kubestash/commit/beca6fbf) Delete repositories based on the backupConfig deletionPolicy (#274)
+- [af6db7bd](https://github.com/kubestash/kubestash/commit/af6db7bd) Set proxy env variables to containers (#272)
+
+
+
