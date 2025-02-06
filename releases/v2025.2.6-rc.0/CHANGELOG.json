@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T21:20:32.860687899Z",
+  "release_date": "2025-02-06T21:20:53.764734251Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.25+",
@@ -139,6 +139,20 @@
             {
               "SHA": "7804c01",
               "Subject": "Incorporate with `go-sh` leaf command execution (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5807d4b9",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#40)"
             }
           ]
         }
