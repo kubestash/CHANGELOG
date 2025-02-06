@@ -27,6 +27,21 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.2.6-rc.0](https://github.com/kubestash/installer/releases/tag/v2025.2.6-rc.0)
+
+- [f0bb881](https://github.com/kubestash/installer/commit/f0bb881) Prepare for release v2025.2.6-rc.0 (#138)
+- [9200c2d](https://github.com/kubestash/installer/commit/9200c2d) Update ace-user-roles chart schema
+- [44395a0](https://github.com/kubestash/installer/commit/44395a0) Move user roles to ace-user-roles chart (#137)
+- [22c5788](https://github.com/kubestash/installer/commit/22c5788) Get and create permission added for archiver (#136)
+- [2b60ace](https://github.com/kubestash/installer/commit/2b60ace) Update cve report (#135)
+- [340f1fb](https://github.com/kubestash/installer/commit/340f1fb) Update cve report (#132)
+- [862ddc7](https://github.com/kubestash/installer/commit/862ddc7) Pass env variables to operator (#133)
+- [d89ce25](https://github.com/kubestash/installer/commit/d89ce25) Update cve report (#131)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.15.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.15.0-rc.0)

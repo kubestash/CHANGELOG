@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T21:21:31.855876653Z",
+  "release_date": "2025-02-06T21:46:17.81956548Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.25+",
@@ -69,6 +69,48 @@
             {
               "SHA": "1b89868",
               "Subject": "Incorporate with `go-sh` leaf command execution (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.2.6-rc.0",
+          "commits": [
+            {
+              "SHA": "f0bb881",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#138)"
+            },
+            {
+              "SHA": "9200c2d",
+              "Subject": "Update ace-user-roles chart schema"
+            },
+            {
+              "SHA": "44395a0",
+              "Subject": "Move user roles to ace-user-roles chart (#137)"
+            },
+            {
+              "SHA": "22c5788",
+              "Subject": "Get and create permission added for archiver (#136)"
+            },
+            {
+              "SHA": "2b60ace",
+              "Subject": "Update cve report (#135)"
+            },
+            {
+              "SHA": "340f1fb",
+              "Subject": "Update cve report (#132)"
+            },
+            {
+              "SHA": "862ddc7",
+              "Subject": "Pass env variables to operator (#133)"
+            },
+            {
+              "SHA": "d89ce25",
+              "Subject": "Update cve report (#131)"
             }
           ]
         }
