@@ -27,6 +27,15 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2025.2.6-rc.0](https://github.com/kubestash/docs/releases/tag/v2025.2.6-rc.0)
+
+- [1ffd333](https://github.com/kubestash/docs/commit/1ffd333) Prepare for release v2025.2.6-rc.0 (#30)
+- [ad277b7](https://github.com/kubestash/docs/commit/ad277b7) Update docs for kubestash/cli@1b898686 (#27)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2025.2.6-rc.0](https://github.com/kubestash/installer/releases/tag/v2025.2.6-rc.0)

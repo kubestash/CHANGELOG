@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T21:46:17.81956548Z",
+  "release_date": "2025-02-06T22:02:42.674399886Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.25+",
@@ -69,6 +69,24 @@
             {
               "SHA": "1b89868",
               "Subject": "Incorporate with `go-sh` leaf command execution (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.2.6-rc.0",
+          "commits": [
+            {
+              "SHA": "1ffd333",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#30)"
+            },
+            {
+              "SHA": "ad277b7",
+              "Subject": "Update docs for kubestash/cli@1b898686 (#27)"
             }
           ]
         }
