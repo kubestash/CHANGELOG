@@ -1,0 +1,258 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.2.6-rc.0",
+  "release_date": "2025-02-06T22:02:42.674399886Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "610cd73c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "125449b4",
+              "Subject": "add `GetCaPath` method to restic package (#153)"
+            },
+            {
+              "SHA": "89b4aa59",
+              "Subject": "Fixed each backend envs separately for restic (#152)"
+            },
+            {
+              "SHA": "add71a4c",
+              "Subject": "Remove trailing slashes on backupStorage (#151)"
+            },
+            {
+              "SHA": "4fcba883",
+              "Subject": "Add seperate DeletionPolicy struct for backupConfig (#150)"
+            },
+            {
+              "SHA": "20ea92f4",
+              "Subject": "Added archiver restore field into kubedbManifest options  (#143)"
+            },
+            {
+              "SHA": "ba0f7c7d",
+              "Subject": "Add Stdin Backup Leaf Command support (#140)"
+            },
+            {
+              "SHA": "9169b0b2",
+              "Subject": "Convert `aws-sdk-v1` to `aws-sdk-v2` (#148)"
+            },
+            {
+              "SHA": "bb8c168f",
+              "Subject": "Add proxyEnvs functionfor internet-security (#149)"
+            },
+            {
+              "SHA": "60e237cb",
+              "Subject": "Hard code the function images that dont abide by rules  (#147)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9538f75",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "1b89868",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.2.6-rc.0",
+          "commits": [
+            {
+              "SHA": "1ffd333",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#30)"
+            },
+            {
+              "SHA": "ad277b7",
+              "Subject": "Update docs for kubestash/cli@1b898686 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.2.6-rc.0",
+          "commits": [
+            {
+              "SHA": "f0bb881",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#138)"
+            },
+            {
+              "SHA": "9200c2d",
+              "Subject": "Update ace-user-roles chart schema"
+            },
+            {
+              "SHA": "44395a0",
+              "Subject": "Move user roles to ace-user-roles chart (#137)"
+            },
+            {
+              "SHA": "22c5788",
+              "Subject": "Get and create permission added for archiver (#136)"
+            },
+            {
+              "SHA": "2b60ace",
+              "Subject": "Update cve report (#135)"
+            },
+            {
+              "SHA": "340f1fb",
+              "Subject": "Update cve report (#132)"
+            },
+            {
+              "SHA": "862ddc7",
+              "Subject": "Pass env variables to operator (#133)"
+            },
+            {
+              "SHA": "d89ce25",
+              "Subject": "Update cve report (#131)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "627cfb7",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "06e15fb",
+              "Subject": "Incorporate with go-sh leaf command execution (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c62da9e8",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#276)"
+            },
+            {
+              "SHA": "4e96fbbd",
+              "Subject": "Fix job controller for retention policy jobs (#275)"
+            },
+            {
+              "SHA": "d436001b",
+              "Subject": "Set rbac permissions for archiver backup & restore  (#265)"
+            },
+            {
+              "SHA": "37e903e0",
+              "Subject": "Update deps with new restic package changes (#273)"
+            },
+            {
+              "SHA": "beca6fbf",
+              "Subject": "Delete repositories based on the backupConfig deletionPolicy (#274)"
+            },
+            {
+              "SHA": "af6db7bd",
+              "Subject": "Set proxy env variables to containers (#272)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f5591b5",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "ce23273",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "91f8469",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "7804c01",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5807d4b9",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "80d5a2a",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "8f5ef5b",
+              "Subject": "Add Stdin Backup Leaf Command support (#58)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
