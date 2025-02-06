@@ -18,6 +18,15 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.15.0-rc.0](https://github.com/kubestash/cli/releases/tag/v0.15.0-rc.0)
+
+- [9538f75](https://github.com/kubestash/cli/commit/9538f75) Prepare for release v0.15.0-rc.0 (#46)
+- [1b89868](https://github.com/kubestash/cli/commit/1b89868) Incorporate with `go-sh` leaf command execution (#44)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.15.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.15.0-rc.0)

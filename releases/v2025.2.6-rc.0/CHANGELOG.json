@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T21:20:53.764734251Z",
+  "release_date": "2025-02-06T21:21:25.927325725Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.25+",
@@ -51,6 +51,24 @@
             {
               "SHA": "60e237cb",
               "Subject": "Hard code the function images that dont abide by rules  (#147)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9538f75",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "1b89868",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#44)"
             }
           ]
         }
