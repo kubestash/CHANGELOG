@@ -18,3 +18,12 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.15.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.15.0-rc.0)
+
+- [627cfb7](https://github.com/kubestash/kubedump/commit/627cfb7) Prepare for release v0.15.0-rc.0 (#39)
+- [06e15fb](https://github.com/kubestash/kubedump/commit/06e15fb) Incorporate with go-sh leaf command execution (#38)
+
+
+
