@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-11T17:16:22.197717764Z",
+  "release_date": "2025-02-11T17:34:03.212242997Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.10",
   "kubernetes_version": "1.25+",
@@ -89,6 +89,72 @@
             {
               "SHA": "1b89868",
               "Subject": "Incorporate with `go-sh` leaf command execution (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.2.10",
+          "commits": [
+            {
+              "SHA": "079138b",
+              "Subject": "Prepare for release v2025.2.10 (#144)"
+            },
+            {
+              "SHA": "709ac6f",
+              "Subject": "Update cve report (#143)"
+            },
+            {
+              "SHA": "79caa1a",
+              "Subject": "Update cve report (#142)"
+            },
+            {
+              "SHA": "3d61832",
+              "Subject": "Update cve report (#141)"
+            },
+            {
+              "SHA": "a719119",
+              "Subject": "Update cve report (#140)"
+            },
+            {
+              "SHA": "ba88087",
+              "Subject": "Disable image caching in setup-qemu action (#139)"
+            },
+            {
+              "SHA": "f0bb881",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#138)"
+            },
+            {
+              "SHA": "9200c2d",
+              "Subject": "Update ace-user-roles chart schema"
+            },
+            {
+              "SHA": "44395a0",
+              "Subject": "Move user roles to ace-user-roles chart (#137)"
+            },
+            {
+              "SHA": "22c5788",
+              "Subject": "Get and create permission added for archiver (#136)"
+            },
+            {
+              "SHA": "2b60ace",
+              "Subject": "Update cve report (#135)"
+            },
+            {
+              "SHA": "340f1fb",
+              "Subject": "Update cve report (#132)"
+            },
+            {
+              "SHA": "862ddc7",
+              "Subject": "Pass env variables to operator (#133)"
+            },
+            {
+              "SHA": "d89ce25",
+              "Subject": "Update cve report (#131)"
             }
           ]
         }
