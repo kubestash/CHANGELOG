@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-11T16:59:07.953170546Z",
+  "release_date": "2025-02-11T17:16:22.197717764Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.10",
   "kubernetes_version": "1.25+",
@@ -235,6 +235,32 @@
             {
               "SHA": "5807d4b9",
               "Subject": "Prepare for release v0.15.0-rc.0 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "33c8889",
+              "Subject": "Prepare for release v0.15.0 (#61)"
+            },
+            {
+              "SHA": "d923af9",
+              "Subject": "Update github actions workflows (#60)"
+            },
+            {
+              "SHA": "80d5a2a",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "8f5ef5b",
+              "Subject": "Add Stdin Backup Leaf Command support (#58)"
             }
           ]
         }
