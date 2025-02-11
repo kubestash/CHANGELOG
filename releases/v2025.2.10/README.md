@@ -32,3 +32,14 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.15.0](https://github.com/kubestash/pvc/releases/tag/v0.15.0)
+
+- [044e79b](https://github.com/kubestash/pvc/commit/044e79b) Prepare for release v0.15.0 (#50)
+- [946f9e2](https://github.com/kubestash/pvc/commit/946f9e2) Disable image caching in setup-qemu action (#49)
+- [91f8469](https://github.com/kubestash/pvc/commit/91f8469) Prepare for release v0.15.0-rc.0 (#48)
+- [7804c01](https://github.com/kubestash/pvc/commit/7804c01) Incorporate with `go-sh` leaf command execution (#47)
+
+
+

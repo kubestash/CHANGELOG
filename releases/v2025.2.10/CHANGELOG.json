@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-11T16:46:51.748978137Z",
+  "release_date": "2025-02-11T16:47:02.008094884Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.10",
   "kubernetes_version": "1.25+",
@@ -89,6 +89,32 @@
             {
               "SHA": "ce23273",
               "Subject": "Incorporate with `go-sh` leaf command execution (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "044e79b",
+              "Subject": "Prepare for release v0.15.0 (#50)"
+            },
+            {
+              "SHA": "946f9e2",
+              "Subject": "Disable image caching in setup-qemu action (#49)"
+            },
+            {
+              "SHA": "91f8469",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "7804c01",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#47)"
             }
           ]
         }
