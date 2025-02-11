@@ -21,3 +21,14 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.8.0](https://github.com/kubestash/manifest/releases/tag/v0.8.0)
+
+- [88fe74e](https://github.com/kubestash/manifest/commit/88fe74e) Prepare for release v0.8.0 (#25)
+- [60fab00](https://github.com/kubestash/manifest/commit/60fab00) Disable image caching in setup-qemu action (#24)
+- [f5591b5](https://github.com/kubestash/manifest/commit/f5591b5) Prepare for release v0.8.0-rc.0 (#23)
+- [ce23273](https://github.com/kubestash/manifest/commit/ce23273) Incorporate with `go-sh` leaf command execution (#22)
+
+
+
