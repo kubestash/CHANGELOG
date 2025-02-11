@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-11T16:47:47.866789262Z",
+  "release_date": "2025-02-11T16:48:21.796602662Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.2.10",
   "kubernetes_version": "1.25+",
@@ -63,6 +63,32 @@
             {
               "SHA": "60e237cb",
               "Subject": "Hard code the function images that dont abide by rules  (#147)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "dd0d658",
+              "Subject": "Prepare for release v0.15.0 (#41)"
+            },
+            {
+              "SHA": "9af244f",
+              "Subject": "Disable image caching in setup-qemu action (#40)"
+            },
+            {
+              "SHA": "627cfb7",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "06e15fb",
+              "Subject": "Incorporate with go-sh leaf command execution (#38)"
             }
           ]
         }

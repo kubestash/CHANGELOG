@@ -21,6 +21,17 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.15.0](https://github.com/kubestash/kubedump/releases/tag/v0.15.0)
+
+- [dd0d658](https://github.com/kubestash/kubedump/commit/dd0d658) Prepare for release v0.15.0 (#41)
+- [9af244f](https://github.com/kubestash/kubedump/commit/9af244f) Disable image caching in setup-qemu action (#40)
+- [627cfb7](https://github.com/kubestash/kubedump/commit/627cfb7) Prepare for release v0.15.0-rc.0 (#39)
+- [06e15fb](https://github.com/kubestash/kubedump/commit/06e15fb) Incorporate with go-sh leaf command execution (#38)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.8.0](https://github.com/kubestash/manifest/releases/tag/v0.8.0)
