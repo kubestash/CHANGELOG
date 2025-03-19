@@ -22,6 +22,20 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.16.0-rc.0](https://github.com/kubestash/cli/releases/tag/v0.16.0-rc.0)
+
+- [0d06dba1](https://github.com/kubestash/cli/commit/0d06dba1) Prepare for release v0.16.0-rc.0 (#53)
+- [3359c429](https://github.com/kubestash/cli/commit/3359c429) Use restic 0.17.3 (#52)
+- [7eca0331](https://github.com/kubestash/cli/commit/7eca0331) Use Go 1.24 (#50)
+- [b641496f](https://github.com/kubestash/cli/commit/b641496f) Add restic latest tag (#49)
+- [1122a79d](https://github.com/kubestash/cli/commit/1122a79d) Add cmd to convert stash resources yaml to kubestash (#45)
+- [0bb3aa74](https://github.com/kubestash/cli/commit/0bb3aa74) Prepare for release v0.15.0 (#48)
+- [0e2c3a44](https://github.com/kubestash/cli/commit/0e2c3a44) Disable image caching in setup-qemu action (#47)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.16.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.16.0-rc.0)
