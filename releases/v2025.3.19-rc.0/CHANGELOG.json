@@ -1,0 +1,398 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.3.19-rc.0",
+  "release_date": "2025-03-19T21:28:15.65838926Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.3.19-rc.0",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0e805914",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "aefab6a6",
+              "Subject": "Update controller config"
+            },
+            {
+              "SHA": "aa10be69",
+              "Subject": "Add IRSA annotation utility (#161)"
+            },
+            {
+              "SHA": "5fc5e168",
+              "Subject": "Skip extracting restic output lines if `message_type` is not summary"
+            },
+            {
+              "SHA": "74531c6c",
+              "Subject": "Merge pull request #159 from kubestash/v3"
+            },
+            {
+              "SHA": "7a5e5c63",
+              "Subject": "incorporate cahnges with one struct"
+            },
+            {
+              "SHA": "d928d133",
+              "Subject": "set region for S3-IRSA"
+            },
+            {
+              "SHA": "d11830db",
+              "Subject": "change webhooks directory"
+            },
+            {
+              "SHA": "ff90d99c",
+              "Subject": "Fix v3 webhook signature for BackupStorage"
+            },
+            {
+              "SHA": "2ecbedaa",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "1bebb656",
+              "Subject": "Use Go 1.24 (#157)"
+            },
+            {
+              "SHA": "57156d93",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "1a6fe49b",
+              "Subject": "fix s3-compitbale storage endpoint resolver (#156)"
+            },
+            {
+              "SHA": "f1e579e0",
+              "Subject": "Disable image caching in setup-qemu action (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0d06dba1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "3359c429",
+              "Subject": "Use restic 0.17.3 (#52)"
+            },
+            {
+              "SHA": "7eca0331",
+              "Subject": "Use Go 1.24 (#50)"
+            },
+            {
+              "SHA": "b641496f",
+              "Subject": "Add restic latest tag (#49)"
+            },
+            {
+              "SHA": "1122a79d",
+              "Subject": "Add cmd to convert stash resources yaml to kubestash (#45)"
+            },
+            {
+              "SHA": "0bb3aa74",
+              "Subject": "Prepare for release v0.15.0 (#48)"
+            },
+            {
+              "SHA": "0e2c3a44",
+              "Subject": "Disable image caching in setup-qemu action (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.3.19-rc.0",
+          "commits": [
+            {
+              "SHA": "985e852",
+              "Subject": "Prepare for release v2025.3.19-rc.0 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.3.19-rc.0",
+          "commits": [
+            {
+              "SHA": "186e7fe",
+              "Subject": "Prepare for release v2025.3.19-rc.0 (#165)"
+            },
+            {
+              "SHA": "6550b73",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "82dbc25",
+              "Subject": "Mount tls certs in operator (#163)"
+            },
+            {
+              "SHA": "608fb58",
+              "Subject": "Add serviceAccount name as env for `credential-less` (#161)"
+            },
+            {
+              "SHA": "0b1e9ca",
+              "Subject": "Remove rbac-proxy sidecar (#160)"
+            },
+            {
+              "SHA": "19d09c4",
+              "Subject": "Update cve report (#159)"
+            },
+            {
+              "SHA": "f580c8f",
+              "Subject": "Update cve report (#158)"
+            },
+            {
+              "SHA": "b2f984c",
+              "Subject": "Update cve report (#156)"
+            },
+            {
+              "SHA": "834a338",
+              "Subject": "Update cve report (#155)"
+            },
+            {
+              "SHA": "bd7ed89",
+              "Subject": "Update ace-user-roles"
+            },
+            {
+              "SHA": "9e2dfa3",
+              "Subject": "Test against k8s 1.32 (#154)"
+            },
+            {
+              "SHA": "ea15004",
+              "Subject": "Test against k8s 1.32 (#153)"
+            },
+            {
+              "SHA": "52834b2",
+              "Subject": "Update cve report (#152)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0f07df1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "20b8e91",
+              "Subject": "Use restic 0.17.3 (#44)"
+            },
+            {
+              "SHA": "c851794",
+              "Subject": "Skip fake api-resources (#43)"
+            },
+            {
+              "SHA": "02a4c7b",
+              "Subject": "Use Go 1.24 (#42)"
+            },
+            {
+              "SHA": "dd0d658",
+              "Subject": "Prepare for release v0.15.0 (#41)"
+            },
+            {
+              "SHA": "9af244f",
+              "Subject": "Disable image caching in setup-qemu action (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4da9a4a5",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#288)"
+            },
+            {
+              "SHA": "e4da511f",
+              "Subject": "Add irsa role annotation to every executor SA (#285)"
+            },
+            {
+              "SHA": "9dfa0ae3",
+              "Subject": "Remove rabcproxy sidecar (#287)"
+            },
+            {
+              "SHA": "499b0bec",
+              "Subject": "Use restic 0.17.3 (#286)"
+            },
+            {
+              "SHA": "f3b84de4",
+              "Subject": "Merge pull request #284 from kubestash/v3"
+            },
+            {
+              "SHA": "177eeda8",
+              "Subject": "update deps"
+            },
+            {
+              "SHA": "4e993db0",
+              "Subject": "update apimachinery Signed-off-by: Anisur Rahman <anisur@appscode.com>"
+            },
+            {
+              "SHA": "e75220d8",
+              "Subject": "Re-import `SetupWebhookWithManager` from webhook cmd"
+            },
+            {
+              "SHA": "8414822c",
+              "Subject": "Use Go 1.24 (#282)"
+            },
+            {
+              "SHA": "bf782c59",
+              "Subject": "Use Go 1.24 (#281)"
+            },
+            {
+              "SHA": "0972e4cc",
+              "Subject": "Fix restore executor nil reference check for `archiverRef` (#280)"
+            },
+            {
+              "SHA": "f55d932d",
+              "Subject": "Prepare for release v0.16.0 (#278)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "839a765",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#30)"
+            },
+            {
+              "SHA": "3cb17f6",
+              "Subject": "Use restic 0.17.3 (#29)"
+            },
+            {
+              "SHA": "557b621",
+              "Subject": "Use Go 1.24 (#26)"
+            },
+            {
+              "SHA": "88fe74e",
+              "Subject": "Prepare for release v0.8.0 (#25)"
+            },
+            {
+              "SHA": "60fab00",
+              "Subject": "Disable image caching in setup-qemu action (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9984b83",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "d6b45e2",
+              "Subject": "Use restic 0.17.3 (#52)"
+            },
+            {
+              "SHA": "14a4597",
+              "Subject": "Use Go 1.24 (#51)"
+            },
+            {
+              "SHA": "044e79b",
+              "Subject": "Prepare for release v0.15.0 (#50)"
+            },
+            {
+              "SHA": "946f9e2",
+              "Subject": "Disable image caching in setup-qemu action (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f1a49b49",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#44)"
+            },
+            {
+              "SHA": "6f865414",
+              "Subject": "Use Go 1.24 (#43)"
+            },
+            {
+              "SHA": "58ed7586",
+              "Subject": "Prepare for release v0.15.0 (#42)"
+            },
+            {
+              "SHA": "4b15908d",
+              "Subject": "Disable image caching in setup-qemu action (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4a4e153",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#64)"
+            },
+            {
+              "SHA": "16349de",
+              "Subject": "Use restic 0.17.3 (#63)"
+            },
+            {
+              "SHA": "c28e244",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "33c8889",
+              "Subject": "Prepare for release v0.15.0 (#61)"
+            },
+            {
+              "SHA": "d923af9",
+              "Subject": "Update github actions workflows (#60)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
