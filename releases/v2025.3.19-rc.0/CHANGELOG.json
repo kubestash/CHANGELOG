@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T20:01:12.613814918Z",
+  "release_date": "2025-03-19T20:03:56.871186474Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.25+",
@@ -257,6 +257,32 @@
             {
               "SHA": "946f9e2",
               "Subject": "Disable image caching in setup-qemu action (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f1a49b49",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#44)"
+            },
+            {
+              "SHA": "6f865414",
+              "Subject": "Use Go 1.24 (#43)"
+            },
+            {
+              "SHA": "58ed7586",
+              "Subject": "Prepare for release v0.15.0 (#42)"
+            },
+            {
+              "SHA": "4b15908d",
+              "Subject": "Disable image caching in setup-qemu action (#41)"
             }
           ]
         }
