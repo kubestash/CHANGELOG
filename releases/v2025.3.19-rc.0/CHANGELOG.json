@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T19:56:32.328785023Z",
+  "release_date": "2025-03-19T19:59:06.430194714Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.25+",
@@ -189,6 +189,36 @@
             {
               "SHA": "60fab00",
               "Subject": "Disable image caching in setup-qemu action (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9984b83",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "d6b45e2",
+              "Subject": "Use restic 0.17.3 (#52)"
+            },
+            {
+              "SHA": "14a4597",
+              "Subject": "Use Go 1.24 (#51)"
+            },
+            {
+              "SHA": "044e79b",
+              "Subject": "Prepare for release v0.15.0 (#50)"
+            },
+            {
+              "SHA": "946f9e2",
+              "Subject": "Disable image caching in setup-qemu action (#49)"
             }
           ]
         }

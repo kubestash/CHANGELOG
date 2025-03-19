@@ -66,3 +66,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.16.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.16.0-rc.0)
+
+- [9984b83](https://github.com/kubestash/pvc/commit/9984b83) Prepare for release v0.16.0-rc.0 (#53)
+- [d6b45e2](https://github.com/kubestash/pvc/commit/d6b45e2) Use restic 0.17.3 (#52)
+- [14a4597](https://github.com/kubestash/pvc/commit/14a4597) Use Go 1.24 (#51)
+- [044e79b](https://github.com/kubestash/pvc/commit/044e79b) Prepare for release v0.15.0 (#50)
+- [946f9e2](https://github.com/kubestash/pvc/commit/946f9e2) Disable image caching in setup-qemu action (#49)
+
+
+
