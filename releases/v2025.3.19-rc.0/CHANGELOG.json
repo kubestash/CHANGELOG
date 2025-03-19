@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T20:38:17.660569752Z",
+  "release_date": "2025-03-19T21:28:15.65838926Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.25+",
@@ -105,6 +105,20 @@
             {
               "SHA": "0e2c3a44",
               "Subject": "Disable image caching in setup-qemu action (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.3.19-rc.0",
+          "commits": [
+            {
+              "SHA": "985e852",
+              "Subject": "Prepare for release v2025.3.19-rc.0 (#43)"
             }
           ]
         }
