@@ -22,6 +22,19 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.16.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.16.0-rc.0)
+
+- [0f07df1](https://github.com/kubestash/kubedump/commit/0f07df1) Prepare for release v0.16.0-rc.0 (#45)
+- [20b8e91](https://github.com/kubestash/kubedump/commit/20b8e91) Use restic 0.17.3 (#44)
+- [c851794](https://github.com/kubestash/kubedump/commit/c851794) Skip fake api-resources (#43)
+- [02a4c7b](https://github.com/kubestash/kubedump/commit/02a4c7b) Use Go 1.24 (#42)
+- [dd0d658](https://github.com/kubestash/kubedump/commit/dd0d658) Prepare for release v0.15.0 (#41)
+- [9af244f](https://github.com/kubestash/kubedump/commit/9af244f) Disable image caching in setup-qemu action (#40)
+
+
+
 ## [kubestash/kubestash](https://github.com/kubestash/kubestash)
 
 ### [v0.17.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.17.0-rc.0)
