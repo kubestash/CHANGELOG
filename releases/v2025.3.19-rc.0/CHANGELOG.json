@@ -1,0 +1,76 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.3.19-rc.0",
+  "release_date": "2025-03-19T19:11:13.162146751Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.3.19-rc.0",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0e805914",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "aefab6a6",
+              "Subject": "Update controller config"
+            },
+            {
+              "SHA": "aa10be69",
+              "Subject": "Add IRSA annotation utility (#161)"
+            },
+            {
+              "SHA": "5fc5e168",
+              "Subject": "Skip extracting restic output lines if `message_type` is not summary"
+            },
+            {
+              "SHA": "74531c6c",
+              "Subject": "Merge pull request #159 from kubestash/v3"
+            },
+            {
+              "SHA": "7a5e5c63",
+              "Subject": "incorporate cahnges with one struct"
+            },
+            {
+              "SHA": "d928d133",
+              "Subject": "set region for S3-IRSA"
+            },
+            {
+              "SHA": "d11830db",
+              "Subject": "change webhooks directory"
+            },
+            {
+              "SHA": "ff90d99c",
+              "Subject": "Fix v3 webhook signature for BackupStorage"
+            },
+            {
+              "SHA": "2ecbedaa",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "1bebb656",
+              "Subject": "Use Go 1.24 (#157)"
+            },
+            {
+              "SHA": "57156d93",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "1a6fe49b",
+              "Subject": "fix s3-compitbale storage endpoint resolver (#156)"
+            },
+            {
+              "SHA": "f1e579e0",
+              "Subject": "Disable image caching in setup-qemu action (#155)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
