@@ -54,3 +54,15 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.9.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.9.0-rc.0)
+
+- [839a765](https://github.com/kubestash/manifest/commit/839a765) Prepare for release v0.9.0-rc.0 (#30)
+- [3cb17f6](https://github.com/kubestash/manifest/commit/3cb17f6) Use restic 0.17.3 (#29)
+- [557b621](https://github.com/kubestash/manifest/commit/557b621) Use Go 1.24 (#26)
+- [88fe74e](https://github.com/kubestash/manifest/commit/88fe74e) Prepare for release v0.8.0 (#25)
+- [60fab00](https://github.com/kubestash/manifest/commit/60fab00) Disable image caching in setup-qemu action (#24)
+
+
+
