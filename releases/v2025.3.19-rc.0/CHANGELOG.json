@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T20:14:30.192258562Z",
+  "release_date": "2025-03-19T20:38:17.660569752Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.25+",
@@ -105,6 +105,68 @@
             {
               "SHA": "0e2c3a44",
               "Subject": "Disable image caching in setup-qemu action (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.3.19-rc.0",
+          "commits": [
+            {
+              "SHA": "186e7fe",
+              "Subject": "Prepare for release v2025.3.19-rc.0 (#165)"
+            },
+            {
+              "SHA": "6550b73",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "82dbc25",
+              "Subject": "Mount tls certs in operator (#163)"
+            },
+            {
+              "SHA": "608fb58",
+              "Subject": "Add serviceAccount name as env for `credential-less` (#161)"
+            },
+            {
+              "SHA": "0b1e9ca",
+              "Subject": "Remove rbac-proxy sidecar (#160)"
+            },
+            {
+              "SHA": "19d09c4",
+              "Subject": "Update cve report (#159)"
+            },
+            {
+              "SHA": "f580c8f",
+              "Subject": "Update cve report (#158)"
+            },
+            {
+              "SHA": "b2f984c",
+              "Subject": "Update cve report (#156)"
+            },
+            {
+              "SHA": "834a338",
+              "Subject": "Update cve report (#155)"
+            },
+            {
+              "SHA": "bd7ed89",
+              "Subject": "Update ace-user-roles"
+            },
+            {
+              "SHA": "9e2dfa3",
+              "Subject": "Test against k8s 1.32 (#154)"
+            },
+            {
+              "SHA": "ea15004",
+              "Subject": "Test against k8s 1.32 (#153)"
+            },
+            {
+              "SHA": "52834b2",
+              "Subject": "Update cve report (#152)"
             }
           ]
         }
