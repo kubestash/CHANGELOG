@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T19:11:13.162146751Z",
+  "release_date": "2025-03-19T19:34:34.407672085Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.25+",
@@ -67,6 +67,64 @@
             {
               "SHA": "f1e579e0",
               "Subject": "Disable image caching in setup-qemu action (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4da9a4a5",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#288)"
+            },
+            {
+              "SHA": "e4da511f",
+              "Subject": "Add irsa role annotation to every executor SA (#285)"
+            },
+            {
+              "SHA": "9dfa0ae3",
+              "Subject": "Remove rabcproxy sidecar (#287)"
+            },
+            {
+              "SHA": "499b0bec",
+              "Subject": "Use restic 0.17.3 (#286)"
+            },
+            {
+              "SHA": "f3b84de4",
+              "Subject": "Merge pull request #284 from kubestash/v3"
+            },
+            {
+              "SHA": "177eeda8",
+              "Subject": "update deps"
+            },
+            {
+              "SHA": "4e993db0",
+              "Subject": "update apimachinery Signed-off-by: Anisur Rahman <anisur@appscode.com>"
+            },
+            {
+              "SHA": "e75220d8",
+              "Subject": "Re-import `SetupWebhookWithManager` from webhook cmd"
+            },
+            {
+              "SHA": "8414822c",
+              "Subject": "Use Go 1.24 (#282)"
+            },
+            {
+              "SHA": "bf782c59",
+              "Subject": "Use Go 1.24 (#281)"
+            },
+            {
+              "SHA": "0972e4cc",
+              "Subject": "Fix restore executor nil reference check for `archiverRef` (#280)"
+            },
+            {
+              "SHA": "f55d932d",
+              "Subject": "Prepare for release v0.16.0 (#278)"
             }
           ]
         }
