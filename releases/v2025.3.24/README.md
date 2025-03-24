@@ -24,6 +24,16 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.16.0](https://github.com/kubestash/kubedump/releases/tag/v0.16.0)
+
+- [a06a76c](https://github.com/kubestash/kubedump/commit/a06a76c) Prepare for release v0.16.0 (#46)
+- [0f07df1](https://github.com/kubestash/kubedump/commit/0f07df1) Prepare for release v0.16.0-rc.0 (#45)
+- [20b8e91](https://github.com/kubestash/kubedump/commit/20b8e91) Use restic 0.17.3 (#44)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.16.0](https://github.com/kubestash/pvc/releases/tag/v0.16.0)

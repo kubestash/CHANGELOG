@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T17:51:35.509325599Z",
+  "release_date": "2025-03-24T17:51:56.248955485Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.24",
   "kubernetes_version": "1.25+",
@@ -75,6 +75,28 @@
             {
               "SHA": "1bebb656",
               "Subject": "Use Go 1.24 (#157)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "a06a76c",
+              "Subject": "Prepare for release v0.16.0 (#46)"
+            },
+            {
+              "SHA": "0f07df1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "20b8e91",
+              "Subject": "Use restic 0.17.3 (#44)"
             }
           ]
         }
