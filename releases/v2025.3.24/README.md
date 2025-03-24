@@ -34,6 +34,26 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.17.0](https://github.com/kubestash/kubestash/releases/tag/v0.17.0)
+
+- [c1fee4c0](https://github.com/kubestash/kubestash/commit/c1fee4c0) Prepare for release v0.17.0 (#290)
+- [cacf0822](https://github.com/kubestash/kubestash/commit/cacf0822) Check for license feature
+- [7e7073d4](https://github.com/kubestash/kubestash/commit/7e7073d4) restic-cache volume during backup/restore (#289)
+- [4da9a4a5](https://github.com/kubestash/kubestash/commit/4da9a4a5) Prepare for release v0.17.0-rc.0 (#288)
+- [e4da511f](https://github.com/kubestash/kubestash/commit/e4da511f) Add irsa role annotation to every executor SA (#285)
+- [9dfa0ae3](https://github.com/kubestash/kubestash/commit/9dfa0ae3) Remove rabcproxy sidecar (#287)
+- [499b0bec](https://github.com/kubestash/kubestash/commit/499b0bec) Use restic 0.17.3 (#286)
+- [f3b84de4](https://github.com/kubestash/kubestash/commit/f3b84de4) Merge pull request #284 from kubestash/v3
+- [177eeda8](https://github.com/kubestash/kubestash/commit/177eeda8) update deps
+- [4e993db0](https://github.com/kubestash/kubestash/commit/4e993db0) update apimachinery Signed-off-by: Anisur Rahman <anisur@appscode.com>
+- [e75220d8](https://github.com/kubestash/kubestash/commit/e75220d8) Re-import `SetupWebhookWithManager` from webhook cmd
+- [8414822c](https://github.com/kubestash/kubestash/commit/8414822c) Use Go 1.24 (#282)
+- [bf782c59](https://github.com/kubestash/kubestash/commit/bf782c59) Use Go 1.24 (#281)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.9.0](https://github.com/kubestash/manifest/releases/tag/v0.9.0)

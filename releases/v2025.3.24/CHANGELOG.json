@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T17:52:03.173317812Z",
+  "release_date": "2025-03-24T17:54:52.817848304Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.24",
   "kubernetes_version": "1.25+",
@@ -97,6 +97,68 @@
             {
               "SHA": "20b8e91",
               "Subject": "Use restic 0.17.3 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "c1fee4c0",
+              "Subject": "Prepare for release v0.17.0 (#290)"
+            },
+            {
+              "SHA": "cacf0822",
+              "Subject": "Check for license feature"
+            },
+            {
+              "SHA": "7e7073d4",
+              "Subject": "restic-cache volume during backup/restore (#289)"
+            },
+            {
+              "SHA": "4da9a4a5",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#288)"
+            },
+            {
+              "SHA": "e4da511f",
+              "Subject": "Add irsa role annotation to every executor SA (#285)"
+            },
+            {
+              "SHA": "9dfa0ae3",
+              "Subject": "Remove rabcproxy sidecar (#287)"
+            },
+            {
+              "SHA": "499b0bec",
+              "Subject": "Use restic 0.17.3 (#286)"
+            },
+            {
+              "SHA": "f3b84de4",
+              "Subject": "Merge pull request #284 from kubestash/v3"
+            },
+            {
+              "SHA": "177eeda8",
+              "Subject": "update deps"
+            },
+            {
+              "SHA": "4e993db0",
+              "Subject": "update apimachinery Signed-off-by: Anisur Rahman <anisur@appscode.com>"
+            },
+            {
+              "SHA": "e75220d8",
+              "Subject": "Re-import `SetupWebhookWithManager` from webhook cmd"
+            },
+            {
+              "SHA": "8414822c",
+              "Subject": "Use Go 1.24 (#282)"
+            },
+            {
+              "SHA": "bf782c59",
+              "Subject": "Use Go 1.24 (#281)"
             }
           ]
         }
