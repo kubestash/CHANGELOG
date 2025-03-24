@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T17:50:03.745812083Z",
+  "release_date": "2025-03-24T17:51:35.509325599Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.24",
   "kubernetes_version": "1.25+",
@@ -101,6 +101,28 @@
             {
               "SHA": "14a4597",
               "Subject": "Use Go 1.24 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "330111b9",
+              "Subject": "Prepare for release v0.16.0 (#45)"
+            },
+            {
+              "SHA": "f1a49b49",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#44)"
+            },
+            {
+              "SHA": "6f865414",
+              "Subject": "Use Go 1.24 (#43)"
             }
           ]
         }
