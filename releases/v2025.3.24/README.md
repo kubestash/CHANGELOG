@@ -38,6 +38,31 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.3.24](https://github.com/kubestash/installer/releases/tag/v2025.3.24)
+
+- [b5ed0ca](https://github.com/kubestash/installer/commit/b5ed0ca) Prepare for release v2025.3.24 (#169)
+- [32a58b1](https://github.com/kubestash/installer/commit/32a58b1) Update cve report (#168)
+- [f394f4f](https://github.com/kubestash/installer/commit/f394f4f) Use reload annotation
+- [f8f02b2](https://github.com/kubestash/installer/commit/f8f02b2) Update cve report (#167)
+- [204b495](https://github.com/kubestash/installer/commit/204b495) Update cve report (#166)
+- [186e7fe](https://github.com/kubestash/installer/commit/186e7fe) Prepare for release v2025.3.19-rc.0 (#165)
+- [6550b73](https://github.com/kubestash/installer/commit/6550b73) Use k8s 1.32 client libs
+- [82dbc25](https://github.com/kubestash/installer/commit/82dbc25) Mount tls certs in operator (#163)
+- [608fb58](https://github.com/kubestash/installer/commit/608fb58) Add serviceAccount name as env for `credential-less` (#161)
+- [0b1e9ca](https://github.com/kubestash/installer/commit/0b1e9ca) Remove rbac-proxy sidecar (#160)
+- [19d09c4](https://github.com/kubestash/installer/commit/19d09c4) Update cve report (#159)
+- [f580c8f](https://github.com/kubestash/installer/commit/f580c8f) Update cve report (#158)
+- [b2f984c](https://github.com/kubestash/installer/commit/b2f984c) Update cve report (#156)
+- [834a338](https://github.com/kubestash/installer/commit/834a338) Update cve report (#155)
+- [bd7ed89](https://github.com/kubestash/installer/commit/bd7ed89) Update ace-user-roles
+- [9e2dfa3](https://github.com/kubestash/installer/commit/9e2dfa3) Test against k8s 1.32 (#154)
+- [ea15004](https://github.com/kubestash/installer/commit/ea15004) Test against k8s 1.32 (#153)
+- [52834b2](https://github.com/kubestash/installer/commit/52834b2) Update cve report (#152)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.16.0](https://github.com/kubestash/kubedump/releases/tag/v0.16.0)
