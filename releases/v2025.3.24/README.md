@@ -24,6 +24,20 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.16.0](https://github.com/kubestash/cli/releases/tag/v0.16.0)
+
+- [0b3b11b8](https://github.com/kubestash/cli/commit/0b3b11b8) Prepare for release v0.16.0 (#56)
+- [2e3a56da](https://github.com/kubestash/cli/commit/2e3a56da) Fix download cmd for google storage provider (#54)
+- [0d06dba1](https://github.com/kubestash/cli/commit/0d06dba1) Prepare for release v0.16.0-rc.0 (#53)
+- [3359c429](https://github.com/kubestash/cli/commit/3359c429) Use restic 0.17.3 (#52)
+- [7eca0331](https://github.com/kubestash/cli/commit/7eca0331) Use Go 1.24 (#50)
+- [b641496f](https://github.com/kubestash/cli/commit/b641496f) Add restic latest tag (#49)
+- [1122a79d](https://github.com/kubestash/cli/commit/1122a79d) Add cmd to convert stash resources yaml to kubestash (#45)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.16.0](https://github.com/kubestash/kubedump/releases/tag/v0.16.0)

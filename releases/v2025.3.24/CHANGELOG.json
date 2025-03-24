@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T17:54:52.817848304Z",
+  "release_date": "2025-03-24T17:55:11.127347795Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.24",
   "kubernetes_version": "1.25+",
@@ -75,6 +75,44 @@
             {
               "SHA": "1bebb656",
               "Subject": "Use Go 1.24 (#157)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "0b3b11b8",
+              "Subject": "Prepare for release v0.16.0 (#56)"
+            },
+            {
+              "SHA": "2e3a56da",
+              "Subject": "Fix download cmd for google storage provider (#54)"
+            },
+            {
+              "SHA": "0d06dba1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "3359c429",
+              "Subject": "Use restic 0.17.3 (#52)"
+            },
+            {
+              "SHA": "7eca0331",
+              "Subject": "Use Go 1.24 (#50)"
+            },
+            {
+              "SHA": "b641496f",
+              "Subject": "Add restic latest tag (#49)"
+            },
+            {
+              "SHA": "1122a79d",
+              "Subject": "Add cmd to convert stash resources yaml to kubestash (#45)"
             }
           ]
         }
