@@ -100,3 +100,14 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.16.0](https://github.com/kubestash/workload/releases/tag/v0.16.0)
+
+- [a1ad9ca](https://github.com/kubestash/workload/commit/a1ad9ca) Prepare for release v0.16.0 (#65)
+- [4a4e153](https://github.com/kubestash/workload/commit/4a4e153) Prepare for release v0.16.0-rc.0 (#64)
+- [16349de](https://github.com/kubestash/workload/commit/16349de) Use restic 0.17.3 (#63)
+- [c28e244](https://github.com/kubestash/workload/commit/c28e244) Use Go 1.24 (#62)
+
+
+

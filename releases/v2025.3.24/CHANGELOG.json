@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T17:55:11.127347795Z",
+  "release_date": "2025-03-24T18:42:12.744466366Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.24",
   "kubernetes_version": "1.25+",
@@ -271,6 +271,32 @@
             {
               "SHA": "6f865414",
               "Subject": "Use Go 1.24 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "a1ad9ca",
+              "Subject": "Prepare for release v0.16.0 (#65)"
+            },
+            {
+              "SHA": "4a4e153",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#64)"
+            },
+            {
+              "SHA": "16349de",
+              "Subject": "Use restic 0.17.3 (#63)"
+            },
+            {
+              "SHA": "c28e244",
+              "Subject": "Use Go 1.24 (#62)"
             }
           ]
         }
