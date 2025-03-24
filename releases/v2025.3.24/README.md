@@ -34,6 +34,17 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.9.0](https://github.com/kubestash/manifest/releases/tag/v0.9.0)
+
+- [36539bf](https://github.com/kubestash/manifest/commit/36539bf) Prepare for release v0.9.0 (#31)
+- [839a765](https://github.com/kubestash/manifest/commit/839a765) Prepare for release v0.9.0-rc.0 (#30)
+- [3cb17f6](https://github.com/kubestash/manifest/commit/3cb17f6) Use restic 0.17.3 (#29)
+- [557b621](https://github.com/kubestash/manifest/commit/557b621) Use Go 1.24 (#26)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.16.0](https://github.com/kubestash/pvc/releases/tag/v0.16.0)
