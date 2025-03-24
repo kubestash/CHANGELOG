@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T17:44:18.951699562Z",
+  "release_date": "2025-03-24T17:50:03.745812083Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.3.24",
   "kubernetes_version": "1.25+",
@@ -75,6 +75,32 @@
             {
               "SHA": "1bebb656",
               "Subject": "Use Go 1.24 (#157)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "7a8b944",
+              "Subject": "Prepare for release v0.16.0 (#54)"
+            },
+            {
+              "SHA": "9984b83",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "d6b45e2",
+              "Subject": "Use restic 0.17.3 (#52)"
+            },
+            {
+              "SHA": "14a4597",
+              "Subject": "Use Go 1.24 (#51)"
             }
           ]
         }
