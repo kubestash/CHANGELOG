@@ -1,0 +1,406 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.3.24",
+  "release_date": "2025-03-24T19:05:00.349505361Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.3.24",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "22a4fa12",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "a4051f0d",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "42f2449a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c57fd222",
+              "Subject": "Fix `DumpEnv` for google storage provider"
+            },
+            {
+              "SHA": "ba721c97",
+              "Subject": "Add `KeyResticCacheVolume` constant for cache volume (#162)"
+            },
+            {
+              "SHA": "0e805914",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "aefab6a6",
+              "Subject": "Update controller config"
+            },
+            {
+              "SHA": "aa10be69",
+              "Subject": "Add IRSA annotation utility (#161)"
+            },
+            {
+              "SHA": "5fc5e168",
+              "Subject": "Skip extracting restic output lines if `message_type` is not summary"
+            },
+            {
+              "SHA": "74531c6c",
+              "Subject": "Merge pull request #159 from kubestash/v3"
+            },
+            {
+              "SHA": "7a5e5c63",
+              "Subject": "incorporate cahnges with one struct"
+            },
+            {
+              "SHA": "d928d133",
+              "Subject": "set region for S3-IRSA"
+            },
+            {
+              "SHA": "d11830db",
+              "Subject": "change webhooks directory"
+            },
+            {
+              "SHA": "ff90d99c",
+              "Subject": "Fix v3 webhook signature for BackupStorage"
+            },
+            {
+              "SHA": "2ecbedaa",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "1bebb656",
+              "Subject": "Use Go 1.24 (#157)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "0b3b11b8",
+              "Subject": "Prepare for release v0.16.0 (#56)"
+            },
+            {
+              "SHA": "2e3a56da",
+              "Subject": "Fix download cmd for google storage provider (#54)"
+            },
+            {
+              "SHA": "0d06dba1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "3359c429",
+              "Subject": "Use restic 0.17.3 (#52)"
+            },
+            {
+              "SHA": "7eca0331",
+              "Subject": "Use Go 1.24 (#50)"
+            },
+            {
+              "SHA": "b641496f",
+              "Subject": "Add restic latest tag (#49)"
+            },
+            {
+              "SHA": "1122a79d",
+              "Subject": "Add cmd to convert stash resources yaml to kubestash (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.3.24",
+          "commits": [
+            {
+              "SHA": "82955d2",
+              "Subject": "Prepare for release v2025.3.24 (#44)"
+            },
+            {
+              "SHA": "985e852",
+              "Subject": "Prepare for release v2025.3.19-rc.0 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.3.24",
+          "commits": [
+            {
+              "SHA": "b5ed0ca",
+              "Subject": "Prepare for release v2025.3.24 (#169)"
+            },
+            {
+              "SHA": "32a58b1",
+              "Subject": "Update cve report (#168)"
+            },
+            {
+              "SHA": "f394f4f",
+              "Subject": "Use reload annotation"
+            },
+            {
+              "SHA": "f8f02b2",
+              "Subject": "Update cve report (#167)"
+            },
+            {
+              "SHA": "204b495",
+              "Subject": "Update cve report (#166)"
+            },
+            {
+              "SHA": "186e7fe",
+              "Subject": "Prepare for release v2025.3.19-rc.0 (#165)"
+            },
+            {
+              "SHA": "6550b73",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "82dbc25",
+              "Subject": "Mount tls certs in operator (#163)"
+            },
+            {
+              "SHA": "608fb58",
+              "Subject": "Add serviceAccount name as env for `credential-less` (#161)"
+            },
+            {
+              "SHA": "0b1e9ca",
+              "Subject": "Remove rbac-proxy sidecar (#160)"
+            },
+            {
+              "SHA": "19d09c4",
+              "Subject": "Update cve report (#159)"
+            },
+            {
+              "SHA": "f580c8f",
+              "Subject": "Update cve report (#158)"
+            },
+            {
+              "SHA": "b2f984c",
+              "Subject": "Update cve report (#156)"
+            },
+            {
+              "SHA": "834a338",
+              "Subject": "Update cve report (#155)"
+            },
+            {
+              "SHA": "bd7ed89",
+              "Subject": "Update ace-user-roles"
+            },
+            {
+              "SHA": "9e2dfa3",
+              "Subject": "Test against k8s 1.32 (#154)"
+            },
+            {
+              "SHA": "ea15004",
+              "Subject": "Test against k8s 1.32 (#153)"
+            },
+            {
+              "SHA": "52834b2",
+              "Subject": "Update cve report (#152)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "a06a76c",
+              "Subject": "Prepare for release v0.16.0 (#46)"
+            },
+            {
+              "SHA": "0f07df1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "20b8e91",
+              "Subject": "Use restic 0.17.3 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "c1fee4c0",
+              "Subject": "Prepare for release v0.17.0 (#290)"
+            },
+            {
+              "SHA": "cacf0822",
+              "Subject": "Check for license feature"
+            },
+            {
+              "SHA": "7e7073d4",
+              "Subject": "restic-cache volume during backup/restore (#289)"
+            },
+            {
+              "SHA": "4da9a4a5",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#288)"
+            },
+            {
+              "SHA": "e4da511f",
+              "Subject": "Add irsa role annotation to every executor SA (#285)"
+            },
+            {
+              "SHA": "9dfa0ae3",
+              "Subject": "Remove rabcproxy sidecar (#287)"
+            },
+            {
+              "SHA": "499b0bec",
+              "Subject": "Use restic 0.17.3 (#286)"
+            },
+            {
+              "SHA": "f3b84de4",
+              "Subject": "Merge pull request #284 from kubestash/v3"
+            },
+            {
+              "SHA": "177eeda8",
+              "Subject": "update deps"
+            },
+            {
+              "SHA": "4e993db0",
+              "Subject": "update apimachinery Signed-off-by: Anisur Rahman <anisur@appscode.com>"
+            },
+            {
+              "SHA": "e75220d8",
+              "Subject": "Re-import `SetupWebhookWithManager` from webhook cmd"
+            },
+            {
+              "SHA": "8414822c",
+              "Subject": "Use Go 1.24 (#282)"
+            },
+            {
+              "SHA": "bf782c59",
+              "Subject": "Use Go 1.24 (#281)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "36539bf",
+              "Subject": "Prepare for release v0.9.0 (#31)"
+            },
+            {
+              "SHA": "839a765",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#30)"
+            },
+            {
+              "SHA": "3cb17f6",
+              "Subject": "Use restic 0.17.3 (#29)"
+            },
+            {
+              "SHA": "557b621",
+              "Subject": "Use Go 1.24 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "7a8b944",
+              "Subject": "Prepare for release v0.16.0 (#54)"
+            },
+            {
+              "SHA": "9984b83",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "d6b45e2",
+              "Subject": "Use restic 0.17.3 (#52)"
+            },
+            {
+              "SHA": "14a4597",
+              "Subject": "Use Go 1.24 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "330111b9",
+              "Subject": "Prepare for release v0.16.0 (#45)"
+            },
+            {
+              "SHA": "f1a49b49",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#44)"
+            },
+            {
+              "SHA": "6f865414",
+              "Subject": "Use Go 1.24 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "a1ad9ca",
+              "Subject": "Prepare for release v0.16.0 (#65)"
+            },
+            {
+              "SHA": "4a4e153",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#64)"
+            },
+            {
+              "SHA": "16349de",
+              "Subject": "Use restic 0.17.3 (#63)"
+            },
+            {
+              "SHA": "c28e244",
+              "Subject": "Use Go 1.24 (#62)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
