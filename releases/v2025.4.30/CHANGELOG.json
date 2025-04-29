@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T21:13:29.366309037Z",
+  "release_date": "2025-04-29T21:15:16.620554566Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.4.30",
   "kubernetes_version": "1.25+",
@@ -29,6 +29,28 @@
             {
               "SHA": "4cd27ac",
               "Subject": "Prepare for release v0.17.0 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "aea0db1d",
+              "Subject": "Prepare for release v0.18.0 (#294)"
+            },
+            {
+              "SHA": "d5b23a62",
+              "Subject": "Short replicaset for by creation timestamp (#292)"
+            },
+            {
+              "SHA": "de23a072",
+              "Subject": "Fix only worload-manifest restore (#291)"
             }
           ]
         }

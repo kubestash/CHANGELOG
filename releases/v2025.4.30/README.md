@@ -17,6 +17,16 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.18.0](https://github.com/kubestash/kubestash/releases/tag/v0.18.0)
+
+- [aea0db1d](https://github.com/kubestash/kubestash/commit/aea0db1d) Prepare for release v0.18.0 (#294)
+- [d5b23a62](https://github.com/kubestash/kubestash/commit/d5b23a62) Short replicaset for by creation timestamp (#292)
+- [de23a072](https://github.com/kubestash/kubestash/commit/de23a072) Fix only worload-manifest restore (#291)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.10.0](https://github.com/kubestash/manifest/releases/tag/v0.10.0)
