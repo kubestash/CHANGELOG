@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T21:12:50.227154233Z",
+  "release_date": "2025-04-29T21:13:29.366309037Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.4.30",
   "kubernetes_version": "1.25+",
@@ -15,6 +15,20 @@
             {
               "SHA": "c762b940",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "4cd27ac",
+              "Subject": "Prepare for release v0.17.0 (#48)"
             }
           ]
         }
