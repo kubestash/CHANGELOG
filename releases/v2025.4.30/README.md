@@ -18,6 +18,14 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.17.0](https://github.com/kubestash/pvc/releases/tag/v0.17.0)
+
+- [d64db2e](https://github.com/kubestash/pvc/commit/d64db2e) Prepare for release v0.17.0 (#55)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.17.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.17.0)

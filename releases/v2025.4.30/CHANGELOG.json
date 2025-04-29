@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T21:12:18.307693881Z",
+  "release_date": "2025-04-29T21:12:50.227154233Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.4.30",
   "kubernetes_version": "1.25+",
@@ -33,6 +33,20 @@
             {
               "SHA": "1625f00",
               "Subject": "backup & restoration support for workload (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "d64db2e",
+              "Subject": "Prepare for release v0.17.0 (#55)"
             }
           ]
         }
