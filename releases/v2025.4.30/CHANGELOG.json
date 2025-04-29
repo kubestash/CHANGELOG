@@ -1,0 +1,24 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.4.30",
+  "release_date": "2025-04-29T21:04:53.974612668Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.4.30",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c762b940",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
