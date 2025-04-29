@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T21:11:27.778678715Z",
+  "release_date": "2025-04-29T21:12:18.307693881Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.4.30",
   "kubernetes_version": "1.25+",
@@ -33,6 +33,20 @@
             {
               "SHA": "1625f00",
               "Subject": "backup & restoration support for workload (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "194fdcb5",
+              "Subject": "Prepare for release v0.17.0 (#46)"
             }
           ]
         }
