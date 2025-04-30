@@ -17,6 +17,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2025.4.30](https://github.com/kubestash/docs/releases/tag/v2025.4.30)
+
+- [92f929c](https://github.com/kubestash/docs/commit/92f929c) Prepare for release v2025.4.30 (#46)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2025.4.30](https://github.com/kubestash/installer/releases/tag/v2025.4.30)
