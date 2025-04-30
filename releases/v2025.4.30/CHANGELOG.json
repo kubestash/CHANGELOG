@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T22:00:34.379420732Z",
+  "release_date": "2025-04-30T02:27:49.711759489Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.4.30",
   "kubernetes_version": "1.25+",
@@ -29,6 +29,60 @@
             {
               "SHA": "f3cc943b",
               "Subject": "Prepare for release v0.17.0 (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "44e8a42",
+              "Subject": "Prepare for release v2025.4.30 (#182)"
+            },
+            {
+              "SHA": "dce6f44",
+              "Subject": "Update cve report (#181)"
+            },
+            {
+              "SHA": "274e5d1",
+              "Subject": "Update cve report (#180)"
+            },
+            {
+              "SHA": "acf1c9e",
+              "Subject": "Update cve report (#179)"
+            },
+            {
+              "SHA": "4dc71e6",
+              "Subject": "Add Workload manifest backup/restore params (#177)"
+            },
+            {
+              "SHA": "625229b",
+              "Subject": "Update cve report (#176)"
+            },
+            {
+              "SHA": "758f9e1",
+              "Subject": "Update cve report (#175)"
+            },
+            {
+              "SHA": "f10ffc4",
+              "Subject": "Update cve report (#174)"
+            },
+            {
+              "SHA": "27e3544",
+              "Subject": "Update cve report (#173)"
+            },
+            {
+              "SHA": "a32bb57",
+              "Subject": "Update cve report (#172)"
+            },
+            {
+              "SHA": "eff6fad",
+              "Subject": "Update cve report (#171)"
             }
           ]
         }

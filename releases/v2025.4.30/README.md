@@ -1,4 +1,4 @@
-# KubeStash v2025.4.30 (2025-04-29)
+# KubeStash v2025.4.30 (2025-04-30)
 
 
 ## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
@@ -14,6 +14,24 @@
 ### [v0.17.0](https://github.com/kubestash/cli/releases/tag/v0.17.0)
 
 - [f3cc943b](https://github.com/kubestash/cli/commit/f3cc943b) Prepare for release v0.17.0 (#57)
+
+
+
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.4.30](https://github.com/kubestash/installer/releases/tag/v2025.4.30)
+
+- [44e8a42](https://github.com/kubestash/installer/commit/44e8a42) Prepare for release v2025.4.30 (#182)
+- [dce6f44](https://github.com/kubestash/installer/commit/dce6f44) Update cve report (#181)
+- [274e5d1](https://github.com/kubestash/installer/commit/274e5d1) Update cve report (#180)
+- [acf1c9e](https://github.com/kubestash/installer/commit/acf1c9e) Update cve report (#179)
+- [4dc71e6](https://github.com/kubestash/installer/commit/4dc71e6) Add Workload manifest backup/restore params (#177)
+- [625229b](https://github.com/kubestash/installer/commit/625229b) Update cve report (#176)
+- [758f9e1](https://github.com/kubestash/installer/commit/758f9e1) Update cve report (#175)
+- [f10ffc4](https://github.com/kubestash/installer/commit/f10ffc4) Update cve report (#174)
+- [27e3544](https://github.com/kubestash/installer/commit/27e3544) Update cve report (#173)
+- [a32bb57](https://github.com/kubestash/installer/commit/a32bb57) Update cve report (#172)
+- [eff6fad](https://github.com/kubestash/installer/commit/eff6fad) Update cve report (#171)
 
 
 
