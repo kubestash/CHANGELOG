@@ -1,0 +1,202 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.4.30",
+  "release_date": "2025-04-30T03:05:19.983408716Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.4.30",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c762b940",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "f3cc943b",
+              "Subject": "Prepare for release v0.17.0 (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "92f929c",
+              "Subject": "Prepare for release v2025.4.30 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "44e8a42",
+              "Subject": "Prepare for release v2025.4.30 (#182)"
+            },
+            {
+              "SHA": "dce6f44",
+              "Subject": "Update cve report (#181)"
+            },
+            {
+              "SHA": "274e5d1",
+              "Subject": "Update cve report (#180)"
+            },
+            {
+              "SHA": "acf1c9e",
+              "Subject": "Update cve report (#179)"
+            },
+            {
+              "SHA": "4dc71e6",
+              "Subject": "Add Workload manifest backup/restore params (#177)"
+            },
+            {
+              "SHA": "625229b",
+              "Subject": "Update cve report (#176)"
+            },
+            {
+              "SHA": "758f9e1",
+              "Subject": "Update cve report (#175)"
+            },
+            {
+              "SHA": "f10ffc4",
+              "Subject": "Update cve report (#174)"
+            },
+            {
+              "SHA": "27e3544",
+              "Subject": "Update cve report (#173)"
+            },
+            {
+              "SHA": "a32bb57",
+              "Subject": "Update cve report (#172)"
+            },
+            {
+              "SHA": "eff6fad",
+              "Subject": "Update cve report (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "4cd27ac",
+              "Subject": "Prepare for release v0.17.0 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "aea0db1d",
+              "Subject": "Prepare for release v0.18.0 (#294)"
+            },
+            {
+              "SHA": "d5b23a62",
+              "Subject": "Short replicaset for by creation timestamp (#292)"
+            },
+            {
+              "SHA": "de23a072",
+              "Subject": "Fix only worload-manifest restore (#291)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "25bdd06",
+              "Subject": "Prepare for release v0.10.0 (#34)"
+            },
+            {
+              "SHA": "1625f00",
+              "Subject": "backup & restoration support for workload (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "d64db2e",
+              "Subject": "Prepare for release v0.17.0 (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "194fdcb5",
+              "Subject": "Prepare for release v0.17.0 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "d09bf03",
+              "Subject": "Prepare for release v0.17.0 (#66)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
