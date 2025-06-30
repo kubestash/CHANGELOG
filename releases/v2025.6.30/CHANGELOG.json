@@ -1,0 +1,234 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.6.30",
+  "release_date": "2025-06-30T17:08:43.080755578Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.6.30",
+  "kubernetes_version": "1.25+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "cc74f785",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "1422c5d1",
+              "Subject": "Report cluster mode with events (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "dbb83d48",
+              "Subject": "Prepare for release v0.18.0 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "cca504d",
+              "Subject": "Prepare for release v2025.6.30 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "200b853",
+              "Subject": "Prepare for release v2025.6.30 (#198)"
+            },
+            {
+              "SHA": "9c79fa8",
+              "Subject": "Add enableTaskQueue feature for taskqueue (#197)"
+            },
+            {
+              "SHA": "e4b372b",
+              "Subject": "Flags added for kubedump restore (#196)"
+            },
+            {
+              "SHA": "926a3d4",
+              "Subject": "Update cve report (#195)"
+            },
+            {
+              "SHA": "5b862ac",
+              "Subject": "Update cve report (#194)"
+            },
+            {
+              "SHA": "7848121",
+              "Subject": "Update cve report (#193)"
+            },
+            {
+              "SHA": "3272529",
+              "Subject": "Update cve report (#192)"
+            },
+            {
+              "SHA": "de08243",
+              "Subject": "Update cve report (#191)"
+            },
+            {
+              "SHA": "c9c7962",
+              "Subject": "Update cve report (#190)"
+            },
+            {
+              "SHA": "585e6ac",
+              "Subject": "Update cve report (#189)"
+            },
+            {
+              "SHA": "55d854a",
+              "Subject": "Update cve report (#188)"
+            },
+            {
+              "SHA": "fdd11dd",
+              "Subject": "Update cve report (#187)"
+            },
+            {
+              "SHA": "f190b7e",
+              "Subject": "Update cve report (#186)"
+            },
+            {
+              "SHA": "60d8425",
+              "Subject": "Add include RBAC Resources (#185)"
+            },
+            {
+              "SHA": "19dcc76",
+              "Subject": "Update cve report (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c94c2a6",
+              "Subject": "Prepare for release v0.18.0 (#50)"
+            },
+            {
+              "SHA": "8575430",
+              "Subject": "Remove unnecessary sanitize flag (#49)"
+            },
+            {
+              "SHA": "1bfb140",
+              "Subject": "Add support for cluster restore functionality (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "6a283e3b",
+              "Subject": "Prepare for release v0.19.0 (#298)"
+            },
+            {
+              "SHA": "efa4fa03",
+              "Subject": "Add task queue feature for concurrent backupSessions  (#297)"
+            },
+            {
+              "SHA": "8d894576",
+              "Subject": "Fix cleanup repo & storage (#296)"
+            },
+            {
+              "SHA": "04505144",
+              "Subject": "Do not default securityContext for dbs (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "5e20494",
+              "Subject": "Prepare for release v0.11.0 (#35)"
+            },
+            {
+              "SHA": "7443c9c",
+              "Subject": "Fixed restore namespace and added a flag for RBAC resources (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "b890a36",
+              "Subject": "Prepare for release v0.18.0 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "eee38c74",
+              "Subject": "Prepare for release v0.18.0 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "d49a1d2",
+              "Subject": "Prepare for release v0.18.0 (#67)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
