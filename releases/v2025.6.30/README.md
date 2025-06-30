@@ -28,6 +28,17 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.19.0](https://github.com/kubestash/kubestash/releases/tag/v0.19.0)
+
+- [6a283e3b](https://github.com/kubestash/kubestash/commit/6a283e3b) Prepare for release v0.19.0 (#298)
+- [efa4fa03](https://github.com/kubestash/kubestash/commit/efa4fa03) Add task queue feature for concurrent backupSessions  (#297)
+- [8d894576](https://github.com/kubestash/kubestash/commit/8d894576) Fix cleanup repo & storage (#296)
+- [04505144](https://github.com/kubestash/kubestash/commit/04505144) Do not default securityContext for dbs (#295)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.11.0](https://github.com/kubestash/manifest/releases/tag/v0.11.0)
