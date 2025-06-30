@@ -18,6 +18,28 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.6.30](https://github.com/kubestash/installer/releases/tag/v2025.6.30)
+
+- [200b853](https://github.com/kubestash/installer/commit/200b853) Prepare for release v2025.6.30 (#198)
+- [9c79fa8](https://github.com/kubestash/installer/commit/9c79fa8) Add enableTaskQueue feature for taskqueue (#197)
+- [e4b372b](https://github.com/kubestash/installer/commit/e4b372b) Flags added for kubedump restore (#196)
+- [926a3d4](https://github.com/kubestash/installer/commit/926a3d4) Update cve report (#195)
+- [5b862ac](https://github.com/kubestash/installer/commit/5b862ac) Update cve report (#194)
+- [7848121](https://github.com/kubestash/installer/commit/7848121) Update cve report (#193)
+- [3272529](https://github.com/kubestash/installer/commit/3272529) Update cve report (#192)
+- [de08243](https://github.com/kubestash/installer/commit/de08243) Update cve report (#191)
+- [c9c7962](https://github.com/kubestash/installer/commit/c9c7962) Update cve report (#190)
+- [585e6ac](https://github.com/kubestash/installer/commit/585e6ac) Update cve report (#189)
+- [55d854a](https://github.com/kubestash/installer/commit/55d854a) Update cve report (#188)
+- [fdd11dd](https://github.com/kubestash/installer/commit/fdd11dd) Update cve report (#187)
+- [f190b7e](https://github.com/kubestash/installer/commit/f190b7e) Update cve report (#186)
+- [60d8425](https://github.com/kubestash/installer/commit/60d8425) Add include RBAC Resources (#185)
+- [19dcc76](https://github.com/kubestash/installer/commit/19dcc76) Update cve report (#184)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.18.0](https://github.com/kubestash/kubedump/releases/tag/v0.18.0)

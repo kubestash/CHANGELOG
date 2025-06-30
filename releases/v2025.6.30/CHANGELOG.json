@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-30T16:19:25.920538777Z",
+  "release_date": "2025-06-30T16:33:56.112574796Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.6.30",
   "kubernetes_version": "1.25+",
@@ -33,6 +33,76 @@
             {
               "SHA": "dbb83d48",
               "Subject": "Prepare for release v0.18.0 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "200b853",
+              "Subject": "Prepare for release v2025.6.30 (#198)"
+            },
+            {
+              "SHA": "9c79fa8",
+              "Subject": "Add enableTaskQueue feature for taskqueue (#197)"
+            },
+            {
+              "SHA": "e4b372b",
+              "Subject": "Flags added for kubedump restore (#196)"
+            },
+            {
+              "SHA": "926a3d4",
+              "Subject": "Update cve report (#195)"
+            },
+            {
+              "SHA": "5b862ac",
+              "Subject": "Update cve report (#194)"
+            },
+            {
+              "SHA": "7848121",
+              "Subject": "Update cve report (#193)"
+            },
+            {
+              "SHA": "3272529",
+              "Subject": "Update cve report (#192)"
+            },
+            {
+              "SHA": "de08243",
+              "Subject": "Update cve report (#191)"
+            },
+            {
+              "SHA": "c9c7962",
+              "Subject": "Update cve report (#190)"
+            },
+            {
+              "SHA": "585e6ac",
+              "Subject": "Update cve report (#189)"
+            },
+            {
+              "SHA": "55d854a",
+              "Subject": "Update cve report (#188)"
+            },
+            {
+              "SHA": "fdd11dd",
+              "Subject": "Update cve report (#187)"
+            },
+            {
+              "SHA": "f190b7e",
+              "Subject": "Update cve report (#186)"
+            },
+            {
+              "SHA": "60d8425",
+              "Subject": "Add include RBAC Resources (#185)"
+            },
+            {
+              "SHA": "19dcc76",
+              "Subject": "Update cve report (#184)"
             }
           ]
         }
