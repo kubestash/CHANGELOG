@@ -27,3 +27,11 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.18.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.18.0)
+
+- [eee38c74](https://github.com/kubestash/volume-snapshotter/commit/eee38c74) Prepare for release v0.18.0 (#47)
+
+
+
