@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-30T15:23:07.317797346Z",
+  "release_date": "2025-06-30T15:28:36.495788025Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.6.30",
   "kubernetes_version": "1.25+",
@@ -19,6 +19,24 @@
             {
               "SHA": "1422c5d1",
               "Subject": "Report cluster mode with events (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "5e20494",
+              "Subject": "Prepare for release v0.11.0 (#35)"
+            },
+            {
+              "SHA": "7443c9c",
+              "Subject": "Fixed restore namespace and added a flag for RBAC resources (#33)"
             }
           ]
         }

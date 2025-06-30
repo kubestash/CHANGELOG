@@ -10,3 +10,12 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.11.0](https://github.com/kubestash/manifest/releases/tag/v0.11.0)
+
+- [5e20494](https://github.com/kubestash/manifest/commit/5e20494) Prepare for release v0.11.0 (#35)
+- [7443c9c](https://github.com/kubestash/manifest/commit/7443c9c) Fixed restore namespace and added a flag for RBAC resources (#33)
+
+
+
