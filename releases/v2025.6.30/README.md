@@ -18,6 +18,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2025.6.30](https://github.com/kubestash/docs/releases/tag/v2025.6.30)
+
+- [cca504d](https://github.com/kubestash/docs/commit/cca504d) Prepare for release v2025.6.30 (#47)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2025.6.30](https://github.com/kubestash/installer/releases/tag/v2025.6.30)
