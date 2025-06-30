@@ -10,6 +10,14 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.18.0](https://github.com/kubestash/cli/releases/tag/v0.18.0)
+
+- [dbb83d48](https://github.com/kubestash/cli/commit/dbb83d48) Prepare for release v0.18.0 (#61)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.18.0](https://github.com/kubestash/kubedump/releases/tag/v0.18.0)

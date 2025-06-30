@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-30T15:31:37.824667106Z",
+  "release_date": "2025-06-30T15:33:57.043864358Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.6.30",
   "kubernetes_version": "1.25+",
@@ -19,6 +19,20 @@
             {
               "SHA": "1422c5d1",
               "Subject": "Report cluster mode with events (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "dbb83d48",
+              "Subject": "Prepare for release v0.18.0 (#61)"
             }
           ]
         }
