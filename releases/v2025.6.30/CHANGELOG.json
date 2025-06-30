@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-30T15:31:03.31697587Z",
+  "release_date": "2025-06-30T15:31:37.824667106Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.6.30",
   "kubernetes_version": "1.25+",
@@ -19,6 +19,28 @@
             {
               "SHA": "1422c5d1",
               "Subject": "Report cluster mode with events (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c94c2a6",
+              "Subject": "Prepare for release v0.18.0 (#50)"
+            },
+            {
+              "SHA": "8575430",
+              "Subject": "Remove unnecessary sanitize flag (#49)"
+            },
+            {
+              "SHA": "1bfb140",
+              "Subject": "Add support for cluster restore functionality (#47)"
             }
           ]
         }

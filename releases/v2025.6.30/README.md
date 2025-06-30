@@ -10,6 +10,16 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.18.0](https://github.com/kubestash/kubedump/releases/tag/v0.18.0)
+
+- [c94c2a6](https://github.com/kubestash/kubedump/commit/c94c2a6) Prepare for release v0.18.0 (#50)
+- [8575430](https://github.com/kubestash/kubedump/commit/8575430) Remove unnecessary sanitize flag (#49)
+- [1bfb140](https://github.com/kubestash/kubedump/commit/1bfb140) Add support for cluster restore functionality (#47)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.11.0](https://github.com/kubestash/manifest/releases/tag/v0.11.0)
