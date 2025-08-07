@@ -1,0 +1,48 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.7.31",
+  "release_date": "2025-08-07T15:10:21.715018206Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.7.31",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "a03678f9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "696ac80f",
+              "Subject": "Add resources filtering & sanitize packages (#169)"
+            },
+            {
+              "SHA": "a3e77398",
+              "Subject": "Add Automatic Restic Unlock feature"
+            },
+            {
+              "SHA": "4032c43e",
+              "Subject": "env variables set up for azure backend (#168)"
+            },
+            {
+              "SHA": "ecc14550",
+              "Subject": "Update addon driver enum (#167)"
+            },
+            {
+              "SHA": "b8268a9e",
+              "Subject": "Add solr snapshot status (#119)"
+            },
+            {
+              "SHA": "46ae1e85",
+              "Subject": "Use external-snapshotter/client/v8 (#166)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
