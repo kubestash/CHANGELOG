@@ -42,3 +42,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.19.0](https://github.com/kubestash/workload/releases/tag/v0.19.0)
+
+- [08e05b7](https://github.com/kubestash/workload/commit/08e05b7) Prepare for release v0.19.0 (#69)
+- [3f58e28](https://github.com/kubestash/workload/commit/3f58e28) Add Automatic Restic Unlock feature (#68)
+
+
+
