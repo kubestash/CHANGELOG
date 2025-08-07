@@ -1,0 +1,202 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.7.31",
+  "release_date": "2025-08-07T16:04:20.827417207Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.7.31",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "a03678f9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "696ac80f",
+              "Subject": "Add resources filtering & sanitize packages (#169)"
+            },
+            {
+              "SHA": "a3e77398",
+              "Subject": "Add Automatic Restic Unlock feature"
+            },
+            {
+              "SHA": "4032c43e",
+              "Subject": "env variables set up for azure backend (#168)"
+            },
+            {
+              "SHA": "ecc14550",
+              "Subject": "Update addon driver enum (#167)"
+            },
+            {
+              "SHA": "b8268a9e",
+              "Subject": "Add solr snapshot status (#119)"
+            },
+            {
+              "SHA": "46ae1e85",
+              "Subject": "Use external-snapshotter/client/v8 (#166)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "674a6c8b",
+              "Subject": "Prepare for release v0.19.0 (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "22ce891",
+              "Subject": "Prepare for release v2025.7.31 (#50)"
+            },
+            {
+              "SHA": "9f781e5",
+              "Subject": "Test against k8s 1.33 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "dd32d71",
+              "Subject": "Prepare for release v2025.7.31 (#205)"
+            },
+            {
+              "SHA": "49f996f",
+              "Subject": "Update cve report (#204)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "4d9c805",
+              "Subject": "Prepare for release v0.19.0 (#55)"
+            },
+            {
+              "SHA": "0ca761d",
+              "Subject": "Owner reference issue fixed  (#54)"
+            },
+            {
+              "SHA": "e951e9c",
+              "Subject": "resource filtering parameter fix (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c781e73c",
+              "Subject": "Prepare for release v0.20.0 (#299)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "e81db9f",
+              "Subject": "Prepare for release v0.12.0 (#37)"
+            },
+            {
+              "SHA": "b1884cd",
+              "Subject": "restic auto unlock feature added (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "83e2b12",
+              "Subject": "Prepare for release v0.19.0 (#58)"
+            },
+            {
+              "SHA": "22f566b",
+              "Subject": "Add Automatic Restic Unlock feature (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "4c5a9b38",
+              "Subject": "Prepare for release v0.19.0 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "08e05b7",
+              "Subject": "Prepare for release v0.19.0 (#69)"
+            },
+            {
+              "SHA": "3f58e28",
+              "Subject": "Add Automatic Restic Unlock feature (#68)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
