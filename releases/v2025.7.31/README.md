@@ -23,6 +23,15 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2025.7.31](https://github.com/kubestash/docs/releases/tag/v2025.7.31)
+
+- [22ce891](https://github.com/kubestash/docs/commit/22ce891) Prepare for release v2025.7.31 (#50)
+- [9f781e5](https://github.com/kubestash/docs/commit/9f781e5) Test against k8s 1.33 (#48)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2025.7.31](https://github.com/kubestash/installer/releases/tag/v2025.7.31)
