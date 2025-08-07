@@ -25,6 +25,15 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.12.0](https://github.com/kubestash/manifest/releases/tag/v0.12.0)
+
+- [e81db9f](https://github.com/kubestash/manifest/commit/e81db9f) Prepare for release v0.12.0 (#37)
+- [b1884cd](https://github.com/kubestash/manifest/commit/b1884cd) restic auto unlock feature added (#36)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.19.0](https://github.com/kubestash/pvc/releases/tag/v0.19.0)
