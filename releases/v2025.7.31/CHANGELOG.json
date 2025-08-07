@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T15:21:31.847409374Z",
+  "release_date": "2025-08-07T15:22:06.889484781Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -75,6 +75,20 @@
             {
               "SHA": "e951e9c",
               "Subject": "resource filtering parameter fix (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c781e73c",
+              "Subject": "Prepare for release v0.20.0 (#299)"
             }
           ]
         }

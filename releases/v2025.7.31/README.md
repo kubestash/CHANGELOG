@@ -33,6 +33,14 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.20.0](https://github.com/kubestash/kubestash/releases/tag/v0.20.0)
+
+- [c781e73c](https://github.com/kubestash/kubestash/commit/c781e73c) Prepare for release v0.20.0 (#299)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.12.0](https://github.com/kubestash/manifest/releases/tag/v0.12.0)
