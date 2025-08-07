@@ -23,6 +23,15 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.7.31](https://github.com/kubestash/installer/releases/tag/v2025.7.31)
+
+- [dd32d71](https://github.com/kubestash/installer/commit/dd32d71) Prepare for release v2025.7.31 (#205)
+- [49f996f](https://github.com/kubestash/installer/commit/49f996f) Update cve report (#204)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.19.0](https://github.com/kubestash/kubedump/releases/tag/v0.19.0)
