@@ -25,3 +25,12 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.19.0](https://github.com/kubestash/pvc/releases/tag/v0.19.0)
+
+- [83e2b12](https://github.com/kubestash/pvc/commit/83e2b12) Prepare for release v0.19.0 (#58)
+- [22f566b](https://github.com/kubestash/pvc/commit/22f566b) Add Automatic Restic Unlock feature (#57)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T15:15:47.083080887Z",
+  "release_date": "2025-08-07T15:17:26.189753357Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -61,6 +61,24 @@
             {
               "SHA": "e951e9c",
               "Subject": "resource filtering parameter fix (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "83e2b12",
+              "Subject": "Prepare for release v0.19.0 (#58)"
+            },
+            {
+              "SHA": "22f566b",
+              "Subject": "Add Automatic Restic Unlock feature (#57)"
             }
           ]
         }
