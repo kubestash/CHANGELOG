@@ -15,3 +15,13 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.19.0](https://github.com/kubestash/kubedump/releases/tag/v0.19.0)
+
+- [4d9c805](https://github.com/kubestash/kubedump/commit/4d9c805) Prepare for release v0.19.0 (#55)
+- [0ca761d](https://github.com/kubestash/kubedump/commit/0ca761d) Owner reference issue fixed  (#54)
+- [e951e9c](https://github.com/kubestash/kubedump/commit/e951e9c) resource filtering parameter fix (#52)
+
+
+
