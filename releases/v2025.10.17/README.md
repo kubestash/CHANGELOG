@@ -28,6 +28,28 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.10.17](https://github.com/kubestash/installer/releases/tag/v2025.10.17)
+
+- [2e125f4](https://github.com/kubestash/installer/commit/2e125f4) Prepare for release v2025.10.17 (#221)
+- [019fb6c](https://github.com/kubestash/installer/commit/019fb6c) Update cve report (#220)
+- [a9860cb](https://github.com/kubestash/installer/commit/a9860cb) Update cve report (#219)
+- [bb162b4](https://github.com/kubestash/installer/commit/bb162b4) Update cve report (#218)
+- [298f600](https://github.com/kubestash/installer/commit/298f600) Update cve report (#217)
+- [07ab8d4](https://github.com/kubestash/installer/commit/07ab8d4) Update cve report (#216)
+- [3eb758f](https://github.com/kubestash/installer/commit/3eb758f) Update cve report (#215)
+- [2d56667](https://github.com/kubestash/installer/commit/2d56667) Update cve report (#214)
+- [3875246](https://github.com/kubestash/installer/commit/3875246) Remove runAs* for openshift deployment (#213)
+- [23dc214](https://github.com/kubestash/installer/commit/23dc214) Test against k8s 1.34 (#212)
+- [9b5460e](https://github.com/kubestash/installer/commit/9b5460e) Use Go 1.25 (#211)
+- [b493268](https://github.com/kubestash/installer/commit/b493268) Test against k8s 1.33.2 (#209)
+- [28ec303](https://github.com/kubestash/installer/commit/28ec303) Update cve report (#208)
+- [8734a0b](https://github.com/kubestash/installer/commit/8734a0b) Update cve report (#207)
+- [9eee097](https://github.com/kubestash/installer/commit/9eee097) Update cve report (#206)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.20.0](https://github.com/kubestash/kubedump/releases/tag/v0.20.0)

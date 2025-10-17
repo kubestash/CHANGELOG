@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T07:59:51.142979264Z",
+  "release_date": "2025-10-17T08:10:39.280430761Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -73,6 +73,76 @@
             {
               "SHA": "01495ddb",
               "Subject": "Bump golang.org/x/net from 0.33.0 to 0.36.0 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "2e125f4",
+              "Subject": "Prepare for release v2025.10.17 (#221)"
+            },
+            {
+              "SHA": "019fb6c",
+              "Subject": "Update cve report (#220)"
+            },
+            {
+              "SHA": "a9860cb",
+              "Subject": "Update cve report (#219)"
+            },
+            {
+              "SHA": "bb162b4",
+              "Subject": "Update cve report (#218)"
+            },
+            {
+              "SHA": "298f600",
+              "Subject": "Update cve report (#217)"
+            },
+            {
+              "SHA": "07ab8d4",
+              "Subject": "Update cve report (#216)"
+            },
+            {
+              "SHA": "3eb758f",
+              "Subject": "Update cve report (#215)"
+            },
+            {
+              "SHA": "2d56667",
+              "Subject": "Update cve report (#214)"
+            },
+            {
+              "SHA": "3875246",
+              "Subject": "Remove runAs* for openshift deployment (#213)"
+            },
+            {
+              "SHA": "23dc214",
+              "Subject": "Test against k8s 1.34 (#212)"
+            },
+            {
+              "SHA": "9b5460e",
+              "Subject": "Use Go 1.25 (#211)"
+            },
+            {
+              "SHA": "b493268",
+              "Subject": "Test against k8s 1.33.2 (#209)"
+            },
+            {
+              "SHA": "28ec303",
+              "Subject": "Update cve report (#208)"
+            },
+            {
+              "SHA": "8734a0b",
+              "Subject": "Update cve report (#207)"
+            },
+            {
+              "SHA": "9eee097",
+              "Subject": "Update cve report (#206)"
             }
           ]
         }
