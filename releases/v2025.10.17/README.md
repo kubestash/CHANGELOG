@@ -47,3 +47,14 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.20.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.20.0)
+
+- [cd535ceb](https://github.com/kubestash/volume-snapshotter/commit/cd535ceb) Prepare for release v0.20.0 (#52)
+- [2201bc61](https://github.com/kubestash/volume-snapshotter/commit/2201bc61) Remove VSAPI dependency;
+- [3f3c21f4](https://github.com/kubestash/volume-snapshotter/commit/3f3c21f4) Use Go 1.25 (#50)
+- [80fa1226](https://github.com/kubestash/volume-snapshotter/commit/80fa1226) Test against k8s 1.33.2 (#49)
+
+
+
