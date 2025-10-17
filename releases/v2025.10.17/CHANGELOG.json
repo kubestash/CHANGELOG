@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T07:50:36.428894624Z",
+  "release_date": "2025-10-17T07:51:23.886947909Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -69,6 +69,40 @@
             {
               "SHA": "5c0df64",
               "Subject": "Test against k8s 1.33.2 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "e75b7dd2",
+              "Subject": "Prepare for release v0.21.0 (#307)"
+            },
+            {
+              "SHA": "cd50f94a",
+              "Subject": "Fix CI by updating deps (#306)"
+            },
+            {
+              "SHA": "b02fd0bb",
+              "Subject": "Fix session-name (#305)"
+            },
+            {
+              "SHA": "fa126bdf",
+              "Subject": "Add Pod Exec Perm to backup/restore & Exclude KubeSlice container"
+            },
+            {
+              "SHA": "76ec8db3",
+              "Subject": "Remove VSAPI dependency;"
+            },
+            {
+              "SHA": "11a8f3b6",
+              "Subject": "Use Go 1.25 (#300)"
             }
           ]
         }

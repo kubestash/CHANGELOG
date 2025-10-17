@@ -27,6 +27,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.21.0](https://github.com/kubestash/kubestash/releases/tag/v0.21.0)
+
+- [e75b7dd2](https://github.com/kubestash/kubestash/commit/e75b7dd2) Prepare for release v0.21.0 (#307)
+- [cd50f94a](https://github.com/kubestash/kubestash/commit/cd50f94a) Fix CI by updating deps (#306)
+- [b02fd0bb](https://github.com/kubestash/kubestash/commit/b02fd0bb) Fix session-name (#305)
+- [fa126bdf](https://github.com/kubestash/kubestash/commit/fa126bdf) Add Pod Exec Perm to backup/restore & Exclude KubeSlice container
+- [76ec8db3](https://github.com/kubestash/kubestash/commit/76ec8db3) Remove VSAPI dependency;
+- [11a8f3b6](https://github.com/kubestash/kubestash/commit/11a8f3b6) Use Go 1.25 (#300)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.13.0](https://github.com/kubestash/manifest/releases/tag/v0.13.0)
