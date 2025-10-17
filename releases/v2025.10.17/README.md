@@ -16,6 +16,18 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.20.0](https://github.com/kubestash/cli/releases/tag/v0.20.0)
+
+- [4f3938eb](https://github.com/kubestash/cli/commit/4f3938eb) Prepare for release v0.20.0 (#65)
+- [994ea7c2](https://github.com/kubestash/cli/commit/994ea7c2) fix: respect --kubeconfig flag by creating client from RESTClientGetter
+- [4c3a61b3](https://github.com/kubestash/cli/commit/4c3a61b3) Use Go 1.25 (#63)
+- [b8818555](https://github.com/kubestash/cli/commit/b8818555) Added manifest restore, view cli support. (#60)
+- [01495ddb](https://github.com/kubestash/cli/commit/01495ddb) Bump golang.org/x/net from 0.33.0 to 0.36.0 (#51)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.20.0](https://github.com/kubestash/kubedump/releases/tag/v0.20.0)

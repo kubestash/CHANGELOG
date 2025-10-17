@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T07:51:23.886947909Z",
+  "release_date": "2025-10-17T07:59:51.142979264Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -43,6 +43,36 @@
             {
               "SHA": "e3c1ba32",
               "Subject": "Added file operations and priority to resourceops (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "4f3938eb",
+              "Subject": "Prepare for release v0.20.0 (#65)"
+            },
+            {
+              "SHA": "994ea7c2",
+              "Subject": "fix: respect --kubeconfig flag by creating client from RESTClientGetter"
+            },
+            {
+              "SHA": "4c3a61b3",
+              "Subject": "Use Go 1.25 (#63)"
+            },
+            {
+              "SHA": "b8818555",
+              "Subject": "Added manifest restore, view cli support. (#60)"
+            },
+            {
+              "SHA": "01495ddb",
+              "Subject": "Bump golang.org/x/net from 0.33.0 to 0.36.0 (#51)"
             }
           ]
         }
