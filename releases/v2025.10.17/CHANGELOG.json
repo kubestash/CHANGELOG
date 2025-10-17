@@ -1,0 +1,326 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.10.17",
+  "release_date": "2025-10-17T08:47:30.215468193Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.10.17",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "25288256",
+              "Subject": "fix: respect --kubeconfig flag by creating client from RESTClientGetter (#180)"
+            },
+            {
+              "SHA": "60ef100e",
+              "Subject": "Excluded non-createable resources from backup and restore (#178)"
+            },
+            {
+              "SHA": "130e59c7",
+              "Subject": "Register necessary api schema to the UncachedClient  generation"
+            },
+            {
+              "SHA": "cdc847b1",
+              "Subject": "Fix vsClass name nil pointer"
+            },
+            {
+              "SHA": "13f5072d",
+              "Subject": "Add `NewVolumeSnapshot` to Handle `VS` Version Compatibility (#174)"
+            },
+            {
+              "SHA": "32a92de1",
+              "Subject": "Merge pull request #172 from kubestash/gha-up"
+            },
+            {
+              "SHA": "b0ab537b",
+              "Subject": "Use Go 1.25"
+            },
+            {
+              "SHA": "e3c1ba32",
+              "Subject": "Added file operations and priority to resourceops (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "4f3938eb",
+              "Subject": "Prepare for release v0.20.0 (#65)"
+            },
+            {
+              "SHA": "994ea7c2",
+              "Subject": "fix: respect --kubeconfig flag by creating client from RESTClientGetter"
+            },
+            {
+              "SHA": "4c3a61b3",
+              "Subject": "Use Go 1.25 (#63)"
+            },
+            {
+              "SHA": "b8818555",
+              "Subject": "Added manifest restore, view cli support. (#60)"
+            },
+            {
+              "SHA": "01495ddb",
+              "Subject": "Bump golang.org/x/net from 0.33.0 to 0.36.0 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "038a97c",
+              "Subject": "Prepare for release v2025.10.17 (#53)"
+            },
+            {
+              "SHA": "6a1aed4",
+              "Subject": "Backing Up and Restoring Cluster Resource Manifests Using KubeStash"
+            },
+            {
+              "SHA": "4c14617",
+              "Subject": "Use Go 1.25 (#52)"
+            },
+            {
+              "SHA": "34fe113",
+              "Subject": "Update docs for kubestash/cli@b8818555 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "2e125f4",
+              "Subject": "Prepare for release v2025.10.17 (#221)"
+            },
+            {
+              "SHA": "019fb6c",
+              "Subject": "Update cve report (#220)"
+            },
+            {
+              "SHA": "a9860cb",
+              "Subject": "Update cve report (#219)"
+            },
+            {
+              "SHA": "bb162b4",
+              "Subject": "Update cve report (#218)"
+            },
+            {
+              "SHA": "298f600",
+              "Subject": "Update cve report (#217)"
+            },
+            {
+              "SHA": "07ab8d4",
+              "Subject": "Update cve report (#216)"
+            },
+            {
+              "SHA": "3eb758f",
+              "Subject": "Update cve report (#215)"
+            },
+            {
+              "SHA": "2d56667",
+              "Subject": "Update cve report (#214)"
+            },
+            {
+              "SHA": "3875246",
+              "Subject": "Remove runAs* for openshift deployment (#213)"
+            },
+            {
+              "SHA": "23dc214",
+              "Subject": "Test against k8s 1.34 (#212)"
+            },
+            {
+              "SHA": "9b5460e",
+              "Subject": "Use Go 1.25 (#211)"
+            },
+            {
+              "SHA": "b493268",
+              "Subject": "Test against k8s 1.33.2 (#209)"
+            },
+            {
+              "SHA": "28ec303",
+              "Subject": "Update cve report (#208)"
+            },
+            {
+              "SHA": "8734a0b",
+              "Subject": "Update cve report (#207)"
+            },
+            {
+              "SHA": "9eee097",
+              "Subject": "Update cve report (#206)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "25cc454",
+              "Subject": "Prepare for release v0.20.0 (#61)"
+            },
+            {
+              "SHA": "b548963",
+              "Subject": "Excluded non createable resources from backup and restore (#60)"
+            },
+            {
+              "SHA": "f45fba0",
+              "Subject": "Use Go 1.25 (#57)"
+            },
+            {
+              "SHA": "5c0df64",
+              "Subject": "Test against k8s 1.33.2 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "e75b7dd2",
+              "Subject": "Prepare for release v0.21.0 (#307)"
+            },
+            {
+              "SHA": "cd50f94a",
+              "Subject": "Fix CI by updating deps (#306)"
+            },
+            {
+              "SHA": "b02fd0bb",
+              "Subject": "Fix session-name (#305)"
+            },
+            {
+              "SHA": "fa126bdf",
+              "Subject": "Add Pod Exec Perm to backup/restore & Exclude KubeSlice container"
+            },
+            {
+              "SHA": "76ec8db3",
+              "Subject": "Remove VSAPI dependency;"
+            },
+            {
+              "SHA": "11a8f3b6",
+              "Subject": "Use Go 1.25 (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "db84f12",
+              "Subject": "Prepare for release v0.13.0 (#40)"
+            },
+            {
+              "SHA": "158fac4",
+              "Subject": "Use Go 1.25 (#39)"
+            },
+            {
+              "SHA": "571603b",
+              "Subject": "Test against k8s 1.33.2 (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "32b98b3",
+              "Subject": "Prepare for release v0.20.0 (#61)"
+            },
+            {
+              "SHA": "8267128",
+              "Subject": "Use Go 1.25 (#60)"
+            },
+            {
+              "SHA": "bbae4e4",
+              "Subject": "Test against k8s 1.33.2 (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "cd535ceb",
+              "Subject": "Prepare for release v0.20.0 (#52)"
+            },
+            {
+              "SHA": "2201bc61",
+              "Subject": "Remove VSAPI dependency;"
+            },
+            {
+              "SHA": "3f3c21f4",
+              "Subject": "Use Go 1.25 (#50)"
+            },
+            {
+              "SHA": "80fa1226",
+              "Subject": "Test against k8s 1.33.2 (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "837e44c",
+              "Subject": "Prepare for release v0.20.0 (#71)"
+            },
+            {
+              "SHA": "09e1cbd",
+              "Subject": "Use Go 1.25 (#70)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
