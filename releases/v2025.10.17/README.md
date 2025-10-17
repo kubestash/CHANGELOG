@@ -58,3 +58,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.20.0](https://github.com/kubestash/workload/releases/tag/v0.20.0)
+
+- [837e44c](https://github.com/kubestash/workload/commit/837e44c) Prepare for release v0.20.0 (#71)
+- [09e1cbd](https://github.com/kubestash/workload/commit/09e1cbd) Use Go 1.25 (#70)
+
+
+

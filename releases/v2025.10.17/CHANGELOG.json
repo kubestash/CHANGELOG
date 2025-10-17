@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T07:49:50.406290514Z",
+  "release_date": "2025-10-17T07:50:36.428894624Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -139,6 +139,24 @@
             {
               "SHA": "80fa1226",
               "Subject": "Test against k8s 1.33.2 (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "837e44c",
+              "Subject": "Prepare for release v0.20.0 (#71)"
+            },
+            {
+              "SHA": "09e1cbd",
+              "Subject": "Use Go 1.25 (#70)"
             }
           ]
         }
