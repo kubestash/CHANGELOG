@@ -27,3 +27,13 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.13.0](https://github.com/kubestash/manifest/releases/tag/v0.13.0)
+
+- [db84f12](https://github.com/kubestash/manifest/commit/db84f12) Prepare for release v0.13.0 (#40)
+- [158fac4](https://github.com/kubestash/manifest/commit/158fac4) Use Go 1.25 (#39)
+- [571603b](https://github.com/kubestash/manifest/commit/571603b) Test against k8s 1.33.2 (#38)
+
+
+
