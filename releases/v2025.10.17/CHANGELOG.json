@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T07:41:12.591163683Z",
+  "release_date": "2025-10-17T07:46:19.43727347Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -43,6 +43,32 @@
             {
               "SHA": "e3c1ba32",
               "Subject": "Added file operations and priority to resourceops (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "25cc454",
+              "Subject": "Prepare for release v0.20.0 (#61)"
+            },
+            {
+              "SHA": "b548963",
+              "Subject": "Excluded non createable resources from backup and restore (#60)"
+            },
+            {
+              "SHA": "f45fba0",
+              "Subject": "Use Go 1.25 (#57)"
+            },
+            {
+              "SHA": "5c0df64",
+              "Subject": "Test against k8s 1.33.2 (#56)"
             }
           ]
         }

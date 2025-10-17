@@ -16,3 +16,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.20.0](https://github.com/kubestash/kubedump/releases/tag/v0.20.0)
+
+- [25cc454](https://github.com/kubestash/kubedump/commit/25cc454) Prepare for release v0.20.0 (#61)
+- [b548963](https://github.com/kubestash/kubedump/commit/b548963) Excluded non createable resources from backup and restore (#60)
+- [f45fba0](https://github.com/kubestash/kubedump/commit/f45fba0) Use Go 1.25 (#57)
+- [5c0df64](https://github.com/kubestash/kubedump/commit/5c0df64) Test against k8s 1.33.2 (#56)
+
+
+
