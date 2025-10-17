@@ -28,6 +28,17 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2025.10.17](https://github.com/kubestash/docs/releases/tag/v2025.10.17)
+
+- [038a97c](https://github.com/kubestash/docs/commit/038a97c) Prepare for release v2025.10.17 (#53)
+- [6a1aed4](https://github.com/kubestash/docs/commit/6a1aed4) Backing Up and Restoring Cluster Resource Manifests Using KubeStash
+- [4c14617](https://github.com/kubestash/docs/commit/4c14617) Use Go 1.25 (#52)
+- [34fe113](https://github.com/kubestash/docs/commit/34fe113) Update docs for kubestash/cli@b8818555 (#51)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2025.10.17](https://github.com/kubestash/installer/releases/tag/v2025.10.17)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T08:10:39.280430761Z",
+  "release_date": "2025-10-17T08:47:30.215468193Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -73,6 +73,32 @@
             {
               "SHA": "01495ddb",
               "Subject": "Bump golang.org/x/net from 0.33.0 to 0.36.0 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "038a97c",
+              "Subject": "Prepare for release v2025.10.17 (#53)"
+            },
+            {
+              "SHA": "6a1aed4",
+              "Subject": "Backing Up and Restoring Cluster Resource Manifests Using KubeStash"
+            },
+            {
+              "SHA": "4c14617",
+              "Subject": "Use Go 1.25 (#52)"
+            },
+            {
+              "SHA": "34fe113",
+              "Subject": "Update docs for kubestash/cli@b8818555 (#51)"
             }
           ]
         }
