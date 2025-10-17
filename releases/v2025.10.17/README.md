@@ -37,3 +37,13 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.20.0](https://github.com/kubestash/pvc/releases/tag/v0.20.0)
+
+- [32b98b3](https://github.com/kubestash/pvc/commit/32b98b3) Prepare for release v0.20.0 (#61)
+- [8267128](https://github.com/kubestash/pvc/commit/8267128) Use Go 1.25 (#60)
+- [bbae4e4](https://github.com/kubestash/pvc/commit/bbae4e4) Test against k8s 1.33.2 (#59)
+
+
+
