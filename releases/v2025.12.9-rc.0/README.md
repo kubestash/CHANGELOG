@@ -15,6 +15,19 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.21.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.21.0-rc.0)
+
+- [3fc8e91](https://github.com/kubestash/kubedump/commit/3fc8e91) Prepare for release v0.21.0-rc.0 (#66)
+- [9080f0b](https://github.com/kubestash/kubedump/commit/9080f0b) Use Go 1.25 (#65)
+- [a979098](https://github.com/kubestash/kubedump/commit/a979098) Update deps and fix linter errors (#64)
+- [42860f0](https://github.com/kubestash/kubedump/commit/42860f0) Add lables to ubi image (#63)
+- [a604abb](https://github.com/kubestash/kubedump/commit/a604abb) Update BASEIMAGE_DBG and add BASEIMAGE_UBI
+- [3734c41](https://github.com/kubestash/kubedump/commit/3734c41) Build ubi image (#62)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.21.0-rc.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.21.0-rc.0)
