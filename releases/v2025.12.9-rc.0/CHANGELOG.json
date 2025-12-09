@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T08:23:51.137749321Z",
+  "release_date": "2025-12-09T10:26:03.543757971Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.28+",
@@ -65,6 +65,20 @@
             {
               "SHA": "2d759615",
               "Subject": "Bump golang.org/x/crypto from 0.38.0 to 0.45.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.12.9-rc.0",
+          "commits": [
+            {
+              "SHA": "7b0e05d",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#54)"
             }
           ]
         }
