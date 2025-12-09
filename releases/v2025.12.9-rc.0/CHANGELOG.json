@@ -1,0 +1,48 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.12.9-rc.0",
+  "release_date": "2025-12-09T07:11:12.322340284Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.12.9-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ffc80f2b",
+              "Subject": "Use Go 1.25 (#188)"
+            },
+            {
+              "SHA": "5909790a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c52a75b0",
+              "Subject": "Use golangci-lint 2.x (#186)"
+            },
+            {
+              "SHA": "8f8b5130",
+              "Subject": "Add mariadb physical backup images (#185)"
+            },
+            {
+              "SHA": "e6109991",
+              "Subject": "Remove non-exclusive locks also while ensureNoExclusive locks (#184)"
+            },
+            {
+              "SHA": "98bb7d6a",
+              "Subject": "Introduce Concurrent Worker Pool Pattern (#179)"
+            },
+            {
+              "SHA": "0c7e6128",
+              "Subject": "Update deps (#181)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
