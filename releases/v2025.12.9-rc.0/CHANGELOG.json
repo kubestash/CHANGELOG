@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T07:11:12.322340284Z",
+  "release_date": "2025-12-09T07:17:42.195286806Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.28+",
@@ -39,6 +39,36 @@
             {
               "SHA": "0c7e6128",
               "Subject": "Update deps (#181)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4bcfa6ed",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#57)"
+            },
+            {
+              "SHA": "d1fe49de",
+              "Subject": "Use Go 1.25 (#56)"
+            },
+            {
+              "SHA": "091297fc",
+              "Subject": "update-deps (#55)"
+            },
+            {
+              "SHA": "65e8343a",
+              "Subject": "Add lables to ubi image (#54)"
+            },
+            {
+              "SHA": "f3435ad9",
+              "Subject": "Build ubi image (#53)"
             }
           ]
         }
