@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T07:20:24.498253696Z",
+  "release_date": "2025-12-09T07:22:48.628143085Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.28+",
@@ -39,6 +39,32 @@
             {
               "SHA": "0c7e6128",
               "Subject": "Update deps (#181)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "41aa6396",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "9893dec2",
+              "Subject": "Use Go 1.25 (#68)"
+            },
+            {
+              "SHA": "65b8607f",
+              "Subject": "Update deps ans fix linter errors (#67)"
+            },
+            {
+              "SHA": "2d759615",
+              "Subject": "Bump golang.org/x/crypto from 0.38.0 to 0.45.0 (#66)"
             }
           ]
         }
