@@ -26,6 +26,38 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2025.12.9-rc.0](https://github.com/kubestash/installer/releases/tag/v2025.12.9-rc.0)
+
+- [c410f52](https://github.com/kubestash/installer/commit/c410f52) Prepare for release v2025.12.9-rc.0 (#248)
+- [b72257c](https://github.com/kubestash/installer/commit/b72257c) Prepare chart for redhat certification (#247)
+- [908d686](https://github.com/kubestash/installer/commit/908d686) update deps (#246)
+- [5ba30c6](https://github.com/kubestash/installer/commit/5ba30c6) Build ubi image (#244)
+- [e474baf](https://github.com/kubestash/installer/commit/e474baf) Update cve report (#242)
+- [308d0c4](https://github.com/kubestash/installer/commit/308d0c4) Use golangci-lint 2.x (#243)
+- [0325f1f](https://github.com/kubestash/installer/commit/0325f1f) Update cve report (#241)
+- [a36ba48](https://github.com/kubestash/installer/commit/a36ba48) Update cve report (#240)
+- [cf141cf](https://github.com/kubestash/installer/commit/cf141cf) Update cve report (#239)
+- [38cc1e1](https://github.com/kubestash/installer/commit/38cc1e1) Update cve report (#238)
+- [3cac834](https://github.com/kubestash/installer/commit/3cac834) Update cve report (#237)
+- [f40f144](https://github.com/kubestash/installer/commit/f40f144) Update cve report (#236)
+- [407d98d](https://github.com/kubestash/installer/commit/407d98d) Update cve report (#234)
+- [f7b0c09](https://github.com/kubestash/installer/commit/f7b0c09) Update cve report (#233)
+- [54a9a54](https://github.com/kubestash/installer/commit/54a9a54) Update cve report (#232)
+- [ce1fd39](https://github.com/kubestash/installer/commit/ce1fd39) Update cve report (#231)
+- [9d153bf](https://github.com/kubestash/installer/commit/9d153bf) Update cve report (#230)
+- [a99a2f5](https://github.com/kubestash/installer/commit/a99a2f5) Update cve report (#229)
+- [8a44f84](https://github.com/kubestash/installer/commit/8a44f84) Update cve report (#228)
+- [ef7b58a](https://github.com/kubestash/installer/commit/ef7b58a) Update cve report (#227)
+- [69bb7a4](https://github.com/kubestash/installer/commit/69bb7a4) Update cve report (#226)
+- [e0cd82b](https://github.com/kubestash/installer/commit/e0cd82b) Update cve report (#225)
+- [e578738](https://github.com/kubestash/installer/commit/e578738) Update cve report (#224)
+- [0d1da7a](https://github.com/kubestash/installer/commit/0d1da7a) Update cve report (#223)
+- [0610803](https://github.com/kubestash/installer/commit/0610803) Update cve report (#222)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.21.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.21.0-rc.0)
