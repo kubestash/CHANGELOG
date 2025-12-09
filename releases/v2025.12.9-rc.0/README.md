@@ -39,6 +39,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.22.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.22.0-rc.0)
+
+- [c58240c7](https://github.com/kubestash/kubestash/commit/c58240c7) Prepare for release v0.22.0-rc.0 (#315)
+- [eaca88dc](https://github.com/kubestash/kubestash/commit/eaca88dc) Skip controller activation in certification mode (#314)
+- [a0583d5c](https://github.com/kubestash/kubestash/commit/a0583d5c) Update deps (#313)
+- [05bc06b7](https://github.com/kubestash/kubestash/commit/05bc06b7) Update Dependency (#312)
+- [f1c894c2](https://github.com/kubestash/kubestash/commit/f1c894c2) Use golangci-lint 2.x (#311)
+- [55118982](https://github.com/kubestash/kubestash/commit/55118982) Change session's phase for Jobs pod eviction (#310)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.14.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.14.0-rc.0)
