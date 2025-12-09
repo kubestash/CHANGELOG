@@ -52,3 +52,15 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.21.0-rc.0](https://github.com/kubestash/workload/releases/tag/v0.21.0-rc.0)
+
+- [66c65f9](https://github.com/kubestash/workload/commit/66c65f9) Prepare for release v0.21.0-rc.0 (#76)
+- [b9f4545](https://github.com/kubestash/workload/commit/b9f4545) Use Go 1.25 (#75)
+- [519d018](https://github.com/kubestash/workload/commit/519d018) update-gen (#74)
+- [d5c7cb0](https://github.com/kubestash/workload/commit/d5c7cb0) Add lables to ubi image (#73)
+- [39381ea](https://github.com/kubestash/workload/commit/39381ea) Build ubi image (#72)
+
+
+

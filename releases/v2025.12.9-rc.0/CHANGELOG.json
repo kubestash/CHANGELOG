@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T07:19:03.582798709Z",
+  "release_date": "2025-12-09T07:19:23.846677403Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.28+",
@@ -133,6 +133,36 @@
             {
               "SHA": "f3435ad9",
               "Subject": "Build ubi image (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "66c65f9",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#76)"
+            },
+            {
+              "SHA": "b9f4545",
+              "Subject": "Use Go 1.25 (#75)"
+            },
+            {
+              "SHA": "519d018",
+              "Subject": "update-gen (#74)"
+            },
+            {
+              "SHA": "d5c7cb0",
+              "Subject": "Add lables to ubi image (#73)"
+            },
+            {
+              "SHA": "39381ea",
+              "Subject": "Build ubi image (#72)"
             }
           ]
         }
