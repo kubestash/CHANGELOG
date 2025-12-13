@@ -1,0 +1,430 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2025.12.15",
+  "release_date": "2025-12-13T05:17:44.615092486Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2025.12.15",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "b94dfd73",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "0690ade4",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ffc80f2b",
+              "Subject": "Use Go 1.25 (#188)"
+            },
+            {
+              "SHA": "5909790a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c52a75b0",
+              "Subject": "Use golangci-lint 2.x (#186)"
+            },
+            {
+              "SHA": "8f8b5130",
+              "Subject": "Add mariadb physical backup images (#185)"
+            },
+            {
+              "SHA": "e6109991",
+              "Subject": "Remove non-exclusive locks also while ensureNoExclusive locks (#184)"
+            },
+            {
+              "SHA": "98bb7d6a",
+              "Subject": "Introduce Concurrent Worker Pool Pattern (#179)"
+            },
+            {
+              "SHA": "0c7e6128",
+              "Subject": "Update deps (#181)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "7e087fd6",
+              "Subject": "Prepare for release v0.21.0 (#70)"
+            },
+            {
+              "SHA": "41aa6396",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "9893dec2",
+              "Subject": "Use Go 1.25 (#68)"
+            },
+            {
+              "SHA": "65b8607f",
+              "Subject": "Update deps ans fix linter errors (#67)"
+            },
+            {
+              "SHA": "2d759615",
+              "Subject": "Bump golang.org/x/crypto from 0.38.0 to 0.45.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2025.12.15",
+          "commits": [
+            {
+              "SHA": "a374c77",
+              "Subject": "Prepare for release v2025.12.15 (#55)"
+            },
+            {
+              "SHA": "7b0e05d",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.12.15",
+          "commits": [
+            {
+              "SHA": "2f1a793",
+              "Subject": "Prepare for release v2025.12.15 (#250)"
+            },
+            {
+              "SHA": "b45216e",
+              "Subject": "Update cve report (#249)"
+            },
+            {
+              "SHA": "c410f52",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#248)"
+            },
+            {
+              "SHA": "b72257c",
+              "Subject": "Prepare chart for redhat certification (#247)"
+            },
+            {
+              "SHA": "908d686",
+              "Subject": "update deps (#246)"
+            },
+            {
+              "SHA": "5ba30c6",
+              "Subject": "Build ubi image (#244)"
+            },
+            {
+              "SHA": "e474baf",
+              "Subject": "Update cve report (#242)"
+            },
+            {
+              "SHA": "308d0c4",
+              "Subject": "Use golangci-lint 2.x (#243)"
+            },
+            {
+              "SHA": "0325f1f",
+              "Subject": "Update cve report (#241)"
+            },
+            {
+              "SHA": "a36ba48",
+              "Subject": "Update cve report (#240)"
+            },
+            {
+              "SHA": "cf141cf",
+              "Subject": "Update cve report (#239)"
+            },
+            {
+              "SHA": "38cc1e1",
+              "Subject": "Update cve report (#238)"
+            },
+            {
+              "SHA": "3cac834",
+              "Subject": "Update cve report (#237)"
+            },
+            {
+              "SHA": "f40f144",
+              "Subject": "Update cve report (#236)"
+            },
+            {
+              "SHA": "407d98d",
+              "Subject": "Update cve report (#234)"
+            },
+            {
+              "SHA": "f7b0c09",
+              "Subject": "Update cve report (#233)"
+            },
+            {
+              "SHA": "54a9a54",
+              "Subject": "Update cve report (#232)"
+            },
+            {
+              "SHA": "ce1fd39",
+              "Subject": "Update cve report (#231)"
+            },
+            {
+              "SHA": "9d153bf",
+              "Subject": "Update cve report (#230)"
+            },
+            {
+              "SHA": "a99a2f5",
+              "Subject": "Update cve report (#229)"
+            },
+            {
+              "SHA": "8a44f84",
+              "Subject": "Update cve report (#228)"
+            },
+            {
+              "SHA": "ef7b58a",
+              "Subject": "Update cve report (#227)"
+            },
+            {
+              "SHA": "69bb7a4",
+              "Subject": "Update cve report (#226)"
+            },
+            {
+              "SHA": "e0cd82b",
+              "Subject": "Update cve report (#225)"
+            },
+            {
+              "SHA": "e578738",
+              "Subject": "Update cve report (#224)"
+            },
+            {
+              "SHA": "0d1da7a",
+              "Subject": "Update cve report (#223)"
+            },
+            {
+              "SHA": "0610803",
+              "Subject": "Update cve report (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "0b366f1",
+              "Subject": "Prepare for release v0.21.0 (#67)"
+            },
+            {
+              "SHA": "3fc8e91",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#66)"
+            },
+            {
+              "SHA": "9080f0b",
+              "Subject": "Use Go 1.25 (#65)"
+            },
+            {
+              "SHA": "a979098",
+              "Subject": "Update deps and fix linter errors (#64)"
+            },
+            {
+              "SHA": "42860f0",
+              "Subject": "Add lables to ubi image (#63)"
+            },
+            {
+              "SHA": "a604abb",
+              "Subject": "Update BASEIMAGE_DBG and add BASEIMAGE_UBI"
+            },
+            {
+              "SHA": "3734c41",
+              "Subject": "Build ubi image (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "5500e75b",
+              "Subject": "Prepare for release v0.22.0 (#316)"
+            },
+            {
+              "SHA": "c58240c7",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#315)"
+            },
+            {
+              "SHA": "eaca88dc",
+              "Subject": "Skip controller activation in certification mode (#314)"
+            },
+            {
+              "SHA": "a0583d5c",
+              "Subject": "Update deps (#313)"
+            },
+            {
+              "SHA": "05bc06b7",
+              "Subject": "Update Dependency (#312)"
+            },
+            {
+              "SHA": "f1c894c2",
+              "Subject": "Use golangci-lint 2.x (#311)"
+            },
+            {
+              "SHA": "55118982",
+              "Subject": "Change session's phase for Jobs pod eviction (#310)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "681f3b6",
+              "Subject": "Prepare for release v0.14.0 (#46)"
+            },
+            {
+              "SHA": "14a1762",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "ed94b3c",
+              "Subject": "Use Go 1.25 (#44)"
+            },
+            {
+              "SHA": "c20ec38",
+              "Subject": "update-deps (#43)"
+            },
+            {
+              "SHA": "d84591c",
+              "Subject": "Add labels to ubi image (#42)"
+            },
+            {
+              "SHA": "5cb9998",
+              "Subject": "Build ubi image (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "16896f1",
+              "Subject": "Prepare for release v0.21.0 (#66)"
+            },
+            {
+              "SHA": "319e738",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#65)"
+            },
+            {
+              "SHA": "29b3bfc",
+              "Subject": "Update Dependency (#64)"
+            },
+            {
+              "SHA": "8c14813",
+              "Subject": "Add lables to ubi image (#63)"
+            },
+            {
+              "SHA": "ae07d49",
+              "Subject": "Build ubi image (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "87e9b6b9",
+              "Subject": "Prepare for release v0.21.0 (#58)"
+            },
+            {
+              "SHA": "4bcfa6ed",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#57)"
+            },
+            {
+              "SHA": "d1fe49de",
+              "Subject": "Use Go 1.25 (#56)"
+            },
+            {
+              "SHA": "091297fc",
+              "Subject": "update-deps (#55)"
+            },
+            {
+              "SHA": "65e8343a",
+              "Subject": "Add lables to ubi image (#54)"
+            },
+            {
+              "SHA": "f3435ad9",
+              "Subject": "Build ubi image (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6394fb7",
+              "Subject": "Prepare for release v0.21.0 (#77)"
+            },
+            {
+              "SHA": "66c65f9",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#76)"
+            },
+            {
+              "SHA": "b9f4545",
+              "Subject": "Use Go 1.25 (#75)"
+            },
+            {
+              "SHA": "519d018",
+              "Subject": "update-gen (#74)"
+            },
+            {
+              "SHA": "d5c7cb0",
+              "Subject": "Add lables to ubi image (#73)"
+            },
+            {
+              "SHA": "39381ea",
+              "Subject": "Build ubi image (#72)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
