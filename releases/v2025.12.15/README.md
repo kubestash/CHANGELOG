@@ -44,3 +44,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.21.0](https://github.com/kubestash/pvc/releases/tag/v0.21.0)
+
+- [16896f1](https://github.com/kubestash/pvc/commit/16896f1) Prepare for release v0.21.0 (#66)
+- [319e738](https://github.com/kubestash/pvc/commit/319e738) Prepare for release v0.21.0-rc.0 (#65)
+- [29b3bfc](https://github.com/kubestash/pvc/commit/29b3bfc) Update Dependency (#64)
+- [8c14813](https://github.com/kubestash/pvc/commit/8c14813) Add lables to ubi image (#63)
+- [ae07d49](https://github.com/kubestash/pvc/commit/ae07d49) Build ubi image (#62)
+
+
+

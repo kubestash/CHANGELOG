@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.12.15",
-  "release_date": "2025-12-13T04:41:29.797182639Z",
+  "release_date": "2025-12-13T04:41:56.808593992Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.12.15",
   "kubernetes_version": "1.28+",
@@ -119,6 +119,36 @@
             {
               "SHA": "5cb9998",
               "Subject": "Build ubi image (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "16896f1",
+              "Subject": "Prepare for release v0.21.0 (#66)"
+            },
+            {
+              "SHA": "319e738",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#65)"
+            },
+            {
+              "SHA": "29b3bfc",
+              "Subject": "Update Dependency (#64)"
+            },
+            {
+              "SHA": "8c14813",
+              "Subject": "Add lables to ubi image (#63)"
+            },
+            {
+              "SHA": "ae07d49",
+              "Subject": "Build ubi image (#62)"
             }
           ]
         }
