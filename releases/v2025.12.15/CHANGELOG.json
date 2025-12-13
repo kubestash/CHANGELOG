@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.12.15",
-  "release_date": "2025-12-13T04:42:44.373718672Z",
+  "release_date": "2025-12-13T04:44:59.470326245Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.12.15",
   "kubernetes_version": "1.28+",
@@ -85,6 +85,44 @@
             {
               "SHA": "3734c41",
               "Subject": "Build ubi image (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "5500e75b",
+              "Subject": "Prepare for release v0.22.0 (#316)"
+            },
+            {
+              "SHA": "c58240c7",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#315)"
+            },
+            {
+              "SHA": "eaca88dc",
+              "Subject": "Skip controller activation in certification mode (#314)"
+            },
+            {
+              "SHA": "a0583d5c",
+              "Subject": "Update deps (#313)"
+            },
+            {
+              "SHA": "05bc06b7",
+              "Subject": "Update Dependency (#312)"
+            },
+            {
+              "SHA": "f1c894c2",
+              "Subject": "Use golangci-lint 2.x (#311)"
+            },
+            {
+              "SHA": "55118982",
+              "Subject": "Change session's phase for Jobs pod eviction (#310)"
             }
           ]
         }
