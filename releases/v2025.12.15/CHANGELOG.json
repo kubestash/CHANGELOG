@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2025.12.15",
-  "release_date": "2025-12-13T04:45:15.436958597Z",
+  "release_date": "2025-12-13T05:04:34.692970541Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2025.12.15",
   "kubernetes_version": "1.28+",
@@ -77,6 +77,124 @@
             {
               "SHA": "2d759615",
               "Subject": "Bump golang.org/x/crypto from 0.38.0 to 0.45.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2025.12.15",
+          "commits": [
+            {
+              "SHA": "2f1a793",
+              "Subject": "Prepare for release v2025.12.15 (#250)"
+            },
+            {
+              "SHA": "b45216e",
+              "Subject": "Update cve report (#249)"
+            },
+            {
+              "SHA": "c410f52",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#248)"
+            },
+            {
+              "SHA": "b72257c",
+              "Subject": "Prepare chart for redhat certification (#247)"
+            },
+            {
+              "SHA": "908d686",
+              "Subject": "update deps (#246)"
+            },
+            {
+              "SHA": "5ba30c6",
+              "Subject": "Build ubi image (#244)"
+            },
+            {
+              "SHA": "e474baf",
+              "Subject": "Update cve report (#242)"
+            },
+            {
+              "SHA": "308d0c4",
+              "Subject": "Use golangci-lint 2.x (#243)"
+            },
+            {
+              "SHA": "0325f1f",
+              "Subject": "Update cve report (#241)"
+            },
+            {
+              "SHA": "a36ba48",
+              "Subject": "Update cve report (#240)"
+            },
+            {
+              "SHA": "cf141cf",
+              "Subject": "Update cve report (#239)"
+            },
+            {
+              "SHA": "38cc1e1",
+              "Subject": "Update cve report (#238)"
+            },
+            {
+              "SHA": "3cac834",
+              "Subject": "Update cve report (#237)"
+            },
+            {
+              "SHA": "f40f144",
+              "Subject": "Update cve report (#236)"
+            },
+            {
+              "SHA": "407d98d",
+              "Subject": "Update cve report (#234)"
+            },
+            {
+              "SHA": "f7b0c09",
+              "Subject": "Update cve report (#233)"
+            },
+            {
+              "SHA": "54a9a54",
+              "Subject": "Update cve report (#232)"
+            },
+            {
+              "SHA": "ce1fd39",
+              "Subject": "Update cve report (#231)"
+            },
+            {
+              "SHA": "9d153bf",
+              "Subject": "Update cve report (#230)"
+            },
+            {
+              "SHA": "a99a2f5",
+              "Subject": "Update cve report (#229)"
+            },
+            {
+              "SHA": "8a44f84",
+              "Subject": "Update cve report (#228)"
+            },
+            {
+              "SHA": "ef7b58a",
+              "Subject": "Update cve report (#227)"
+            },
+            {
+              "SHA": "69bb7a4",
+              "Subject": "Update cve report (#226)"
+            },
+            {
+              "SHA": "e0cd82b",
+              "Subject": "Update cve report (#225)"
+            },
+            {
+              "SHA": "e578738",
+              "Subject": "Update cve report (#224)"
+            },
+            {
+              "SHA": "0d1da7a",
+              "Subject": "Update cve report (#223)"
+            },
+            {
+              "SHA": "0610803",
+              "Subject": "Update cve report (#222)"
             }
           ]
         }
