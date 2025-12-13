@@ -56,6 +56,19 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.21.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.21.0)
+
+- [87e9b6b9](https://github.com/kubestash/volume-snapshotter/commit/87e9b6b9) Prepare for release v0.21.0 (#58)
+- [4bcfa6ed](https://github.com/kubestash/volume-snapshotter/commit/4bcfa6ed) Prepare for release v0.21.0-rc.0 (#57)
+- [d1fe49de](https://github.com/kubestash/volume-snapshotter/commit/d1fe49de) Use Go 1.25 (#56)
+- [091297fc](https://github.com/kubestash/volume-snapshotter/commit/091297fc) update-deps (#55)
+- [65e8343a](https://github.com/kubestash/volume-snapshotter/commit/65e8343a) Add lables to ubi image (#54)
+- [f3435ad9](https://github.com/kubestash/volume-snapshotter/commit/f3435ad9) Build ubi image (#53)
+
+
+
 ## [kubestash/workload](https://github.com/kubestash/workload)
 
 ### [v0.21.0](https://github.com/kubestash/workload/releases/tag/v0.21.0)
