@@ -31,3 +31,16 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.14.0](https://github.com/kubestash/manifest/releases/tag/v0.14.0)
+
+- [681f3b6](https://github.com/kubestash/manifest/commit/681f3b6) Prepare for release v0.14.0 (#46)
+- [14a1762](https://github.com/kubestash/manifest/commit/14a1762) Prepare for release v0.14.0-rc.0 (#45)
+- [ed94b3c](https://github.com/kubestash/manifest/commit/ed94b3c) Use Go 1.25 (#44)
+- [c20ec38](https://github.com/kubestash/manifest/commit/c20ec38) update-deps (#43)
+- [d84591c](https://github.com/kubestash/manifest/commit/d84591c) Add labels to ubi image (#42)
+- [5cb9998](https://github.com/kubestash/manifest/commit/5cb9998) Build ubi image (#41)
+
+
+
