@@ -17,6 +17,18 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.21.0](https://github.com/kubestash/cli/releases/tag/v0.21.0)
+
+- [7e087fd6](https://github.com/kubestash/cli/commit/7e087fd6) Prepare for release v0.21.0 (#70)
+- [41aa6396](https://github.com/kubestash/cli/commit/41aa6396) Prepare for release v0.21.0-rc.0 (#69)
+- [9893dec2](https://github.com/kubestash/cli/commit/9893dec2) Use Go 1.25 (#68)
+- [65b8607f](https://github.com/kubestash/cli/commit/65b8607f) Update deps ans fix linter errors (#67)
+- [2d759615](https://github.com/kubestash/cli/commit/2d759615) Bump golang.org/x/crypto from 0.38.0 to 0.45.0 (#66)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.21.0](https://github.com/kubestash/kubedump/releases/tag/v0.21.0)
