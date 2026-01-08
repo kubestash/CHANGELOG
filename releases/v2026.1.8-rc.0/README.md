@@ -14,6 +14,19 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.22.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.22.0-rc.0)
+
+- [ef2b06eb](https://github.com/kubestash/kubedump/commit/ef2b06eb) Prepare for release v0.22.0-rc.0 (#72)
+- [e155a972](https://github.com/kubestash/kubedump/commit/e155a972) Use forked kubestash/restic (#71)
+- [25e6a863](https://github.com/kubestash/kubedump/commit/25e6a863) Use k8s 1.34 client libs (#70)
+- [193e626f](https://github.com/kubestash/kubedump/commit/193e626f) Fix makefile indentation (#69)
+- [50d89cba](https://github.com/kubestash/kubedump/commit/50d89cba) Publish Image for Redhat software certification (#68)
+- [0b366f1b](https://github.com/kubestash/kubedump/commit/0b366f1b) Prepare for release v0.21.0 (#67)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.15.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.15.0-rc.0)
