@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.1.8-rc.0",
+  "release_date": "2026-01-08T09:39:47.276014438Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.1.8-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ba147bd2",
+              "Subject": "Update deps (#192)"
+            },
+            {
+              "SHA": "454a7470",
+              "Subject": "Use k8s 1.34 client libs (#191)"
+            },
+            {
+              "SHA": "e71904d8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "84d33fdf",
+              "Subject": "Use k8s 1.34 client libs (#190)"
+            },
+            {
+              "SHA": "b94dfd73",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "0690ade4",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
