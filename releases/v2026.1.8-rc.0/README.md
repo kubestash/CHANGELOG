@@ -24,6 +24,33 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.1.8-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.1.8-rc.0)
+
+- [2247976](https://github.com/kubestash/installer/commit/2247976) Prepare for release v2026.1.8-rc.0 (#269)
+- [43585e5](https://github.com/kubestash/installer/commit/43585e5) Improve kubestash chart test logging (#268)
+- [74de680](https://github.com/kubestash/installer/commit/74de680) Add test to kubestash chart (#265)
+- [a87de14](https://github.com/kubestash/installer/commit/a87de14) Fix distro.ubi mode in kubestash catalog chart (#267)
+- [8600bb3](https://github.com/kubestash/installer/commit/8600bb3) Update crds (#266)
+- [44f8ea3](https://github.com/kubestash/installer/commit/44f8ea3) Update cve report (#263)
+- [0b3463c](https://github.com/kubestash/installer/commit/0b3463c) Update cve report (#262)
+- [11065c9](https://github.com/kubestash/installer/commit/11065c9) Update cve report (#260)
+- [27af34c](https://github.com/kubestash/installer/commit/27af34c) Update cve report (#259)
+- [fa7d0f4](https://github.com/kubestash/installer/commit/fa7d0f4) Use k8s 1.34 client libs (#258)
+- [b96cb6f](https://github.com/kubestash/installer/commit/b96cb6f) Update certified chart readme
+- [aa7a30f](https://github.com/kubestash/installer/commit/aa7a30f) Generate certified and certified-crds charts (#257)
+- [cc5b726](https://github.com/kubestash/installer/commit/cc5b726) Update cve report (#256)
+- [a2806b3](https://github.com/kubestash/installer/commit/a2806b3) Update cve report (#255)
+- [0e99c0f](https://github.com/kubestash/installer/commit/0e99c0f) Fix operator.ubi and catalog.ubi templates
+- [db55d6f](https://github.com/kubestash/installer/commit/db55d6f) Update cve report (#254)
+- [b742db4](https://github.com/kubestash/installer/commit/b742db4) Update cve report (#253)
+- [a282156](https://github.com/kubestash/installer/commit/a282156) Update cve report (#252)
+- [7189a45](https://github.com/kubestash/installer/commit/7189a45) Use shared DistroSpec
+- [899ae49](https://github.com/kubestash/installer/commit/899ae49) Update cve report (#251)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.22.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.22.0-rc.0)
