@@ -24,6 +24,15 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.1.8-rc.0](https://github.com/kubestash/docs/releases/tag/v2026.1.8-rc.0)
+
+- [37f5de5](https://github.com/kubestash/docs/commit/37f5de5) Prepare for release v2026.1.8-rc.0 (#59)
+- [efa5121](https://github.com/kubestash/docs/commit/efa5121) Add clarifications about database backup & restore (#56)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.1.8-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.1.8-rc.0)
