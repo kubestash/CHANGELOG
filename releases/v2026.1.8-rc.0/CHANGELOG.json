@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.1.8-rc.0",
-  "release_date": "2026-01-08T09:49:12.751151674Z",
+  "release_date": "2026-01-08T09:49:30.580558437Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.1.8-rc.0",
   "kubernetes_version": "1.28+",
@@ -171,6 +171,40 @@
             {
               "SHA": "87e9b6b9",
               "Subject": "Prepare for release v0.21.0 (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1cd12ed0",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "ad3ed7d1",
+              "Subject": "Use forked kubestash/restic (#81)"
+            },
+            {
+              "SHA": "25b4f703",
+              "Subject": "Use k8s 1.34 client libs (#80)"
+            },
+            {
+              "SHA": "b7065dbf",
+              "Subject": "Fix makefile indentation (#79)"
+            },
+            {
+              "SHA": "fa7607fa",
+              "Subject": "Publish Image for Redhat software certification (#78)"
+            },
+            {
+              "SHA": "6394fb79",
+              "Subject": "Prepare for release v0.21.0 (#77)"
             }
           ]
         }

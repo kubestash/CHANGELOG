@@ -66,3 +66,16 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.22.0-rc.0](https://github.com/kubestash/workload/releases/tag/v0.22.0-rc.0)
+
+- [1cd12ed0](https://github.com/kubestash/workload/commit/1cd12ed0) Prepare for release v0.22.0-rc.0 (#82)
+- [ad3ed7d1](https://github.com/kubestash/workload/commit/ad3ed7d1) Use forked kubestash/restic (#81)
+- [25b4f703](https://github.com/kubestash/workload/commit/25b4f703) Use k8s 1.34 client libs (#80)
+- [b7065dbf](https://github.com/kubestash/workload/commit/b7065dbf) Fix makefile indentation (#79)
+- [fa7607fa](https://github.com/kubestash/workload/commit/fa7607fa) Publish Image for Redhat software certification (#78)
+- [6394fb79](https://github.com/kubestash/workload/commit/6394fb79) Prepare for release v0.21.0 (#77)
+
+
+
