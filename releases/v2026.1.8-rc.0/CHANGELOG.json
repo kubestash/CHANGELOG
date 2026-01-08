@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.1.8-rc.0",
-  "release_date": "2026-01-08T09:45:28.871706568Z",
+  "release_date": "2026-01-08T09:45:46.378158486Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.1.8-rc.0",
   "kubernetes_version": "1.28+",
@@ -69,6 +69,44 @@
             {
               "SHA": "681f3b6",
               "Subject": "Prepare for release v0.14.0 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6618fca8",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "31675553",
+              "Subject": "Ignoroing FUSE FS Error while restoring"
+            },
+            {
+              "SHA": "a26164b9",
+              "Subject": "Use forked kubestash/restic (#71)"
+            },
+            {
+              "SHA": "7869703e",
+              "Subject": "Use k8s 1.34 client libs (#69)"
+            },
+            {
+              "SHA": "f64df977",
+              "Subject": "Fix makefile indentation (#68)"
+            },
+            {
+              "SHA": "b8d90325",
+              "Subject": "Publish Image for Redhat software certification (#67)"
+            },
+            {
+              "SHA": "16896f1b",
+              "Subject": "Prepare for release v0.21.0 (#66)"
             }
           ]
         }

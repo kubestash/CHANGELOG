@@ -27,3 +27,17 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.22.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.22.0-rc.0)
+
+- [6618fca8](https://github.com/kubestash/pvc/commit/6618fca8) Prepare for release v0.22.0-rc.0 (#72)
+- [31675553](https://github.com/kubestash/pvc/commit/31675553) Ignoroing FUSE FS Error while restoring
+- [a26164b9](https://github.com/kubestash/pvc/commit/a26164b9) Use forked kubestash/restic (#71)
+- [7869703e](https://github.com/kubestash/pvc/commit/7869703e) Use k8s 1.34 client libs (#69)
+- [f64df977](https://github.com/kubestash/pvc/commit/f64df977) Fix makefile indentation (#68)
+- [b8d90325](https://github.com/kubestash/pvc/commit/b8d90325) Publish Image for Redhat software certification (#67)
+- [16896f1b](https://github.com/kubestash/pvc/commit/16896f1b) Prepare for release v0.21.0 (#66)
+
+
+
