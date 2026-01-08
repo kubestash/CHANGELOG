@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.1.8-rc.0",
-  "release_date": "2026-01-08T09:51:19.000204601Z",
+  "release_date": "2026-01-08T09:52:09.21419437Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.1.8-rc.0",
   "kubernetes_version": "1.28+",
@@ -93,6 +93,15 @@
               "Subject": "Prepare for release v0.21.0 (#67)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": null
         }
       ]
     },
