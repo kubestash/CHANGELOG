@@ -13,6 +13,16 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.22.0](https://github.com/kubestash/cli/releases/tag/v0.22.0)
+
+- [2ab275f0](https://github.com/kubestash/cli/commit/2ab275f0) Prepare for release v0.22.0 (#75)
+- [3a5d9974](https://github.com/kubestash/cli/commit/3a5d9974) Prepare for release v0.22.0-rc.0 (#74)
+- [27b59c46](https://github.com/kubestash/cli/commit/27b59c46) Use k8s 1.34 client libs (#72)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.22.0](https://github.com/kubestash/kubedump/releases/tag/v0.22.0)
