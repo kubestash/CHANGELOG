@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.1.19",
-  "release_date": "2026-01-18T12:39:26.442590116Z",
+  "release_date": "2026-01-18T12:39:57.952864907Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.1.19",
   "kubernetes_version": "1.28+",
@@ -146,6 +146,44 @@
             {
               "SHA": "c7adb35b",
               "Subject": "Publish Image for Redhat software certification (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "a9800705",
+              "Subject": "Prepare for release v0.22.0 (#84)"
+            },
+            {
+              "SHA": "095072fa",
+              "Subject": "Use forked kubestash/restic (#83)"
+            },
+            {
+              "SHA": "1cd12ed0",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "ad3ed7d1",
+              "Subject": "Use forked kubestash/restic (#81)"
+            },
+            {
+              "SHA": "25b4f703",
+              "Subject": "Use k8s 1.34 client libs (#80)"
+            },
+            {
+              "SHA": "b7065dbf",
+              "Subject": "Fix makefile indentation (#79)"
+            },
+            {
+              "SHA": "fa7607fa",
+              "Subject": "Publish Image for Redhat software certification (#78)"
             }
           ]
         }
