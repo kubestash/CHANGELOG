@@ -20,3 +20,15 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.22.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.22.0)
+
+- [8992419d](https://github.com/kubestash/volume-snapshotter/commit/8992419d) Prepare for release v0.22.0 (#65)
+- [fff23a46](https://github.com/kubestash/volume-snapshotter/commit/fff23a46) Prepare for release v0.22.0-rc.0 (#63)
+- [6f701f22](https://github.com/kubestash/volume-snapshotter/commit/6f701f22) Use k8s 1.34 client libs (#61)
+- [9f2106d8](https://github.com/kubestash/volume-snapshotter/commit/9f2106d8) Fix makefile indentation (#60)
+- [c7adb35b](https://github.com/kubestash/volume-snapshotter/commit/c7adb35b) Publish Image for Redhat software certification (#59)
+
+
+
