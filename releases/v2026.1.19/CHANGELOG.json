@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.1.19",
-  "release_date": "2026-01-18T12:59:41.902676681Z",
+  "release_date": "2026-01-18T13:12:44.788815464Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.1.19",
   "kubernetes_version": "1.28+",
@@ -53,6 +53,136 @@
             {
               "SHA": "27b59c46",
               "Subject": "Use k8s 1.34 client libs (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.1.19",
+          "commits": [
+            {
+              "SHA": "1dbec82",
+              "Subject": "Prepare for release v2026.1.19 (#278)"
+            },
+            {
+              "SHA": "f2d53b7",
+              "Subject": "Update certified subcharts"
+            },
+            {
+              "SHA": "9a90e14",
+              "Subject": "Update cve report (#277)"
+            },
+            {
+              "SHA": "d7a9111",
+              "Subject": "Update certified chart (#276)"
+            },
+            {
+              "SHA": "efe264f",
+              "Subject": "Use image to refer to full docker image (#275)"
+            },
+            {
+              "SHA": "b2a9cd2",
+              "Subject": "Use strict semver version for certified charts (#274)"
+            },
+            {
+              "SHA": "9c19dfc",
+              "Subject": "Update cve report (#273)"
+            },
+            {
+              "SHA": "628ba94",
+              "Subject": "Use kubectl 1.34 (#272)"
+            },
+            {
+              "SHA": "4c200e6",
+              "Subject": "Update cve report (#271)"
+            },
+            {
+              "SHA": "b6ae93d",
+              "Subject": "Update cve report (#270)"
+            },
+            {
+              "SHA": "2247976",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#269)"
+            },
+            {
+              "SHA": "43585e5",
+              "Subject": "Improve kubestash chart test logging (#268)"
+            },
+            {
+              "SHA": "74de680",
+              "Subject": "Add test to kubestash chart (#265)"
+            },
+            {
+              "SHA": "a87de14",
+              "Subject": "Fix distro.ubi mode in kubestash catalog chart (#267)"
+            },
+            {
+              "SHA": "8600bb3",
+              "Subject": "Update crds (#266)"
+            },
+            {
+              "SHA": "44f8ea3",
+              "Subject": "Update cve report (#263)"
+            },
+            {
+              "SHA": "0b3463c",
+              "Subject": "Update cve report (#262)"
+            },
+            {
+              "SHA": "11065c9",
+              "Subject": "Update cve report (#260)"
+            },
+            {
+              "SHA": "27af34c",
+              "Subject": "Update cve report (#259)"
+            },
+            {
+              "SHA": "fa7d0f4",
+              "Subject": "Use k8s 1.34 client libs (#258)"
+            },
+            {
+              "SHA": "b96cb6f",
+              "Subject": "Update certified chart readme"
+            },
+            {
+              "SHA": "aa7a30f",
+              "Subject": "Generate certified and certified-crds charts (#257)"
+            },
+            {
+              "SHA": "cc5b726",
+              "Subject": "Update cve report (#256)"
+            },
+            {
+              "SHA": "a2806b3",
+              "Subject": "Update cve report (#255)"
+            },
+            {
+              "SHA": "0e99c0f",
+              "Subject": "Fix operator.ubi and catalog.ubi templates"
+            },
+            {
+              "SHA": "db55d6f",
+              "Subject": "Update cve report (#254)"
+            },
+            {
+              "SHA": "b742db4",
+              "Subject": "Update cve report (#253)"
+            },
+            {
+              "SHA": "a282156",
+              "Subject": "Update cve report (#252)"
+            },
+            {
+              "SHA": "7189a45",
+              "Subject": "Use shared DistroSpec"
+            },
+            {
+              "SHA": "899ae49",
+              "Subject": "Update cve report (#251)"
             }
           ]
         }
