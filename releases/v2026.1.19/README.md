@@ -27,6 +27,13 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.23.0](https://github.com/kubestash/kubestash/releases/tag/v0.23.0)
+
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.15.0](https://github.com/kubestash/manifest/releases/tag/v0.15.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.1.19",
-  "release_date": "2026-01-18T12:39:57.952864907Z",
+  "release_date": "2026-01-18T12:42:19.939664214Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.1.19",
   "kubernetes_version": "1.28+",
@@ -71,6 +71,15 @@
               "Subject": "Publish Image for Redhat software certification (#68)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": null
         }
       ]
     },
