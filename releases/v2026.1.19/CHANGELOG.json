@@ -1,0 +1,380 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.1.19",
+  "release_date": "2026-01-18T13:30:16.387691616Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.1.19",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "b15af1d8",
+              "Subject": "Use image to refer to full docker image (#193)"
+            },
+            {
+              "SHA": "ba147bd2",
+              "Subject": "Update deps (#192)"
+            },
+            {
+              "SHA": "454a7470",
+              "Subject": "Use k8s 1.34 client libs (#191)"
+            },
+            {
+              "SHA": "e71904d8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "84d33fdf",
+              "Subject": "Use k8s 1.34 client libs (#190)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "2ab275f0",
+              "Subject": "Prepare for release v0.22.0 (#75)"
+            },
+            {
+              "SHA": "3a5d9974",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#74)"
+            },
+            {
+              "SHA": "27b59c46",
+              "Subject": "Use k8s 1.34 client libs (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.1.19",
+          "commits": [
+            {
+              "SHA": "1fd3ed9",
+              "Subject": "Prepare for release v2026.1.19 (#61)"
+            },
+            {
+              "SHA": "623898a",
+              "Subject": "Update docs for kubestash/cli@2ab275f0 (#60)"
+            },
+            {
+              "SHA": "37f5de5",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#59)"
+            },
+            {
+              "SHA": "efa5121",
+              "Subject": "Add clarifications about database backup & restore (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.1.19",
+          "commits": [
+            {
+              "SHA": "1dbec82",
+              "Subject": "Prepare for release v2026.1.19 (#278)"
+            },
+            {
+              "SHA": "f2d53b7",
+              "Subject": "Update certified subcharts"
+            },
+            {
+              "SHA": "9a90e14",
+              "Subject": "Update cve report (#277)"
+            },
+            {
+              "SHA": "d7a9111",
+              "Subject": "Update certified chart (#276)"
+            },
+            {
+              "SHA": "efe264f",
+              "Subject": "Use image to refer to full docker image (#275)"
+            },
+            {
+              "SHA": "b2a9cd2",
+              "Subject": "Use strict semver version for certified charts (#274)"
+            },
+            {
+              "SHA": "9c19dfc",
+              "Subject": "Update cve report (#273)"
+            },
+            {
+              "SHA": "628ba94",
+              "Subject": "Use kubectl 1.34 (#272)"
+            },
+            {
+              "SHA": "4c200e6",
+              "Subject": "Update cve report (#271)"
+            },
+            {
+              "SHA": "b6ae93d",
+              "Subject": "Update cve report (#270)"
+            },
+            {
+              "SHA": "2247976",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#269)"
+            },
+            {
+              "SHA": "43585e5",
+              "Subject": "Improve kubestash chart test logging (#268)"
+            },
+            {
+              "SHA": "74de680",
+              "Subject": "Add test to kubestash chart (#265)"
+            },
+            {
+              "SHA": "a87de14",
+              "Subject": "Fix distro.ubi mode in kubestash catalog chart (#267)"
+            },
+            {
+              "SHA": "8600bb3",
+              "Subject": "Update crds (#266)"
+            },
+            {
+              "SHA": "44f8ea3",
+              "Subject": "Update cve report (#263)"
+            },
+            {
+              "SHA": "0b3463c",
+              "Subject": "Update cve report (#262)"
+            },
+            {
+              "SHA": "11065c9",
+              "Subject": "Update cve report (#260)"
+            },
+            {
+              "SHA": "27af34c",
+              "Subject": "Update cve report (#259)"
+            },
+            {
+              "SHA": "fa7d0f4",
+              "Subject": "Use k8s 1.34 client libs (#258)"
+            },
+            {
+              "SHA": "b96cb6f",
+              "Subject": "Update certified chart readme"
+            },
+            {
+              "SHA": "aa7a30f",
+              "Subject": "Generate certified and certified-crds charts (#257)"
+            },
+            {
+              "SHA": "cc5b726",
+              "Subject": "Update cve report (#256)"
+            },
+            {
+              "SHA": "a2806b3",
+              "Subject": "Update cve report (#255)"
+            },
+            {
+              "SHA": "0e99c0f",
+              "Subject": "Fix operator.ubi and catalog.ubi templates"
+            },
+            {
+              "SHA": "db55d6f",
+              "Subject": "Update cve report (#254)"
+            },
+            {
+              "SHA": "b742db4",
+              "Subject": "Update cve report (#253)"
+            },
+            {
+              "SHA": "a282156",
+              "Subject": "Update cve report (#252)"
+            },
+            {
+              "SHA": "7189a45",
+              "Subject": "Use shared DistroSpec"
+            },
+            {
+              "SHA": "899ae49",
+              "Subject": "Update cve report (#251)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "39b135f5",
+              "Subject": "Prepare for release v0.22.0 (#74)"
+            },
+            {
+              "SHA": "4562526d",
+              "Subject": "Use forked kubestash/restic (#73)"
+            },
+            {
+              "SHA": "ef2b06eb",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "e155a972",
+              "Subject": "Use forked kubestash/restic (#71)"
+            },
+            {
+              "SHA": "25e6a863",
+              "Subject": "Use k8s 1.34 client libs (#70)"
+            },
+            {
+              "SHA": "193e626f",
+              "Subject": "Fix makefile indentation (#69)"
+            },
+            {
+              "SHA": "50d89cba",
+              "Subject": "Publish Image for Redhat software certification (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "2a6ef12",
+              "Subject": "Prepare for release v0.15.0 (#53)"
+            },
+            {
+              "SHA": "52da845",
+              "Subject": "Use forked kubestash/restic (#52)"
+            },
+            {
+              "SHA": "c11c401",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "6dfdf43",
+              "Subject": "Use forked kubestash/restic (#50)"
+            },
+            {
+              "SHA": "2ce9452",
+              "Subject": "Use k8s 1.34 client libs (#49)"
+            },
+            {
+              "SHA": "b5cc2a9",
+              "Subject": "Fix makefile indentation (#48)"
+            },
+            {
+              "SHA": "55ba097",
+              "Subject": "Publish Image for Redhat software certification (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8992419d",
+              "Subject": "Prepare for release v0.22.0 (#65)"
+            },
+            {
+              "SHA": "fff23a46",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#63)"
+            },
+            {
+              "SHA": "6f701f22",
+              "Subject": "Use k8s 1.34 client libs (#61)"
+            },
+            {
+              "SHA": "9f2106d8",
+              "Subject": "Fix makefile indentation (#60)"
+            },
+            {
+              "SHA": "c7adb35b",
+              "Subject": "Publish Image for Redhat software certification (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "a9800705",
+              "Subject": "Prepare for release v0.22.0 (#84)"
+            },
+            {
+              "SHA": "095072fa",
+              "Subject": "Use forked kubestash/restic (#83)"
+            },
+            {
+              "SHA": "1cd12ed0",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "ad3ed7d1",
+              "Subject": "Use forked kubestash/restic (#81)"
+            },
+            {
+              "SHA": "25b4f703",
+              "Subject": "Use k8s 1.34 client libs (#80)"
+            },
+            {
+              "SHA": "b7065dbf",
+              "Subject": "Fix makefile indentation (#79)"
+            },
+            {
+              "SHA": "fa7607fa",
+              "Subject": "Publish Image for Redhat software certification (#78)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
