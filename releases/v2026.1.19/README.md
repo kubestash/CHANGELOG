@@ -27,6 +27,20 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.15.0](https://github.com/kubestash/manifest/releases/tag/v0.15.0)
+
+- [2a6ef12](https://github.com/kubestash/manifest/commit/2a6ef12) Prepare for release v0.15.0 (#53)
+- [52da845](https://github.com/kubestash/manifest/commit/52da845) Use forked kubestash/restic (#52)
+- [c11c401](https://github.com/kubestash/manifest/commit/c11c401) Prepare for release v0.15.0-rc.0 (#51)
+- [6dfdf43](https://github.com/kubestash/manifest/commit/6dfdf43) Use forked kubestash/restic (#50)
+- [2ce9452](https://github.com/kubestash/manifest/commit/2ce9452) Use k8s 1.34 client libs (#49)
+- [b5cc2a9](https://github.com/kubestash/manifest/commit/b5cc2a9) Fix makefile indentation (#48)
+- [55ba097](https://github.com/kubestash/manifest/commit/55ba097) Publish Image for Redhat software certification (#47)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.22.0](https://github.com/kubestash/pvc/releases/tag/v0.22.0)
