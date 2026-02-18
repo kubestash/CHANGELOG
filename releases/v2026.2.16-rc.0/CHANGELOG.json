@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-18T01:16:04.688321096Z",
+  "release_date": "2026-02-18T02:06:16.182975129Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.28+",
@@ -151,6 +151,28 @@
             {
               "SHA": "2a6ef12b",
               "Subject": "Prepare for release v0.15.0 (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1b2d13fb",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "3cbdd9c3",
+              "Subject": "Incorporate changes for restic standalone pkg (#75)"
+            },
+            {
+              "SHA": "fcc82269",
+              "Subject": "Prepare for release v0.22.0 (#74)"
             }
           ]
         }

@@ -61,6 +61,16 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.23.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.23.0-rc.0)
+
+- [1b2d13fb](https://github.com/kubestash/pvc/commit/1b2d13fb) Prepare for release v0.23.0-rc.0 (#77)
+- [3cbdd9c3](https://github.com/kubestash/pvc/commit/3cbdd9c3) Incorporate changes for restic standalone pkg (#75)
+- [fcc82269](https://github.com/kubestash/pvc/commit/fcc82269) Prepare for release v0.22.0 (#74)
+
+
+
 ## [kubestash/workload](https://github.com/kubestash/workload)
 
 ### [v0.23.0-rc.0](https://github.com/kubestash/workload/releases/tag/v0.23.0-rc.0)
