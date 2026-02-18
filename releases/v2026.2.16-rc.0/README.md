@@ -28,6 +28,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.2.16-rc.0](https://github.com/kubestash/docs/releases/tag/v2026.2.16-rc.0)
+
+- [8164310](https://github.com/kubestash/docs/commit/8164310) Prepare for release v2026.2.16-rc.0 (#62)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.2.16-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.2.16-rc.0)
