@@ -38,6 +38,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.24.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.24.0-rc.0)
+
+- [83aed086](https://github.com/kubestash/kubestash/commit/83aed086) Prepare for release v0.24.0-rc.0 (#335)
+- [b8d8eef2](https://github.com/kubestash/kubestash/commit/b8d8eef2) Add job get perimission (#331)
+- [f54a784a](https://github.com/kubestash/kubestash/commit/f54a784a) Incorporate changes for restic standalone pkg (#334)
+- [33fce7b2](https://github.com/kubestash/kubestash/commit/33fce7b2) Fix: retentionPolicy pod stuck in pending state (#332)
+- [19a812cb](https://github.com/kubestash/kubestash/commit/19a812cb) Propagate cloud and bucket annotations  (#330)
+- [3bd7fd28](https://github.com/kubestash/kubestash/commit/3bd7fd28) Prepare for release v0.23.0 (#329)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.16.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.16.0-rc.0)
