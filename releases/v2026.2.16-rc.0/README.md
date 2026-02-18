@@ -28,6 +28,16 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.23.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.23.0-rc.0)
+
+- [90556c58](https://github.com/kubestash/kubedump/commit/90556c58) Prepare for release v0.23.0-rc.0 (#77)
+- [fa249783](https://github.com/kubestash/kubedump/commit/fa249783) Incorporate changes for restic standalone pkg (#76)
+- [39b135f5](https://github.com/kubestash/kubedump/commit/39b135f5) Prepare for release v0.22.0 (#74)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.16.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.16.0-rc.0)
