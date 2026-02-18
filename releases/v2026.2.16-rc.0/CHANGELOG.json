@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-18T02:08:46.733823085Z",
+  "release_date": "2026-02-18T02:37:21.745066777Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.28+",
@@ -73,6 +73,32 @@
             {
               "SHA": "2ab275f0",
               "Subject": "Prepare for release v0.22.0 (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.2.16-rc.0",
+          "commits": [
+            {
+              "SHA": "184bb50",
+              "Subject": "Prepare for release v2026.2.16-rc.0 (#292)"
+            },
+            {
+              "SHA": "0cb552b",
+              "Subject": "Update cve report (#291)"
+            },
+            {
+              "SHA": "6e0e180",
+              "Subject": "Update cve report (#290)"
+            },
+            {
+              "SHA": "f4f22fc",
+              "Subject": "Update cve report (#289)"
             }
           ]
         }

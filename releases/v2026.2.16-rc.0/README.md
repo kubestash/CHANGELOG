@@ -28,6 +28,17 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.2.16-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.2.16-rc.0)
+
+- [184bb50](https://github.com/kubestash/installer/commit/184bb50) Prepare for release v2026.2.16-rc.0 (#292)
+- [0cb552b](https://github.com/kubestash/installer/commit/0cb552b) Update cve report (#291)
+- [6e0e180](https://github.com/kubestash/installer/commit/6e0e180) Update cve report (#290)
+- [f4f22fc](https://github.com/kubestash/installer/commit/f4f22fc) Update cve report (#289)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.23.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.23.0-rc.0)
