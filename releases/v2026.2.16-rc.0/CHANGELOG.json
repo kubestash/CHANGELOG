@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-18T01:08:51.359955876Z",
+  "release_date": "2026-02-18T01:09:27.137151013Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.28+",
@@ -51,6 +51,28 @@
             {
               "SHA": "b15af1d8",
               "Subject": "Use image to refer to full docker image (#193)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "507c9ba8",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "019b6bab",
+              "Subject": "Incorporate changes for restic standalone pkg (#77)"
+            },
+            {
+              "SHA": "2ab275f0",
+              "Subject": "Prepare for release v0.22.0 (#75)"
             }
           ]
         }
