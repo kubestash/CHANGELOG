@@ -18,3 +18,13 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.16.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.16.0-rc.0)
+
+- [d1b44811](https://github.com/kubestash/manifest/commit/d1b44811) Prepare for release v0.16.0-rc.0 (#56)
+- [eac26f25](https://github.com/kubestash/manifest/commit/eac26f25) Incorporate changes for restic standalone pkg (#55)
+- [2a6ef12b](https://github.com/kubestash/manifest/commit/2a6ef12b) Prepare for release v0.15.0 (#53)
+
+
+
