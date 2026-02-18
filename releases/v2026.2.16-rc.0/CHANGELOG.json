@@ -1,0 +1,60 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.2.16-rc.0",
+  "release_date": "2026-02-18T00:56:38.203718321Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.2.16-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f43decb5",
+              "Subject": "Update deps (#203)"
+            },
+            {
+              "SHA": "e6004c6a",
+              "Subject": "Introduce `LogRetentionStatus` in the snapshot status (#182)"
+            },
+            {
+              "SHA": "ee2e89dd",
+              "Subject": "Test against k8s 1.35 (#202)"
+            },
+            {
+              "SHA": "9bd2f734",
+              "Subject": "Make restic package as standalone & improve design (#198)"
+            },
+            {
+              "SHA": "0f9b8460",
+              "Subject": "Fix Checksum error issue (#201)"
+            },
+            {
+              "SHA": "958f80fe",
+              "Subject": "Add type and reason for pod pending state (#200)"
+            },
+            {
+              "SHA": "d9bfd689",
+              "Subject": "Test against k8s 1.35 (#197)"
+            },
+            {
+              "SHA": "da2f78e7",
+              "Subject": "Generate annotation for s3 or gcs buckets (#196)"
+            },
+            {
+              "SHA": "98384101",
+              "Subject": "Add cloud annotations (#195)"
+            },
+            {
+              "SHA": "b15af1d8",
+              "Subject": "Use image to refer to full docker image (#193)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
