@@ -22,6 +22,16 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.23.0](https://github.com/kubestash/cli/releases/tag/v0.23.0)
+
+- [118b5869](https://github.com/kubestash/cli/commit/118b5869) Prepare for release v0.23.0 (#80)
+- [507c9ba8](https://github.com/kubestash/cli/commit/507c9ba8) Prepare for release v0.23.0-rc.0 (#78)
+- [019b6bab](https://github.com/kubestash/cli/commit/019b6bab) Incorporate changes for restic standalone pkg (#77)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.23.0](https://github.com/kubestash/kubedump/releases/tag/v0.23.0)
