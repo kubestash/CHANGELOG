@@ -1,0 +1,24 @@
+# KubeStash v2026.2.27 (2026-02-25)
+
+
+## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
+
+### [v0.24.0](https://github.com/kubestash/apimachinery/releases/tag/v0.24.0)
+
+- [b7f693f8](https://github.com/kubestash/apimachinery/commit/b7f693f8) Annotations for GCP IAM values (#209)
+- [0c6bdb31](https://github.com/kubestash/apimachinery/commit/0c6bdb31) Report features via site info (#208)
+- [aabc34e9](https://github.com/kubestash/apimachinery/commit/aabc34e9) Run go fix ./... (#207)
+- [fb24af1c](https://github.com/kubestash/apimachinery/commit/fb24af1c) Fix CVE (#206)
+- [d0b5437e](https://github.com/kubestash/apimachinery/commit/d0b5437e) go fix ./... (#204)
+- [f43decb5](https://github.com/kubestash/apimachinery/commit/f43decb5) Update deps (#203)
+- [e6004c6a](https://github.com/kubestash/apimachinery/commit/e6004c6a) Introduce `LogRetentionStatus` in the snapshot status (#182)
+- [ee2e89dd](https://github.com/kubestash/apimachinery/commit/ee2e89dd) Test against k8s 1.35 (#202)
+- [9bd2f734](https://github.com/kubestash/apimachinery/commit/9bd2f734) Make restic package as standalone & improve design (#198)
+- [0f9b8460](https://github.com/kubestash/apimachinery/commit/0f9b8460) Fix Checksum error issue (#201)
+- [958f80fe](https://github.com/kubestash/apimachinery/commit/958f80fe) Add type and reason for pod pending state (#200)
+- [d9bfd689](https://github.com/kubestash/apimachinery/commit/d9bfd689) Test against k8s 1.35 (#197)
+- [da2f78e7](https://github.com/kubestash/apimachinery/commit/da2f78e7) Generate annotation for s3 or gcs buckets (#196)
+- [98384101](https://github.com/kubestash/apimachinery/commit/98384101) Add cloud annotations (#195)
+
+
+
