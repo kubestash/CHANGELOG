@@ -32,6 +32,22 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.2.27](https://github.com/kubestash/installer/releases/tag/v2026.2.27)
+
+- [d94a613](https://github.com/kubestash/installer/commit/d94a613) Prepare for release v2026.2.27 (#297)
+- [0fd942c](https://github.com/kubestash/installer/commit/0fd942c) Add permission to report features in site info (#296)
+- [b4d6f04](https://github.com/kubestash/installer/commit/b4d6f04) Update cve report (#295)
+- [e114ef7](https://github.com/kubestash/installer/commit/e114ef7) Update cve report (#294)
+- [60e5c76](https://github.com/kubestash/installer/commit/60e5c76) Update cve report (#293)
+- [184bb50](https://github.com/kubestash/installer/commit/184bb50) Prepare for release v2026.2.16-rc.0 (#292)
+- [0cb552b](https://github.com/kubestash/installer/commit/0cb552b) Update cve report (#291)
+- [6e0e180](https://github.com/kubestash/installer/commit/6e0e180) Update cve report (#290)
+- [f4f22fc](https://github.com/kubestash/installer/commit/f4f22fc) Update cve report (#289)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.23.0](https://github.com/kubestash/kubedump/releases/tag/v0.23.0)
