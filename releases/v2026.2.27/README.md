@@ -22,6 +22,17 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.23.0](https://github.com/kubestash/kubedump/releases/tag/v0.23.0)
+
+- [9d5cb936](https://github.com/kubestash/kubedump/commit/9d5cb936) Prepare for release v0.23.0 (#80)
+- [3d28e95b](https://github.com/kubestash/kubedump/commit/3d28e95b) Run go fix ./... (#79)
+- [90556c58](https://github.com/kubestash/kubedump/commit/90556c58) Prepare for release v0.23.0-rc.0 (#77)
+- [fa249783](https://github.com/kubestash/kubedump/commit/fa249783) Incorporate changes for restic standalone pkg (#76)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.23.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.23.0)
