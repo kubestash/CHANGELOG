@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.2.27",
-  "release_date": "2026-02-25T19:17:43.88076187Z",
+  "release_date": "2026-02-25T19:18:13.571691767Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -115,6 +115,44 @@
             {
               "SHA": "fa249783",
               "Subject": "Incorporate changes for restic standalone pkg (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "80892b28",
+              "Subject": "Prepare for release v0.24.0 (#338)"
+            },
+            {
+              "SHA": "76f06837",
+              "Subject": "Run go fix ./... (#337)"
+            },
+            {
+              "SHA": "83aed086",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#335)"
+            },
+            {
+              "SHA": "b8d8eef2",
+              "Subject": "Add job get perimission (#331)"
+            },
+            {
+              "SHA": "f54a784a",
+              "Subject": "Incorporate changes for restic standalone pkg (#334)"
+            },
+            {
+              "SHA": "33fce7b2",
+              "Subject": "Fix: retentionPolicy pod stuck in pending state (#332)"
+            },
+            {
+              "SHA": "19a812cb",
+              "Subject": "Propagate cloud and bucket annotations  (#330)"
             }
           ]
         }
