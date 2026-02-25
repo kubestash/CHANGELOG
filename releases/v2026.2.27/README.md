@@ -33,6 +33,16 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.16.0](https://github.com/kubestash/manifest/releases/tag/v0.16.0)
+
+- [3cfbccae](https://github.com/kubestash/manifest/commit/3cfbccae) Prepare for release v0.16.0 (#58)
+- [d1b44811](https://github.com/kubestash/manifest/commit/d1b44811) Prepare for release v0.16.0-rc.0 (#56)
+- [eac26f25](https://github.com/kubestash/manifest/commit/eac26f25) Incorporate changes for restic standalone pkg (#55)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.23.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.23.0)
