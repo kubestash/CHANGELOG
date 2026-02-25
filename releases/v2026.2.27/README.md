@@ -62,3 +62,13 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.23.0](https://github.com/kubestash/workload/releases/tag/v0.23.0)
+
+- [1cbaadbe](https://github.com/kubestash/workload/commit/1cbaadbe) Prepare for release v0.23.0 (#89)
+- [b9d79bce](https://github.com/kubestash/workload/commit/b9d79bce) Prepare for release v0.23.0-rc.0 (#87)
+- [01db48cf](https://github.com/kubestash/workload/commit/01db48cf) Incorporate changes for restic standalone pkg (#86)
+
+
+
