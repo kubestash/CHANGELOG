@@ -9,6 +9,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.25.0](https://github.com/kubestash/kubedump/releases/tag/v0.25.0)
+
+- [32c60751](https://github.com/kubestash/kubedump/commit/32c60751) Prepare for release v0.25.0 (#82)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.18.0](https://github.com/kubestash/manifest/releases/tag/v0.18.0)
