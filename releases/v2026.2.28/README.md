@@ -9,3 +9,11 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.24.0](https://github.com/kubestash/kubedump/releases/tag/v0.24.0)
+
+- [2dbd9124](https://github.com/kubestash/kubedump/commit/2dbd9124) Prepare for release v0.24.0 (#81)
+
+
+
