@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T10:29:20.620862372Z",
+  "release_date": "2026-02-26T11:17:33.583380043Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -29,6 +29,60 @@
             {
               "SHA": "d78f06e0",
               "Subject": "Prepare for release v0.25.0 (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.2.26",
+          "commits": [
+            {
+              "SHA": "9a556ac",
+              "Subject": "Prepare for release v2026.2.26 (#299)"
+            },
+            {
+              "SHA": "4a33150",
+              "Subject": "Prepare for release v2026.2.28 (#298)"
+            },
+            {
+              "SHA": "d94a613",
+              "Subject": "Prepare for release v2026.2.27 (#297)"
+            },
+            {
+              "SHA": "0fd942c",
+              "Subject": "Add permission to report features in site info (#296)"
+            },
+            {
+              "SHA": "b4d6f04",
+              "Subject": "Update cve report (#295)"
+            },
+            {
+              "SHA": "e114ef7",
+              "Subject": "Update cve report (#294)"
+            },
+            {
+              "SHA": "60e5c76",
+              "Subject": "Update cve report (#293)"
+            },
+            {
+              "SHA": "184bb50",
+              "Subject": "Prepare for release v2026.2.16-rc.0 (#292)"
+            },
+            {
+              "SHA": "0cb552b",
+              "Subject": "Update cve report (#291)"
+            },
+            {
+              "SHA": "6e0e180",
+              "Subject": "Update cve report (#290)"
+            },
+            {
+              "SHA": "f4f22fc",
+              "Subject": "Update cve report (#289)"
             }
           ]
         }
