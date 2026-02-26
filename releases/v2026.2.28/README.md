@@ -17,6 +17,14 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.25.0](https://github.com/kubestash/kubestash/releases/tag/v0.25.0)
+
+- [61976827](https://github.com/kubestash/kubestash/commit/61976827) Prepare for release v0.25.0 (#339)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.17.0](https://github.com/kubestash/manifest/releases/tag/v0.17.0)
