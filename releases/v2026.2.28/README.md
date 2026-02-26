@@ -17,6 +17,14 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.17.0](https://github.com/kubestash/manifest/releases/tag/v0.17.0)
+
+- [bc984261](https://github.com/kubestash/manifest/commit/bc984261) Prepare for release v0.17.0 (#59)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.24.0](https://github.com/kubestash/pvc/releases/tag/v0.24.0)
