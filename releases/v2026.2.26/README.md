@@ -25,6 +25,14 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.26.0](https://github.com/kubestash/kubestash/releases/tag/v0.26.0)
+
+- [b3dd621b](https://github.com/kubestash/kubestash/commit/b3dd621b) Prepare for release v0.26.0 (#340)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.18.0](https://github.com/kubestash/manifest/releases/tag/v0.18.0)
