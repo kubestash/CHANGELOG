@@ -41,3 +41,11 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.24.0](https://github.com/kubestash/workload/releases/tag/v0.24.0)
+
+- [de5b55dc](https://github.com/kubestash/workload/commit/de5b55dc) Prepare for release v0.24.0 (#90)
+
+
+
