@@ -9,6 +9,14 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.25.0](https://github.com/kubestash/cli/releases/tag/v0.25.0)
+
+- [d78f06e0](https://github.com/kubestash/cli/commit/d78f06e0) Prepare for release v0.25.0 (#82)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.25.0](https://github.com/kubestash/kubedump/releases/tag/v0.25.0)
