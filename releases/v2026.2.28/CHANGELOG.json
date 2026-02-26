@@ -1,0 +1,24 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.2.28",
+  "release_date": "2026-02-26T05:14:06.306085431Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.2.28",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "5bff2e6e",
+              "Subject": "Use gomodules.xyz/restic v0.2.0 (#210)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
