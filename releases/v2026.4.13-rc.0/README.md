@@ -37,6 +37,17 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.27.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.27.0-rc.0)
+
+- [4dce7391](https://github.com/kubestash/kubestash/commit/4dce7391) Prepare for release v0.27.0-rc.0 (#351)
+- [144181ed](https://github.com/kubestash/kubestash/commit/144181ed) Update apimachinery and unsuspend job for azure identity binding (#346)
+- [4054ab20](https://github.com/kubestash/kubestash/commit/4054ab20) Update job controller to unsuspend job for AWS credless
+- [084529b5](https://github.com/kubestash/kubestash/commit/084529b5) Give endpointslices permissions (#341)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.19.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.19.0-rc.0)
