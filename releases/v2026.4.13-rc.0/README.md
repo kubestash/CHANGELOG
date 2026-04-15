@@ -36,3 +36,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.26.0-rc.0](https://github.com/kubestash/workload/releases/tag/v0.26.0-rc.0)
+
+- [a6863790](https://github.com/kubestash/workload/commit/a6863790) Prepare for release v0.26.0-rc.0 (#93)
+- [fd2954c8](https://github.com/kubestash/workload/commit/fd2954c8) Incorporate changes for the AWS credless feature
+
+
+
