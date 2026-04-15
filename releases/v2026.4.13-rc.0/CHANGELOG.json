@@ -1,0 +1,64 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.4.13-rc.0",
+  "release_date": "2026-04-15T04:52:08.999799286Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.4.13-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "edb0aa0a",
+              "Subject": "Cleanup CVEs"
+            },
+            {
+              "SHA": "471e1d5b",
+              "Subject": "Add Cloud Annotations for restore session (#226)"
+            },
+            {
+              "SHA": "0532bb60",
+              "Subject": "Fix vendor for restic plugins (#222)"
+            },
+            {
+              "SHA": "ca5351d9",
+              "Subject": "Add credential manger and  cloud annotation methods (#220)"
+            },
+            {
+              "SHA": "65ad1567",
+              "Subject": "Replace azidentity master with beta version (#221)"
+            },
+            {
+              "SHA": "0b73be0b",
+              "Subject": "Update blob & annotations for azure identity binding (#217)"
+            },
+            {
+              "SHA": "d6aff5e5",
+              "Subject": "Test against k8s 1.35 (#218)"
+            },
+            {
+              "SHA": "d106d3eb",
+              "Subject": "Inject S3 credential Manually for IRSA"
+            },
+            {
+              "SHA": "aa7a3c4f",
+              "Subject": "Add ClickHouse Stats"
+            },
+            {
+              "SHA": "d1da8aec",
+              "Subject": "Update aws annotations for seed role (#214)"
+            },
+            {
+              "SHA": "e1b88a14",
+              "Subject": "Update KubeDB and cert-manager (#211)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
