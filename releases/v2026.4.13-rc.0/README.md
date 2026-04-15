@@ -57,6 +57,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.26.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.26.0-rc.0)
+
+- [de896841](https://github.com/kubestash/pvc/commit/de896841) Prepare for release v0.26.0-rc.0 (#83)
+- [b4565d9e](https://github.com/kubestash/pvc/commit/b4565d9e) Incorporate changes for aws credless operation (#82)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.26.0-rc.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.26.0-rc.0)
