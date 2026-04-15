@@ -28,6 +28,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.26.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.26.0-rc.0)
+
+- [7d5d93d3](https://github.com/kubestash/kubedump/commit/7d5d93d3) Prepare for release v0.26.0-rc.0 (#84)
+- [25d059a6](https://github.com/kubestash/kubedump/commit/25d059a6) Incorporate changes for the AWS credless feature (#83)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.26.0-rc.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.26.0-rc.0)

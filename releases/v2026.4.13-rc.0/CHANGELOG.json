@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-15T08:08:09.229983581Z",
+  "release_date": "2026-04-15T08:08:51.334487489Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -73,6 +73,24 @@
             {
               "SHA": "79d4abf0",
               "Subject": "Incorporate changes for the AWS credless feature (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.26.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7d5d93d3",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#84)"
+            },
+            {
+              "SHA": "25d059a6",
+              "Subject": "Incorporate changes for the AWS credless feature (#83)"
             }
           ]
         }
