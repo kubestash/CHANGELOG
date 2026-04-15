@@ -28,6 +28,16 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.4.13-rc.0](https://github.com/kubestash/docs/releases/tag/v2026.4.13-rc.0)
+
+- [65e2d7b](https://github.com/kubestash/docs/commit/65e2d7b) Prepare for release v2026.4.13-rc.0 (#66)
+- [7b87fb1](https://github.com/kubestash/docs/commit/7b87fb1) Prepare for release v2026.2.26 (#65)
+- [5acbcdd](https://github.com/kubestash/docs/commit/5acbcdd) Prepare for release v2026.2.28 (#64)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.4.13-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.4.13-rc.0)
