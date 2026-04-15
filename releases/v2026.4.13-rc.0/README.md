@@ -19,3 +19,12 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.26.0-rc.0](https://github.com/kubestash/cli/releases/tag/v0.26.0-rc.0)
+
+- [b23f01ca](https://github.com/kubestash/cli/commit/b23f01ca) Prepare for release v0.26.0-rc.0 (#89)
+- [79d4abf0](https://github.com/kubestash/cli/commit/79d4abf0) Incorporate changes for the AWS credless feature (#85)
+
+
+
