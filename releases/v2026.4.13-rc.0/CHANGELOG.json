@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-15T15:27:32.63955721Z",
+  "release_date": "2026-04-15T15:42:43.542309162Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -73,6 +73,136 @@
             {
               "SHA": "79d4abf0",
               "Subject": "Incorporate changes for the AWS credless feature (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.4.13-rc.0",
+          "commits": [
+            {
+              "SHA": "c0d134c",
+              "Subject": "Prepare for release v2026.4.13-rc.0 (#330)"
+            },
+            {
+              "SHA": "736ee3a",
+              "Subject": "Update cve report (#329)"
+            },
+            {
+              "SHA": "bd53f74",
+              "Subject": "Update cve report (#328)"
+            },
+            {
+              "SHA": "3636538",
+              "Subject": "Update cve report (#327)"
+            },
+            {
+              "SHA": "0426ac5",
+              "Subject": "Update cve report (#326)"
+            },
+            {
+              "SHA": "b4e6591",
+              "Subject": "Update cve report (#325)"
+            },
+            {
+              "SHA": "ff05930",
+              "Subject": "Update cve report (#324)"
+            },
+            {
+              "SHA": "bf7d377",
+              "Subject": "Update cve report (#323)"
+            },
+            {
+              "SHA": "494bbe1",
+              "Subject": "Update cve report (#322)"
+            },
+            {
+              "SHA": "9c65356",
+              "Subject": "Update cve report (#321)"
+            },
+            {
+              "SHA": "83bc968",
+              "Subject": "Update cve report (#320)"
+            },
+            {
+              "SHA": "1875a58",
+              "Subject": "Update cve report (#319)"
+            },
+            {
+              "SHA": "4d19c59",
+              "Subject": "Update cve report (#318)"
+            },
+            {
+              "SHA": "0c54731",
+              "Subject": "charts/kubestash-operator: rename token secret to metrics-token (#317)"
+            },
+            {
+              "SHA": "7e6ed5d",
+              "Subject": "charts/kubestash-operator: use authorization block with SA token Secret (#316)"
+            },
+            {
+              "SHA": "ecb17c9",
+              "Subject": "Update cve report (#315)"
+            },
+            {
+              "SHA": "4928b5b",
+              "Subject": "Update cve report (#314)"
+            },
+            {
+              "SHA": "01565ae",
+              "Subject": "Update cve report (#313)"
+            },
+            {
+              "SHA": "a842676",
+              "Subject": "Update cve report (#312)"
+            },
+            {
+              "SHA": "8dc1f4e",
+              "Subject": "Update cve report (#311)"
+            },
+            {
+              "SHA": "7ea16e3",
+              "Subject": "Update sub charts w/ cert-manager support (#310)"
+            },
+            {
+              "SHA": "2825f41",
+              "Subject": "Fix CVEs (#309)"
+            },
+            {
+              "SHA": "365aa34",
+              "Subject": "Unset runAsUser fields in securityContext (#308)"
+            },
+            {
+              "SHA": "de5b698",
+              "Subject": "Add cert-manager CRD import for kubestash-operator chart (#307)"
+            },
+            {
+              "SHA": "ccc1d03",
+              "Subject": "Add cert-manager option for kubestash-operator serving certs (#306)"
+            },
+            {
+              "SHA": "6bbfb61",
+              "Subject": "Add EndpointSlice rbac permission (#304)"
+            },
+            {
+              "SHA": "cda1d77",
+              "Subject": "Update cve report (#302)"
+            },
+            {
+              "SHA": "2a105a5",
+              "Subject": "Update cve report (#301)"
+            },
+            {
+              "SHA": "610c0c1",
+              "Subject": "Update cve report (#300)"
+            },
+            {
+              "SHA": "9a556ac",
+              "Subject": "Prepare for release v2026.2.26 (#299)"
             }
           ]
         }
