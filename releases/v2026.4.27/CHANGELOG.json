@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T09:51:28.900087024Z",
+  "release_date": "2026-04-22T09:52:42.865649665Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -93,6 +93,24 @@
             {
               "SHA": "25d059a6",
               "Subject": "Incorporate changes for the AWS credless feature (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "a15200f3",
+              "Subject": "Prepare for release v0.26.0 (#73)"
+            },
+            {
+              "SHA": "d782a3b8",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#72)"
             }
           ]
         }
