@@ -22,3 +22,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.26.0](https://github.com/kubestash/kubedump/releases/tag/v0.26.0)
+
+- [1ad012f3](https://github.com/kubestash/kubedump/commit/1ad012f3) Prepare for release v0.26.0 (#87)
+- [8070801d](https://github.com/kubestash/kubedump/commit/8070801d) Bump RESTIC_VERSION to 0.18.1-20260421 (#86)
+- [7d5d93d3](https://github.com/kubestash/kubedump/commit/7d5d93d3) Prepare for release v0.26.0-rc.0 (#84)
+- [25d059a6](https://github.com/kubestash/kubedump/commit/25d059a6) Incorporate changes for the AWS credless feature (#83)
+
+
+
