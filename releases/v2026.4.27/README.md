@@ -44,6 +44,17 @@
 
 
 
+## [kubestash/vault](https://github.com/kubestash/vault)
+
+### [v0.1.0](https://github.com/kubestash/vault/releases/tag/v0.1.0)
+
+- [9e64034](https://github.com/kubestash/vault/commit/9e64034) Prepare for release v0.1.0 (#6)
+- [0d0b854](https://github.com/kubestash/vault/commit/0d0b854) Bump RESTIC_VERSION to 0.18.1-20260421 (#5)
+- [855f3cd](https://github.com/kubestash/vault/commit/855f3cd) Change Repo Name to Vault Only
+- [f83f17b](https://github.com/kubestash/vault/commit/f83f17b) Add vault restic backup / restore support for Postgres, Raft
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.26.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.26.0)
