@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T09:54:58.274140392Z",
+  "release_date": "2026-04-22T09:57:11.8903432Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -67,6 +67,32 @@
             {
               "SHA": "e1b88a14",
               "Subject": "Update KubeDB and cert-manager (#211)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "afd774ae",
+              "Subject": "Prepare for release v0.26.0 (#92)"
+            },
+            {
+              "SHA": "818f5b5b",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#91)"
+            },
+            {
+              "SHA": "b23f01ca",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#89)"
+            },
+            {
+              "SHA": "79d4abf0",
+              "Subject": "Incorporate changes for the AWS credless feature (#85)"
             }
           ]
         }
