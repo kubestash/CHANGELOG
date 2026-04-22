@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T09:54:16.755855012Z",
+  "release_date": "2026-04-22T09:54:58.274140392Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -93,6 +93,44 @@
             {
               "SHA": "25d059a6",
               "Subject": "Incorporate changes for the AWS credless feature (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "e1f0ea20",
+              "Subject": "Prepare for release v0.27.0 (#355)"
+            },
+            {
+              "SHA": "293d9ee8",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#354)"
+            },
+            {
+              "SHA": "1cb336cd",
+              "Subject": "Set Condition if retention policy Job failed (#353)"
+            },
+            {
+              "SHA": "4dce7391",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#351)"
+            },
+            {
+              "SHA": "144181ed",
+              "Subject": "Update apimachinery and unsuspend job for azure identity binding (#346)"
+            },
+            {
+              "SHA": "4054ab20",
+              "Subject": "Update job controller to unsuspend job for AWS credless"
+            },
+            {
+              "SHA": "084529b5",
+              "Subject": "Give endpointslices permissions (#341)"
             }
           ]
         }
