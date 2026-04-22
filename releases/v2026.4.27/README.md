@@ -42,3 +42,14 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.26.0](https://github.com/kubestash/workload/releases/tag/v0.26.0)
+
+- [124338d3](https://github.com/kubestash/workload/commit/124338d3) Prepare for release v0.26.0 (#96)
+- [f5f20801](https://github.com/kubestash/workload/commit/f5f20801) Bump RESTIC_VERSION to 0.18.1-20260421 (#95)
+- [a6863790](https://github.com/kubestash/workload/commit/a6863790) Prepare for release v0.26.0-rc.0 (#93)
+- [fd2954c8](https://github.com/kubestash/workload/commit/fd2954c8) Incorporate changes for the AWS credless feature
+
+
+
