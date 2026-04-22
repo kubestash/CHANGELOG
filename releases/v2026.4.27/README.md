@@ -33,6 +33,47 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.4.27](https://github.com/kubestash/installer/releases/tag/v2026.4.27)
+
+- [be30ec9](https://github.com/kubestash/installer/commit/be30ec9) Prepare for release v2026.4.27 (#334)
+- [940fa7d](https://github.com/kubestash/installer/commit/940fa7d) Update cve report (#333)
+- [027732e](https://github.com/kubestash/installer/commit/027732e) Add vault backup/restore addon, functions, clusterRole (#332)
+- [de3ba8d](https://github.com/kubestash/installer/commit/de3ba8d) Update cve report (#331)
+- [c0d134c](https://github.com/kubestash/installer/commit/c0d134c) Prepare for release v2026.4.13-rc.0 (#330)
+- [736ee3a](https://github.com/kubestash/installer/commit/736ee3a) Update cve report (#329)
+- [bd53f74](https://github.com/kubestash/installer/commit/bd53f74) Update cve report (#328)
+- [3636538](https://github.com/kubestash/installer/commit/3636538) Update cve report (#327)
+- [0426ac5](https://github.com/kubestash/installer/commit/0426ac5) Update cve report (#326)
+- [b4e6591](https://github.com/kubestash/installer/commit/b4e6591) Update cve report (#325)
+- [ff05930](https://github.com/kubestash/installer/commit/ff05930) Update cve report (#324)
+- [bf7d377](https://github.com/kubestash/installer/commit/bf7d377) Update cve report (#323)
+- [494bbe1](https://github.com/kubestash/installer/commit/494bbe1) Update cve report (#322)
+- [9c65356](https://github.com/kubestash/installer/commit/9c65356) Update cve report (#321)
+- [83bc968](https://github.com/kubestash/installer/commit/83bc968) Update cve report (#320)
+- [1875a58](https://github.com/kubestash/installer/commit/1875a58) Update cve report (#319)
+- [4d19c59](https://github.com/kubestash/installer/commit/4d19c59) Update cve report (#318)
+- [0c54731](https://github.com/kubestash/installer/commit/0c54731) charts/kubestash-operator: rename token secret to metrics-token (#317)
+- [7e6ed5d](https://github.com/kubestash/installer/commit/7e6ed5d) charts/kubestash-operator: use authorization block with SA token Secret (#316)
+- [ecb17c9](https://github.com/kubestash/installer/commit/ecb17c9) Update cve report (#315)
+- [4928b5b](https://github.com/kubestash/installer/commit/4928b5b) Update cve report (#314)
+- [01565ae](https://github.com/kubestash/installer/commit/01565ae) Update cve report (#313)
+- [a842676](https://github.com/kubestash/installer/commit/a842676) Update cve report (#312)
+- [8dc1f4e](https://github.com/kubestash/installer/commit/8dc1f4e) Update cve report (#311)
+- [7ea16e3](https://github.com/kubestash/installer/commit/7ea16e3) Update sub charts w/ cert-manager support (#310)
+- [2825f41](https://github.com/kubestash/installer/commit/2825f41) Fix CVEs (#309)
+- [365aa34](https://github.com/kubestash/installer/commit/365aa34) Unset runAsUser fields in securityContext (#308)
+- [de5b698](https://github.com/kubestash/installer/commit/de5b698) Add cert-manager CRD import for kubestash-operator chart (#307)
+- [ccc1d03](https://github.com/kubestash/installer/commit/ccc1d03) Add cert-manager option for kubestash-operator serving certs (#306)
+- [6bbfb61](https://github.com/kubestash/installer/commit/6bbfb61) Add EndpointSlice rbac permission (#304)
+- [cda1d77](https://github.com/kubestash/installer/commit/cda1d77) Update cve report (#302)
+- [2a105a5](https://github.com/kubestash/installer/commit/2a105a5) Update cve report (#301)
+- [610c0c1](https://github.com/kubestash/installer/commit/610c0c1) Update cve report (#300)
+- [9a556ac](https://github.com/kubestash/installer/commit/9a556ac) Prepare for release v2026.2.26 (#299)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.26.0](https://github.com/kubestash/kubedump/releases/tag/v0.26.0)
