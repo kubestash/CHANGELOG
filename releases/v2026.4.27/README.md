@@ -33,6 +33,17 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.19.0](https://github.com/kubestash/manifest/releases/tag/v0.19.0)
+
+- [ea51d5ed](https://github.com/kubestash/manifest/commit/ea51d5ed) Prepare for release v0.19.0 (#65)
+- [2d51179e](https://github.com/kubestash/manifest/commit/2d51179e) Bump RESTIC_VERSION to 0.18.1-20260421 (#64)
+- [a2927d49](https://github.com/kubestash/manifest/commit/a2927d49) Prepare for release v0.19.0-rc.0 (#62)
+- [42ac18cf](https://github.com/kubestash/manifest/commit/42ac18cf) Incorporate changes for the AWS credless feature (#61)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.26.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.26.0)
