@@ -55,6 +55,19 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.20.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.20.0-rc.0)
+
+- [5a77d020](https://github.com/kubestash/manifest/commit/5a77d020) Prepare for release v0.20.0-rc.0 (#69)
+- [6ab52d94](https://github.com/kubestash/manifest/commit/6ab52d94) Add CLAUDE.md pointing to AGENTS.md
+- [6a59c1db](https://github.com/kubestash/manifest/commit/6a59c1db) Add AGENTS.md (#68)
+- [624ce1be](https://github.com/kubestash/manifest/commit/624ce1be) Harden CI workflows (#67)
+- [ea51d5ed](https://github.com/kubestash/manifest/commit/ea51d5ed) Prepare for release v0.19.0 (#65)
+- [2d51179e](https://github.com/kubestash/manifest/commit/2d51179e) Bump RESTIC_VERSION to 0.18.1-20260421 (#64)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.27.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.27.0-rc.0)

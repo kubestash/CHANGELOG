@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-18T18:26:56.749653031Z",
+  "release_date": "2026-05-18T18:27:03.037605289Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -145,6 +145,40 @@
             {
               "SHA": "1cb336cd",
               "Subject": "Set Condition if retention policy Job failed (#353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5a77d020",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "6ab52d94",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "6a59c1db",
+              "Subject": "Add AGENTS.md (#68)"
+            },
+            {
+              "SHA": "624ce1be",
+              "Subject": "Harden CI workflows (#67)"
+            },
+            {
+              "SHA": "ea51d5ed",
+              "Subject": "Prepare for release v0.19.0 (#65)"
+            },
+            {
+              "SHA": "2d51179e",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#64)"
             }
           ]
         }
