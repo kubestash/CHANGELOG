@@ -27,3 +27,15 @@
 
 
 
+## [kubestash/vault](https://github.com/kubestash/vault)
+
+### [v0.2.0-rc.0](https://github.com/kubestash/vault/releases/tag/v0.2.0-rc.0)
+
+- [5a75c93](https://github.com/kubestash/vault/commit/5a75c93) Prepare for release v0.2.0-rc.0 (#9)
+- [87ff5ea](https://github.com/kubestash/vault/commit/87ff5ea) Harden CI workflows (#8)
+- [32c3c24](https://github.com/kubestash/vault/commit/32c3c24) Fix docker Entrypoint
+- [9e64034](https://github.com/kubestash/vault/commit/9e64034) Prepare for release v0.1.0 (#6)
+- [0d0b854](https://github.com/kubestash/vault/commit/0d0b854) Bump RESTIC_VERSION to 0.18.1-20260421 (#5)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-18T18:20:50.538484126Z",
+  "release_date": "2026-05-18T18:21:10.637827746Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -69,6 +69,36 @@
             {
               "SHA": "f84c778f",
               "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5a75c93",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#9)"
+            },
+            {
+              "SHA": "87ff5ea",
+              "Subject": "Harden CI workflows (#8)"
+            },
+            {
+              "SHA": "32c3c24",
+              "Subject": "Fix docker Entrypoint"
+            },
+            {
+              "SHA": "9e64034",
+              "Subject": "Prepare for release v0.1.0 (#6)"
+            },
+            {
+              "SHA": "0d0b854",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#5)"
             }
           ]
         }
