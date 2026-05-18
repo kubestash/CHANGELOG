@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-18T18:24:48.264954319Z",
+  "release_date": "2026-05-18T18:25:41.753096936Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -167,6 +167,36 @@
             {
               "SHA": "0d0b854",
               "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d970b2d0",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "abfaa512",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "43682b88",
+              "Subject": "Add AGENTS.md (#76)"
+            },
+            {
+              "SHA": "2f5685aa",
+              "Subject": "Harden CI workflows (#75)"
+            },
+            {
+              "SHA": "a15200f3",
+              "Subject": "Prepare for release v0.26.0 (#73)"
             }
           ]
         }
