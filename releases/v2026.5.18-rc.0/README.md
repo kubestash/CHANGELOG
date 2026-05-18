@@ -65,3 +65,16 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.27.0-rc.0](https://github.com/kubestash/workload/releases/tag/v0.27.0-rc.0)
+
+- [e7622298](https://github.com/kubestash/workload/commit/e7622298) Prepare for release v0.27.0-rc.0 (#100)
+- [6d56a144](https://github.com/kubestash/workload/commit/6d56a144) Add CLAUDE.md pointing to AGENTS.md
+- [03cc19e7](https://github.com/kubestash/workload/commit/03cc19e7) Add AGENTS.md (#99)
+- [1cd1314d](https://github.com/kubestash/workload/commit/1cd1314d) Harden CI workflows (#98)
+- [124338d3](https://github.com/kubestash/workload/commit/124338d3) Prepare for release v0.26.0 (#96)
+- [f5f20801](https://github.com/kubestash/workload/commit/f5f20801) Bump RESTIC_VERSION to 0.18.1-20260421 (#95)
+
+
+
