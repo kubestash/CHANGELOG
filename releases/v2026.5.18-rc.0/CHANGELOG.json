@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.5.18-rc.0",
+  "release_date": "2026-05-18T14:00:58.94931287Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.5.18-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "54445516",
+              "Subject": "Add AGENTS.md (#237)"
+            },
+            {
+              "SHA": "41bc2438",
+              "Subject": "Harden CI workflows (#235)"
+            },
+            {
+              "SHA": "a8c23c8d",
+              "Subject": "Add wal backup support for azure credless mode (#229)"
+            },
+            {
+              "SHA": "15ef11cd",
+              "Subject": "Bug fix for AzureFederatedTokenFile check (#228)"
+            },
+            {
+              "SHA": "81617867",
+              "Subject": "Configure dependabot refresh schedule (#227)"
+            },
+            {
+              "SHA": "df6625c5",
+              "Subject": "Cleanup CVEs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
