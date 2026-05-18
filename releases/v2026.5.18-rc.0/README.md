@@ -14,6 +14,19 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.27.0-rc.0](https://github.com/kubestash/cli/releases/tag/v0.27.0-rc.0)
+
+- [3cb9e0ea](https://github.com/kubestash/cli/commit/3cb9e0ea) Prepare for release v0.27.0-rc.0 (#96)
+- [e3829bc2](https://github.com/kubestash/cli/commit/e3829bc2) Add CLAUDE.md pointing to AGENTS.md
+- [efe6839d](https://github.com/kubestash/cli/commit/efe6839d) Add AGENTS.md (#95)
+- [c54281f7](https://github.com/kubestash/cli/commit/c54281f7) Harden CI workflows (#94)
+- [afd774ae](https://github.com/kubestash/cli/commit/afd774ae) Prepare for release v0.26.0 (#92)
+- [818f5b5b](https://github.com/kubestash/cli/commit/818f5b5b) Bump RESTIC_VERSION to 0.18.1-20260421 (#91)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.27.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.27.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-18T18:21:10.637827746Z",
+  "release_date": "2026-05-18T18:21:58.411229523Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -35,6 +35,40 @@
             {
               "SHA": "df6625c5",
               "Subject": "Cleanup CVEs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3cb9e0ea",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#96)"
+            },
+            {
+              "SHA": "e3829bc2",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "efe6839d",
+              "Subject": "Add AGENTS.md (#95)"
+            },
+            {
+              "SHA": "c54281f7",
+              "Subject": "Harden CI workflows (#94)"
+            },
+            {
+              "SHA": "afd774ae",
+              "Subject": "Prepare for release v0.26.0 (#92)"
+            },
+            {
+              "SHA": "818f5b5b",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#91)"
             }
           ]
         }
