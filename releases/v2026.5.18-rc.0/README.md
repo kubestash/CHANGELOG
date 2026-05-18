@@ -40,6 +40,21 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.28.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.28.0-rc.0)
+
+- [d4f0312f](https://github.com/kubestash/kubestash/commit/d4f0312f) Prepare for release v0.28.0-rc.0 (#361)
+- [dc81c8ab](https://github.com/kubestash/kubestash/commit/dc81c8ab) Add CLAUDE.md pointing to AGENTS.md
+- [2a4c7d2f](https://github.com/kubestash/kubestash/commit/2a4c7d2f) Add AGENTS.md (#360)
+- [dcbb855f](https://github.com/kubestash/kubestash/commit/dcbb855f) Harden CI workflows (#359)
+- [c6e91ff7](https://github.com/kubestash/kubestash/commit/c6e91ff7) Give RBAC Permission for Vault (#356)
+- [e1f0ea20](https://github.com/kubestash/kubestash/commit/e1f0ea20) Prepare for release v0.27.0 (#355)
+- [293d9ee8](https://github.com/kubestash/kubestash/commit/293d9ee8) Bump RESTIC_VERSION to 0.18.1-20260421 (#354)
+- [1cb336cd](https://github.com/kubestash/kubestash/commit/1cb336cd) Set Condition if retention policy Job failed (#353)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.27.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.27.0-rc.0)
