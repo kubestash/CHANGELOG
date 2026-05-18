@@ -14,3 +14,16 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.27.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.27.0-rc.0)
+
+- [f8085237](https://github.com/kubestash/pvc/commit/f8085237) Prepare for release v0.27.0-rc.0 (#92)
+- [4a75a698](https://github.com/kubestash/pvc/commit/4a75a698) Add CLAUDE.md pointing to AGENTS.md
+- [5a5ac911](https://github.com/kubestash/pvc/commit/5a5ac911) Add AGENTS.md (#91)
+- [c653a576](https://github.com/kubestash/pvc/commit/c653a576) Harden CI workflows (#90)
+- [53a4a0e9](https://github.com/kubestash/pvc/commit/53a4a0e9) Prepare for release v0.26.0 (#87)
+- [f84c778f](https://github.com/kubestash/pvc/commit/f84c778f) Bump RESTIC_VERSION to 0.18.1-20260421 (#86)
+
+
+
