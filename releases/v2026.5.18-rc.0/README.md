@@ -27,6 +27,19 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.27.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.27.0-rc.0)
+
+- [813646cd](https://github.com/kubestash/kubedump/commit/813646cd) Prepare for release v0.27.0-rc.0 (#91)
+- [74c76a73](https://github.com/kubestash/kubedump/commit/74c76a73) Add CLAUDE.md pointing to AGENTS.md
+- [c80250fd](https://github.com/kubestash/kubedump/commit/c80250fd) Add AGENTS.md (#90)
+- [15603b29](https://github.com/kubestash/kubedump/commit/15603b29) Harden CI workflows (#89)
+- [1ad012f3](https://github.com/kubestash/kubedump/commit/1ad012f3) Prepare for release v0.26.0 (#87)
+- [8070801d](https://github.com/kubestash/kubedump/commit/8070801d) Bump RESTIC_VERSION to 0.18.1-20260421 (#86)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.27.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.27.0-rc.0)
