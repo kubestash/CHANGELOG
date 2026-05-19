@@ -27,6 +27,15 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.5.18-rc.0](https://github.com/kubestash/docs/releases/tag/v2026.5.18-rc.0)
+
+- [3eb90a5](https://github.com/kubestash/docs/commit/3eb90a5) Prepare for release v2026.5.18-rc.0 (#71)
+- [3aacf47](https://github.com/kubestash/docs/commit/3aacf47) Harden CI workflows (#69)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.5.18-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.5.18-rc.0)
