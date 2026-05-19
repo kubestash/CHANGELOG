@@ -1,0 +1,352 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.5.18-rc.0",
+  "release_date": "2026-05-19T14:40:05.565789012Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.5.18-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "54445516",
+              "Subject": "Add AGENTS.md (#237)"
+            },
+            {
+              "SHA": "41bc2438",
+              "Subject": "Harden CI workflows (#235)"
+            },
+            {
+              "SHA": "a8c23c8d",
+              "Subject": "Add wal backup support for azure credless mode (#229)"
+            },
+            {
+              "SHA": "15ef11cd",
+              "Subject": "Bug fix for AzureFederatedTokenFile check (#228)"
+            },
+            {
+              "SHA": "81617867",
+              "Subject": "Configure dependabot refresh schedule (#227)"
+            },
+            {
+              "SHA": "df6625c5",
+              "Subject": "Cleanup CVEs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3cb9e0ea",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#96)"
+            },
+            {
+              "SHA": "e3829bc2",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "efe6839d",
+              "Subject": "Add AGENTS.md (#95)"
+            },
+            {
+              "SHA": "c54281f7",
+              "Subject": "Harden CI workflows (#94)"
+            },
+            {
+              "SHA": "afd774ae",
+              "Subject": "Prepare for release v0.26.0 (#92)"
+            },
+            {
+              "SHA": "818f5b5b",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.0",
+          "commits": [
+            {
+              "SHA": "3eb90a5",
+              "Subject": "Prepare for release v2026.5.18-rc.0 (#71)"
+            },
+            {
+              "SHA": "3aacf47",
+              "Subject": "Harden CI workflows (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.0",
+          "commits": [
+            {
+              "SHA": "6453c9d",
+              "Subject": "Prepare for release v2026.5.18-rc.0 (#345)"
+            },
+            {
+              "SHA": "179c8de",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "813646cd",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "74c76a73",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "c80250fd",
+              "Subject": "Add AGENTS.md (#90)"
+            },
+            {
+              "SHA": "15603b29",
+              "Subject": "Harden CI workflows (#89)"
+            },
+            {
+              "SHA": "1ad012f3",
+              "Subject": "Prepare for release v0.26.0 (#87)"
+            },
+            {
+              "SHA": "8070801d",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d4f0312f",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#361)"
+            },
+            {
+              "SHA": "dc81c8ab",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "2a4c7d2f",
+              "Subject": "Add AGENTS.md (#360)"
+            },
+            {
+              "SHA": "dcbb855f",
+              "Subject": "Harden CI workflows (#359)"
+            },
+            {
+              "SHA": "c6e91ff7",
+              "Subject": "Give RBAC Permission for Vault (#356)"
+            },
+            {
+              "SHA": "e1f0ea20",
+              "Subject": "Prepare for release v0.27.0 (#355)"
+            },
+            {
+              "SHA": "293d9ee8",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#354)"
+            },
+            {
+              "SHA": "1cb336cd",
+              "Subject": "Set Condition if retention policy Job failed (#353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5a77d020",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "6ab52d94",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "6a59c1db",
+              "Subject": "Add AGENTS.md (#68)"
+            },
+            {
+              "SHA": "624ce1be",
+              "Subject": "Harden CI workflows (#67)"
+            },
+            {
+              "SHA": "ea51d5ed",
+              "Subject": "Prepare for release v0.19.0 (#65)"
+            },
+            {
+              "SHA": "2d51179e",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f8085237",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#92)"
+            },
+            {
+              "SHA": "4a75a698",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "5a5ac911",
+              "Subject": "Add AGENTS.md (#91)"
+            },
+            {
+              "SHA": "c653a576",
+              "Subject": "Harden CI workflows (#90)"
+            },
+            {
+              "SHA": "53a4a0e9",
+              "Subject": "Prepare for release v0.26.0 (#87)"
+            },
+            {
+              "SHA": "f84c778f",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5a75c93",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#9)"
+            },
+            {
+              "SHA": "87ff5ea",
+              "Subject": "Harden CI workflows (#8)"
+            },
+            {
+              "SHA": "32c3c24",
+              "Subject": "Fix docker Entrypoint"
+            },
+            {
+              "SHA": "9e64034",
+              "Subject": "Prepare for release v0.1.0 (#6)"
+            },
+            {
+              "SHA": "0d0b854",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d970b2d0",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "abfaa512",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "43682b88",
+              "Subject": "Add AGENTS.md (#76)"
+            },
+            {
+              "SHA": "2f5685aa",
+              "Subject": "Harden CI workflows (#75)"
+            },
+            {
+              "SHA": "a15200f3",
+              "Subject": "Prepare for release v0.26.0 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e7622298",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "6d56a144",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "03cc19e7",
+              "Subject": "Add AGENTS.md (#99)"
+            },
+            {
+              "SHA": "1cd1314d",
+              "Subject": "Harden CI workflows (#98)"
+            },
+            {
+              "SHA": "124338d3",
+              "Subject": "Prepare for release v0.26.0 (#96)"
+            },
+            {
+              "SHA": "f5f20801",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#95)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
