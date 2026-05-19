@@ -1,4 +1,4 @@
-# KubeStash v2026.5.18-rc.0 (2026-05-18)
+# KubeStash v2026.5.18-rc.0 (2026-05-19)
 
 
 ## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
@@ -24,6 +24,15 @@
 - [c54281f7](https://github.com/kubestash/cli/commit/c54281f7) Harden CI workflows (#94)
 - [afd774ae](https://github.com/kubestash/cli/commit/afd774ae) Prepare for release v0.26.0 (#92)
 - [818f5b5b](https://github.com/kubestash/cli/commit/818f5b5b) Bump RESTIC_VERSION to 0.18.1-20260421 (#91)
+
+
+
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.5.18-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.5.18-rc.0)
+
+- [6453c9d](https://github.com/kubestash/installer/commit/6453c9d) Prepare for release v2026.5.18-rc.0 (#345)
+- [179c8de](https://github.com/kubestash/installer/commit/179c8de) Add CLAUDE.md pointing to AGENTS.md
 
 
 

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-18T18:27:03.037605289Z",
+  "release_date": "2026-05-19T14:13:53.902333432Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -69,6 +69,24 @@
             {
               "SHA": "818f5b5b",
               "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.0",
+          "commits": [
+            {
+              "SHA": "6453c9d",
+              "Subject": "Prepare for release v2026.5.18-rc.0 (#345)"
+            },
+            {
+              "SHA": "179c8de",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
             }
           ]
         }
