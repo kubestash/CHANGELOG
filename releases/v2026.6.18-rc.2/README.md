@@ -15,6 +15,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.27.0-rc.2](https://github.com/kubestash/kubedump/releases/tag/v0.27.0-rc.2)
+
+- [a87ce1d7](https://github.com/kubestash/kubedump/commit/a87ce1d7) Prepare for release v0.27.0-rc.2 (#96)
+- [3c5bec08](https://github.com/kubestash/kubedump/commit/3c5bec08) Add Backup & Restore Progress Streaming (#95)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.27.0-rc.2](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.27.0-rc.2)

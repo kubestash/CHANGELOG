@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-17T18:01:12.165204308Z",
+  "release_date": "2026-06-17T18:02:03.33120517Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -39,6 +39,24 @@
             {
               "SHA": "d5787deb",
               "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a87ce1d7",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#96)"
+            },
+            {
+              "SHA": "3c5bec08",
+              "Subject": "Add Backup & Restore Progress Streaming (#95)"
             }
           ]
         }
