@@ -24,6 +24,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.27.0-rc.2](https://github.com/kubestash/pvc/releases/tag/v0.27.0-rc.2)
+
+- [5401cafc](https://github.com/kubestash/pvc/commit/5401cafc) Prepare for release v0.27.0-rc.2 (#93)
+- [7d35b81d](https://github.com/kubestash/pvc/commit/7d35b81d) Add Backup & Restore Progress Streaming (#88)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.27.0-rc.2](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.27.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-17T18:02:03.33120517Z",
+  "release_date": "2026-06-17T18:02:20.281823085Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -57,6 +57,24 @@
             {
               "SHA": "3c5bec08",
               "Subject": "Add Backup & Restore Progress Streaming (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5401cafc",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#93)"
+            },
+            {
+              "SHA": "7d35b81d",
+              "Subject": "Add Backup & Restore Progress Streaming (#88)"
             }
           ]
         }
