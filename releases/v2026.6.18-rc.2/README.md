@@ -41,3 +41,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.27.0-rc.2](https://github.com/kubestash/workload/releases/tag/v0.27.0-rc.2)
+
+- [3d571a3d](https://github.com/kubestash/workload/commit/3d571a3d) Prepare for release v0.27.0-rc.2 (#104)
+- [2488fbb7](https://github.com/kubestash/workload/commit/2488fbb7) Add Backup & Restore Progress Streaming (#103)
+
+
+
