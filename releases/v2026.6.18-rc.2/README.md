@@ -24,6 +24,15 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.20.0-rc.2](https://github.com/kubestash/manifest/releases/tag/v0.20.0-rc.2)
+
+- [8e1922f1](https://github.com/kubestash/manifest/commit/8e1922f1) Prepare for release v0.20.0-rc.2 (#72)
+- [6b66a2e4](https://github.com/kubestash/manifest/commit/6b66a2e4) Add Backup & Restore Progress Streaming (#71)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.27.0-rc.2](https://github.com/kubestash/pvc/releases/tag/v0.27.0-rc.2)
