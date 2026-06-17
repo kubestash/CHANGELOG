@@ -24,6 +24,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.28.0-rc.2](https://github.com/kubestash/kubestash/releases/tag/v0.28.0-rc.2)
+
+- [8b46cb0f](https://github.com/kubestash/kubestash/commit/8b46cb0f) Prepare for release v0.28.0-rc.2 (#370)
+- [75e18ed2](https://github.com/kubestash/kubestash/commit/75e18ed2) Fix Restic Repository Integrity Issue Skylotec (#369)
+- [7fe53c55](https://github.com/kubestash/kubestash/commit/7fe53c55) Incorporate with API changes (#368)
+- [5f80e378](https://github.com/kubestash/kubestash/commit/5f80e378) Pin openshift-preflight version in release workflow (#365)
+- [78e9dc7c](https://github.com/kubestash/kubestash/commit/78e9dc7c) Document why Dockerfile.dbg keeps root user (#367)
+- [9be833f1](https://github.com/kubestash/kubestash/commit/9be833f1) Remove duplicate NewCmdDownload registration (#363)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.20.0-rc.2](https://github.com/kubestash/manifest/releases/tag/v0.20.0-rc.2)

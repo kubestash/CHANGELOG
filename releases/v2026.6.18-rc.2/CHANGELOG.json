@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-17T18:03:38.195692658Z",
+  "release_date": "2026-06-17T18:04:51.280210666Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -57,6 +57,40 @@
             {
               "SHA": "3c5bec08",
               "Subject": "Add Backup & Restore Progress Streaming (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.2",
+          "commits": [
+            {
+              "SHA": "8b46cb0f",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#370)"
+            },
+            {
+              "SHA": "75e18ed2",
+              "Subject": "Fix Restic Repository Integrity Issue Skylotec (#369)"
+            },
+            {
+              "SHA": "7fe53c55",
+              "Subject": "Incorporate with API changes (#368)"
+            },
+            {
+              "SHA": "5f80e378",
+              "Subject": "Pin openshift-preflight version in release workflow (#365)"
+            },
+            {
+              "SHA": "78e9dc7c",
+              "Subject": "Document why Dockerfile.dbg keeps root user (#367)"
+            },
+            {
+              "SHA": "9be833f1",
+              "Subject": "Remove duplicate NewCmdDownload registration (#363)"
             }
           ]
         }
