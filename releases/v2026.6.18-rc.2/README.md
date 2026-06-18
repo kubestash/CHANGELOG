@@ -23,6 +23,16 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.6.18-rc.2](https://github.com/kubestash/docs/releases/tag/v2026.6.18-rc.2)
+
+- [0274e70](https://github.com/kubestash/docs/commit/0274e70) Prepare for release v2026.6.18-rc.2 (#84)
+- [42dcce3](https://github.com/kubestash/docs/commit/42dcce3) Convert absolute kubestash.com doc links to relative internal links (#82)
+- [544ee04](https://github.com/kubestash/docs/commit/544ee04) Fix broken install links
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.6.18-rc.2](https://github.com/kubestash/installer/releases/tag/v2026.6.18-rc.2)
