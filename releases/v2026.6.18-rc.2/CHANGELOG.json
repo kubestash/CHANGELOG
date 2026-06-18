@@ -1,0 +1,236 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.6.18-rc.2",
+  "release_date": "2026-06-18T06:09:47.101458041Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.6.18-rc.2",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.2",
+          "commits": [
+            {
+              "SHA": "d4ad6ef7",
+              "Subject": "Snapshot/Restoresession Failed if one component Failed (#243)"
+            },
+            {
+              "SHA": "f0e134f9",
+              "Subject": "Add Progress structure in snapshot & restoresession status (#232)"
+            },
+            {
+              "SHA": "f6141bc6",
+              "Subject": "Bump go.bytebuilders.dev/audit to v0.0.52 (#241)"
+            },
+            {
+              "SHA": "6f7a74e0",
+              "Subject": "Update go.bytebuilders.dev/audit to v0.0.51 (#240)"
+            },
+            {
+              "SHA": "165cb08b",
+              "Subject": "Add Stream Reader for Download & Upload (#239)"
+            },
+            {
+              "SHA": "1d30072d",
+              "Subject": "Add ClickHouse Manifest (#233)"
+            },
+            {
+              "SHA": "d5787deb",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "97061afe",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.6.18-rc.2",
+          "commits": [
+            {
+              "SHA": "0274e70",
+              "Subject": "Prepare for release v2026.6.18-rc.2 (#84)"
+            },
+            {
+              "SHA": "42dcce3",
+              "Subject": "Convert absolute kubestash.com doc links to relative internal links (#82)"
+            },
+            {
+              "SHA": "544ee04",
+              "Subject": "Fix broken install links"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.18-rc.2",
+          "commits": [
+            {
+              "SHA": "4371fb6",
+              "Subject": "Prepare for release v2026.6.18-rc.2 (#349)"
+            },
+            {
+              "SHA": "f2c3b1c",
+              "Subject": "Use ace-user-roles v2026.6.12 with audit cluster role (#347)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a87ce1d7",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#96)"
+            },
+            {
+              "SHA": "3c5bec08",
+              "Subject": "Add Backup & Restore Progress Streaming (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.2",
+          "commits": [
+            {
+              "SHA": "8b46cb0f",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#370)"
+            },
+            {
+              "SHA": "75e18ed2",
+              "Subject": "Fix Restic Repository Integrity Issue Skylotec (#369)"
+            },
+            {
+              "SHA": "7fe53c55",
+              "Subject": "Incorporate with API changes (#368)"
+            },
+            {
+              "SHA": "5f80e378",
+              "Subject": "Pin openshift-preflight version in release workflow (#365)"
+            },
+            {
+              "SHA": "78e9dc7c",
+              "Subject": "Document why Dockerfile.dbg keeps root user (#367)"
+            },
+            {
+              "SHA": "9be833f1",
+              "Subject": "Remove duplicate NewCmdDownload registration (#363)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.2",
+          "commits": [
+            {
+              "SHA": "8e1922f1",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#72)"
+            },
+            {
+              "SHA": "6b66a2e4",
+              "Subject": "Add Backup & Restore Progress Streaming (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5401cafc",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#93)"
+            },
+            {
+              "SHA": "7d35b81d",
+              "Subject": "Add Backup & Restore Progress Streaming (#88)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "38fecc1",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "ab5a5de7",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "3d571a3d",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#104)"
+            },
+            {
+              "SHA": "2488fbb7",
+              "Subject": "Add Backup & Restore Progress Streaming (#103)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
