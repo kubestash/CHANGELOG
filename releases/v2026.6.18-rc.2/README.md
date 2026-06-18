@@ -23,6 +23,15 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.6.18-rc.2](https://github.com/kubestash/installer/releases/tag/v2026.6.18-rc.2)
+
+- [4371fb6](https://github.com/kubestash/installer/commit/4371fb6) Prepare for release v2026.6.18-rc.2 (#349)
+- [f2c3b1c](https://github.com/kubestash/installer/commit/f2c3b1c) Use ace-user-roles v2026.6.12 with audit cluster role (#347)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.27.0-rc.2](https://github.com/kubestash/kubedump/releases/tag/v0.27.0-rc.2)

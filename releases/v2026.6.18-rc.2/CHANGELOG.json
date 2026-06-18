@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T04:49:55.473919597Z",
+  "release_date": "2026-06-18T05:46:36.696724786Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -53,6 +53,24 @@
             {
               "SHA": "97061afe",
               "Subject": "Prepare for release v0.27.0-rc.2 (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.18-rc.2",
+          "commits": [
+            {
+              "SHA": "4371fb6",
+              "Subject": "Prepare for release v2026.6.18-rc.2 (#349)"
+            },
+            {
+              "SHA": "f2c3b1c",
+              "Subject": "Use ace-user-roles v2026.6.12 with audit cluster role (#347)"
             }
           ]
         }
