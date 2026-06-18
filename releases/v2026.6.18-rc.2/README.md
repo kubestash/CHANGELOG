@@ -1,4 +1,4 @@
-# KubeStash v2026.6.18-rc.2 (2026-06-17)
+# KubeStash v2026.6.18-rc.2 (2026-06-18)
 
 
 ## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
@@ -12,6 +12,14 @@
 - [165cb08b](https://github.com/kubestash/apimachinery/commit/165cb08b) Add Stream Reader for Download & Upload (#239)
 - [1d30072d](https://github.com/kubestash/apimachinery/commit/1d30072d) Add ClickHouse Manifest (#233)
 - [d5787deb](https://github.com/kubestash/apimachinery/commit/d5787deb) Add CLAUDE.md pointing to AGENTS.md
+
+
+
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.27.0-rc.2](https://github.com/kubestash/cli/releases/tag/v0.27.0-rc.2)
+
+- [97061afe](https://github.com/kubestash/cli/commit/97061afe) Prepare for release v0.27.0-rc.2 (#97)
 
 
 
