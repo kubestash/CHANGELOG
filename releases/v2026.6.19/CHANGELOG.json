@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T17:22:07.903616963Z",
+  "release_date": "2026-06-19T17:24:07.642974878Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -97,6 +97,76 @@
             {
               "SHA": "15603b29",
               "Subject": "Harden CI workflows (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "02990a07",
+              "Subject": "Prepare for release v0.28.0 (#373)"
+            },
+            {
+              "SHA": "4697f09d",
+              "Subject": "Skip BackupSession when another one is running (#372)"
+            },
+            {
+              "SHA": "5ee35503",
+              "Subject": "Bump github.com/moby/spdystream to v0.5.1 (#371)"
+            },
+            {
+              "SHA": "8b46cb0f",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#370)"
+            },
+            {
+              "SHA": "75e18ed2",
+              "Subject": "Fix Restic Repository Integrity Issue Skylotec (#369)"
+            },
+            {
+              "SHA": "7fe53c55",
+              "Subject": "Incorporate with API changes (#368)"
+            },
+            {
+              "SHA": "5f80e378",
+              "Subject": "Pin openshift-preflight version in release workflow (#365)"
+            },
+            {
+              "SHA": "78e9dc7c",
+              "Subject": "Document why Dockerfile.dbg keeps root user (#367)"
+            },
+            {
+              "SHA": "9be833f1",
+              "Subject": "Remove duplicate NewCmdDownload registration (#363)"
+            },
+            {
+              "SHA": "d1502070",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d4f0312f",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#361)"
+            },
+            {
+              "SHA": "dc81c8ab",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "2a4c7d2f",
+              "Subject": "Add AGENTS.md (#360)"
+            },
+            {
+              "SHA": "dcbb855f",
+              "Subject": "Harden CI workflows (#359)"
+            },
+            {
+              "SHA": "c6e91ff7",
+              "Subject": "Give RBAC Permission for Vault (#356)"
             }
           ]
         }

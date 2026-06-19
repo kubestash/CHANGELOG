@@ -34,6 +34,28 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.28.0](https://github.com/kubestash/kubestash/releases/tag/v0.28.0)
+
+- [02990a07](https://github.com/kubestash/kubestash/commit/02990a07) Prepare for release v0.28.0 (#373)
+- [4697f09d](https://github.com/kubestash/kubestash/commit/4697f09d) Skip BackupSession when another one is running (#372)
+- [5ee35503](https://github.com/kubestash/kubestash/commit/5ee35503) Bump github.com/moby/spdystream to v0.5.1 (#371)
+- [8b46cb0f](https://github.com/kubestash/kubestash/commit/8b46cb0f) Prepare for release v0.28.0-rc.2 (#370)
+- [75e18ed2](https://github.com/kubestash/kubestash/commit/75e18ed2) Fix Restic Repository Integrity Issue Skylotec (#369)
+- [7fe53c55](https://github.com/kubestash/kubestash/commit/7fe53c55) Incorporate with API changes (#368)
+- [5f80e378](https://github.com/kubestash/kubestash/commit/5f80e378) Pin openshift-preflight version in release workflow (#365)
+- [78e9dc7c](https://github.com/kubestash/kubestash/commit/78e9dc7c) Document why Dockerfile.dbg keeps root user (#367)
+- [9be833f1](https://github.com/kubestash/kubestash/commit/9be833f1) Remove duplicate NewCmdDownload registration (#363)
+- [d1502070](https://github.com/kubestash/kubestash/commit/d1502070) Harden release and release-tracker workflows
+- [d4f0312f](https://github.com/kubestash/kubestash/commit/d4f0312f) Prepare for release v0.28.0-rc.0 (#361)
+- [dc81c8ab](https://github.com/kubestash/kubestash/commit/dc81c8ab) Add CLAUDE.md pointing to AGENTS.md
+- [2a4c7d2f](https://github.com/kubestash/kubestash/commit/2a4c7d2f) Add AGENTS.md (#360)
+- [dcbb855f](https://github.com/kubestash/kubestash/commit/dcbb855f) Harden CI workflows (#359)
+- [c6e91ff7](https://github.com/kubestash/kubestash/commit/c6e91ff7) Give RBAC Permission for Vault (#356)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.20.0](https://github.com/kubestash/manifest/releases/tag/v0.20.0)
