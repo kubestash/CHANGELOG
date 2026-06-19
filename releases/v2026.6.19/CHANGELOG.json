@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T17:19:53.164942202Z",
+  "release_date": "2026-06-19T17:20:09.300754198Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -177,6 +177,48 @@
             {
               "SHA": "2f5685aa",
               "Subject": "Harden CI workflows (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "dcfcac5e",
+              "Subject": "Prepare for release v0.27.0 (#105)"
+            },
+            {
+              "SHA": "3d571a3d",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#104)"
+            },
+            {
+              "SHA": "2488fbb7",
+              "Subject": "Add Backup & Restore Progress Streaming (#103)"
+            },
+            {
+              "SHA": "ea347e19",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e7622298",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "6d56a144",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "03cc19e7",
+              "Subject": "Add AGENTS.md (#99)"
+            },
+            {
+              "SHA": "1cd1314d",
+              "Subject": "Harden CI workflows (#98)"
             }
           ]
         }

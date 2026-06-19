@@ -63,3 +63,18 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.27.0](https://github.com/kubestash/workload/releases/tag/v0.27.0)
+
+- [dcfcac5e](https://github.com/kubestash/workload/commit/dcfcac5e) Prepare for release v0.27.0 (#105)
+- [3d571a3d](https://github.com/kubestash/workload/commit/3d571a3d) Prepare for release v0.27.0-rc.2 (#104)
+- [2488fbb7](https://github.com/kubestash/workload/commit/2488fbb7) Add Backup & Restore Progress Streaming (#103)
+- [ea347e19](https://github.com/kubestash/workload/commit/ea347e19) Harden release and release-tracker workflows
+- [e7622298](https://github.com/kubestash/workload/commit/e7622298) Prepare for release v0.27.0-rc.0 (#100)
+- [6d56a144](https://github.com/kubestash/workload/commit/6d56a144) Add CLAUDE.md pointing to AGENTS.md
+- [03cc19e7](https://github.com/kubestash/workload/commit/03cc19e7) Add AGENTS.md (#99)
+- [1cd1314d](https://github.com/kubestash/workload/commit/1cd1314d) Harden CI workflows (#98)
+
+
+
