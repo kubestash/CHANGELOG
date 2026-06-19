@@ -1,0 +1,64 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.6.19",
+  "release_date": "2026-06-19T17:13:18.728362246Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.6.19",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "62b1daff",
+              "Subject": "Update Driverlist For Neo4j (#231)"
+            },
+            {
+              "SHA": "d4ad6ef7",
+              "Subject": "Snapshot/Restoresession Failed if one component Failed (#243)"
+            },
+            {
+              "SHA": "f0e134f9",
+              "Subject": "Add Progress structure in snapshot & restoresession status (#232)"
+            },
+            {
+              "SHA": "f6141bc6",
+              "Subject": "Bump go.bytebuilders.dev/audit to v0.0.52 (#241)"
+            },
+            {
+              "SHA": "6f7a74e0",
+              "Subject": "Update go.bytebuilders.dev/audit to v0.0.51 (#240)"
+            },
+            {
+              "SHA": "165cb08b",
+              "Subject": "Add Stream Reader for Download & Upload (#239)"
+            },
+            {
+              "SHA": "1d30072d",
+              "Subject": "Add ClickHouse Manifest (#233)"
+            },
+            {
+              "SHA": "d5787deb",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "54445516",
+              "Subject": "Add AGENTS.md (#237)"
+            },
+            {
+              "SHA": "41bc2438",
+              "Subject": "Harden CI workflows (#235)"
+            },
+            {
+              "SHA": "a8c23c8d",
+              "Subject": "Add wal backup support for azure credless mode (#229)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
