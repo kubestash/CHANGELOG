@@ -19,6 +19,21 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.27.0](https://github.com/kubestash/kubedump/releases/tag/v0.27.0)
+
+- [ac91852b](https://github.com/kubestash/kubedump/commit/ac91852b) Prepare for release v0.27.0 (#97)
+- [a87ce1d7](https://github.com/kubestash/kubedump/commit/a87ce1d7) Prepare for release v0.27.0-rc.2 (#96)
+- [3c5bec08](https://github.com/kubestash/kubedump/commit/3c5bec08) Add Backup & Restore Progress Streaming (#95)
+- [512026be](https://github.com/kubestash/kubedump/commit/512026be) Harden release and release-tracker workflows (#92)
+- [813646cd](https://github.com/kubestash/kubedump/commit/813646cd) Prepare for release v0.27.0-rc.0 (#91)
+- [74c76a73](https://github.com/kubestash/kubedump/commit/74c76a73) Add CLAUDE.md pointing to AGENTS.md
+- [c80250fd](https://github.com/kubestash/kubedump/commit/c80250fd) Add AGENTS.md (#90)
+- [15603b29](https://github.com/kubestash/kubedump/commit/15603b29) Harden CI workflows (#89)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.27.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.27.0)
