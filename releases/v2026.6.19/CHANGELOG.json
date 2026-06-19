@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T17:13:18.728362246Z",
+  "release_date": "2026-06-19T17:19:06.180575426Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -55,6 +55,44 @@
             {
               "SHA": "a8c23c8d",
               "Subject": "Add wal backup support for azure credless mode (#229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "de72c3b1",
+              "Subject": "Prepare for release v0.27.0 (#79)"
+            },
+            {
+              "SHA": "ab5a5de7",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#78)"
+            },
+            {
+              "SHA": "3a71c59e",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d970b2d0",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "abfaa512",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "43682b88",
+              "Subject": "Add AGENTS.md (#76)"
+            },
+            {
+              "SHA": "2f5685aa",
+              "Subject": "Harden CI workflows (#75)"
             }
           ]
         }

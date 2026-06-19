@@ -19,3 +19,17 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.27.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.27.0)
+
+- [de72c3b1](https://github.com/kubestash/volume-snapshotter/commit/de72c3b1) Prepare for release v0.27.0 (#79)
+- [ab5a5de7](https://github.com/kubestash/volume-snapshotter/commit/ab5a5de7) Prepare for release v0.27.0-rc.2 (#78)
+- [3a71c59e](https://github.com/kubestash/volume-snapshotter/commit/3a71c59e) Harden release and release-tracker workflows
+- [d970b2d0](https://github.com/kubestash/volume-snapshotter/commit/d970b2d0) Prepare for release v0.27.0-rc.0 (#77)
+- [abfaa512](https://github.com/kubestash/volume-snapshotter/commit/abfaa512) Add CLAUDE.md pointing to AGENTS.md
+- [43682b88](https://github.com/kubestash/volume-snapshotter/commit/43682b88) Add AGENTS.md (#76)
+- [2f5685aa](https://github.com/kubestash/volume-snapshotter/commit/2f5685aa) Harden CI workflows (#75)
+
+
+
