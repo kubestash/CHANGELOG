@@ -19,6 +19,27 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.6.19](https://github.com/kubestash/docs/releases/tag/v2026.6.19)
+
+- [e0f64d4](https://github.com/kubestash/docs/commit/e0f64d4) Prepare for release v2026.6.19 (#90)
+- [35d1d9f](https://github.com/kubestash/docs/commit/35d1d9f) docs(setup): document global.networkPolicy configuration (#88)
+- [60eb50f](https://github.com/kubestash/docs/commit/60eb50f) Fix various links
+- [eba0a9b](https://github.com/kubestash/docs/commit/eba0a9b) Add offline (air-gapped) installation guide for KubeStash (#87)
+- [11c1140](https://github.com/kubestash/docs/commit/11c1140) Replace liche with lychee for link checking (#83)
+- [6986a0f](https://github.com/kubestash/docs/commit/6986a0f) Fix yamls (#86)
+- [5fd9249](https://github.com/kubestash/docs/commit/5fd9249) Fix install links (#85)
+- [0274e70](https://github.com/kubestash/docs/commit/0274e70) Prepare for release v2026.6.18-rc.2 (#84)
+- [42dcce3](https://github.com/kubestash/docs/commit/42dcce3) Convert absolute kubestash.com doc links to relative internal links (#82)
+- [544ee04](https://github.com/kubestash/docs/commit/544ee04) Fix broken install links
+- [99b97fe](https://github.com/kubestash/docs/commit/99b97fe) Add ArgoCD, FluxCD and OpenShift install guides for KubeStash (#79)
+- [e248952](https://github.com/kubestash/docs/commit/e248952) Fix CI: install missing CRDs and align docs with latest CRD schema (#80)
+- [3eb90a5](https://github.com/kubestash/docs/commit/3eb90a5) Prepare for release v2026.5.18-rc.0 (#71)
+- [3aacf47](https://github.com/kubestash/docs/commit/3aacf47) Harden CI workflows (#69)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.6.19](https://github.com/kubestash/installer/releases/tag/v2026.6.19)

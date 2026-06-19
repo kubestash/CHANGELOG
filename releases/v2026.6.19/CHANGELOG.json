@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T17:36:44.582780472Z",
+  "release_date": "2026-06-19T18:00:12.383424023Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -55,6 +55,72 @@
             {
               "SHA": "a8c23c8d",
               "Subject": "Add wal backup support for azure credless mode (#229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "e0f64d4",
+              "Subject": "Prepare for release v2026.6.19 (#90)"
+            },
+            {
+              "SHA": "35d1d9f",
+              "Subject": "docs(setup): document global.networkPolicy configuration (#88)"
+            },
+            {
+              "SHA": "60eb50f",
+              "Subject": "Fix various links"
+            },
+            {
+              "SHA": "eba0a9b",
+              "Subject": "Add offline (air-gapped) installation guide for KubeStash (#87)"
+            },
+            {
+              "SHA": "11c1140",
+              "Subject": "Replace liche with lychee for link checking (#83)"
+            },
+            {
+              "SHA": "6986a0f",
+              "Subject": "Fix yamls (#86)"
+            },
+            {
+              "SHA": "5fd9249",
+              "Subject": "Fix install links (#85)"
+            },
+            {
+              "SHA": "0274e70",
+              "Subject": "Prepare for release v2026.6.18-rc.2 (#84)"
+            },
+            {
+              "SHA": "42dcce3",
+              "Subject": "Convert absolute kubestash.com doc links to relative internal links (#82)"
+            },
+            {
+              "SHA": "544ee04",
+              "Subject": "Fix broken install links"
+            },
+            {
+              "SHA": "99b97fe",
+              "Subject": "Add ArgoCD, FluxCD and OpenShift install guides for KubeStash (#79)"
+            },
+            {
+              "SHA": "e248952",
+              "Subject": "Fix CI: install missing CRDs and align docs with latest CRD schema (#80)"
+            },
+            {
+              "SHA": "3eb90a5",
+              "Subject": "Prepare for release v2026.5.18-rc.0 (#71)"
+            },
+            {
+              "SHA": "3aacf47",
+              "Subject": "Harden CI workflows (#69)"
             }
           ]
         }
