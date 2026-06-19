@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T17:20:09.300754198Z",
+  "release_date": "2026-06-19T17:20:26.346473444Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -139,6 +139,36 @@
             {
               "SHA": "c653a576",
               "Subject": "Harden CI workflows (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "703269d",
+              "Subject": "Prepare for release v0.2.0 (#11)"
+            },
+            {
+              "SHA": "38fecc1",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#10)"
+            },
+            {
+              "SHA": "5a75c93",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#9)"
+            },
+            {
+              "SHA": "87ff5ea",
+              "Subject": "Harden CI workflows (#8)"
+            },
+            {
+              "SHA": "32c3c24",
+              "Subject": "Fix docker Entrypoint"
             }
           ]
         }
