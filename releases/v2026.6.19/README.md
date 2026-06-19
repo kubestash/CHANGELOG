@@ -34,6 +34,21 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.27.0](https://github.com/kubestash/pvc/releases/tag/v0.27.0)
+
+- [0897ae03](https://github.com/kubestash/pvc/commit/0897ae03) Prepare for release v0.27.0 (#94)
+- [5401cafc](https://github.com/kubestash/pvc/commit/5401cafc) Prepare for release v0.27.0-rc.2 (#93)
+- [7d35b81d](https://github.com/kubestash/pvc/commit/7d35b81d) Add Backup & Restore Progress Streaming (#88)
+- [ed757857](https://github.com/kubestash/pvc/commit/ed757857) Harden release and release-tracker workflows
+- [f8085237](https://github.com/kubestash/pvc/commit/f8085237) Prepare for release v0.27.0-rc.0 (#92)
+- [4a75a698](https://github.com/kubestash/pvc/commit/4a75a698) Add CLAUDE.md pointing to AGENTS.md
+- [5a5ac911](https://github.com/kubestash/pvc/commit/5a5ac911) Add AGENTS.md (#91)
+- [c653a576](https://github.com/kubestash/pvc/commit/c653a576) Harden CI workflows (#90)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.27.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.27.0)
