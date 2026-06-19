@@ -34,6 +34,21 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.20.0](https://github.com/kubestash/manifest/releases/tag/v0.20.0)
+
+- [59ba0025](https://github.com/kubestash/manifest/commit/59ba0025) Prepare for release v0.20.0 (#73)
+- [8e1922f1](https://github.com/kubestash/manifest/commit/8e1922f1) Prepare for release v0.20.0-rc.2 (#72)
+- [6b66a2e4](https://github.com/kubestash/manifest/commit/6b66a2e4) Add Backup & Restore Progress Streaming (#71)
+- [ef88695a](https://github.com/kubestash/manifest/commit/ef88695a) Harden release and release-tracker workflows
+- [5a77d020](https://github.com/kubestash/manifest/commit/5a77d020) Prepare for release v0.20.0-rc.0 (#69)
+- [6ab52d94](https://github.com/kubestash/manifest/commit/6ab52d94) Add CLAUDE.md pointing to AGENTS.md
+- [6a59c1db](https://github.com/kubestash/manifest/commit/6a59c1db) Add AGENTS.md (#68)
+- [624ce1be](https://github.com/kubestash/manifest/commit/624ce1be) Harden CI workflows (#67)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.27.0](https://github.com/kubestash/pvc/releases/tag/v0.27.0)
