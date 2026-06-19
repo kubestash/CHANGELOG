@@ -19,6 +19,19 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.6.19](https://github.com/kubestash/installer/releases/tag/v2026.6.19)
+
+- [a4435e6](https://github.com/kubestash/installer/commit/a4435e6) Prepare for release v2026.6.19 (#350)
+- [b7a1bae](https://github.com/kubestash/installer/commit/b7a1bae) Introduce cilium network policy (#348)
+- [4371fb6](https://github.com/kubestash/installer/commit/4371fb6) Prepare for release v2026.6.18-rc.2 (#349)
+- [f2c3b1c](https://github.com/kubestash/installer/commit/f2c3b1c) Use ace-user-roles v2026.6.12 with audit cluster role (#347)
+- [6453c9d](https://github.com/kubestash/installer/commit/6453c9d) Prepare for release v2026.5.18-rc.0 (#345)
+- [179c8de](https://github.com/kubestash/installer/commit/179c8de) Add CLAUDE.md pointing to AGENTS.md
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.27.0](https://github.com/kubestash/kubedump/releases/tag/v0.27.0)

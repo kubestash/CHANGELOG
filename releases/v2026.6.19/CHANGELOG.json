@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T17:24:07.642974878Z",
+  "release_date": "2026-06-19T17:36:44.582780472Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -55,6 +55,40 @@
             {
               "SHA": "a8c23c8d",
               "Subject": "Add wal backup support for azure credless mode (#229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "a4435e6",
+              "Subject": "Prepare for release v2026.6.19 (#350)"
+            },
+            {
+              "SHA": "b7a1bae",
+              "Subject": "Introduce cilium network policy (#348)"
+            },
+            {
+              "SHA": "4371fb6",
+              "Subject": "Prepare for release v2026.6.18-rc.2 (#349)"
+            },
+            {
+              "SHA": "f2c3b1c",
+              "Subject": "Use ace-user-roles v2026.6.12 with audit cluster role (#347)"
+            },
+            {
+              "SHA": "6453c9d",
+              "Subject": "Prepare for release v2026.5.18-rc.0 (#345)"
+            },
+            {
+              "SHA": "179c8de",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
             }
           ]
         }
