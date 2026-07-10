@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.7.10",
-  "release_date": "2026-07-10T20:48:52.327102735Z",
+  "release_date": "2026-07-10T20:49:10.330261685Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -55,6 +55,20 @@
             {
               "SHA": "b5b949ec",
               "Subject": "Prepare for release v0.28.0 (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "fb48d54f",
+              "Subject": "Prepare for release v0.21.0 (#74)"
             }
           ]
         }

@@ -28,6 +28,14 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.21.0](https://github.com/kubestash/manifest/releases/tag/v0.21.0)
+
+- [fb48d54f](https://github.com/kubestash/manifest/commit/fb48d54f) Prepare for release v0.21.0 (#74)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.28.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.28.0)
