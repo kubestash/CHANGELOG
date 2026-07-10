@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.7.10",
-  "release_date": "2026-07-10T20:50:11.836293165Z",
+  "release_date": "2026-07-10T21:22:33.237643604Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -55,6 +55,28 @@
             {
               "SHA": "b5b949ec",
               "Subject": "Prepare for release v0.28.0 (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "bede1df9",
+              "Subject": "Prepare for release v0.29.0 (#377)"
+            },
+            {
+              "SHA": "95bc2d66",
+              "Subject": "Fix postRestore OnSuccess executionPolicy check (#375)"
+            },
+            {
+              "SHA": "e561d6c6",
+              "Subject": "Parse hook pod selector with labels.Parse (#366)"
             }
           ]
         }

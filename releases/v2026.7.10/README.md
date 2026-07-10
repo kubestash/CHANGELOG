@@ -28,6 +28,16 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.29.0](https://github.com/kubestash/kubestash/releases/tag/v0.29.0)
+
+- [bede1df9](https://github.com/kubestash/kubestash/commit/bede1df9) Prepare for release v0.29.0 (#377)
+- [95bc2d66](https://github.com/kubestash/kubestash/commit/95bc2d66) Fix postRestore OnSuccess executionPolicy check (#375)
+- [e561d6c6](https://github.com/kubestash/kubestash/commit/e561d6c6) Parse hook pod selector with labels.Parse (#366)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.21.0](https://github.com/kubestash/manifest/releases/tag/v0.21.0)
