@@ -36,6 +36,14 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.28.0](https://github.com/kubestash/pvc/releases/tag/v0.28.0)
+
+- [9adaa5ec](https://github.com/kubestash/pvc/commit/9adaa5ec) Prepare for release v0.28.0 (#95)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.28.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.28.0)
