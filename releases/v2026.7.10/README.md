@@ -20,6 +20,14 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.28.0](https://github.com/kubestash/kubedump/releases/tag/v0.28.0)
+
+- [b5b949ec](https://github.com/kubestash/kubedump/commit/b5b949ec) Prepare for release v0.28.0 (#98)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.28.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.28.0)
