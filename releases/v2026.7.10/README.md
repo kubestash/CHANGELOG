@@ -12,3 +12,11 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.28.0](https://github.com/kubestash/cli/releases/tag/v0.28.0)
+
+- [312808c7](https://github.com/kubestash/cli/commit/312808c7) Prepare for release v0.28.0 (#104)
+
+
+
