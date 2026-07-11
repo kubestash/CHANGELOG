@@ -20,6 +20,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.7.10](https://github.com/kubestash/docs/releases/tag/v2026.7.10)
+
+- [1186679](https://github.com/kubestash/docs/commit/1186679) Prepare for release v2026.7.10 (#94)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.7.10](https://github.com/kubestash/installer/releases/tag/v2026.7.10)
