@@ -1,0 +1,188 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.7.10",
+  "release_date": "2026-07-11T06:29:00.998584858Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.7.10",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "9675b635",
+              "Subject": "Update Restic Tag: v0.5.0 (#248)"
+            },
+            {
+              "SHA": "1f4a1713",
+              "Subject": "preserve false bool values in Neo4jStats backup inspect output (#245)"
+            },
+            {
+              "SHA": "0228bff3",
+              "Subject": "Add LocalBackendPVC checker (#247)"
+            },
+            {
+              "SHA": "814aea8a",
+              "Subject": "Update Dependency (#244)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "312808c7",
+              "Subject": "Prepare for release v0.28.0 (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "1186679",
+              "Subject": "Prepare for release v2026.7.10 (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "2d9f7c7",
+              "Subject": "Prepare for release v2026.7.10 (#353)"
+            },
+            {
+              "SHA": "380d4ae",
+              "Subject": "Document regenerating the -certified charts in AGENTS.md (#352)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "b5b949ec",
+              "Subject": "Prepare for release v0.28.0 (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "bede1df9",
+              "Subject": "Prepare for release v0.29.0 (#377)"
+            },
+            {
+              "SHA": "95bc2d66",
+              "Subject": "Fix postRestore OnSuccess executionPolicy check (#375)"
+            },
+            {
+              "SHA": "e561d6c6",
+              "Subject": "Parse hook pod selector with labels.Parse (#366)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "fb48d54f",
+              "Subject": "Prepare for release v0.21.0 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "9adaa5ec",
+              "Subject": "Prepare for release v0.28.0 (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "a7327f6",
+              "Subject": "Prepare for release v0.3.0 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "7697141b",
+              "Subject": "Prepare for release v0.28.0 (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "81650277",
+              "Subject": "Prepare for release v0.28.0 (#106)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
