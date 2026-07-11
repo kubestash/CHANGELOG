@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.7.10",
-  "release_date": "2026-07-10T21:22:33.237643604Z",
+  "release_date": "2026-07-11T05:18:24.348403697Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -41,6 +41,24 @@
             {
               "SHA": "312808c7",
               "Subject": "Prepare for release v0.28.0 (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "2d9f7c7",
+              "Subject": "Prepare for release v2026.7.10 (#353)"
+            },
+            {
+              "SHA": "380d4ae",
+              "Subject": "Document regenerating the -certified charts in AGENTS.md (#352)"
             }
           ]
         }

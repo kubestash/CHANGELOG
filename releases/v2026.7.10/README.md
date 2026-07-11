@@ -1,4 +1,4 @@
-# KubeStash v2026.7.10 (2026-07-10)
+# KubeStash v2026.7.10 (2026-07-11)
 
 
 ## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
@@ -17,6 +17,15 @@
 ### [v0.28.0](https://github.com/kubestash/cli/releases/tag/v0.28.0)
 
 - [312808c7](https://github.com/kubestash/cli/commit/312808c7) Prepare for release v0.28.0 (#104)
+
+
+
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.7.10](https://github.com/kubestash/installer/releases/tag/v2026.7.10)
+
+- [2d9f7c7](https://github.com/kubestash/installer/commit/2d9f7c7) Prepare for release v2026.7.10 (#353)
+- [380d4ae](https://github.com/kubestash/installer/commit/380d4ae) Document regenerating the -certified charts in AGENTS.md (#352)
 
 
 
