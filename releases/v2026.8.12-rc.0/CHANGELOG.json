@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T04:54:14.002274255Z",
+  "release_date": "2026-08-12T04:56:27.821619114Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -57,6 +57,24 @@
             {
               "SHA": "21c9fbbb",
               "Subject": "added echo or stdin password update support (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "aaad6553",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "25c718f7",
+              "Subject": "Modernize golangci-lint config (#81)"
             }
           ]
         }
