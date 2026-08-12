@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T04:57:00.206100372Z",
+  "release_date": "2026-08-12T04:57:07.695698132Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -57,6 +57,24 @@
             {
               "SHA": "21c9fbbb",
               "Subject": "added echo or stdin password update support (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5dd1a3ab",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "43297935",
+              "Subject": "Modernize golangci-lint config (#96)"
             }
           ]
         }

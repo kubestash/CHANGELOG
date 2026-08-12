@@ -24,6 +24,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.28.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.28.0-rc.0)
+
+- [5dd1a3ab](https://github.com/kubestash/pvc/commit/5dd1a3ab) Prepare for release v0.28.0-rc.0 (#97)
+- [43297935](https://github.com/kubestash/pvc/commit/43297935) Modernize golangci-lint config (#96)
+
+
+
 ## [kubestash/vault](https://github.com/kubestash/vault)
 
 ### [v0.3.0-rc.0](https://github.com/kubestash/vault/releases/tag/v0.3.0-rc.0)
