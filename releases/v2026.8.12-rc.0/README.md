@@ -24,6 +24,21 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.8.12-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.8.12-rc.0)
+
+- [6a464d5](https://github.com/kubestash/installer/commit/6a464d5) Prepare for release v2026.8.12-rc.0 (#364)
+- [ed855c2](https://github.com/kubestash/installer/commit/ed855c2) added permission for virual secret (#358)
+- [74d38b6](https://github.com/kubestash/installer/commit/74d38b6) Fix publish oci workflow (#363)
+- [c730293](https://github.com/kubestash/installer/commit/c730293) Allow operator to manage SolrOpsRequests (#362)
+- [69175e1](https://github.com/kubestash/installer/commit/69175e1) Update update-chart-dependencies.sh (#361)
+- [bc3770b](https://github.com/kubestash/installer/commit/bc3770b) Add script to package and chart-verify kubestash-certified for OpenShift (#360)
+- [70c9d9f](https://github.com/kubestash/installer/commit/70c9d9f) Fetch kubestash-certified chart dependencies before regenerating it (#359)
+- [09ad9e9](https://github.com/kubestash/installer/commit/09ad9e9) Add make refresh target and require it before opening a PR (#357)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.28.0-rc.0](https://github.com/kubestash/kubedump/releases/tag/v0.28.0-rc.0)

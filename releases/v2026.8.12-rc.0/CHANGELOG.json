@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T04:59:55.394468252Z",
+  "release_date": "2026-08-12T05:14:07.440538558Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -57,6 +57,48 @@
             {
               "SHA": "21c9fbbb",
               "Subject": "added echo or stdin password update support (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.8.12-rc.0",
+          "commits": [
+            {
+              "SHA": "6a464d5",
+              "Subject": "Prepare for release v2026.8.12-rc.0 (#364)"
+            },
+            {
+              "SHA": "ed855c2",
+              "Subject": "added permission for virual secret (#358)"
+            },
+            {
+              "SHA": "74d38b6",
+              "Subject": "Fix publish oci workflow (#363)"
+            },
+            {
+              "SHA": "c730293",
+              "Subject": "Allow operator to manage SolrOpsRequests (#362)"
+            },
+            {
+              "SHA": "69175e1",
+              "Subject": "Update update-chart-dependencies.sh (#361)"
+            },
+            {
+              "SHA": "bc3770b",
+              "Subject": "Add script to package and chart-verify kubestash-certified for OpenShift (#360)"
+            },
+            {
+              "SHA": "70c9d9f",
+              "Subject": "Fetch kubestash-certified chart dependencies before regenerating it (#359)"
+            },
+            {
+              "SHA": "09ad9e9",
+              "Subject": "Add make refresh target and require it before opening a PR (#357)"
             }
           ]
         }
