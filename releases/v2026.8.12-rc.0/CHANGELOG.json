@@ -1,0 +1,48 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.8.12-rc.0",
+  "release_date": "2026-08-12T04:49:32.724308042Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.8.12-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1ee1af06",
+              "Subject": "Clean up cves"
+            },
+            {
+              "SHA": "0116a4cb",
+              "Subject": "Export CLoud related constants for global usage (#256)"
+            },
+            {
+              "SHA": "9f8e1079",
+              "Subject": "Resolve Percona pg_tde (17.9-percona) addon version via hard-coded map (#250)"
+            },
+            {
+              "SHA": "c71e2377",
+              "Subject": "Fix SetPathDir (#252)"
+            },
+            {
+              "SHA": "be80df7c",
+              "Subject": "added SnapshotsDirectory = \"snapshots\" (#254)"
+            },
+            {
+              "SHA": "5cb309a9",
+              "Subject": "Bump gomodules.xyz/restic to v0.5.1 (#253)"
+            },
+            {
+              "SHA": "20ceb2f0",
+              "Subject": "Modernize golangci-lint config (#249)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
