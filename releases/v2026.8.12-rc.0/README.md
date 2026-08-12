@@ -33,6 +33,14 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.29.0-rc.0](https://github.com/kubestash/kubestash/releases/tag/v0.29.0-rc.0)
+
+- [c9b5b40b](https://github.com/kubestash/kubestash/commit/c9b5b40b) Merge commit '7ff27267b59cbd2e7c6d83139abb36d29eda9975' into release-0.29
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.21.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.21.0-rc.0)
