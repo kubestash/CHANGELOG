@@ -24,6 +24,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.8.12-rc.0](https://github.com/kubestash/docs/releases/tag/v2026.8.12-rc.0)
+
+- [f557cf8](https://github.com/kubestash/docs/commit/f557cf8) Prepare for release v2026.8.12-rc.0 (#100)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.8.12-rc.0](https://github.com/kubestash/installer/releases/tag/v2026.8.12-rc.0)
