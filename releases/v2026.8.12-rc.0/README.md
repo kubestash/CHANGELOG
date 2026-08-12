@@ -68,3 +68,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.28.0-rc.0](https://github.com/kubestash/workload/releases/tag/v0.28.0-rc.0)
+
+- [cf6ce682](https://github.com/kubestash/workload/commit/cf6ce682) Prepare for release v0.28.0-rc.0 (#108)
+- [54385e42](https://github.com/kubestash/workload/commit/54385e42) Modernize golangci-lint config (#107)
+
+
+
