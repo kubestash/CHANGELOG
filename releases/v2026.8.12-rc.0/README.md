@@ -24,6 +24,15 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.21.0-rc.0](https://github.com/kubestash/manifest/releases/tag/v0.21.0-rc.0)
+
+- [1e60cb14](https://github.com/kubestash/manifest/commit/1e60cb14) Prepare for release v0.21.0-rc.0 (#76)
+- [6b17dd71](https://github.com/kubestash/manifest/commit/6b17dd71) Modernize golangci-lint config (#75)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.28.0-rc.0](https://github.com/kubestash/pvc/releases/tag/v0.28.0-rc.0)
