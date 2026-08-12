@@ -24,6 +24,14 @@
 
 
 
+## [kubestash/vault](https://github.com/kubestash/vault)
+
+### [v0.3.0-rc.0](https://github.com/kubestash/vault/releases/tag/v0.3.0-rc.0)
+
+- [aa9703f](https://github.com/kubestash/vault/commit/aa9703f) Prepare for release v0.3.0-rc.0 (#13)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.28.0-rc.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.28.0-rc.0)
