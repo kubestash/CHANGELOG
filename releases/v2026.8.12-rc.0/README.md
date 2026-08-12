@@ -15,3 +15,12 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.28.0-rc.0](https://github.com/kubestash/cli/releases/tag/v0.28.0-rc.0)
+
+- [bb6a6dda](https://github.com/kubestash/cli/commit/bb6a6dda) Prepare for release v0.28.0-rc.0 (#109)
+- [21c9fbbb](https://github.com/kubestash/cli/commit/21c9fbbb) added echo or stdin password update support (#108)
+
+
+
