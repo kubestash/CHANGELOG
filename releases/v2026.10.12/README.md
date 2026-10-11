@@ -1,4 +1,4 @@
-# KubeStash v2026.10.12 (2026-10-10)
+# KubeStash v2026.10.12 (2026-10-11)
 
 
 ## [kubestash/apimachinery](https://github.com/kubestash/apimachinery)
@@ -31,6 +31,17 @@
 - [69a8ccd3](https://github.com/kubestash/cli/commit/69a8ccd3) Prepare for release v0.29.0 (#112)
 - [bb6a6dda](https://github.com/kubestash/cli/commit/bb6a6dda) Prepare for release v0.28.0-rc.0 (#109)
 - [21c9fbbb](https://github.com/kubestash/cli/commit/21c9fbbb) added echo or stdin password update support (#108)
+
+
+
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.22.0](https://github.com/kubestash/manifest/releases/tag/v0.22.0)
+
+- [49e1cb55](https://github.com/kubestash/manifest/commit/49e1cb55) Prepare for release v0.22.0 (#79)
+- [8fe2a59d](https://github.com/kubestash/manifest/commit/8fe2a59d) Use Go 1.27, k8s 1.37 & debian:13 (#80)
+- [1e60cb14](https://github.com/kubestash/manifest/commit/1e60cb14) Prepare for release v0.21.0-rc.0 (#76)
+- [6b17dd71](https://github.com/kubestash/manifest/commit/6b17dd71) Modernize golangci-lint config (#75)
 
 
 
