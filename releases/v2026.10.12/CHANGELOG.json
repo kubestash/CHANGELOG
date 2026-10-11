@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T03:07:49.475101694Z",
+  "release_date": "2026-10-11T04:27:33.625365041Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -134,6 +134,72 @@
         {
           "tag": "v0.30.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubevirt",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "49a9e2b",
+              "Subject": "Make update-release-tracker.sh executable (#13)"
+            },
+            {
+              "SHA": "4cac6b9",
+              "Subject": "Prepare for release v0.2.0 (#11)"
+            },
+            {
+              "SHA": "a221512",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#12)"
+            },
+            {
+              "SHA": "ab39e2f",
+              "Subject": "Merge pull request #8 from kubestash/fix-logical"
+            },
+            {
+              "SHA": "f72844d",
+              "Subject": "Remove comments and tidy naming"
+            },
+            {
+              "SHA": "30e411c",
+              "Subject": "Check snapshot support per volume instead of listing VolumeSnapshotClasses"
+            },
+            {
+              "SHA": "9eba572",
+              "Subject": "Size the temp PVC from the VolumeSnapshot's restore size"
+            },
+            {
+              "SHA": "9c342f8",
+              "Subject": "Fix Logical Backup"
+            },
+            {
+              "SHA": "718334f",
+              "Subject": "Merge pull request #7 from kubestash/fix-bug"
+            },
+            {
+              "SHA": "8a55544",
+              "Subject": "removed unnecessary comments"
+            },
+            {
+              "SHA": "cbcf092",
+              "Subject": "added support for multi backend"
+            },
+            {
+              "SHA": "a5ec119",
+              "Subject": "fixed linter issue"
+            },
+            {
+              "SHA": "e3a1175",
+              "Subject": "added owner ref for proper cleanup"
+            },
+            {
+              "SHA": "7803934",
+              "Subject": "fix bug"
+            }
+          ]
         }
       ]
     },

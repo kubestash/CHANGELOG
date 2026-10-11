@@ -52,6 +52,27 @@
 
 
 
+## [kubestash/kubevirt](https://github.com/kubestash/kubevirt)
+
+### [v0.2.0](https://github.com/kubestash/kubevirt/releases/tag/v0.2.0)
+
+- [49a9e2b](https://github.com/kubestash/kubevirt/commit/49a9e2b) Make update-release-tracker.sh executable (#13)
+- [4cac6b9](https://github.com/kubestash/kubevirt/commit/4cac6b9) Prepare for release v0.2.0 (#11)
+- [a221512](https://github.com/kubestash/kubevirt/commit/a221512) Use Go 1.27, k8s 1.37 & debian:13 (#12)
+- [ab39e2f](https://github.com/kubestash/kubevirt/commit/ab39e2f) Merge pull request #8 from kubestash/fix-logical
+- [f72844d](https://github.com/kubestash/kubevirt/commit/f72844d) Remove comments and tidy naming
+- [30e411c](https://github.com/kubestash/kubevirt/commit/30e411c) Check snapshot support per volume instead of listing VolumeSnapshotClasses
+- [9eba572](https://github.com/kubestash/kubevirt/commit/9eba572) Size the temp PVC from the VolumeSnapshot's restore size
+- [9c342f8](https://github.com/kubestash/kubevirt/commit/9c342f8) Fix Logical Backup
+- [718334f](https://github.com/kubestash/kubevirt/commit/718334f) Merge pull request #7 from kubestash/fix-bug
+- [8a55544](https://github.com/kubestash/kubevirt/commit/8a55544) removed unnecessary comments
+- [cbcf092](https://github.com/kubestash/kubevirt/commit/cbcf092) added support for multi backend
+- [a5ec119](https://github.com/kubestash/kubevirt/commit/a5ec119) fixed linter issue
+- [e3a1175](https://github.com/kubestash/kubevirt/commit/e3a1175) added owner ref for proper cleanup
+- [7803934](https://github.com/kubestash/kubevirt/commit/7803934) fix bug
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.22.0](https://github.com/kubestash/manifest/releases/tag/v0.22.0)
