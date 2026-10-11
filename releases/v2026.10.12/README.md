@@ -45,6 +45,17 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.29.0](https://github.com/kubestash/pvc/releases/tag/v0.29.0)
+
+- [59408cd6](https://github.com/kubestash/pvc/commit/59408cd6) Prepare for release v0.29.0 (#100)
+- [b05940ca](https://github.com/kubestash/pvc/commit/b05940ca) Use Go 1.27, k8s 1.37 & debian:13 (#101)
+- [5dd1a3ab](https://github.com/kubestash/pvc/commit/5dd1a3ab) Prepare for release v0.28.0-rc.0 (#97)
+- [43297935](https://github.com/kubestash/pvc/commit/43297935) Modernize golangci-lint config (#96)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.29.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.29.0)
