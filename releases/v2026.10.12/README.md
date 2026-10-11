@@ -67,6 +67,19 @@
 
 
 
+## [kubestash/ui-server](https://github.com/kubestash/ui-server)
+
+### [v0.2.0](https://github.com/kubestash/ui-server/releases/tag/v0.2.0)
+
+- [a443f19](https://github.com/kubestash/ui-server/commit/a443f19) Prepare for release v0.2.0 (#6)
+- [01ed3eb](https://github.com/kubestash/ui-server/commit/01ed3eb) Use Go 1.27, k8s 1.37 & debian:13 (#7)
+- [63d2f4a](https://github.com/kubestash/ui-server/commit/63d2f4a) Replace artifact samples with live-captured annotated YAML
+- [990b7bf](https://github.com/kubestash/ui-server/commit/990b7bf) Fix backupoverviews list pagination and cluster identity
+- [9dacea0](https://github.com/kubestash/ui-server/commit/9dacea0) Serve ui.kubestash.com backup overview and recovery APIs
+- [0164447](https://github.com/kubestash/ui-server/commit/0164447) Initialize repository structure from kubedb ui-server
+
+
+
 ## [kubestash/vault](https://github.com/kubestash/vault)
 
 ### [v0.4.0](https://github.com/kubestash/vault/releases/tag/v0.4.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T02:58:55.49949179Z",
+  "release_date": "2026-10-11T02:59:35.981891934Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -175,6 +175,40 @@
             {
               "SHA": "43297935",
               "Subject": "Modernize golangci-lint config (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/ui-server",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a443f19",
+              "Subject": "Prepare for release v0.2.0 (#6)"
+            },
+            {
+              "SHA": "01ed3eb",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#7)"
+            },
+            {
+              "SHA": "63d2f4a",
+              "Subject": "Replace artifact samples with live-captured annotated YAML"
+            },
+            {
+              "SHA": "990b7bf",
+              "Subject": "Fix backupoverviews list pagination and cluster identity"
+            },
+            {
+              "SHA": "9dacea0",
+              "Subject": "Serve ui.kubestash.com backup overview and recovery APIs"
+            },
+            {
+              "SHA": "0164447",
+              "Subject": "Initialize repository structure from kubedb ui-server"
             }
           ]
         }
