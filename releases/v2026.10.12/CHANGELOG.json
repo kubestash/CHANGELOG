@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T04:31:39.022353919Z",
+  "release_date": "2026-10-11T04:52:11.644368862Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -97,6 +97,40 @@
             {
               "SHA": "21c9fbbb",
               "Subject": "added echo or stdin password update support (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "b214ddc",
+              "Subject": "Prepare for release v2026.10.12 (#103)"
+            },
+            {
+              "SHA": "610419a",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#102)"
+            },
+            {
+              "SHA": "4365852",
+              "Subject": "Add documentation for AWS IRSA Credential-less mode (#70)"
+            },
+            {
+              "SHA": "465a05c",
+              "Subject": "Update docs for kubestash/cli@21c9fbbb (#98)"
+            },
+            {
+              "SHA": "424c7d7",
+              "Subject": "Update docs for kubestash/cli@bb6a6dda (#99)"
+            },
+            {
+              "SHA": "f557cf8",
+              "Subject": "Prepare for release v2026.8.12-rc.0 (#100)"
             }
           ]
         }

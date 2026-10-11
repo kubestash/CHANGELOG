@@ -34,6 +34,19 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.10.12](https://github.com/kubestash/docs/releases/tag/v2026.10.12)
+
+- [b214ddc](https://github.com/kubestash/docs/commit/b214ddc) Prepare for release v2026.10.12 (#103)
+- [610419a](https://github.com/kubestash/docs/commit/610419a) Use Go 1.27, k8s 1.37 & debian:13 (#102)
+- [4365852](https://github.com/kubestash/docs/commit/4365852) Add documentation for AWS IRSA Credential-less mode (#70)
+- [465a05c](https://github.com/kubestash/docs/commit/465a05c) Update docs for kubestash/cli@21c9fbbb (#98)
+- [424c7d7](https://github.com/kubestash/docs/commit/424c7d7) Update docs for kubestash/cli@bb6a6dda (#99)
+- [f557cf8](https://github.com/kubestash/docs/commit/f557cf8) Prepare for release v2026.8.12-rc.0 (#100)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.10.12](https://github.com/kubestash/installer/releases/tag/v2026.10.12)
