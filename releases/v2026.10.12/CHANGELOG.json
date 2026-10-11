@@ -1,0 +1,551 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.10.12",
+  "release_date": "2026-10-11T04:52:11.644368862Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.10.12",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "defcc818",
+              "Subject": "Cleanup cves"
+            },
+            {
+              "SHA": "2b7e4fbd",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#267)"
+            },
+            {
+              "SHA": "f627025b",
+              "Subject": "Cleanup cves (#265)"
+            },
+            {
+              "SHA": "50c8c8c6",
+              "Subject": "Add Milvus stats and manifest options (#263)"
+            },
+            {
+              "SHA": "d6c52f45",
+              "Subject": "Add ui.kubestash.com/v1alpha1 API group (#264)"
+            },
+            {
+              "SHA": "1b62998d",
+              "Subject": "Add oracle phy backup (#238)"
+            },
+            {
+              "SHA": "9ae78503",
+              "Subject": "Add Neo4j Manifest (#246)"
+            },
+            {
+              "SHA": "1ff8d61a",
+              "Subject": "Add MilvusStats to Snapshot component"
+            },
+            {
+              "SHA": "c051cd14",
+              "Subject": "Added weaviate-backup apis (#255)"
+            },
+            {
+              "SHA": "1ee1af06",
+              "Subject": "Clean up cves"
+            },
+            {
+              "SHA": "0116a4cb",
+              "Subject": "Export CLoud related constants for global usage (#256)"
+            },
+            {
+              "SHA": "9f8e1079",
+              "Subject": "Resolve Percona pg_tde (17.9-percona) addon version via hard-coded map (#250)"
+            },
+            {
+              "SHA": "c71e2377",
+              "Subject": "Fix SetPathDir (#252)"
+            },
+            {
+              "SHA": "be80df7c",
+              "Subject": "added SnapshotsDirectory = \"snapshots\" (#254)"
+            },
+            {
+              "SHA": "5cb309a9",
+              "Subject": "Bump gomodules.xyz/restic to v0.5.1 (#253)"
+            },
+            {
+              "SHA": "20ceb2f0",
+              "Subject": "Modernize golangci-lint config (#249)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "69a8ccd3",
+              "Subject": "Prepare for release v0.29.0 (#112)"
+            },
+            {
+              "SHA": "bb6a6dda",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#109)"
+            },
+            {
+              "SHA": "21c9fbbb",
+              "Subject": "added echo or stdin password update support (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "b214ddc",
+              "Subject": "Prepare for release v2026.10.12 (#103)"
+            },
+            {
+              "SHA": "610419a",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#102)"
+            },
+            {
+              "SHA": "4365852",
+              "Subject": "Add documentation for AWS IRSA Credential-less mode (#70)"
+            },
+            {
+              "SHA": "465a05c",
+              "Subject": "Update docs for kubestash/cli@21c9fbbb (#98)"
+            },
+            {
+              "SHA": "424c7d7",
+              "Subject": "Update docs for kubestash/cli@bb6a6dda (#99)"
+            },
+            {
+              "SHA": "f557cf8",
+              "Subject": "Prepare for release v2026.8.12-rc.0 (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "1196a318",
+              "Subject": "Prepare for release v2026.10.12 (#391)"
+            },
+            {
+              "SHA": "7024f70f",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#390)"
+            },
+            {
+              "SHA": "93cdc908",
+              "Subject": "Update cve report (#389)"
+            },
+            {
+              "SHA": "26681f78",
+              "Subject": "Update cve report (#388)"
+            },
+            {
+              "SHA": "1e10f3ef",
+              "Subject": "Update cve report (#387)"
+            },
+            {
+              "SHA": "f5d1f02c",
+              "Subject": "Add kubestash-ui-server and kubestash-opscenter charts (#386)"
+            },
+            {
+              "SHA": "d6052524",
+              "Subject": "Update cve report (#385)"
+            },
+            {
+              "SHA": "3b8b9243",
+              "Subject": "Update cve report (#384)"
+            },
+            {
+              "SHA": "1c7ab83c",
+              "Subject": "Update cve report (#383)"
+            },
+            {
+              "SHA": "b77eb266",
+              "Subject": "Update cve report (#382)"
+            },
+            {
+              "SHA": "56801315",
+              "Subject": "Update cve report (#381)"
+            },
+            {
+              "SHA": "e4d0c512",
+              "Subject": "Update cve report (#379)"
+            },
+            {
+              "SHA": "bef0d068",
+              "Subject": "Update cve report (#378)"
+            },
+            {
+              "SHA": "6a47f65d",
+              "Subject": "Update cve report (#377)"
+            },
+            {
+              "SHA": "c32325b4",
+              "Subject": "Update cve report (#376)"
+            },
+            {
+              "SHA": "e66b9619",
+              "Subject": "Update cve report (#375)"
+            },
+            {
+              "SHA": "e2350e0a",
+              "Subject": "Update cve report (#374)"
+            },
+            {
+              "SHA": "c06c88c7",
+              "Subject": "Update cve report (#373)"
+            },
+            {
+              "SHA": "9ffae11f",
+              "Subject": "Update cve report (#372)"
+            },
+            {
+              "SHA": "afe3df9a",
+              "Subject": "Update cve report (#371)"
+            },
+            {
+              "SHA": "73c4a3a4",
+              "Subject": "Add Oracle backup permissions (#370)"
+            },
+            {
+              "SHA": "4f45bba8",
+              "Subject": "Update cve report (#369)"
+            },
+            {
+              "SHA": "9917f2d7",
+              "Subject": "added support and permission for cbt mode (#368)"
+            },
+            {
+              "SHA": "43293955",
+              "Subject": "Update cve report (#344)"
+            },
+            {
+              "SHA": "e6a0bdd0",
+              "Subject": "Update snapshot api for weviate & milvus"
+            },
+            {
+              "SHA": "95f1629a",
+              "Subject": "catalog: ship the KubeVirt addon and its Functions (#366)"
+            },
+            {
+              "SHA": "b6ffe079",
+              "Subject": "rbac: let the operator read and manage KubeVirt resources (#365)"
+            },
+            {
+              "SHA": "6a464d58",
+              "Subject": "Prepare for release v2026.8.12-rc.0 (#364)"
+            },
+            {
+              "SHA": "ed855c28",
+              "Subject": "added permission for virual secret (#358)"
+            },
+            {
+              "SHA": "74d38b60",
+              "Subject": "Fix publish oci workflow (#363)"
+            },
+            {
+              "SHA": "c730293f",
+              "Subject": "Allow operator to manage SolrOpsRequests (#362)"
+            },
+            {
+              "SHA": "69175e10",
+              "Subject": "Update update-chart-dependencies.sh (#361)"
+            },
+            {
+              "SHA": "bc3770b0",
+              "Subject": "Add script to package and chart-verify kubestash-certified for OpenShift (#360)"
+            },
+            {
+              "SHA": "70c9d9f2",
+              "Subject": "Fetch kubestash-certified chart dependencies before regenerating it (#359)"
+            },
+            {
+              "SHA": "09ad9e9a",
+              "Subject": "Add make refresh target and require it before opening a PR (#357)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "2bbd7b7f",
+              "Subject": "Prepare for release v0.29.0 (#103)"
+            },
+            {
+              "SHA": "f9f7ff1c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#104)"
+            },
+            {
+              "SHA": "40be623f",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "f3e92ac1",
+              "Subject": "Modernize golangci-lint config (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubevirt",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "49a9e2b",
+              "Subject": "Make update-release-tracker.sh executable (#13)"
+            },
+            {
+              "SHA": "4cac6b9",
+              "Subject": "Prepare for release v0.2.0 (#11)"
+            },
+            {
+              "SHA": "a221512",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#12)"
+            },
+            {
+              "SHA": "ab39e2f",
+              "Subject": "Merge pull request #8 from kubestash/fix-logical"
+            },
+            {
+              "SHA": "f72844d",
+              "Subject": "Remove comments and tidy naming"
+            },
+            {
+              "SHA": "30e411c",
+              "Subject": "Check snapshot support per volume instead of listing VolumeSnapshotClasses"
+            },
+            {
+              "SHA": "9eba572",
+              "Subject": "Size the temp PVC from the VolumeSnapshot's restore size"
+            },
+            {
+              "SHA": "9c342f8",
+              "Subject": "Fix Logical Backup"
+            },
+            {
+              "SHA": "718334f",
+              "Subject": "Merge pull request #7 from kubestash/fix-bug"
+            },
+            {
+              "SHA": "8a55544",
+              "Subject": "removed unnecessary comments"
+            },
+            {
+              "SHA": "cbcf092",
+              "Subject": "added support for multi backend"
+            },
+            {
+              "SHA": "a5ec119",
+              "Subject": "fixed linter issue"
+            },
+            {
+              "SHA": "e3a1175",
+              "Subject": "added owner ref for proper cleanup"
+            },
+            {
+              "SHA": "7803934",
+              "Subject": "fix bug"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "49e1cb55",
+              "Subject": "Prepare for release v0.22.0 (#79)"
+            },
+            {
+              "SHA": "8fe2a59d",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#80)"
+            },
+            {
+              "SHA": "1e60cb14",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#76)"
+            },
+            {
+              "SHA": "6b17dd71",
+              "Subject": "Modernize golangci-lint config (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "59408cd6",
+              "Subject": "Prepare for release v0.29.0 (#100)"
+            },
+            {
+              "SHA": "b05940ca",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#101)"
+            },
+            {
+              "SHA": "5dd1a3ab",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "43297935",
+              "Subject": "Modernize golangci-lint config (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/ui-server",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a443f19",
+              "Subject": "Prepare for release v0.2.0 (#6)"
+            },
+            {
+              "SHA": "01ed3eb",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#7)"
+            },
+            {
+              "SHA": "63d2f4a",
+              "Subject": "Replace artifact samples with live-captured annotated YAML"
+            },
+            {
+              "SHA": "990b7bf",
+              "Subject": "Fix backupoverviews list pagination and cluster identity"
+            },
+            {
+              "SHA": "9dacea0",
+              "Subject": "Serve ui.kubestash.com backup overview and recovery APIs"
+            },
+            {
+              "SHA": "0164447",
+              "Subject": "Initialize repository structure from kubedb ui-server"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "55a8626",
+              "Subject": "Prepare for release v0.4.0 (#16)"
+            },
+            {
+              "SHA": "063028c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#17)"
+            },
+            {
+              "SHA": "aa9703f",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "937ad5fc",
+              "Subject": "Prepare for release v0.29.0 (#83)"
+            },
+            {
+              "SHA": "c63cb416",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#84)"
+            },
+            {
+              "SHA": "aaad6553",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "25c718f7",
+              "Subject": "Modernize golangci-lint config (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "e814a6d4",
+              "Subject": "Prepare for release v0.29.0 (#111)"
+            },
+            {
+              "SHA": "8ed91368",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#112)"
+            },
+            {
+              "SHA": "cf6ce682",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#108)"
+            },
+            {
+              "SHA": "54385e42",
+              "Subject": "Modernize golangci-lint config (#107)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
