@@ -45,3 +45,14 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.29.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.29.0)
+
+- [937ad5fc](https://github.com/kubestash/volume-snapshotter/commit/937ad5fc) Prepare for release v0.29.0 (#83)
+- [c63cb416](https://github.com/kubestash/volume-snapshotter/commit/c63cb416) Use Go 1.27, k8s 1.37 & debian:13 (#84)
+- [aaad6553](https://github.com/kubestash/volume-snapshotter/commit/aaad6553) Prepare for release v0.28.0-rc.0 (#82)
+- [25c718f7](https://github.com/kubestash/volume-snapshotter/commit/25c718f7) Modernize golangci-lint config (#81)
+
+
+
