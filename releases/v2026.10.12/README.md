@@ -56,6 +56,16 @@
 
 
 
+## [kubestash/vault](https://github.com/kubestash/vault)
+
+### [v0.4.0](https://github.com/kubestash/vault/releases/tag/v0.4.0)
+
+- [55a8626](https://github.com/kubestash/vault/commit/55a8626) Prepare for release v0.4.0 (#16)
+- [063028c](https://github.com/kubestash/vault/commit/063028c) Use Go 1.27, k8s 1.37 & debian:13 (#17)
+- [aa9703f](https://github.com/kubestash/vault/commit/aa9703f) Prepare for release v0.3.0-rc.0 (#13)
+
+
+
 ## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
 
 ### [v0.29.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.29.0)
