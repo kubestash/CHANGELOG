@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T02:59:35.981891934Z",
+  "release_date": "2026-10-11T02:59:56.010865995Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -257,6 +257,32 @@
             {
               "SHA": "25c718f7",
               "Subject": "Modernize golangci-lint config (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "e814a6d4",
+              "Subject": "Prepare for release v0.29.0 (#111)"
+            },
+            {
+              "SHA": "8ed91368",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#112)"
+            },
+            {
+              "SHA": "cf6ce682",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#108)"
+            },
+            {
+              "SHA": "54385e42",
+              "Subject": "Modernize golangci-lint config (#107)"
             }
           ]
         }
