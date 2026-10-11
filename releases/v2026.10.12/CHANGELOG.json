@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T02:58:30.324178567Z",
+  "release_date": "2026-10-11T02:58:55.49949179Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -97,6 +97,32 @@
             {
               "SHA": "21c9fbbb",
               "Subject": "added echo or stdin password update support (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "2bbd7b7f",
+              "Subject": "Prepare for release v0.29.0 (#103)"
+            },
+            {
+              "SHA": "f9f7ff1c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#104)"
+            },
+            {
+              "SHA": "40be623f",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "f3e92ac1",
+              "Subject": "Modernize golangci-lint config (#99)"
             }
           ]
         }

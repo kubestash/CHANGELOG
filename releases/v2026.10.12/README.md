@@ -34,6 +34,17 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.29.0](https://github.com/kubestash/kubedump/releases/tag/v0.29.0)
+
+- [2bbd7b7f](https://github.com/kubestash/kubedump/commit/2bbd7b7f) Prepare for release v0.29.0 (#103)
+- [f9f7ff1c](https://github.com/kubestash/kubedump/commit/f9f7ff1c) Use Go 1.27, k8s 1.37 & debian:13 (#104)
+- [40be623f](https://github.com/kubestash/kubedump/commit/40be623f) Prepare for release v0.28.0-rc.0 (#100)
+- [f3e92ac1](https://github.com/kubestash/kubedump/commit/f3e92ac1) Modernize golangci-lint config (#99)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.22.0](https://github.com/kubestash/manifest/releases/tag/v0.22.0)
