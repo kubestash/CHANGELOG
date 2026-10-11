@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T04:27:33.625365041Z",
+  "release_date": "2026-10-11T04:31:39.022353919Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -97,6 +97,156 @@
             {
               "SHA": "21c9fbbb",
               "Subject": "added echo or stdin password update support (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "1196a318",
+              "Subject": "Prepare for release v2026.10.12 (#391)"
+            },
+            {
+              "SHA": "7024f70f",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#390)"
+            },
+            {
+              "SHA": "93cdc908",
+              "Subject": "Update cve report (#389)"
+            },
+            {
+              "SHA": "26681f78",
+              "Subject": "Update cve report (#388)"
+            },
+            {
+              "SHA": "1e10f3ef",
+              "Subject": "Update cve report (#387)"
+            },
+            {
+              "SHA": "f5d1f02c",
+              "Subject": "Add kubestash-ui-server and kubestash-opscenter charts (#386)"
+            },
+            {
+              "SHA": "d6052524",
+              "Subject": "Update cve report (#385)"
+            },
+            {
+              "SHA": "3b8b9243",
+              "Subject": "Update cve report (#384)"
+            },
+            {
+              "SHA": "1c7ab83c",
+              "Subject": "Update cve report (#383)"
+            },
+            {
+              "SHA": "b77eb266",
+              "Subject": "Update cve report (#382)"
+            },
+            {
+              "SHA": "56801315",
+              "Subject": "Update cve report (#381)"
+            },
+            {
+              "SHA": "e4d0c512",
+              "Subject": "Update cve report (#379)"
+            },
+            {
+              "SHA": "bef0d068",
+              "Subject": "Update cve report (#378)"
+            },
+            {
+              "SHA": "6a47f65d",
+              "Subject": "Update cve report (#377)"
+            },
+            {
+              "SHA": "c32325b4",
+              "Subject": "Update cve report (#376)"
+            },
+            {
+              "SHA": "e66b9619",
+              "Subject": "Update cve report (#375)"
+            },
+            {
+              "SHA": "e2350e0a",
+              "Subject": "Update cve report (#374)"
+            },
+            {
+              "SHA": "c06c88c7",
+              "Subject": "Update cve report (#373)"
+            },
+            {
+              "SHA": "9ffae11f",
+              "Subject": "Update cve report (#372)"
+            },
+            {
+              "SHA": "afe3df9a",
+              "Subject": "Update cve report (#371)"
+            },
+            {
+              "SHA": "73c4a3a4",
+              "Subject": "Add Oracle backup permissions (#370)"
+            },
+            {
+              "SHA": "4f45bba8",
+              "Subject": "Update cve report (#369)"
+            },
+            {
+              "SHA": "9917f2d7",
+              "Subject": "added support and permission for cbt mode (#368)"
+            },
+            {
+              "SHA": "43293955",
+              "Subject": "Update cve report (#344)"
+            },
+            {
+              "SHA": "e6a0bdd0",
+              "Subject": "Update snapshot api for weviate & milvus"
+            },
+            {
+              "SHA": "95f1629a",
+              "Subject": "catalog: ship the KubeVirt addon and its Functions (#366)"
+            },
+            {
+              "SHA": "b6ffe079",
+              "Subject": "rbac: let the operator read and manage KubeVirt resources (#365)"
+            },
+            {
+              "SHA": "6a464d58",
+              "Subject": "Prepare for release v2026.8.12-rc.0 (#364)"
+            },
+            {
+              "SHA": "ed855c28",
+              "Subject": "added permission for virual secret (#358)"
+            },
+            {
+              "SHA": "74d38b60",
+              "Subject": "Fix publish oci workflow (#363)"
+            },
+            {
+              "SHA": "c730293f",
+              "Subject": "Allow operator to manage SolrOpsRequests (#362)"
+            },
+            {
+              "SHA": "69175e10",
+              "Subject": "Update update-chart-dependencies.sh (#361)"
+            },
+            {
+              "SHA": "bc3770b0",
+              "Subject": "Add script to package and chart-verify kubestash-certified for OpenShift (#360)"
+            },
+            {
+              "SHA": "70c9d9f2",
+              "Subject": "Fetch kubestash-certified chart dependencies before regenerating it (#359)"
+            },
+            {
+              "SHA": "09ad9e9a",
+              "Subject": "Add make refresh target and require it before opening a PR (#357)"
             }
           ]
         }

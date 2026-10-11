@@ -34,6 +34,48 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.10.12](https://github.com/kubestash/installer/releases/tag/v2026.10.12)
+
+- [1196a318](https://github.com/kubestash/installer/commit/1196a318) Prepare for release v2026.10.12 (#391)
+- [7024f70f](https://github.com/kubestash/installer/commit/7024f70f) Use Go 1.27, k8s 1.37 & debian:13 (#390)
+- [93cdc908](https://github.com/kubestash/installer/commit/93cdc908) Update cve report (#389)
+- [26681f78](https://github.com/kubestash/installer/commit/26681f78) Update cve report (#388)
+- [1e10f3ef](https://github.com/kubestash/installer/commit/1e10f3ef) Update cve report (#387)
+- [f5d1f02c](https://github.com/kubestash/installer/commit/f5d1f02c) Add kubestash-ui-server and kubestash-opscenter charts (#386)
+- [d6052524](https://github.com/kubestash/installer/commit/d6052524) Update cve report (#385)
+- [3b8b9243](https://github.com/kubestash/installer/commit/3b8b9243) Update cve report (#384)
+- [1c7ab83c](https://github.com/kubestash/installer/commit/1c7ab83c) Update cve report (#383)
+- [b77eb266](https://github.com/kubestash/installer/commit/b77eb266) Update cve report (#382)
+- [56801315](https://github.com/kubestash/installer/commit/56801315) Update cve report (#381)
+- [e4d0c512](https://github.com/kubestash/installer/commit/e4d0c512) Update cve report (#379)
+- [bef0d068](https://github.com/kubestash/installer/commit/bef0d068) Update cve report (#378)
+- [6a47f65d](https://github.com/kubestash/installer/commit/6a47f65d) Update cve report (#377)
+- [c32325b4](https://github.com/kubestash/installer/commit/c32325b4) Update cve report (#376)
+- [e66b9619](https://github.com/kubestash/installer/commit/e66b9619) Update cve report (#375)
+- [e2350e0a](https://github.com/kubestash/installer/commit/e2350e0a) Update cve report (#374)
+- [c06c88c7](https://github.com/kubestash/installer/commit/c06c88c7) Update cve report (#373)
+- [9ffae11f](https://github.com/kubestash/installer/commit/9ffae11f) Update cve report (#372)
+- [afe3df9a](https://github.com/kubestash/installer/commit/afe3df9a) Update cve report (#371)
+- [73c4a3a4](https://github.com/kubestash/installer/commit/73c4a3a4) Add Oracle backup permissions (#370)
+- [4f45bba8](https://github.com/kubestash/installer/commit/4f45bba8) Update cve report (#369)
+- [9917f2d7](https://github.com/kubestash/installer/commit/9917f2d7) added support and permission for cbt mode (#368)
+- [43293955](https://github.com/kubestash/installer/commit/43293955) Update cve report (#344)
+- [e6a0bdd0](https://github.com/kubestash/installer/commit/e6a0bdd0) Update snapshot api for weviate & milvus
+- [95f1629a](https://github.com/kubestash/installer/commit/95f1629a) catalog: ship the KubeVirt addon and its Functions (#366)
+- [b6ffe079](https://github.com/kubestash/installer/commit/b6ffe079) rbac: let the operator read and manage KubeVirt resources (#365)
+- [6a464d58](https://github.com/kubestash/installer/commit/6a464d58) Prepare for release v2026.8.12-rc.0 (#364)
+- [ed855c28](https://github.com/kubestash/installer/commit/ed855c28) added permission for virual secret (#358)
+- [74d38b60](https://github.com/kubestash/installer/commit/74d38b60) Fix publish oci workflow (#363)
+- [c730293f](https://github.com/kubestash/installer/commit/c730293f) Allow operator to manage SolrOpsRequests (#362)
+- [69175e10](https://github.com/kubestash/installer/commit/69175e10) Update update-chart-dependencies.sh (#361)
+- [bc3770b0](https://github.com/kubestash/installer/commit/bc3770b0) Add script to package and chart-verify kubestash-certified for OpenShift (#360)
+- [70c9d9f2](https://github.com/kubestash/installer/commit/70c9d9f2) Fetch kubestash-certified chart dependencies before regenerating it (#359)
+- [09ad9e9a](https://github.com/kubestash/installer/commit/09ad9e9a) Add make refresh target and require it before opening a PR (#357)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.29.0](https://github.com/kubestash/kubedump/releases/tag/v0.29.0)
