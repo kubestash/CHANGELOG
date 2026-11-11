@@ -1,0 +1,267 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.11.10",
+  "release_date": "2026-11-11T22:35:27.642086892Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.11.10",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "dc99fd2d",
+              "Subject": "Update Go toolchain and dependencies (#274)"
+            },
+            {
+              "SHA": "3d469100",
+              "Subject": "Add documentdb manifest backup (#261)"
+            },
+            {
+              "SHA": "c960b6de",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#273)"
+            },
+            {
+              "SHA": "a559a86e",
+              "Subject": "added constants (#272)"
+            },
+            {
+              "SHA": "66f519ac",
+              "Subject": "Kubevirt cbt restic archiver (#262)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "33ee2a16",
+              "Subject": "Prepare for release v0.30.0 (#117)"
+            },
+            {
+              "SHA": "96bda5e2",
+              "Subject": "Add PVC as storage Support for Snapshot Download (#102)"
+            },
+            {
+              "SHA": "955cbb13",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.11.10",
+          "commits": [
+            {
+              "SHA": "0b181e8",
+              "Subject": "Prepare for release v2026.11.10 (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.11.10",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "445348ab",
+              "Subject": "Prepare for release v0.30.0 (#108)"
+            },
+            {
+              "SHA": "fcc50877",
+              "Subject": "Use docker run --pull=always for linter image (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "dd3825a9",
+              "Subject": "Prepare for release v0.31.0 (#409)"
+            },
+            {
+              "SHA": "b20122bf",
+              "Subject": "Don't move Repository lastBackupTime backwards on snapshot resync (#404)"
+            },
+            {
+              "SHA": "b175e25c",
+              "Subject": "Kubevirt cbt restic archiver (#397)"
+            },
+            {
+              "SHA": "d804efaa",
+              "Subject": "Add PVC as storage Support for Snapshot Download (#376)"
+            },
+            {
+              "SHA": "c52ff034",
+              "Subject": "added opsreq permission for solr restore (#403)"
+            },
+            {
+              "SHA": "969df1b6",
+              "Subject": "Use docker run --pull=always for linter image (#402)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubevirt",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "837c400",
+              "Subject": "Prepare for release v0.3.0 (#17)"
+            },
+            {
+              "SHA": "7c15c7e",
+              "Subject": "Kubevirt cbt restic archiver (#10)"
+            },
+            {
+              "SHA": "53ccb9a",
+              "Subject": "Use docker run --pull=always for linter image (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "e99aaddd",
+              "Subject": "Prepare for release v0.23.0 (#83)"
+            },
+            {
+              "SHA": "7d6a7f0d",
+              "Subject": "Use docker run --pull=always for linter image (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "fb40ebe6",
+              "Subject": "Prepare for release v0.30.0 (#104)"
+            },
+            {
+              "SHA": "a2f2b2bf",
+              "Subject": "Use docker run --pull=always for linter image (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/ui-server",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "c67562a",
+              "Subject": "Prepare for release v0.3.0 (#10)"
+            },
+            {
+              "SHA": "79ba12b",
+              "Subject": "Use docker run --pull=always for linter image (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "ad8ebc2",
+              "Subject": "Prepare for release v0.5.0 (#20)"
+            },
+            {
+              "SHA": "94c3179",
+              "Subject": "Use docker run --pull=always for linter image (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "1d4d9214",
+              "Subject": "Prepare for release v0.30.0 (#86)"
+            },
+            {
+              "SHA": "6dcf92a4",
+              "Subject": "Use docker run --pull=always for linter image (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "dc43b1f8",
+              "Subject": "Prepare for release v0.30.0 (#116)"
+            },
+            {
+              "SHA": "7838e77b",
+              "Subject": "Use docker run --pull=always for linter image (#113)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
