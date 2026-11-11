@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.10",
-  "release_date": "2026-11-11T21:39:30.349833662Z",
+  "release_date": "2026-11-11T21:39:47.38159914Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.10",
   "kubernetes_version": "1.28+",
@@ -53,6 +53,24 @@
             {
               "SHA": "955cbb13",
               "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "445348ab",
+              "Subject": "Prepare for release v0.30.0 (#108)"
+            },
+            {
+              "SHA": "fcc50877",
+              "Subject": "Use docker run --pull=always for linter image (#105)"
             }
           ]
         }

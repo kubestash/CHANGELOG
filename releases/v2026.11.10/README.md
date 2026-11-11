@@ -23,6 +23,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.30.0](https://github.com/kubestash/kubedump/releases/tag/v0.30.0)
+
+- [445348ab](https://github.com/kubestash/kubedump/commit/445348ab) Prepare for release v0.30.0 (#108)
+- [fcc50877](https://github.com/kubestash/kubedump/commit/fcc50877) Use docker run --pull=always for linter image (#105)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.23.0](https://github.com/kubestash/manifest/releases/tag/v0.23.0)
