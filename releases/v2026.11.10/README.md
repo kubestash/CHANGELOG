@@ -68,3 +68,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.30.0](https://github.com/kubestash/workload/releases/tag/v0.30.0)
+
+- [dc43b1f8](https://github.com/kubestash/workload/commit/dc43b1f8) Prepare for release v0.30.0 (#116)
+- [7838e77b](https://github.com/kubestash/workload/commit/7838e77b) Use docker run --pull=always for linter image (#113)
+
+
+
