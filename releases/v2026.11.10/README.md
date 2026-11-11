@@ -23,6 +23,13 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.11.10](https://github.com/kubestash/installer/releases/tag/v2026.11.10)
+
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.30.0](https://github.com/kubestash/kubedump/releases/tag/v0.30.0)
