@@ -13,3 +13,13 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.30.0](https://github.com/kubestash/cli/releases/tag/v0.30.0)
+
+- [33ee2a16](https://github.com/kubestash/cli/commit/33ee2a16) Prepare for release v0.30.0 (#117)
+- [96bda5e2](https://github.com/kubestash/cli/commit/96bda5e2) Add PVC as storage Support for Snapshot Download (#102)
+- [955cbb13](https://github.com/kubestash/cli/commit/955cbb13) Use Go 1.27, k8s 1.37 & debian:13 (#113)
+
+
+

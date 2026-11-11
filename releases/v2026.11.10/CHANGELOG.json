@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.10",
-  "release_date": "2026-11-11T21:30:37.252588697Z",
+  "release_date": "2026-11-11T21:35:44.982120534Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.10",
   "kubernetes_version": "1.28+",
@@ -31,6 +31,28 @@
             {
               "SHA": "66f519ac",
               "Subject": "Kubevirt cbt restic archiver (#262)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "33ee2a16",
+              "Subject": "Prepare for release v0.30.0 (#117)"
+            },
+            {
+              "SHA": "96bda5e2",
+              "Subject": "Add PVC as storage Support for Snapshot Download (#102)"
+            },
+            {
+              "SHA": "955cbb13",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#113)"
             }
           ]
         }
