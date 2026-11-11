@@ -41,6 +41,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.30.0](https://github.com/kubestash/pvc/releases/tag/v0.30.0)
+
+- [fb40ebe6](https://github.com/kubestash/pvc/commit/fb40ebe6) Prepare for release v0.30.0 (#104)
+- [a2f2b2bf](https://github.com/kubestash/pvc/commit/a2f2b2bf) Use docker run --pull=always for linter image (#102)
+
+
+
 ## [kubestash/vault](https://github.com/kubestash/vault)
 
 ### [v0.5.0](https://github.com/kubestash/vault/releases/tag/v0.5.0)

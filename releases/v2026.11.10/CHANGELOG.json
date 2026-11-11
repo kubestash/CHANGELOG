@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.10",
-  "release_date": "2026-11-11T21:40:15.45618349Z",
+  "release_date": "2026-11-11T21:40:22.912115155Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.10",
   "kubernetes_version": "1.28+",
@@ -89,6 +89,24 @@
             {
               "SHA": "7d6a7f0d",
               "Subject": "Use docker run --pull=always for linter image (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "fb40ebe6",
+              "Subject": "Prepare for release v0.30.0 (#104)"
+            },
+            {
+              "SHA": "a2f2b2bf",
+              "Subject": "Use docker run --pull=always for linter image (#102)"
             }
           ]
         }
