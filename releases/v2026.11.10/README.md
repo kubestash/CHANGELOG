@@ -45,6 +45,16 @@
 
 
 
+## [kubestash/kubevirt](https://github.com/kubestash/kubevirt)
+
+### [v0.3.0](https://github.com/kubestash/kubevirt/releases/tag/v0.3.0)
+
+- [837c400](https://github.com/kubestash/kubevirt/commit/837c400) Prepare for release v0.3.0 (#17)
+- [7c15c7e](https://github.com/kubestash/kubevirt/commit/7c15c7e) Kubevirt cbt restic archiver (#10)
+- [53ccb9a](https://github.com/kubestash/kubevirt/commit/53ccb9a) Use docker run --pull=always for linter image (#14)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.23.0](https://github.com/kubestash/manifest/releases/tag/v0.23.0)

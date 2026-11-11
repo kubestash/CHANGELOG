@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.10",
-  "release_date": "2026-11-11T22:03:31.86548968Z",
+  "release_date": "2026-11-11T22:03:55.059612001Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.10",
   "kubernetes_version": "1.28+",
@@ -105,6 +105,28 @@
             {
               "SHA": "969df1b6",
               "Subject": "Use docker run --pull=always for linter image (#402)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubevirt",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "837c400",
+              "Subject": "Prepare for release v0.3.0 (#17)"
+            },
+            {
+              "SHA": "7c15c7e",
+              "Subject": "Kubevirt cbt restic archiver (#10)"
+            },
+            {
+              "SHA": "53ccb9a",
+              "Subject": "Use docker run --pull=always for linter image (#14)"
             }
           ]
         }
