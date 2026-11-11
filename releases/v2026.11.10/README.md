@@ -41,3 +41,12 @@
 
 
 
+## [kubestash/vault](https://github.com/kubestash/vault)
+
+### [v0.5.0](https://github.com/kubestash/vault/releases/tag/v0.5.0)
+
+- [ad8ebc2](https://github.com/kubestash/vault/commit/ad8ebc2) Prepare for release v0.5.0 (#20)
+- [94c3179](https://github.com/kubestash/vault/commit/94c3179) Use docker run --pull=always for linter image (#18)
+
+
+
