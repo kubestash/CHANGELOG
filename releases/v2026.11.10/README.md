@@ -59,3 +59,12 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.30.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.30.0)
+
+- [1d4d9214](https://github.com/kubestash/volume-snapshotter/commit/1d4d9214) Prepare for release v0.30.0 (#86)
+- [6dcf92a4](https://github.com/kubestash/volume-snapshotter/commit/6dcf92a4) Use docker run --pull=always for linter image (#85)
+
+
+
