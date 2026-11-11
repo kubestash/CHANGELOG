@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.10",
-  "release_date": "2026-11-11T22:09:14.903023916Z",
+  "release_date": "2026-11-11T22:35:27.642086892Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.10",
   "kubernetes_version": "1.28+",
@@ -53,6 +53,20 @@
             {
               "SHA": "955cbb13",
               "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.11.10",
+          "commits": [
+            {
+              "SHA": "0b181e8",
+              "Subject": "Prepare for release v2026.11.10 (#104)"
             }
           ]
         }
