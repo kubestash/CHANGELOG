@@ -63,6 +63,15 @@
 
 
 
+## [kubestash/ui-server](https://github.com/kubestash/ui-server)
+
+### [v0.3.0](https://github.com/kubestash/ui-server/releases/tag/v0.3.0)
+
+- [c67562a](https://github.com/kubestash/ui-server/commit/c67562a) Prepare for release v0.3.0 (#10)
+- [79ba12b](https://github.com/kubestash/ui-server/commit/79ba12b) Use docker run --pull=always for linter image (#8)
+
+
+
 ## [kubestash/vault](https://github.com/kubestash/vault)
 
 ### [v0.5.0](https://github.com/kubestash/vault/releases/tag/v0.5.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.10",
-  "release_date": "2026-11-11T21:42:51.353271377Z",
+  "release_date": "2026-11-11T22:03:31.86548968Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.10",
   "kubernetes_version": "1.28+",
@@ -141,6 +141,24 @@
             {
               "SHA": "a2f2b2bf",
               "Subject": "Use docker run --pull=always for linter image (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/ui-server",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "c67562a",
+              "Subject": "Prepare for release v0.3.0 (#10)"
+            },
+            {
+              "SHA": "79ba12b",
+              "Subject": "Use docker run --pull=always for linter image (#8)"
             }
           ]
         }
