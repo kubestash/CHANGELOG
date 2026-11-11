@@ -23,3 +23,12 @@
 
 
 
+## [kubestash/manifest](https://github.com/kubestash/manifest)
+
+### [v0.23.0](https://github.com/kubestash/manifest/releases/tag/v0.23.0)
+
+- [e99aaddd](https://github.com/kubestash/manifest/commit/e99aaddd) Prepare for release v0.23.0 (#83)
+- [7d6a7f0d](https://github.com/kubestash/manifest/commit/7d6a7f0d) Use docker run --pull=always for linter image (#81)
+
+
+
