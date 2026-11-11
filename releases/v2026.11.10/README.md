@@ -32,6 +32,19 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.31.0](https://github.com/kubestash/kubestash/releases/tag/v0.31.0)
+
+- [dd3825a9](https://github.com/kubestash/kubestash/commit/dd3825a9) Prepare for release v0.31.0 (#409)
+- [b20122bf](https://github.com/kubestash/kubestash/commit/b20122bf) Don't move Repository lastBackupTime backwards on snapshot resync (#404)
+- [b175e25c](https://github.com/kubestash/kubestash/commit/b175e25c) Kubevirt cbt restic archiver (#397)
+- [d804efaa](https://github.com/kubestash/kubestash/commit/d804efaa) Add PVC as storage Support for Snapshot Download (#376)
+- [c52ff034](https://github.com/kubestash/kubestash/commit/c52ff034) added opsreq permission for solr restore (#403)
+- [969df1b6](https://github.com/kubestash/kubestash/commit/969df1b6) Use docker run --pull=always for linter image (#402)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.23.0](https://github.com/kubestash/manifest/releases/tag/v0.23.0)

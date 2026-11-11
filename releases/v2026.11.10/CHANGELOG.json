@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.10",
-  "release_date": "2026-11-11T21:42:06.295827742Z",
+  "release_date": "2026-11-11T21:42:51.353271377Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.10",
   "kubernetes_version": "1.28+",
@@ -71,6 +71,40 @@
             {
               "SHA": "fcc50877",
               "Subject": "Use docker run --pull=always for linter image (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "dd3825a9",
+              "Subject": "Prepare for release v0.31.0 (#409)"
+            },
+            {
+              "SHA": "b20122bf",
+              "Subject": "Don't move Repository lastBackupTime backwards on snapshot resync (#404)"
+            },
+            {
+              "SHA": "b175e25c",
+              "Subject": "Kubevirt cbt restic archiver (#397)"
+            },
+            {
+              "SHA": "d804efaa",
+              "Subject": "Add PVC as storage Support for Snapshot Download (#376)"
+            },
+            {
+              "SHA": "c52ff034",
+              "Subject": "added opsreq permission for solr restore (#403)"
+            },
+            {
+              "SHA": "969df1b6",
+              "Subject": "Use docker run --pull=always for linter image (#402)"
             }
           ]
         }
