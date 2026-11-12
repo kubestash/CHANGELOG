@@ -19,6 +19,14 @@
 
 
 
+## [kubestash/installer](https://github.com/kubestash/installer)
+
+### [v2026.11.15](https://github.com/kubestash/installer/releases/tag/v2026.11.15)
+
+- [8bf39fea](https://github.com/kubestash/installer/commit/8bf39fea) Prepare for release v2026.11.15 (#412)
+
+
+
 ## [kubestash/kubedump](https://github.com/kubestash/kubedump)
 
 ### [v0.31.0](https://github.com/kubestash/kubedump/releases/tag/v0.31.0)
