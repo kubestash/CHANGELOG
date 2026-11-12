@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T15:34:27.136144919Z",
+  "release_date": "2026-11-12T16:12:35.57403371Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -73,6 +73,24 @@
             {
               "SHA": "0bf13e4c",
               "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubevirt",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "945a48f",
+              "Subject": "Prepare for release v0.4.0 (#19)"
+            },
+            {
+              "SHA": "ce5122d",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#18)"
             }
           ]
         }

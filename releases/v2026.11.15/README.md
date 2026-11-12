@@ -37,6 +37,15 @@
 
 
 
+## [kubestash/kubevirt](https://github.com/kubestash/kubevirt)
+
+### [v0.4.0](https://github.com/kubestash/kubevirt/releases/tag/v0.4.0)
+
+- [945a48f](https://github.com/kubestash/kubevirt/commit/945a48f) Prepare for release v0.4.0 (#19)
+- [ce5122d](https://github.com/kubestash/kubevirt/commit/ce5122d) Update apimachinery to bf8026cd and set go 1.26.0 (#18)
+
+
+
 ## [kubestash/manifest](https://github.com/kubestash/manifest)
 
 ### [v0.24.0](https://github.com/kubestash/manifest/releases/tag/v0.24.0)
