@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T15:29:24.269755538Z",
+  "release_date": "2026-11-12T15:32:01.762211044Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -55,6 +55,24 @@
             {
               "SHA": "14907ea",
               "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "fd94f6ba",
+              "Subject": "Prepare for release v0.31.0 (#88)"
+            },
+            {
+              "SHA": "296d5ccb",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#87)"
             }
           ]
         }

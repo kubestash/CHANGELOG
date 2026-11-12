@@ -28,3 +28,12 @@
 
 
 
+## [kubestash/volume-snapshotter](https://github.com/kubestash/volume-snapshotter)
+
+### [v0.31.0](https://github.com/kubestash/volume-snapshotter/releases/tag/v0.31.0)
+
+- [fd94f6ba](https://github.com/kubestash/volume-snapshotter/commit/fd94f6ba) Prepare for release v0.31.0 (#88)
+- [296d5ccb](https://github.com/kubestash/volume-snapshotter/commit/296d5ccb) Update apimachinery to bf8026cd and set go 1.26.0 (#87)
+
+
+
