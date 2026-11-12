@@ -19,3 +19,12 @@
 
 
 
+## [kubestash/vault](https://github.com/kubestash/vault)
+
+### [v0.6.0](https://github.com/kubestash/vault/releases/tag/v0.6.0)
+
+- [fbab72e](https://github.com/kubestash/vault/commit/fbab72e) Prepare for release v0.6.0 (#22)
+- [14907ea](https://github.com/kubestash/vault/commit/14907ea) Update apimachinery to bf8026cd and set go 1.26.0 (#21)
+
+
+
