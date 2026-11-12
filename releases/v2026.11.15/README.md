@@ -19,6 +19,15 @@
 
 
 
+## [kubestash/pvc](https://github.com/kubestash/pvc)
+
+### [v0.31.0](https://github.com/kubestash/pvc/releases/tag/v0.31.0)
+
+- [faead153](https://github.com/kubestash/pvc/commit/faead153) Prepare for release v0.31.0 (#106)
+- [6c91dc47](https://github.com/kubestash/pvc/commit/6c91dc47) Update apimachinery to bf8026cd and set go 1.26.0 (#105)
+
+
+
 ## [kubestash/vault](https://github.com/kubestash/vault)
 
 ### [v0.6.0](https://github.com/kubestash/vault/releases/tag/v0.6.0)
