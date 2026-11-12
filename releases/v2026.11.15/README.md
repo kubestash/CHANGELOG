@@ -19,6 +19,15 @@
 
 
 
+## [kubestash/kubedump](https://github.com/kubestash/kubedump)
+
+### [v0.31.0](https://github.com/kubestash/kubedump/releases/tag/v0.31.0)
+
+- [ac6263fa](https://github.com/kubestash/kubedump/commit/ac6263fa) Prepare for release v0.31.0 (#110)
+- [ad15f7a7](https://github.com/kubestash/kubedump/commit/ad15f7a7) Update apimachinery to bf8026cd and set go 1.26.0 (#109)
+
+
+
 ## [kubestash/kubestash](https://github.com/kubestash/kubestash)
 
 ### [v0.32.0](https://github.com/kubestash/kubestash/releases/tag/v0.32.0)
