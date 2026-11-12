@@ -1,7 +1,7 @@
 {
   "product_line": "KubeStash",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T15:23:16.495277798Z",
+  "release_date": "2026-11-12T15:28:22.331589263Z",
   "release_project_url": "https://github.com/kubestash/CHANGELOG",
   "docs_url": "https://kubestash.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -19,6 +19,24 @@
             {
               "SHA": "f086d888",
               "Subject": "Update dependencies for Kubernetes 1.34 (#275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "b7d03e3b",
+              "Subject": "Prepare for release v0.31.0 (#119)"
+            },
+            {
+              "SHA": "57430251",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#118)"
             }
           ]
         }

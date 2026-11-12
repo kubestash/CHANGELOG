@@ -10,3 +10,12 @@
 
 
 
+## [kubestash/cli](https://github.com/kubestash/cli)
+
+### [v0.31.0](https://github.com/kubestash/cli/releases/tag/v0.31.0)
+
+- [b7d03e3b](https://github.com/kubestash/cli/commit/b7d03e3b) Prepare for release v0.31.0 (#119)
+- [57430251](https://github.com/kubestash/cli/commit/57430251) Update apimachinery to bf8026cd and set go 1.26.0 (#118)
+
+
+
