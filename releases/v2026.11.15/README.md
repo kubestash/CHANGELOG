@@ -19,6 +19,15 @@
 
 
 
+## [kubestash/kubestash](https://github.com/kubestash/kubestash)
+
+### [v0.32.0](https://github.com/kubestash/kubestash/releases/tag/v0.32.0)
+
+- [24c88af0](https://github.com/kubestash/kubestash/commit/24c88af0) Prepare for release v0.32.0 (#411)
+- [0bf13e4c](https://github.com/kubestash/kubestash/commit/0bf13e4c) Update apimachinery to bf8026cd and set go 1.26.0 (#410)
+
+
+
 ## [kubestash/pvc](https://github.com/kubestash/pvc)
 
 ### [v0.31.0](https://github.com/kubestash/pvc/releases/tag/v0.31.0)
