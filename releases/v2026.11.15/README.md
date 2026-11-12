@@ -55,3 +55,12 @@
 
 
 
+## [kubestash/workload](https://github.com/kubestash/workload)
+
+### [v0.31.0](https://github.com/kubestash/workload/releases/tag/v0.31.0)
+
+- [5ee262d3](https://github.com/kubestash/workload/commit/5ee262d3) Prepare for release v0.31.0 (#118)
+- [b79facb6](https://github.com/kubestash/workload/commit/b79facb6) Update apimachinery to bf8026cd and set go 1.26.0 (#117)
+
+
+
