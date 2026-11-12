@@ -64,6 +64,15 @@
 
 
 
+## [kubestash/ui-server](https://github.com/kubestash/ui-server)
+
+### [v0.4.0](https://github.com/kubestash/ui-server/releases/tag/v0.4.0)
+
+- [5dbbbf9](https://github.com/kubestash/ui-server/commit/5dbbbf9) Prepare for release v0.4.0 (#12)
+- [370a7d6](https://github.com/kubestash/ui-server/commit/370a7d6) Update apimachinery to bf8026cd and set go 1.26.0 (#11)
+
+
+
 ## [kubestash/vault](https://github.com/kubestash/vault)
 
 ### [v0.6.0](https://github.com/kubestash/vault/releases/tag/v0.6.0)
