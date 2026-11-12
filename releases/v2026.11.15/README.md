@@ -19,6 +19,14 @@
 
 
 
+## [kubestash/docs](https://github.com/kubestash/docs)
+
+### [v2026.11.15](https://github.com/kubestash/docs/releases/tag/v2026.11.15)
+
+- [abe6b15](https://github.com/kubestash/docs/commit/abe6b15) Prepare for release v2026.11.15 (#105)
+
+
+
 ## [kubestash/installer](https://github.com/kubestash/installer)
 
 ### [v2026.11.15](https://github.com/kubestash/installer/releases/tag/v2026.11.15)
