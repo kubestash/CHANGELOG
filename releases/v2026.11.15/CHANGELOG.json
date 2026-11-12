@@ -1,0 +1,236 @@
+{
+  "product_line": "KubeStash",
+  "release": "v2026.11.15",
+  "release_date": "2026-11-12T16:50:16.894448773Z",
+  "release_project_url": "https://github.com/kubestash/CHANGELOG",
+  "docs_url": "https://kubestash.com/docs/v2026.11.15",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubestash/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "bf8026cd",
+              "Subject": "Clean up deps"
+            },
+            {
+              "SHA": "f086d888",
+              "Subject": "Update dependencies for Kubernetes 1.34 (#275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/cli",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "b7d03e3b",
+              "Subject": "Prepare for release v0.31.0 (#119)"
+            },
+            {
+              "SHA": "57430251",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/docs",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "abe6b15",
+              "Subject": "Prepare for release v2026.11.15 (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/installer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "8bf39fea",
+              "Subject": "Prepare for release v2026.11.15 (#412)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubedump",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "ac6263fa",
+              "Subject": "Prepare for release v0.31.0 (#110)"
+            },
+            {
+              "SHA": "ad15f7a7",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubestash",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "24c88af0",
+              "Subject": "Prepare for release v0.32.0 (#411)"
+            },
+            {
+              "SHA": "0bf13e4c",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/kubevirt",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "945a48f",
+              "Subject": "Prepare for release v0.4.0 (#19)"
+            },
+            {
+              "SHA": "ce5122d",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/manifest",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "49c53ef5",
+              "Subject": "Prepare for release v0.24.0 (#85)"
+            },
+            {
+              "SHA": "c0acf9c0",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/pvc",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "faead153",
+              "Subject": "Prepare for release v0.31.0 (#106)"
+            },
+            {
+              "SHA": "6c91dc47",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/ui-server",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "5dbbbf9",
+              "Subject": "Prepare for release v0.4.0 (#12)"
+            },
+            {
+              "SHA": "370a7d6",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/vault",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "fbab72e",
+              "Subject": "Prepare for release v0.6.0 (#22)"
+            },
+            {
+              "SHA": "14907ea",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/volume-snapshotter",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "fd94f6ba",
+              "Subject": "Prepare for release v0.31.0 (#88)"
+            },
+            {
+              "SHA": "296d5ccb",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubestash/workload",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "5ee262d3",
+              "Subject": "Prepare for release v0.31.0 (#118)"
+            },
+            {
+              "SHA": "b79facb6",
+              "Subject": "Update apimachinery to bf8026cd and set go 1.26.0 (#117)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
